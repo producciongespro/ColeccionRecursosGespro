@@ -1,0 +1,97 @@
+[
+    {
+        "etiqueta" : "Mi Historia Mi Herencia",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/mihistoria_herencia-01.jpg",
+        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
+        "ciclo" : ["I", "II" ],
+        "materia" : "Estudios Sociales",
+        "comentarios" : "",
+        "seccion" : "1-2019"
+    },
+    {
+        "etiqueta" : "Propuesta Abordaje Plan",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/prop_abordaje-07.jpg",
+        "url" : "https://www.mep.go.cr/educatico/propuesta-abordaje-ejemplos-planeamiento",
+        "ciclo" : ["I", "II" ],
+        "materia" : "Estudios Sociales",
+        "comentarios" : "",
+        "seccion" : "1-2019"
+    },
+    {
+        "etiqueta" : "Aventura de Chantli",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/aventura_chantli-10.jpg",
+        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
+        "ciclo" : ["I", "II" ],
+        "materia" : "Estudios Sociales",
+        "comentarios" : "",
+        "seccion" : "1-2019"
+    },
+    {
+        "etiqueta" : "Matrícula Preescolar 2019",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/matricula_preescolar-13.jpg",
+        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
+        "ciclo" : ["I", "II" ],
+        "materia" : "Estudios Sociales",
+        "comentarios" : "",
+        "seccion" : "1-2019"
+    },
+    {
+        "etiqueta" : "Un Viaje por Costa Rica",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/viaje_porcostarica-16.jpg",
+        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
+        "ciclo" : ["I", "II" ],
+        "materia" : "Estudios Sociales",
+        "comentarios" : "",
+        "seccion" : "1-2019"
+    },
+
+
+    {
+        "etiqueta" : "Mi Historia Mi Herencia",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/mihistoria_herencia-01.jpg",
+        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
+        "ciclo" : ["I", "II" ],
+        "materia" : "Estudios Sociales",
+        "comentarios" : "",
+        "seccion" : "2-2019"
+    },
+    {
+        "etiqueta" : "Propuesta Abordaje Plan",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/prop_abordaje-07.jpg",
+        "url" : "https://www.mep.go.cr/educatico/propuesta-abordaje-ejemplos-planeamiento",
+        "ciclo" : ["I", "II" ],
+        "materia" : "Estudios Sociales",
+        "comentarios" : "",
+        "seccion" : "2-2019"
+    },
+    {
+        "etiqueta" : "Aventura de Chantli",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/aventura_chantli-10.jpg",
+        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
+        "ciclo" : ["I", "II" ],
+        "materia" : "Estudios Sociales",
+        "comentarios" : "",
+        "seccion" : "2-2019"
+    },
+    {
+        "etiqueta" : "Matrícula Preescolar 2019",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/matricula_preescolar-13.jpg",
+        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
+        "ciclo" : ["I", "II" ],
+        "materia" : "Estudios Sociales",
+        "comentarios" : "",
+        "seccion" : "2-2019"
+    },
+    {
+        "etiqueta" : "Un Viaje por Costa Rica",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/viaje_porcostarica-16.jpg",
+        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
+        "ciclo" : ["I", "II" ],
+        "materia" : "Estudios Sociales",
+        "comentarios" : "",
+        "seccion" : "2-2019"
+    }
+
+
+
+]
