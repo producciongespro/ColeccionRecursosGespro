@@ -1,0 +1,70 @@
+[
+    {
+        "etiqueta" : "Le Marché Aux Verbes",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/imgenes-2017.jpg",
+        "url" : "https://www.mep.go.cr/educatico/le-marche-aux-verbes",
+        "ciclo" : ["I", "II","III", "Diversificada" ],
+        "materia" : "Francés",
+        "comentarios" : "",
+        "seccion" : "1-2017"
+    },
+    {
+        "etiqueta" : "Match Verbal",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/imgenes-2017.jpg",
+        "url" : "https://www.mep.go.cr/educatico/match-verbal",
+        "ciclo" : ["I", "II","III", "Diversificada" ],
+        "materia" : "Francés",
+        "comentarios" : "",
+        "seccion" : "1-2017"
+    },
+    {
+        "etiqueta" : "Leyendas de Costa Rica",
+        "urlImg" :"http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/imgenes-2017.jpg",
+        "url" : "https://www.mep.go.cr/educatico/leyendas-de-costa-rica",
+        "ciclo" : ["III", "Diversificada" ],
+        "materia" : "Español",
+        "comentarios" : "",
+        "seccion" : "1-2017"
+    },
+    {
+        "etiqueta" : "Rocking Verbs",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/imgenes-2017.jpg",
+        "url" : "https://www.mep.go.cr/educatico/rocking-verbs",
+        "ciclo" : ["III" ],
+        "materia" : "Inglés",
+        "comentarios" : "",
+        "seccion" : "1-2017"
+    },
+    {
+        "etiqueta" : "Kahoot: Cuestionarios y encuestas en línea",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/imgenes-2017.jpg",
+        "url" : "https://www.mep.go.cr/educatico/kahoot",
+        "ciclo" : ["General" ],
+        "materia" : "Tecnología",
+        "comentarios" : "",
+        "seccion" : "1-2017"
+    },
+
+
+    {
+        "etiqueta" : "Plickers: Cuestionarios y encuestas en línea",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/imgenes-2017.jpg",
+        "url" : "https://www.mep.go.cr/educatico/plickers",
+        "ciclo" : ["General" ],
+        "materia" : "Tecnología",
+        "comentarios" : "",
+        "seccion" : "2-2017"
+    },
+    {
+        "etiqueta" : "Galería Fotográfica",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/imgenes-2017.jpg",
+        "url" : "https://www.mep.go.cr/educatico/galeria",
+        "ciclo" : ["General"],
+        "materia" : "Estudios Sociales",
+        "comentarios" : "",
+        "seccion" : "2-2017"   
+    }
+
+
+
+]

@@ -1,97 +1,124 @@
 [
     {
-        "etiqueta" : "Mi Historia Mi Herencia",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/mihistoria_herencia-01.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "Micro Dialogues Outils pour classe FLE",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "url" : "https://www.mep.go.cr/educatico/micro-dialogues-outils-pour-classe-fle",
+        "ciclo" : ["I", "II", "III", "Diversificada" ],
+        "materia" : "Francés",
         "comentarios" : "",
         "seccion" : "1-2019"
     },
     {
-        "etiqueta" : "Propuesta Abordaje Plan",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/prop_abordaje-07.jpg",
-        "url" : "https://www.mep.go.cr/educatico/propuesta-abordaje-ejemplos-planeamiento",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "Kugwe nemani bare meguera Costa Rica tigani ngäbere",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "url" : "https://www.mep.go.cr/educatico/leyendas-ngabere",
+        "ciclo" : ["III", "Diversificada" ],
+        "materia" : "Interculturalidad",
         "comentarios" : "",
         "seccion" : "1-2019"
     },
     {
-        "etiqueta" : "Aventura de Chantli",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/aventura_chantli-10.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "Cuenticos",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "url" : "https://www.mep.go.cr/educatico/cuenticos",
+        "ciclo" : ["I", "II", "III"  ],
+        "materia" : "Español",
         "comentarios" : "",
         "seccion" : "1-2019"
     },
     {
-        "etiqueta" : "Matrícula Preescolar 2019",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/matricula_preescolar-13.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "Vida Clips",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "url" : "https://www.mep.go.cr/educatico/vida-clips",
+        "ciclo" : ["III", "Diversificada" ],
+        "materia" : "Religión",
         "comentarios" : "",
         "seccion" : "1-2019"
     },
     {
-        "etiqueta" : "Un Viaje por Costa Rica",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/viaje_porcostarica-16.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "Sucesiones y patrones ",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "url" : "https://www.mep.go.cr/educatico/sucesiones-patrones",
+        "ciclo" : ["II" ],
+        "materia" : "Matemáticas",
         "comentarios" : "",
         "seccion" : "1-2019"
     },
 
 
+
+
+
+
     {
-        "etiqueta" : "Mi Historia Mi Herencia",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/mihistoria_herencia-01.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
+        "etiqueta" : "English mini books: First Cicle",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "url" : "https://www.mep.go.cr/educatico/english-mini-books-first-cycle",
         "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "materia" : "Inglés",
         "comentarios" : "",
         "seccion" : "2-2019"
     },
     {
-        "etiqueta" : "Propuesta Abordaje Plan",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/prop_abordaje-07.jpg",
-        "url" : "https://www.mep.go.cr/educatico/propuesta-abordaje-ejemplos-planeamiento",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "Sitio de Recursos Guía Noveno Año Inglés",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "url" : "https://www.mep.go.cr/educatico/recursos-guia-noveno-ano",
+        "ciclo" : ["III" ],
+        "materia" : "Inglés",
         "comentarios" : "",
         "seccion" : "2-2019"
     },
     {
-        "etiqueta" : "Aventura de Chantli",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/aventura_chantli-10.jpg",
+        "etiqueta" : "Plataforma Oferta Educativa",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
         "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "ciclo" : ["I", "II", "III", "Diversificada" ],
+        "materia" : "General",
         "comentarios" : "",
         "seccion" : "2-2019"
     },
     {
-        "etiqueta" : "Matrícula Preescolar 2019",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/matricula_preescolar-13.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "Orienta2",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "url" : "https://orienta2.mep.go.cr/",
+        "ciclo" : ["III", "Diversificada"],
+        "materia" : "Orientación",
         "comentarios" : "",
         "seccion" : "2-2019"
     },
     {
-        "etiqueta" : "Un Viaje por Costa Rica",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/viaje_porcostarica-16.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "Matricula Preescolar-2020",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "url" : "https://www.mep.go.cr/educatico/matricula-preescolar-2020",
+        "ciclo" : ["Primera Infancia" ],
+        "materia" : "Preescolar",
         "comentarios" : "",
         "seccion" : "2-2019"
+    },
+
+
+
+
+
+    {
+        "etiqueta" : "Digital Resources Blog For Teachers and Students",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
+        "ciclo" : ["I", "II", "III"],
+        "materia" : "Inglés",
+        "comentarios" : "",
+        "seccion" : "3-2019"
+    },
+    {
+        "etiqueta" : "Cientec-Tendencias 2019",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "url" : "https://www.mep.go.cr/educatico/digital-resources",
+        "ciclo" : ["I", "II", "III", "Diversificada" ],
+        "materia" : "General",
+        "comentarios" : "",
+        "seccion" : "3-2019"
     }
-
+    
 
 
 ]

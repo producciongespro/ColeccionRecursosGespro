@@ -4,7 +4,8 @@ import './App.scss';
 import Seccion from './Componentes/Seccion';
 import lista2018 from './Data/lista2018.json';
 import lista2019 from './Data/lista2019.json';
-
+import lista2017 from './Data/lista2017.json';
+import listaanteriores from './Data/listaanteriores.json';
 
 function App() {
   return (
@@ -27,26 +28,59 @@ function App() {
 
 <div className="row">
   <div className="col-12">
-    <span className="subTitulo" >Colección 2018</span>
+    <span className="subTitulo" >Colección 2019</span>
           <div className="wrapper">
-            <Seccion array={lista2018} numSeccion="1-2018" anterior="3-2018" siguiente="2-2018" />
-            <Seccion array={lista2018} numSeccion="2-2018" anterior="1-2018" siguiente="3-2018" />
-            <Seccion array={lista2018} numSeccion="3-2018" anterior="2-2018" siguiente="1-2018" />
+            <Seccion array={lista2019} numSeccion="1-2019" anterior="3-2019" siguiente="2-2019" />
+            <Seccion array={lista2019} numSeccion="2-2019" anterior="1-2019" siguiente="3-2019" />
+            <Seccion array={lista2019} numSeccion="3-2019" anterior="2-2019" siguiente="1-2019" />
           </div>
   </div>
 </div>
-<br/>
+<br/> <br/>
+
+
 <div className="row">
   <div className="col-12">
-    <span className="subTitulo" >Colección 2019</span>
+    <span className="subTitulo" >Colección 2018</span>
         <div className="wrapper">
-          <Seccion array={lista2019} numSeccion="1-2019" anterior="2-2019" siguiente="2-2019" />
-          <Seccion array={lista2019} numSeccion="2-2019" anterior="1-2019" siguiente="1-2019" />
+          <Seccion array={lista2018} numSeccion="1-2018" anterior="5-2018" siguiente="2-2018" />
+          <Seccion array={lista2018} numSeccion="2-2018" anterior="1-2018" siguiente="3-2018" />
+          <Seccion array={lista2018} numSeccion="3-2018" anterior="2-2018" siguiente="4-2018" />
+          <Seccion array={lista2018} numSeccion="4-2018" anterior="3-2018" siguiente="5-2018" />
+          <Seccion array={lista2018} numSeccion="5-2018" anterior="4-2018" siguiente="1-2018" />
         </div>
   </div>
 </div>
+<br/><br/>
 
 
+<div className="row">
+  <div className="col-12">
+    <span className="subTitulo" >Colección 2017</span>
+        <div className="wrapper">
+          <Seccion array={lista2017} numSeccion="1-2017" anterior="2-2017" siguiente="2-2017" />
+          <Seccion array={lista2017} numSeccion="2-2017" anterior="1-2017" siguiente="1-2017" />
+        </div>
+  </div>
+</div>
+<br/><br/>
+    
+
+<div className="row">
+  <div className="col-12">
+    <span className="subTitulo" >Anteriores</span>
+        <div className="wrapper">
+          <Seccion array={listaanteriores} numSeccion="1-anteriores" anterior="7-anteriores" siguiente="2-anteriores" />
+          <Seccion array={listaanteriores} numSeccion="2-anteriores" anterior="1-anteriores" siguiente="3-anteriores" />
+          <Seccion array={listaanteriores} numSeccion="3-anteriores" anterior="2-anteriores" siguiente="4-anteriores" />
+          <Seccion array={listaanteriores} numSeccion="4-anteriores" anterior="3-anteriores" siguiente="5-anteriores" />
+          <Seccion array={listaanteriores} numSeccion="5-anteriores" anterior="4-anteriores" siguiente="6-anteriores" />
+          <Seccion array={listaanteriores} numSeccion="6-anteriores" anterior="5-anteriores" siguiente="6-anteriores" />
+          <Seccion array={listaanteriores} numSeccion="7-anteriores" anterior="6-anteriores" siguiente="1-anteriores" />
+        </div>
+  </div>
+</div>
+<br/><br/>
 
     
 
