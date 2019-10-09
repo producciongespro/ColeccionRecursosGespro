@@ -1,46 +1,46 @@
 [
     {
-        "etiqueta" : "",
+        "etiqueta" : "Pintando Ideas",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/pintando-ideas",
+        "ciclo" : ["III","Diversificada"],
+        "materia" : "Estudios Sociales",
         "comentarios" : "",
         "seccion" : "1-anteriores"
     },
     {
-        "etiqueta" : "",
+        "etiqueta" : "Regiones socieconómicas de Costa Rica",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/regiones",
+        "ciclo" : ["III"],
+        "materia" : "Estudios Sociales",
         "comentarios" : "",
         "seccion" : "1-anteriores"
     },
     {
-        "etiqueta" : "",
+        "etiqueta" : "Clima y tiempo atmosférico",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/clima-tiempo",
+        "ciclo" : ["Diversificada"],
+        "materia" : "Estudios Sociales",
         "comentarios" : "",
         "seccion" : "1-anteriores"
     },
     {
-        "etiqueta" : "",
+        "etiqueta" : "Tesoros del Museo Nacional",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
-        "comentarios" : "",
+        "url" : "https://www.mep.go.cr/educatico/museo-nacional",
+        "ciclo" : ["I","II","III","Diversificada"],
+        "materia" : "Artes Plásticas ",
+        "comentarios" : " ",
         "seccion" : "1-anteriores"
     },
     {
-        "etiqueta" : "",
+        "etiqueta" : "Las Artes Plásticas",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/artes-plasticas",
+        "ciclo" : ["I","II"],
+        "materia" : "Artes Plásticas",
         "comentarios" : "",
         "seccion" : "1-anteriores"
     },
@@ -58,51 +58,51 @@
 
 
     {
-        "etiqueta" : "",
+        "etiqueta" : "A Dibujar Popets",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/dibujar-popets",
+        "ciclo" : ["I","II"],
+        "materia" : "Artes Plásticas",
         "comentarios" : "",
         "seccion" : "2-anteriores"
     },
 
     {
-        "etiqueta" : "",
+        "etiqueta" : "Principales ecosistemas de Costa Rica",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
+        "url" : "https://www.mep.go.cr/educatico/ecosistemas",
+        "ciclo" : ["II","Diversificada"],
         "materia" : "",
+        "comentarios" : "Biologia",
+        "seccion" : "2-anteriores"
+    },
+
+    {
+        "etiqueta" : "Energía embotellada",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
+        "url" : "https://www.mep.go.cr/educatico/energia-embotellada",
+        "ciclo" : ["II"],
+        "materia" : "Ciencias",
         "comentarios" : "",
         "seccion" : "2-anteriores"
     },
 
     {
-        "etiqueta" : "",
+        "etiqueta" : "La cultura de las Tres Rs",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/cultura-tres-rs",
+        "ciclo" : ["II","III"],
+        "materia" : "Ciencias",
         "comentarios" : "",
         "seccion" : "2-anteriores"
     },
 
     {
-        "etiqueta" : "",
+        "etiqueta" : "Ramas de la ciencia",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
-        "comentarios" : "",
-        "seccion" : "2-anteriores"
-    },
-
-    {
-        "etiqueta" : "",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/ramas-de-la-ciencia",
+        "ciclo" : ["III"],
+        "materia" : "Ciencias",
         "comentarios" : "",
         "seccion" : "2-anteriores"
     },
@@ -126,51 +126,51 @@
 
 
     {
-        "etiqueta" : "",
+        "etiqueta" : "La Odisea: viaje exploratorio con teatro de sombras y muñecos",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/la-odisea-viaje-exploratorio-con-teatro-de-sombras-y-munecos",
+        "ciclo" : ["Diversificada"],
+        "materia" : "Español",
         "comentarios" : "",
         "seccion" : "3-anteriores"
     },
 
     {
-        "etiqueta" : "",
+        "etiqueta" : "Finca Las Soniletras",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
+        "url" : "https://www.mep.go.cr/educatico/finca-soniletras",
         "ciclo" : ["I"],
-        "materia" : "",
+        "materia" : "Español",
         "comentarios" : "",
         "seccion" : "3-anteriores"
     },
 
     {
-        "etiqueta" : "",
+        "etiqueta" : "Sitio: Videoteca Español Educación Abierta",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/videoteca-espanol-educacion-abierta",
+        "ciclo" : ["III","Diversificada"],
+        "materia" : "Español",
         "comentarios" : "",
         "seccion" : "3-anteriores"
     },
   
     {
-        "etiqueta" : "",
+        "etiqueta" : "Catálogo de Educación Abierta Matemáticas-III Ciclo",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/catalogo-educacion-abierta-matematicas-iii-ciclo",
+        "ciclo" : ["Educación Abierta"],
+        "materia" : "Matemática",
         "comentarios" : "",
         "seccion" : "3-anteriores"
     },
 
         {
-            "etiqueta" : "",
+            "etiqueta" : "Catálogo de Educación Abierta Matemáticas-Secundaria",
             "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-            "url" : "",
-            "ciclo" : ["I"],
-            "materia" : "",
+            "url" : "https://www.mep.go.cr/educatico/educ-abierta-matematicas-secundaria",
+            "ciclo" : ["Educación Abierta"],
+            "materia" : "Matemática",
             "comentarios" : "",
             "seccion" : "3-anteriores"
     },
@@ -192,48 +192,48 @@
 
   
     {
-        "etiqueta" : "",
+        "etiqueta" : "Catálogo de Educación Abierta Matemáticas-Primaria",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/educ-abierta-matematicas-primaria",
+        "ciclo" : ["Educación Abierta"],
+        "materia" : "Matemática",
         "comentarios" : "",
         "seccion" : "4-anteriores"
     },  
 
     {
-        "etiqueta" : "",
+        "etiqueta" : "Cuento Triana",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/cuento-triana",
+        "ciclo" : ["I","II","III","Diversificada"],
+        "materia" : "Matemática",
         "comentarios" : "",
         "seccion" : "4-anteriores"
     },
     {
-        "etiqueta" : "",
+        "etiqueta" : "Mate´N´Roll",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/mate-roll",
+        "ciclo" : ["II"],
+        "materia" : "Matemática",
         "comentarios" : "",
         "seccion" : "4-anteriores"
     },
     {
-        "etiqueta" : "",
+        "etiqueta" : "Juego Enteros",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/juego-enteros",
+        "ciclo" : ["II"],
+        "materia" : "Matemática",
         "comentarios" : "",
         "seccion" : "4-anteriores"
     },
     {
-        "etiqueta" : "",
+        "etiqueta" : "Web tools´gallery",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/web-tools-gallery",
+        "ciclo" : ["III","Diversificada"],
+        "materia" : "Inglés ",
         "comentarios" : "",
         "seccion" : "4-anteriores"
     },
@@ -246,48 +246,48 @@
 
 
     {
-        "etiqueta" : "",
+        "etiqueta" : "Teachers go digital",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/teachers-go-digital",
+        "ciclo" : ["General"],
+        "materia" : "Inglés ",
         "comentarios" : "",
         "seccion" : "5-anteriores"
     },
     {
-        "etiqueta" : "",
+        "etiqueta" : "Watch Out!",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
         "url" : "",
         "ciclo" : ["I"],
-        "materia" : "",
+        "materia" : "Inglés ",
         "comentarios" : "",
         "seccion" : "5-anteriores"
     },
 
     {
-        "etiqueta" : "",
+        "etiqueta" : "Costa Rica Wow",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/costa-rica-wow",
+        "ciclo" : ["III","Diversificada"],
+        "materia" : "Inglés ",
         "comentarios" : "",
         "seccion" : "5-anteriores"
     },
     {
-        "etiqueta" : "",
+        "etiqueta" : "My Community",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/my-community",
+        "ciclo" : ["II"],
+        "materia" : "Inglés ",
         "comentarios" : "",
         "seccion" : "5-anteriores"
     },
     {
-        "etiqueta" : "",
+        "etiqueta" : "Clothes",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/clothes",
+        "ciclo" : ["II"],
+        "materia" : "Inglés ",
         "comentarios" : "",
         "seccion" : "5-anteriores"
     },
@@ -300,48 +300,48 @@
 
 
     {
-        "etiqueta" : "",
+        "etiqueta" : "The House",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/house",
+        "ciclo" : ["II"],
+        "materia" : "Inglés ",
         "comentarios" : "",
         "seccion" : "6-anteriores"
     },
     {
-        "etiqueta" : "",
+        "etiqueta" : "Prepositions of place ",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/prepositions-place",
+        "ciclo" : ["II"],
+        "materia" : "Inglés ",
         "comentarios" : "",
         "seccion" : "6-anteriores"
     },
 
     {
-        "etiqueta" : "",
+        "etiqueta" : "Food and Drinks",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/food-and-drinks",
+        "ciclo" : ["II"],
+        "materia" : "Inglés ",
         "comentarios" : "",
         "seccion" : "6-anteriores"
     },
     {
-        "etiqueta" : "",
+        "etiqueta" : "Numbers 1 to 20",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/numbers-1-20",
+        "ciclo" : ["II"],
+        "materia" : "Inglés ",
         "comentarios" : "",
         "seccion" : "6-anteriores"
     },
     {
-        "etiqueta" : "",
+        "etiqueta" : "Feelings",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/feelings",
+        "ciclo" : ["II"],
+        "materia" : "Inglés ",
         "comentarios" : "",
         "seccion" : "6-anteriores"
     },
@@ -353,30 +353,30 @@
 
     
     {
-        "etiqueta" : "",
+        "etiqueta" : "Colors and Shapes",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/colors-and-shapes",
+        "ciclo" : ["II"],
+        "materia" : "Inglés ",
         "comentarios" : "",
         "seccion" : "7-anteriores"
     },
     {
-        "etiqueta" : "",
+        "etiqueta" : "Himnos Patrios de Costa Rica",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/himnos-patrios",
+        "ciclo" : ["I","II","III","Diversificada"],
+        "materia" : "Música",
         "comentarios" : "",
         "seccion" : "7-anteriores"
     },
 
     {
-        "etiqueta" : "",
+        "etiqueta" : "Secretos de la Madre Tierra",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
-        "ciclo" : ["I"],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/secretos-madre-tierra",
+        "ciclo" : ["III"],
+        "materia" : "General",
         "comentarios" : "",
         "seccion" : "7-anteriores"
     }
