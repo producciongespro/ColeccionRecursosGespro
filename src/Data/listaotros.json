@@ -1,102 +1,48 @@
 [
     {
-        "etiqueta" : "Mi Historia Mi Herencia",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/mihistoria_herencia-01.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "Parque de la Energía",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/parque_energia.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "1-2018"
+        "seccion" : "1-otros"
     },
     {
-        "etiqueta" : "Propuesta Abordaje Plan",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/prop_abordaje-07.jpg",
-        "url" : "https://www.mep.go.cr/educatico/propuesta-abordaje-ejemplos-planeamiento",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "Emergencias y Prevención de Riesgos",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/emergencias_prev.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "1-2018"
+        "seccion" : "1-otros"
     },
     {
-        "etiqueta" : "Aventura de Chantli",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/aventura_chantli-10.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "El cuerpo humano",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/cuerpo_humano.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "1-2018"
+        "seccion" : "1-otros"
     },
     {
-        "etiqueta" : "Matrícula Preescolar 2019",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/matricula_preescolar-13.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "¿Sexo? ¿Sexualidad?",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/sexo_sexualidad.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "1-2018"
+        "seccion" : "1-otros"
     },
     {
-        "etiqueta" : "Un Viaje por Costa Rica",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/viaje_porcostarica-16.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "Diseñe una figura humana",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/disene-figura-humana.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "1-2018"
-    },
-
-
-
-
-
-    {
-        "etiqueta" : "Krei",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/krei-19.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
-        "comentarios" : "",
-        "seccion" : "2-2018"
-    },
-
-    {
-        "etiqueta" : "Portal de Español",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/imgenes-2018.jpg",
-        "url" : "https://www.mep.go.cr/educatico/portal-espanol",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Español",
-        "comentarios" : "",
-        "seccion" : "2-2018"
-    },
-
-    {
-        "etiqueta" : "Templo de las Mil Puertas",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/templo_milpuertas-08.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
-        "comentarios" : "",
-        "seccion" : "2-2018"
-    },
-
-    {
-        "etiqueta" : "Olimpiadas Matemáticas",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/olimp_mate-05.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
-        "comentarios" : "",
-        "seccion" : "2-2018"
-    },
-
-    {
-        "etiqueta" : "Catálogo de Educación Abierta",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/imgenes-2018.jpg",
-        "url" : "https://www.mep.go.cr/educatico/catalogo-educacion-abierta-alfabetizacion-matematicas",
-        "ciclo" : ["Educación Abierta" ],
-        "materia" : "Matemática",
-        "comentarios" : "",
-        "seccion" : "2-2018"
+        "seccion" : "1-otros"
     },
 
 
@@ -104,125 +50,253 @@
 
 
     {
-        "etiqueta" : "El Metiche",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/elmetiche-02.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Matemáticas",
+        "etiqueta" : "Diseñemos un menú",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/disene-menu.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "3-2018"
+        "seccion" : "2-otros"
     },
 
     {
-        "etiqueta" : "Guía Sétimo Inglés",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/guia_setimo-17.jpg",
-        "url" : "https://www.mep.go.cr/educatico/propuesta-abordaje-ejemplos-planeamiento",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Inglés",
+        "etiqueta" : "¿Dónde vamos? ¿Qué es salud?",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/donde-vamos.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "3-2018"
+        "seccion" : "2-otros"
     },
 
     {
-        "etiqueta" : "Guía Octavo Inglés",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/guia_octavo-20.jpg",
-        "url" : "https://www.mep.go.cr/educatico/propuesta-abordaje-ejemplos-planeamiento",
-        "ciclo" : ["III" ],
-        "materia" : "Inglés",
+        "etiqueta" : "Arme la figura humana",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/arme_figura.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "3-2018"
+        "seccion" : "2-otros"
+    },
+
+    {
+        "etiqueta" : "Desafío PJ verde",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/desafio_PJverde.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
+        "comentarios" : "",
+        "seccion" : "2-otros"
+    },
+
+    {
+        "etiqueta" : "Los pares perdidos",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/pares_perdidos.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
+        "comentarios" : "",
+        "seccion" : "2-otros"
+    },
+
+
+
+
+
+    {
+        "etiqueta" : "Lo que se produce en Costa Rica",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/LoqueseProduceenCR.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
+        "comentarios" : "",
+        "seccion" : "3-otros"
+    },
+
+    {
+        "etiqueta" : "Rechazo al matonismo o bullying",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/rechazo-matonismo.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
+        "comentarios" : "",
+        "seccion" : "3-otros"
+    },
+
+    {
+        "etiqueta" : "En la vía pública",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/viapublica.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
+        "comentarios" : "",
+        "seccion" : "3-otros"
     },
   
     {
-        "etiqueta" : "Liceos Experimentales Bilingues y Grupos Bilingues",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/exp_bilingues-03.jpg",
-        "url" : "https://www.mep.go.cr/educatico/liceos-experimentales-bilingues",
-        "ciclo" : ["III", "Diversificada" ],
-        "materia" : "Inglés",
+        "etiqueta" : "¿Dónde estoy, hacia adónde voy? ",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/donde-estoy.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "3-2018"
+        "seccion" : "3-otros"
     },
 
         {
-        "etiqueta" : "Sitio de Recursos Guía Primaria",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/guia_primaria-09.jpg",
-        "url" : "https://www.mep.go.cr/educatico/recursos-guia-primaria",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Ingléss",
-        "comentarios" : "",
-        "seccion" : "3-2018"
+            "etiqueta" : "De vuelta a nuestro pasado",
+            "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/vuelta_pasado.png",
+            "url" : "",
+            "ciclo" : [""],
+            "materia" : "",
+            "comentarios" : "",
+            "seccion" : "3-otros"
     },
  
 
 
   
     {
-        "etiqueta" : "Flora and Fauna",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/flora_fauna-06.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "Justicia en acción",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/justicia-accion.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "4-2018"
+        "seccion" : "4-otros"
     },  
 
     {
-        "etiqueta" : "Holidays Festivals",
-        "urlImg" : "  http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/holidays_festivals-12.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "Trabajemos por fortalecer nuestra democracia representativa y participativa",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/trabajemos-fortalecer.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "4-2018"
+        "seccion" : "4-otros"
     },
     {
-        "etiqueta" : "Pura Vida in Many Ways",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/costarica_puravida-15.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "Danny El Geko Moreno",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/elgeko.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "4-2018"
+        "seccion" : "4-otros"
     },
     {
-        "etiqueta" : "Verbs Fair",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/verbs_fair-18.jpg",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Estudios Sociales",
+        "etiqueta" : "Misión 35C",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/mision35.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "4-2018"
+        "seccion" : "4-otros"
     },
     {
-        "etiqueta" : "Follow me!",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/follome-04.jpg",
-        "url" : "https://www.mep.go.cr/educatico/follow-me",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Inglés",
+        "etiqueta" : "Lógica en Español",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/logica_espanol.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "4-2018"
+        "seccion" : "4-otros"
     },
 
 
 
 
+
+
+
     {
-        "etiqueta" : "Orientaciones para los procesos de evaluación de los aprendizajes",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/proc_evaluacion-11.jpg",
-        "url" : "https://www.mep.go.cr/educatico/orientaciones-procesos-evaluacion-aprendizajes",
-        "ciclo" : ["General" ],
-        "materia" : "General",
+        "etiqueta" : "Jóvenes Banqueros",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/jovenes-banqueros.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "5-2018"
+        "seccion" : "5-otros"
+    },
+     {
+        "etiqueta" : "Comunicación efectiva",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/comunic-efectiva.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
+        "comentarios" : "",
+        "seccion" : "5-otros"
     },
     {
-        "etiqueta" : "Prácticas para bachillerato a tu medida #2",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/pract_bachi-14.jpg",
-        "url" : "https://www.mep.go.cr/educatico/practicas-bachillerato-tu-medida-2",
-        "ciclo" : ["III", "Diversificada" ],
-        "materia" : "General",
+        "etiqueta" : "Toma de decisiones",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/toma_decisiones.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
         "comentarios" : "",
-        "seccion" : "5-2018"
+        "seccion" : "5-otros"
+    },
+    {
+        "etiqueta" : "Midiendo mi ciudad",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/midiendo_ciudad.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
+        "comentarios" : "",
+        "seccion" : "5-otros"
+    },
+    {
+        "etiqueta" : "Rompecabezas",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/rompecabezas.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
+        "comentarios" : "",
+        "seccion" : "5-otros"
+    },
+
+
+
+
+
+
+    
+    {
+        "etiqueta" : "La búsqueda de la simetría",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/busqueda-simet.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
+        "comentarios" : "",
+        "seccion" : "6-otros"
+    },
+    {
+        "etiqueta" : "Interpretando datos",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/interp_datos.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
+        "comentarios" : "",
+        "seccion" : "6-otros"
+    },
+    {
+        "etiqueta" : "La lista de los mandados",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/lista_mandados.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
+        "comentarios" : "",
+        "seccion" : "6-otros"
+    },
+    
+    {
+        "etiqueta" : "Trazando el cuerpo humano",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/trazando_cuerpo.png",
+        "url" : "",
+        "ciclo" : [""],
+        "materia" : "",
+        "comentarios" : "",
+        "seccion" : "6-otros"
     }
 
 ]

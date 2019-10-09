@@ -6,6 +6,7 @@ import lista2018 from './Data/lista2018.json';
 import lista2019 from './Data/lista2019.json';
 import lista2017 from './Data/lista2017.json';
 import listaanteriores from './Data/listaanteriores.json';
+import listaotros from './Data/listaotros.json';
 
 function App() {
   return (
@@ -75,14 +76,32 @@ function App() {
           <Seccion array={listaanteriores} numSeccion="3-anteriores" anterior="2-anteriores" siguiente="4-anteriores" />
           <Seccion array={listaanteriores} numSeccion="4-anteriores" anterior="3-anteriores" siguiente="5-anteriores" />
           <Seccion array={listaanteriores} numSeccion="5-anteriores" anterior="4-anteriores" siguiente="6-anteriores" />
-          <Seccion array={listaanteriores} numSeccion="6-anteriores" anterior="5-anteriores" siguiente="6-anteriores" />
+          <Seccion array={listaanteriores} numSeccion="6-anteriores" anterior="5-anteriores" siguiente="7-anteriores" />
           <Seccion array={listaanteriores} numSeccion="7-anteriores" anterior="6-anteriores" siguiente="1-anteriores" />
+
         </div>
   </div>
 </div>
 <br/><br/>
 
-    
+
+
+<div className="row">
+  <div className="col-12">
+    <span className="subTitulo" >Otros</span>
+        <div className="wrapper">
+          <Seccion array={listaotros} numSeccion="1-otros" anterior="6-otros" siguiente="2-otros" />
+          <Seccion array={listaotros} numSeccion="2-otros" anterior="1-otros" siguiente="3-otros" />
+          <Seccion array={listaotros} numSeccion="3-otros" anterior="2-otros" siguiente="4-otros" />
+          <Seccion array={listaotros} numSeccion="4-otros" anterior="3-otros" siguiente="5-otros" />
+          <Seccion array={listaotros} numSeccion="5-otros" anterior="4-otros" siguiente="6-otros" />
+          <Seccion array={listaotros} numSeccion="6-otros" anterior="5-otros" siguiente="1-otros" />
+        </div>
+  </div>
+</div>
+<br/><br/>
+
+
 
     </div>
   );
