@@ -2,45 +2,45 @@
     {
         "etiqueta" : "Parque de la Energía",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/parque_energia.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/parque-energia",
+        "ciclo" : ["I", "II"],
+        "materia" : "Estudios Sociales",
         "comentarios" : "",
         "seccion" : "1-otros"
     },
     {
         "etiqueta" : "Emergencias y Prevención de Riesgos",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/emergencias_prev.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/emergencias-prevencion",
+        "ciclo" : ["III"],
+        "materia" : "Estudios Sociales",
         "comentarios" : "",
         "seccion" : "1-otros"
     },
     {
         "etiqueta" : "El cuerpo humano",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/cuerpo_humano.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/cuerpo-humano",
+        "ciclo" : ["II"],
+        "materia" : "Ciencias",
         "comentarios" : "",
         "seccion" : "1-otros"
     },
     {
         "etiqueta" : "¿Sexo? ¿Sexualidad?",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/sexo_sexualidad.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/sexo-sexualidad",
+        "ciclo" : ["II"],
+        "materia" : "Ciencias",
         "comentarios" : "",
         "seccion" : "1-otros"
     },
     {
         "etiqueta" : "Diseñe una figura humana",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/disene-figura-humana.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/disene-figura-humana",
+        "ciclo" : ["II"],
+        "materia" : "Ciencias",
         "comentarios" : "",
         "seccion" : "1-otros"
     },
@@ -52,9 +52,9 @@
     {
         "etiqueta" : "Diseñemos un menú",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/disene-menu.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/disenemos-menu",
+        "ciclo" : ["I"],
+        "materia" : "Ciencias",
         "comentarios" : "",
         "seccion" : "2-otros"
     },
@@ -62,9 +62,9 @@
     {
         "etiqueta" : "¿Dónde vamos? ¿Qué es salud?",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/donde-vamos.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/donde-vamos-que-es-salud",
+        "ciclo" : ["I"],
+        "materia" : "Ciencias",
         "comentarios" : "",
         "seccion" : "2-otros"
     },
@@ -72,9 +72,9 @@
     {
         "etiqueta" : "Arme la figura humana",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/arme_figura.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/arme-figura-humana",
+        "ciclo" : ["I"],
+        "materia" : "Ciencias",
         "comentarios" : "",
         "seccion" : "2-otros"
     },
@@ -82,9 +82,9 @@
     {
         "etiqueta" : "Desafío PJ verde",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/desafio_PJverde.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/desafio-pj-verde",
+        "ciclo" : ["II", "II"],
+        "materia" : "Ciencias",
         "comentarios" : "",
         "seccion" : "2-otros"
     },
@@ -92,9 +92,9 @@
     {
         "etiqueta" : "Los pares perdidos",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/pares_perdidos.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/pares-perdidos",
+        "ciclo" : ["II"],
+        "materia" : "Educación Cívica",
         "comentarios" : "",
         "seccion" : "2-otros"
     },
@@ -106,9 +106,9 @@
     {
         "etiqueta" : "Lo que se produce en Costa Rica",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/LoqueseProduceenCR.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/produce-costa-rica",
+        "ciclo" : ["I"],
+        "materia" : "Educación Cívica",
         "comentarios" : "",
         "seccion" : "3-otros"
     },
@@ -116,9 +116,9 @@
     {
         "etiqueta" : "Rechazo al matonismo o bullying",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/rechazo-matonismo.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/rechazo-matonismo-bullying",
+        "ciclo" : ["I"],
+        "materia" : "Educación Cívica",
         "comentarios" : "",
         "seccion" : "3-otros"
     },
@@ -126,9 +126,9 @@
     {
         "etiqueta" : "En la vía pública",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/viapublica.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/publica",
+        "ciclo" : ["II"],
+        "materia" : "Educación Cívica",
         "comentarios" : "",
         "seccion" : "3-otros"
     },
@@ -136,21 +136,21 @@
     {
         "etiqueta" : "¿Dónde estoy, hacia adónde voy? ",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/donde-estoy.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/donde-estoy-adonde-voy",
+        "ciclo" : ["I"],
+        "materia" : "Educación Cívica",
         "comentarios" : "",
         "seccion" : "3-otros"
     },
 
         {
-            "etiqueta" : "De vuelta a nuestro pasado",
-            "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/vuelta_pasado.png",
-            "url" : "",
-            "ciclo" : [""],
-            "materia" : "",
-            "comentarios" : "",
-            "seccion" : "3-otros"
+        "etiqueta" : "De vuelta a nuestro pasado",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/vuelta_pasado.png",
+        "url" : "https://www.mep.go.cr/educatico/vuelta-nuestro-pasado",
+        "ciclo" : ["II"],
+        "materia" : "Educación Cívica",
+        "comentarios" : "",
+        "seccion" : "3-otros"
     },
  
 
@@ -159,9 +159,9 @@
     {
         "etiqueta" : "Justicia en acción",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/justicia-accion.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/justicia-accion",
+        "ciclo" : ["Diversificada"],
+        "materia" : "Educación Cívica",
         "comentarios" : "",
         "seccion" : "4-otros"
     },  
@@ -169,36 +169,36 @@
     {
         "etiqueta" : "Trabajemos por fortalecer nuestra democracia representativa y participativa",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/trabajemos-fortalecer.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/trabajemos-democracia",
+        "ciclo" : ["Diversificada"],
+        "materia" : "Educación Cívica",
         "comentarios" : "",
         "seccion" : "4-otros"
     },
     {
         "etiqueta" : "Danny El Geko Moreno",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/elgeko.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/danny-geko-moreno",
+        "ciclo" : ["III, Diversificada"],
+        "materia" : "Educación Cívica",
         "comentarios" : "",
         "seccion" : "4-otros"
     },
     {
         "etiqueta" : "Misión 35C",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/mision35.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/mision-35c",
+        "ciclo" : ["II", "III"],
+        "materia" : "Español",
         "comentarios" : "",
         "seccion" : "4-otros"
     },
     {
         "etiqueta" : "Lógica en Español",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/logica_espanol.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/logica-espanol",
+        "ciclo" : ["III", "Diversificada"],
+        "materia" : "Educación Cívica",
         "comentarios" : "",
         "seccion" : "4-otros"
     },
@@ -212,45 +212,45 @@
     {
         "etiqueta" : "Jóvenes Banqueros",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/jovenes-banqueros.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/jovenes-banqueros",
+        "ciclo" : ["III"],
+        "materia" : "Educación para el hogar",
         "comentarios" : "",
         "seccion" : "5-otros"
     },
      {
         "etiqueta" : "Comunicación efectiva",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/comunic-efectiva.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/comunicacion-efectiva",
+        "ciclo" : ["I","II","III","Diversificada"],
+        "materia" : "Psicología",
         "comentarios" : "",
         "seccion" : "5-otros"
     },
     {
         "etiqueta" : "Toma de decisiones",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/toma_decisiones.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/toma-decisiones",
+        "ciclo" : ["I","II","III","Diversificada"],
+        "materia" : "Psicología",
         "comentarios" : "",
         "seccion" : "5-otros"
     },
     {
         "etiqueta" : "Midiendo mi ciudad",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/midiendo_ciudad.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/midiendo-mi-ciudad",
+        "ciclo" : ["II"],
+        "materia" : "Matemática",
         "comentarios" : "",
         "seccion" : "5-otros"
     },
     {
         "etiqueta" : "Rompecabezas",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/rompecabezas.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/rompecabezas",
+        "ciclo" : ["II"],
+        "materia" : "Matemática",
         "comentarios" : "",
         "seccion" : "5-otros"
     },
@@ -264,27 +264,27 @@
     {
         "etiqueta" : "La búsqueda de la simetría",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/busqueda-simet.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/busqueda-simetria",
+        "ciclo" : ["II"],
+        "materia" : "Matemática",
         "comentarios" : "",
         "seccion" : "6-otros"
     },
     {
         "etiqueta" : "Interpretando datos",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/interp_datos.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/interpretando-datos",
+        "ciclo" : ["I"],
+        "materia" : "Matemática",
         "comentarios" : "",
         "seccion" : "6-otros"
     },
     {
         "etiqueta" : "La lista de los mandados",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/lista_mandados.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/lista-mandados",
+        "ciclo" : ["I"],
+        "materia" : "Matemática",
         "comentarios" : "",
         "seccion" : "6-otros"
     },
@@ -292,9 +292,9 @@
     {
         "etiqueta" : "Trazando el cuerpo humano",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/trazando_cuerpo.png",
-        "url" : "",
-        "ciclo" : [""],
-        "materia" : "",
+        "url" : "https://www.mep.go.cr/educatico/trazando-cuerpo-humano",
+        "ciclo" : ["I"],
+        "materia" : "Matemática",
         "comentarios" : "",
         "seccion" : "6-otros"
     }

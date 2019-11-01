@@ -1,7 +1,7 @@
 [
     {
         "etiqueta" : "Micro Dialogues Outils pour classe FLE",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/outils.png",
         "url" : "https://www.mep.go.cr/educatico/micro-dialogues-outils-pour-classe-fle",
         "ciclo" : ["I", "II", "III", "Diversificada" ],
         "materia" : "Francés",
@@ -10,7 +10,7 @@
     },
     {
         "etiqueta" : "Kugwe nemani bare meguera Costa Rica tigani ngäbere",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/leyendas_CR.png",
         "url" : "https://www.mep.go.cr/educatico/leyendas-ngabere",
         "ciclo" : ["III", "Diversificada" ],
         "materia" : "Interculturalidad",
@@ -19,7 +19,7 @@
     },
     {
         "etiqueta" : "Cuenticos",
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/cuenticos.png",
         "url" : "https://www.mep.go.cr/educatico/cuenticos",
         "ciclo" : ["I", "II", "III"  ],
         "materia" : "Español",
