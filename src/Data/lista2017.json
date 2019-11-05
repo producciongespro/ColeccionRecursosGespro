@@ -1,6 +1,7 @@
 [
     {
-        "etiqueta" : "Le Marché Aux Verbes",
+        "nombre" : "Le Marché Aux Verbes",
+        "etiqueta" : ["le marche aux verbes","frances"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/imgenes-2017.jpg",
         "url" : "https://www.mep.go.cr/educatico/le-marche-aux-verbes",
         "ciclo" : ["I", "II","III", "Diversificada" ],

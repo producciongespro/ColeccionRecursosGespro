@@ -3,17 +3,18 @@ import React from 'react';
 const Seccion = (props) => {
     return ( 
         <section id={"seccion" + props.numSeccion  }>
-        <a href={"#seccion" + props.anterior }>‹</a>
+        <a className="a-seccion" href={"#seccion" + props.anterior }>‹</a>
           {
             props.array.map((item, i) =>(
               item.seccion === props.numSeccion && (
                 <div className="item" key={"seccion_"+ props.numSeccion +i } >
-                    <img src={item.urlImg } alt={item.etiqueta} />
+                  <a href={item.url} target="_blank" rel="noopener noreferrer">
+                    <img src={item.urlImg } alt={item.nombre}/></a>
                 </div>
               )              
             ))
           }
-       <a href={"#seccion" + props.siguiente }> › </a>
+       <a className="a-seccion" href={"#seccion" + props.siguiente }> › </a>
       </section>
      );
 }

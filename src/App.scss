@@ -42,7 +42,7 @@ h1 {
 
 .wrapper {
   display: grid;
-  grid-template-columns: repeat(3,100%);
+  grid-template-columns: repeat(7,100%);
   overflow:hidden;
   scroll-behavior: smooth;
 
@@ -50,22 +50,22 @@ h1 {
     width: 100%;
     position: relative;
     display: grid;
-    grid-template-columns: repeat(5, auto);
+    grid-template-columns: repeat(7, auto);
     margin: 20px 0;
     
     .item {
-      padding: 0 2px;
+      padding: 2 2px;
       transition: $duration all;
       
       &:hover { 
-        margin: 0 40px;
+        margin: 1 40px;
         transform: scale(1.2);
         cursor: pointer;
       }
       
     }
     
-    a {
+    .a-seccion {
       position: absolute;
       color: #fff;
       text-decoration: none;
