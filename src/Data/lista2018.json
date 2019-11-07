@@ -1,7 +1,7 @@
 [
     {
         "nombre" : "Mi Historia Mi Herencia",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["Mi historia"," mi herencia","app","comidas"," patrimonio tangible","RA","símbolos nacionales","vestimentas"," danzas"," intangible"," idioma"," monumentos","Costa Rica","marcadores","historia de Costa Rica"," estudios sociales"," relieve de Costa Rica"], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/mihistoria_herencia-01.jpg",
         "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
         "ciclo" : ["I", "II" ],
@@ -11,7 +11,7 @@
     },
     {
         "nombre" : "Propuesta Abordaje Plan",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["Propuesta de Abordaje: ejemplos de planeamiento"," Estudios sociales de primaria"," estudios sociales"," planeamiento didáctico"," planeamiento"," planeamiento para estudios sociales"," ejemplos de planeamiento"," I y II ciclos"," plantilla de planeamiento didáctico"," regiones de Costa Rica"], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/prop_abordaje-07.jpg",
         "url" : "https://www.mep.go.cr/educatico/propuesta-abordaje-ejemplos-planeamiento",
         "ciclo" : ["I", "II" ],
@@ -21,7 +21,7 @@
     },
     {
         "nombre" : "Aventura de Chantli",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["Aventura de Chantli"," android","aplicativo","app","apps","aventura","biocapacidad","chantlí","déficit","estudios sociales","huella ecológica","IOS","juego","marcadores","realidad aumentada","recursos","reserva ecologica"], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/aventura_chantli-10.jpg",
         "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
         "ciclo" : ["III", "Diversificada" ],
@@ -31,8 +31,8 @@
     },
     {
         "nombre" : "Matrícula Preescolar 2019",
-        "etiqueta" : [  ], 
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/matricula_preescolar-13.jpg",
+        "etiqueta" :   ["Matrícula de Preescolar 2019"," Departamento de Educación de la Primera Infancia"," Educación de la Primera Infancia"," matrícula 2019"," ciclo materno infantil"," nuevo uniforme 2019"," matrícula de preescolar"," Primera Infancia"," Preescolar"," grupo interactivo","materno infantil"," infantil"," proceso de matrícula","reglamento","requisitos de matrícula","uniforme"],
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/matrcula_preescolar-13.jpg",
         "url" : "",
         "ciclo" : ["Primera Infancias" ],
         "materia" : "Preescolar",
@@ -41,7 +41,7 @@
     },
     {
         "nombre" : "Un Viaje por Costa Rica",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["Un viaje por Costa Rica"," aplicación para español"," categorías gramaticales","conjugación verbal","español","español II ciclo"," formas de tratamiento","tuteo","ustedeo","voseo"," juego educativo"," android","app","apps"  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/viaje_porcostarica-16.jpg",
         "url" : "https://www.mep.go.cr/educatico/un-viaje-costa-rica",
         "ciclo" : ["II" ],
@@ -56,7 +56,7 @@
 
     {
         "nombre" : "Krei",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["Krei"," afiche","grafitti","meme"," historieta"," textos no literarios"," herramienta para crear historietas"," herramienta para hacer memes"," herramienta para hacer afiches"," herramienta para crear grafitti"," android","app"," apps"," apk"], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/krei-19.jpg",
         "url" : "https://www.mep.go.cr/educatico/krei",
         "ciclo" : ["III", "Diversificada" ],
@@ -67,7 +67,7 @@
 
     {
         "nombre" : "Portal de Español",
-        "etiqueta" : [  ], 
+        "etiqueta" :   ["Portal de Español mi cuento fantástico"," antologías de capacitación para español"," I y II ciclos"," Español de I y II ciclos"," recursos para español de primaria"," recursos de español para I y II ciclos"," Español"," cuento"," antología"," ADA","Aula Edad","bibliotecas","Choco","colibrí","cuento fantástico","escritura creativa"], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/imgenes-2018.jpg",
         "url" : "https://www.mep.go.cr/educatico/portal-espanol",
         "ciclo" : ["I", "II" ],
@@ -78,7 +78,7 @@
 
     {
         "nombre" : "Templo de las Mil Puertas",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["Templo de las mil puertas","aplicación gratuita para matemática"," juego educativo","capacidad","conversión de unidades","conversiones","masa","matemática","medición","medidas","peso"," longitud","sistema internacional de unidades"," android","app","apps","conversiones"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/templo_milpuertas-08.jpg",
         "url" : "https://www.mep.go.cr/educatico/templo-mil-puertas",
         "ciclo" : ["II" ],
@@ -89,7 +89,7 @@
 
     {
         "nombre" : "Olimpiadas matemáticas: Cuadernillos para docentes y estudiantes",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["Olimpiadas matemáticas"," educación matemática"," matemática"," prácticas de olimpiadas matemáticas"," IV edición olimpiadas"," cuadernillo","cuadernillos matemática","cuadernillos de preparación costarricenses","OLCOMEP","olimpiadas matemática"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/olimp_mate-05.jpg",
         "url" : "https://www.mep.go.cr/educatico/olimpiadas-matematicas-cuadernillos",
         "ciclo" : ["I", "II" ],
@@ -115,7 +115,7 @@
 
     {
         "nombre" : "El Metiche",
-        "etiqueta" : [  ], 
+        "etiqueta" :   ["aplicación gratuita para matemática","El metiche","exponencial","función","funciones","historia del concepto de función","juego educativo","lineal","logarítmica","matemática","el metiche"," apk","app"," aplicativo" ],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/elmetiche-02.jpg",
         "url" : "https://www.mep.go.cr/educatico/metiche",
         "ciclo" : ["Educación Diversificada"],
@@ -126,7 +126,7 @@
 
     {
         "nombre" : "Guía Sétimo Inglés",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["Sitio de Recursos Guía Sétimo Año"," inglés"," english"," seventh grade"," seventh level"," english resources"," recursos de inglés"," recursos de inglés para sétimo año"," English resources for seventh grade"," recursos Inglés","sétimo","seventh level"], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/guia_setimo-17.jpg",
         "url" : "https://www.mep.go.cr/educatico/recursos-guia-setimo-ano",
         "ciclo" : ["III" ],
@@ -137,7 +137,7 @@
 
     {
         "nombre" : "Guía Octavo Inglés",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["Sitio de Recursos Guía Inglés Octavo Año"," inglés"," english"," eighth grade"," eighth level"," english resources"," recursos de inglés"," recursos de inglés para octavo año"," English resources for eighth grade"], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/guia_octavo-20.jpg",
         "url" : "https://www.mep.go.cr/educatico/recursos-guia-octavo-ano",
         "ciclo" : ["III" ],
@@ -148,7 +148,7 @@
   
     {
         "nombre" : "Liceos Experimentales Bilingues y Grupos Bilingues",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["Sitio de Recursos Liceos Experimentales"," english","english resources"," recursos Inglés"," inglés"," Liceos Experimentales Bilingües"," LEBs","grupos bilingues"], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/exp_bilingues-03.jpg",
         "url" : "https://www.mep.go.cr/educatico/liceos-experimentales-bilingues",
         "ciclo" : ["III", "Diversificada" ],
@@ -173,7 +173,7 @@
   
     {
         "nombre" : "Flora and Fauna in Costa Rica",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["flora and fauna in Costa Rica, android,app,apps,AR,augmented reality,catálogos,Costa Rica,english,fauna,flora,inglés,RA,realidad aumentada" ],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/flora_fauna-06.jpg",
         "url" : "https://www.mep.go.cr/educatico/flora-and-fauna-costa-rica",
         "ciclo" : ["I", "II" ],
@@ -184,7 +184,7 @@
 
     {
         "nombre" : "Holidays Around the World",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["Holidays Around the World"," android","app","apps","AR","english","holidays"," celebrations around the world","inglés"," IOS","RA","realidad aumentada"," augmented reality","celebrations","Realidad aumentada"],
         "urlImg" : "  http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/holidays_festivals-12.jpg",
         "url" : "https://www.mep.go.cr/educatico/holidays-around-world",
         "ciclo" : ["III", "Diversificada" ],
@@ -194,7 +194,7 @@
     },
     {
         "nombre" : "Costa Rica Pura Vida in Many Ways",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["Costa Rica Pura Vida in Many Ways","aplicación gratuita"," free application for English"," juego educativo"," inglés"," educational game"," english"," Costa Rica"," Amazing Costa Rica"," atracción turística de Costa Rica"," tourist attractions of Costa Rica"," amazing","android","app","apps","atracciones turísticas","Costa Rica","english","game","IOS","juego multimedial"], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/costarica_puravida-15.jpg",
         "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
         "ciclo" : ["I", "Diversificada" ],
@@ -204,7 +204,7 @@
     },
     {
         "nombre" : "Verbs Fair",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["Verbs fair"," aplicación gratuita para inglés"," free application for English"," english","grammar","irregular verbs"," verbos irregulares"," verbos en inglés","verbs in English"," juego educativo"," verbos"," verbs"," android","app","apps","english","grammar","irregular verbs","irregulares","juego"], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/verbs_fair-18.jpg",
         "url" : "https://www.mep.go.cr/educatico/costa-rica-pura-vida-many-ways",
         "ciclo" : ["I", "II","III","Diversificada" ],
@@ -228,7 +228,7 @@
 
     {
         "nombre" : "Orientaciones para los procesos de evaluación de los aprendizajes",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["Orientaciones para los procesos de evaluación de los aprendizajes"," español"," Piensa en Arte"," mediación del español en primaria"," I y II ciclos"," español de I y II ciclos"," clases de Piensa en Arte"," arte","colección","escritura creativa","español"], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/proc_evaluacion-11.jpg",
         "url" : "https://www.mep.go.cr/educatico/orientaciones-procesos-evaluacion-aprendizajes",
         "ciclo" : ["General" ],
@@ -238,7 +238,7 @@
     },
     {
         "nombre" : "Prácticas para bachillerato a tu medida #2",
-        "etiqueta" : [  ], 
+        "etiqueta" : ["Prácticas para bachillerato a tu medida #2"," Prueba de bachillerato"," bachillerato"," bachillerato a tu medida"," matemática"," biología"," ciencias"," español"," química"," estudios sociales"," cívica"," inglés"," francés"," secundaria"," prácticas"," ejercicios"," exámenes"," bachi"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/pract_bachi-14.jpg",
         "url" : "https://www.mep.go.cr/educatico/practicas-bachillerato-tu-medida-2",
         "ciclo" : ["III", "Diversificada" ],

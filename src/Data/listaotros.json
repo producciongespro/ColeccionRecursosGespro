@@ -261,7 +261,7 @@
     },
     {
         "nombre" : "Midiendo mi ciudad",
-        "etiqueta" : [],
+        "etiqueta" :   ["Midiendo mi ciudad"," rea","círculo","figuras geometricas","geometría","juego","perímetro","polígono","problemas","radio","sólidos"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/midiendo_ciudad.png",
         "url" : "https://www.mep.go.cr/educatico/midiendo-mi-ciudad",
         "ciclo" : ["II"],
@@ -271,7 +271,7 @@
     },
     {
         "nombre" : "Rompecabezas",
-        "etiqueta" : [],
+        "etiqueta" :   ["Rompecabezas"," rea","figuras geométricas","geometría","perímetro","polígonos"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/rompecabezas.png",
         "url" : "https://www.mep.go.cr/educatico/rompecabezas",
         "ciclo" : ["II"],
@@ -288,7 +288,7 @@
     
     {
         "nombre" : "La búsqueda de la simetría",
-        "etiqueta" : [],
+        "etiqueta" :   ["La búsqueda de la simetría"," eje de simetría","geometría","homólogos","simetría"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/busqueda-simet.png",
         "url" : "https://www.mep.go.cr/educatico/busqueda-simetria",
         "ciclo" : ["II"],

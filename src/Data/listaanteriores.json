@@ -384,7 +384,7 @@
     
     {
         "nombre" : "Colors and Shapes",
-        "etiqueta" : [],
+        "etiquetas" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/colorsShapes-92.png",
         "url" : "https://www.mep.go.cr/educatico/colors-and-shapes",
         "ciclo" : ["II"],
@@ -394,6 +394,7 @@
     },
     {
         "nombre" : "Himnos Patrios de Costa Rica",
+        "etiquetas" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
         "url" : "https://www.mep.go.cr/educatico/himnos-patrios",
         "ciclo" : ["I","II","III","Diversificada"],
@@ -404,6 +405,7 @@
 
     {
         "nombre" : "Secretos de la Madre Tierra",
+        "etiqueta" :   ["Secretos de la Madre Tierra"," conversiones","distancia","fuerza","geometría","movimiento","enteros","proporcionalidad"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
         "url" : "https://www.mep.go.cr/educatico/secretos-madre-tierra",
         "ciclo" : ["III"],
