@@ -1,6 +1,7 @@
 [
     {
-        "etiqueta" : "Pintando Ideas",
+        "nombre" : "Pintando Ideas",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/pintando_ideas-65.png",
         "url" : "https://www.mep.go.cr/educatico/pintando-ideas",
         "ciclo" : ["III","Diversificada"],
@@ -9,7 +10,8 @@
         "seccion" : "1-anteriores"
     },
     {
-        "etiqueta" : "Regiones socieconómicas de Costa Rica",
+        "nombre" : "Regiones socieconómicas de Costa Rica",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/region_socio-66.png",
         "url" : "https://www.mep.go.cr/educatico/regiones",
         "ciclo" : ["III"],
@@ -18,7 +20,8 @@
         "seccion" : "1-anteriores"
     },
     {
-        "etiqueta" : "Clima y tiempo atmosférico",
+        "nombre" : "Clima y tiempo atmosférico",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/clima_tiempo-67.png",
         "url" : "https://www.mep.go.cr/educatico/clima-tiempo",
         "ciclo" : ["Diversificada"],
@@ -27,7 +30,8 @@
         "seccion" : "1-anteriores"
     },
     {
-        "etiqueta" : "Tesoros del Museo Nacional",
+        "nombre" : "Tesoros del Museo Nacional",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/tesoros_museo-68.png",
         "url" : "https://www.mep.go.cr/educatico/museo-nacional",
         "ciclo" : ["I","II","III","Diversificada"],
@@ -36,7 +40,8 @@
         "seccion" : "1-anteriores"
     },
     {
-        "etiqueta" : "Las Artes Plásticas",
+        "nombre" : "Las Artes Plásticas",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/artes_plasticas-69.png",
         "url" : "https://www.mep.go.cr/educatico/artes-plasticas",
         "ciclo" : ["I","II"],
@@ -58,7 +63,8 @@
 
 
     {
-        "etiqueta" : "A Dibujar Popets",
+        "nombre" : "A Dibujar Popets",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/popets-70.png",
         "url" : "https://www.mep.go.cr/educatico/dibujar-popets",
         "ciclo" : ["I","II"],
@@ -68,7 +74,8 @@
     },
 
     {
-        "etiqueta" : "Principales ecosistemas de Costa Rica",
+        "nombre" : "Principales ecosistemas de Costa Rica",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/ecostistemas-71.png",
         "url" : "https://www.mep.go.cr/educatico/ecosistemas",
         "ciclo" : ["II","Diversificada"],
@@ -78,7 +85,8 @@
     },
 
     {
-        "etiqueta" : "Energía embotellada",
+        "nombre" : "Energía embotellada",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/energ_embotellada-72.png",
         "url" : "https://www.mep.go.cr/educatico/energia-embotellada",
         "ciclo" : ["II"],
@@ -88,7 +96,8 @@
     },
 
     {
-        "etiqueta" : "La cultura de las Tres Rs",
+        "nombre" : "La cultura de las Tres Rs",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/3r-73.png",
         "url" : "https://www.mep.go.cr/educatico/cultura-tres-rs",
         "ciclo" : ["II","III"],
@@ -98,7 +107,8 @@
     },
 
     {
-        "etiqueta" : "Ramas de la ciencia",
+        "nombre" : "Ramas de la ciencia",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
         "url" : "https://www.mep.go.cr/educatico/ramas-de-la-ciencia",
         "ciclo" : ["III"],
@@ -126,7 +136,8 @@
 
 
     {
-        "etiqueta" : "La Odisea: viaje exploratorio con teatro de sombras y muñecos",
+        "nombre" : "La Odisea: viaje exploratorio con teatro de sombras y muñecos",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/odisea-74.png",
         "url" : "https://www.mep.go.cr/educatico/la-odisea-viaje-exploratorio-con-teatro-de-sombras-y-munecos",
         "ciclo" : ["Diversificada"],
@@ -136,7 +147,8 @@
     },
 
     {
-        "etiqueta" : "Finca Las Soniletras",
+        "nombre" : "Finca Las Soniletras",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/soniletras-76.png",
         "url" : "https://www.mep.go.cr/educatico/finca-soniletras",
         "ciclo" : ["I"],
@@ -146,7 +158,8 @@
     },
 
     {
-        "etiqueta" : "Sitio: Videoteca Español Educación Abierta",
+        "nombre" : "Sitio: Videoteca Español Educación Abierta",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/videoteca-77.png",
         "url" : "https://www.mep.go.cr/educatico/videoteca-espanol-educacion-abierta",
         "ciclo" : ["III","Diversificada"],
@@ -156,7 +169,8 @@
     },
   
     {
-        "etiqueta" : "Catálogo de Educación Abierta Matemáticas-III Ciclo",
+        "nombre" : "Catálogo de Educación Abierta Matemáticas-III Ciclo",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/educ_ab-78.png",
         "url" : "https://www.mep.go.cr/educatico/catalogo-educacion-abierta-matematicas-iii-ciclo",
         "ciclo" : ["Educación Abierta"],
@@ -166,7 +180,8 @@
     },
 
         {
-            "etiqueta" : "Catálogo de Educación Abierta Matemáticas-Secundaria",
+            "nombre" : "Catálogo de Educación Abierta Matemáticas-Secundaria",
+            "etiqueta" : [],
             "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/educ_abII-79.png",
             "url" : "https://www.mep.go.cr/educatico/educ-abierta-matematicas-secundaria",
             "ciclo" : ["Educación Abierta"],
@@ -192,7 +207,8 @@
 
   
     {
-        "etiqueta" : "Catálogo de Educación Abierta Matemáticas-Primaria",
+        "nombre" : "Catálogo de Educación Abierta Matemáticas-Primaria",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/educABI-80.png",
         "url" : "https://www.mep.go.cr/educatico/educ-abierta-matematicas-primaria",
         "ciclo" : ["Educación Abierta"],
@@ -202,7 +218,8 @@
     },  
 
     {
-        "etiqueta" : "Cuento Triana",
+        "nombre" : "Cuento Triana",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/triana-81.png",
         "url" : "https://www.mep.go.cr/educatico/cuento-triana",
         "ciclo" : ["I","II","III","Diversificada"],
@@ -211,7 +228,8 @@
         "seccion" : "4-anteriores"
     },
     {
-        "etiqueta" : "Mate´N´Roll",
+        "nombre" : "Mate´N´Roll",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/matenroll-82.png",
         "url" : "https://www.mep.go.cr/educatico/mate-roll",
         "ciclo" : ["II"],
@@ -220,7 +238,8 @@
         "seccion" : "4-anteriores"
     },
     {
-        "etiqueta" : "Juego Enteros",
+        "nombre" : "Juego Enteros",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/juego_enteros-83.png",
         "url" : "https://www.mep.go.cr/educatico/juego-enteros",
         "ciclo" : ["II"],
@@ -229,7 +248,8 @@
         "seccion" : "4-anteriores"
     },
     {
-        "etiqueta" : "Web tools´gallery",
+        "nombre" : "Web tools´gallery",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/tools_galery-84.png",
         "url" : "https://www.mep.go.cr/educatico/web-tools-gallery",
         "ciclo" : ["III","Diversificada"],
@@ -246,7 +266,8 @@
 
 
     {
-        "etiqueta" : "Teachers go digital",
+        "nombre" : "Teachers go digital",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/teachers_godigital-85.png",
         "url" : "https://www.mep.go.cr/educatico/teachers-go-digital",
         "ciclo" : ["General"],
@@ -255,7 +276,8 @@
         "seccion" : "5-anteriores"
     },
     {
-        "etiqueta" : "Watch Out!",
+        "nombre" : "Watch Out!",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
         "url" : "",
         "ciclo" : ["I"],
@@ -265,7 +287,8 @@
     },
 
     {
-        "etiqueta" : "Costa Rica Wow",
+        "nombre" : "Costa Rica Wow",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/CRwow-86.png",
         "url" : "https://www.mep.go.cr/educatico/costa-rica-wow",
         "ciclo" : ["III","Diversificada"],
@@ -274,7 +297,8 @@
         "seccion" : "5-anteriores"
     },
     {
-        "etiqueta" : "My Community",
+        "nombre" : "My Community",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
         "url" : "https://www.mep.go.cr/educatico/my-community",
         "ciclo" : ["II"],
@@ -283,7 +307,8 @@
         "seccion" : "5-anteriores"
     },
     {
-        "etiqueta" : "Clothes",
+        "nombre" : "Clothes",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
         "url" : "https://www.mep.go.cr/educatico/clothes",
         "ciclo" : ["II"],
@@ -300,7 +325,8 @@
 
 
     {
-        "etiqueta" : "The House",
+        "nombre" : "The House",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/theHouse-87.png",
         "url" : "https://www.mep.go.cr/educatico/house",
         "ciclo" : ["II"],
@@ -309,7 +335,8 @@
         "seccion" : "6-anteriores"
     },
     {
-        "etiqueta" : "Prepositions of place ",
+        "nombre" : "Prepositions of place ",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/prepositions_place-88.png",
         "url" : "https://www.mep.go.cr/educatico/prepositions-place",
         "ciclo" : ["II"],
@@ -319,7 +346,8 @@
     },
 
     {
-        "etiqueta" : "Food and Drinks",
+        "nombre" : "Food and Drinks",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/food_drinks-89.png",
         "url" : "https://www.mep.go.cr/educatico/food-and-drinks",
         "ciclo" : ["II"],
@@ -328,7 +356,8 @@
         "seccion" : "6-anteriores"
     },
     {
-        "etiqueta" : "Numbers 1 to 20",
+        "nombre" : "Numbers 1 to 20",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/numbers1to20-90.png",
         "url" : "https://www.mep.go.cr/educatico/numbers-1-20",
         "ciclo" : ["II"],
@@ -337,7 +366,8 @@
         "seccion" : "6-anteriores"
     },
     {
-        "etiqueta" : "Feelings",
+        "nombre" : "Feelings",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
         "url" : "https://www.mep.go.cr/educatico/feelings",
         "ciclo" : ["II"],
@@ -353,7 +383,8 @@
 
     
     {
-        "etiqueta" : "Colors and Shapes",
+        "nombre" : "Colors and Shapes",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/colorsShapes-92.png",
         "url" : "https://www.mep.go.cr/educatico/colors-and-shapes",
         "ciclo" : ["II"],
@@ -362,7 +393,7 @@
         "seccion" : "7-anteriores"
     },
     {
-        "etiqueta" : "Himnos Patrios de Costa Rica",
+        "nombre" : "Himnos Patrios de Costa Rica",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
         "url" : "https://www.mep.go.cr/educatico/himnos-patrios",
         "ciclo" : ["I","II","III","Diversificada"],
@@ -372,7 +403,7 @@
     },
 
     {
-        "etiqueta" : "Secretos de la Madre Tierra",
+        "nombre" : "Secretos de la Madre Tierra",
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
         "url" : "https://www.mep.go.cr/educatico/secretos-madre-tierra",
         "ciclo" : ["III"],

@@ -1,7 +1,7 @@
 [
     {
         "nombre" : "Le Marché Aux Verbes",
-        "etiqueta" : ["le marche aux verbes","frances"],
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/imgenes-2017.jpg",
         "url" : "https://www.mep.go.cr/educatico/le-marche-aux-verbes",
         "ciclo" : ["I", "II","III", "Diversificada" ],
@@ -10,7 +10,8 @@
         "seccion" : "1-2017"
     },
     {
-        "etiqueta" : "Match Verbal",
+        "nombre" : "Match Verbal",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/imgenes-2017.jpg",
         "url" : "https://www.mep.go.cr/educatico/match-verbal",
         "ciclo" : ["I", "II","III", "Diversificada" ],
@@ -19,7 +20,8 @@
         "seccion" : "1-2017"
     },
     {
-        "etiqueta" : "Leyendas de Costa Rica",
+        "nombre" : "Leyendas de Costa Rica",
+        "etiqueta" : [],
         "urlImg" :"http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/leyendascr.png",
         "url" : "https://www.mep.go.cr/educatico/leyendas-de-costa-rica",
         "ciclo" : ["III", "Diversificada" ],
@@ -28,7 +30,8 @@
         "seccion" : "1-2017"
     },
     {
-        "etiqueta" : "Rocking Verbs",
+        "nombre" : "Rocking Verbs",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/rocking_verbs.jpg",
         "url" : "https://www.mep.go.cr/educatico/rocking-verbs",
         "ciclo" : ["III" ],
@@ -37,7 +40,8 @@
         "seccion" : "1-2017"
     },
     {
-        "etiqueta" : "Kahoot: Cuestionarios y encuestas en línea",
+        "nombre" : "Kahoot: Cuestionarios y encuestas en línea",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/kahoot!.png",
         "url" : "https://www.mep.go.cr/educatico/kahoot",
         "ciclo" : ["General" ],
@@ -48,7 +52,8 @@
 
 
     {
-        "etiqueta" : "Plickers: Cuestionarios y encuestas en línea",
+        "nombre" : "Plickers: Cuestionarios y encuestas en línea",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/plickers.png",
         "url" : "https://www.mep.go.cr/educatico/plickers",
         "ciclo" : ["General" ],
@@ -57,7 +62,8 @@
         "seccion" : "2-2017"
     },
     {
-        "etiqueta" : "Galería Fotográfica",
+        "nombre" : "Galería Fotográfica",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/galeria_foto.png",
         "url" : "https://www.mep.go.cr/educatico/galeria",
         "ciclo" : ["General"],

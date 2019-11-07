@@ -1,6 +1,7 @@
 [
     {
-        "etiqueta" : "Parque de la Energía",
+        "nombre" : "Parque de la Energía",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/parque_energia.png",
         "url" : "https://www.mep.go.cr/educatico/parque-energia",
         "ciclo" : ["I", "II"],
@@ -9,7 +10,8 @@
         "seccion" : "1-otros"
     },
     {
-        "etiqueta" : "Emergencias y Prevención de Riesgos",
+        "nombre" : "Emergencias y Prevención de Riesgos",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/emergencias_prev.png",
         "url" : "https://www.mep.go.cr/educatico/emergencias-prevencion",
         "ciclo" : ["III"],
@@ -18,7 +20,8 @@
         "seccion" : "1-otros"
     },
     {
-        "etiqueta" : "El cuerpo humano",
+        "nombre" : "El cuerpo humano",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/cuerpo_humano.png",
         "url" : "https://www.mep.go.cr/educatico/cuerpo-humano",
         "ciclo" : ["II"],
@@ -27,7 +30,8 @@
         "seccion" : "1-otros"
     },
     {
-        "etiqueta" : "¿Sexo? ¿Sexualidad?",
+        "nombre" : "¿Sexo? ¿Sexualidad?",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/sexo_sexualidad.png",
         "url" : "https://www.mep.go.cr/educatico/sexo-sexualidad",
         "ciclo" : ["II"],
@@ -36,7 +40,8 @@
         "seccion" : "1-otros"
     },
     {
-        "etiqueta" : "Diseñe una figura humana",
+        "nombre" : "Diseñe una figura humana",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/disene-figura-humana.png",
         "url" : "https://www.mep.go.cr/educatico/disene-figura-humana",
         "ciclo" : ["II"],
@@ -50,7 +55,8 @@
 
 
     {
-        "etiqueta" : "Diseñemos un menú",
+        "nombre" : "Diseñemos un menú",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/disene-menu.png",
         "url" : "https://www.mep.go.cr/educatico/disenemos-menu",
         "ciclo" : ["I"],
@@ -60,7 +66,8 @@
     },
 
     {
-        "etiqueta" : "¿Dónde vamos? ¿Qué es salud?",
+        "nombre" : "¿Dónde vamos? ¿Qué es salud?",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/donde-vamos.png",
         "url" : "https://www.mep.go.cr/educatico/donde-vamos-que-es-salud",
         "ciclo" : ["I"],
@@ -70,7 +77,8 @@
     },
 
     {
-        "etiqueta" : "Arme la figura humana",
+        "nombre" : "Arme la figura humana",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/arme_figura.png",
         "url" : "https://www.mep.go.cr/educatico/arme-figura-humana",
         "ciclo" : ["I"],
@@ -80,7 +88,8 @@
     },
 
     {
-        "etiqueta" : "Desafío PJ verde",
+        "nombre" : "Desafío PJ verde",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/desafio_PJverde.png",
         "url" : "https://www.mep.go.cr/educatico/desafio-pj-verde",
         "ciclo" : ["II", "II"],
@@ -90,7 +99,8 @@
     },
 
     {
-        "etiqueta" : "Los pares perdidos",
+        "nombre" : "Los pares perdidos",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/pares_perdidos.png",
         "url" : "https://www.mep.go.cr/educatico/pares-perdidos",
         "ciclo" : ["II"],
@@ -104,7 +114,8 @@
 
 
     {
-        "etiqueta" : "Lo que se produce en Costa Rica",
+        "nombre" : "Lo que se produce en Costa Rica",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/LoqueseProduceenCR.png",
         "url" : "https://www.mep.go.cr/educatico/produce-costa-rica",
         "ciclo" : ["I"],
@@ -114,7 +125,8 @@
     },
 
     {
-        "etiqueta" : "Rechazo al matonismo o bullying",
+        "nombre" : "Rechazo al matonismo o bullying",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/rechazo-matonismo.png",
         "url" : "https://www.mep.go.cr/educatico/rechazo-matonismo-bullying",
         "ciclo" : ["I"],
@@ -124,7 +136,8 @@
     },
 
     {
-        "etiqueta" : "En la vía pública",
+        "nombre" : "En la vía pública",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/viapublica.png",
         "url" : "https://www.mep.go.cr/educatico/publica",
         "ciclo" : ["II"],
@@ -134,7 +147,8 @@
     },
   
     {
-        "etiqueta" : "¿Dónde estoy, hacia adónde voy? ",
+        "nombre" : "¿Dónde estoy, hacia adónde voy? ",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/donde-estoy.png",
         "url" : "https://www.mep.go.cr/educatico/donde-estoy-adonde-voy",
         "ciclo" : ["I"],
@@ -144,7 +158,8 @@
     },
 
         {
-        "etiqueta" : "De vuelta a nuestro pasado",
+        "nombre" : "De vuelta a nuestro pasado",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/vuelta_pasado.png",
         "url" : "https://www.mep.go.cr/educatico/vuelta-nuestro-pasado",
         "ciclo" : ["II"],
@@ -157,7 +172,8 @@
 
   
     {
-        "etiqueta" : "Justicia en acción",
+        "nombre" : "Justicia en acción",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/justicia-accion.png",
         "url" : "https://www.mep.go.cr/educatico/justicia-accion",
         "ciclo" : ["Diversificada"],
@@ -167,7 +183,8 @@
     },  
 
     {
-        "etiqueta" : "Trabajemos por fortalecer nuestra democracia representativa y participativa",
+        "nombre" : "Trabajemos por fortalecer nuestra democracia representativa y participativa",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/trabajemos-fortalecer.png",
         "url" : "https://www.mep.go.cr/educatico/trabajemos-democracia",
         "ciclo" : ["Diversificada"],
@@ -176,7 +193,8 @@
         "seccion" : "4-otros"
     },
     {
-        "etiqueta" : "Danny El Geko Moreno",
+        "nombre" : "Danny El Geko Moreno",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/elgeko.png",
         "url" : "https://www.mep.go.cr/educatico/danny-geko-moreno",
         "ciclo" : ["III, Diversificada"],
@@ -185,7 +203,8 @@
         "seccion" : "4-otros"
     },
     {
-        "etiqueta" : "Misión 35C",
+        "nombre" : "Misión 35C",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/mision35.png",
         "url" : "https://www.mep.go.cr/educatico/mision-35c",
         "ciclo" : ["II", "III"],
@@ -194,7 +213,8 @@
         "seccion" : "4-otros"
     },
     {
-        "etiqueta" : "Lógica en Español",
+        "nombre" : "Lógica en Español",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/logica_espanol.png",
         "url" : "https://www.mep.go.cr/educatico/logica-espanol",
         "ciclo" : ["III", "Diversificada"],
@@ -210,7 +230,8 @@
 
 
     {
-        "etiqueta" : "Jóvenes Banqueros",
+        "nombre" : "Jóvenes Banqueros",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/jovenes-banqueros.png",
         "url" : "https://www.mep.go.cr/educatico/jovenes-banqueros",
         "ciclo" : ["III"],
@@ -219,7 +240,8 @@
         "seccion" : "5-otros"
     },
      {
-        "etiqueta" : "Comunicación efectiva",
+        "nombre" : "Comunicación efectiva",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/comunic-efectiva.png",
         "url" : "https://www.mep.go.cr/educatico/comunicacion-efectiva",
         "ciclo" : ["I","II","III","Diversificada"],
@@ -228,7 +250,8 @@
         "seccion" : "5-otros"
     },
     {
-        "etiqueta" : "Toma de decisiones",
+        "nombre" : "Toma de decisiones",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/toma_decisiones.png",
         "url" : "https://www.mep.go.cr/educatico/toma-decisiones",
         "ciclo" : ["I","II","III","Diversificada"],
@@ -237,7 +260,8 @@
         "seccion" : "5-otros"
     },
     {
-        "etiqueta" : "Midiendo mi ciudad",
+        "nombre" : "Midiendo mi ciudad",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/midiendo_ciudad.png",
         "url" : "https://www.mep.go.cr/educatico/midiendo-mi-ciudad",
         "ciclo" : ["II"],
@@ -246,7 +270,8 @@
         "seccion" : "5-otros"
     },
     {
-        "etiqueta" : "Rompecabezas",
+        "nombre" : "Rompecabezas",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/rompecabezas.png",
         "url" : "https://www.mep.go.cr/educatico/rompecabezas",
         "ciclo" : ["II"],
@@ -262,7 +287,8 @@
 
     
     {
-        "etiqueta" : "La búsqueda de la simetría",
+        "nombre" : "La búsqueda de la simetría",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/busqueda-simet.png",
         "url" : "https://www.mep.go.cr/educatico/busqueda-simetria",
         "ciclo" : ["II"],
@@ -271,7 +297,8 @@
         "seccion" : "6-otros"
     },
     {
-        "etiqueta" : "Interpretando datos",
+        "nombre" : "Interpretando datos",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/interp_datos.png",
         "url" : "https://www.mep.go.cr/educatico/interpretando-datos",
         "ciclo" : ["I"],
@@ -280,7 +307,8 @@
         "seccion" : "6-otros"
     },
     {
-        "etiqueta" : "La lista de los mandados",
+        "nombre" : "La lista de los mandados",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/lista_mandados.png",
         "url" : "https://www.mep.go.cr/educatico/lista-mandados",
         "ciclo" : ["I"],
@@ -290,7 +318,8 @@
     },
     
     {
-        "etiqueta" : "Trazando el cuerpo humano",
+        "nombre" : "Trazando el cuerpo humano",
+        "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/trazando_cuerpo.png",
         "url" : "https://www.mep.go.cr/educatico/trazando-cuerpo-humano",
         "ciclo" : ["I"],

@@ -1,6 +1,7 @@
 [
     {
-        "etiqueta" : "Mi Historia Mi Herencia",
+        "nombre" : "Mi Historia Mi Herencia",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/mihistoria_herencia-01.jpg",
         "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
         "ciclo" : ["I", "II" ],
@@ -9,7 +10,8 @@
         "seccion" : "1-2018"
     },
     {
-        "etiqueta" : "Propuesta Abordaje Plan",
+        "nombre" : "Propuesta Abordaje Plan",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/prop_abordaje-07.jpg",
         "url" : "https://www.mep.go.cr/educatico/propuesta-abordaje-ejemplos-planeamiento",
         "ciclo" : ["I", "II" ],
@@ -18,7 +20,8 @@
         "seccion" : "1-2018"
     },
     {
-        "etiqueta" : "Aventura de Chantli",
+        "nombre" : "Aventura de Chantli",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/aventura_chantli-10.jpg",
         "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
         "ciclo" : ["III", "Diversificada" ],
@@ -27,7 +30,8 @@
         "seccion" : "1-2018"
     },
     {
-        "etiqueta" : "Matrícula Preescolar 2019",
+        "nombre" : "Matrícula Preescolar 2019",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/matricula_preescolar-13.jpg",
         "url" : "",
         "ciclo" : ["Primera Infancias" ],
@@ -36,7 +40,8 @@
         "seccion" : "1-2018"
     },
     {
-        "etiqueta" : "Un Viaje por Costa Rica",
+        "nombre" : "Un Viaje por Costa Rica",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/viaje_porcostarica-16.jpg",
         "url" : "https://www.mep.go.cr/educatico/un-viaje-costa-rica",
         "ciclo" : ["II" ],
@@ -50,7 +55,8 @@
 
 
     {
-        "etiqueta" : "Krei",
+        "nombre" : "Krei",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/krei-19.jpg",
         "url" : "https://www.mep.go.cr/educatico/krei",
         "ciclo" : ["III", "Diversificada" ],
@@ -60,7 +66,8 @@
     },
 
     {
-        "etiqueta" : "Portal de Español",
+        "nombre" : "Portal de Español",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/imgenes-2018.jpg",
         "url" : "https://www.mep.go.cr/educatico/portal-espanol",
         "ciclo" : ["I", "II" ],
@@ -70,7 +77,8 @@
     },
 
     {
-        "etiqueta" : "Templo de las Mil Puertas",
+        "nombre" : "Templo de las Mil Puertas",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/templo_milpuertas-08.jpg",
         "url" : "https://www.mep.go.cr/educatico/templo-mil-puertas",
         "ciclo" : ["II" ],
@@ -80,7 +88,8 @@
     },
 
     {
-        "etiqueta" : "Olimpiadas matemáticas: Cuadernillos para docentes y estudiantes",
+        "nombre" : "Olimpiadas matemáticas: Cuadernillos para docentes y estudiantes",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/olimp_mate-05.jpg",
         "url" : "https://www.mep.go.cr/educatico/olimpiadas-matematicas-cuadernillos",
         "ciclo" : ["I", "II" ],
@@ -90,7 +99,8 @@
     },
 
     {
-        "etiqueta" : "Catálogo de Educación Abierta Alfabetización-Matemáticas",
+        "nombre" : "Catálogo de Educación Abierta Alfabetización-Matemáticas",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/imgenes-2018.jpg",
         "url" : "https://www.mep.go.cr/educatico/catalogo-educacion-abierta-alfabetizacion-matematicas",
         "ciclo" : ["Educación Abierta" ],
@@ -104,7 +114,8 @@
 
 
     {
-        "etiqueta" : "El Metiche",
+        "nombre" : "El Metiche",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/elmetiche-02.jpg",
         "url" : "https://www.mep.go.cr/educatico/metiche",
         "ciclo" : ["Educación Diversificada"],
@@ -114,7 +125,8 @@
     },
 
     {
-        "etiqueta" : "Guía Sétimo Inglés",
+        "nombre" : "Guía Sétimo Inglés",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/guia_setimo-17.jpg",
         "url" : "https://www.mep.go.cr/educatico/recursos-guia-setimo-ano",
         "ciclo" : ["III" ],
@@ -124,7 +136,8 @@
     },
 
     {
-        "etiqueta" : "Guía Octavo Inglés",
+        "nombre" : "Guía Octavo Inglés",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/guia_octavo-20.jpg",
         "url" : "https://www.mep.go.cr/educatico/recursos-guia-octavo-ano",
         "ciclo" : ["III" ],
@@ -134,7 +147,8 @@
     },
   
     {
-        "etiqueta" : "Liceos Experimentales Bilingues y Grupos Bilingues",
+        "nombre" : "Liceos Experimentales Bilingues y Grupos Bilingues",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/exp_bilingues-03.jpg",
         "url" : "https://www.mep.go.cr/educatico/liceos-experimentales-bilingues",
         "ciclo" : ["III", "Diversificada" ],
@@ -144,7 +158,8 @@
     },
 
         {
-        "etiqueta" : "Sitio de Recursos Guía Primaria",
+        "nombre" : "Sitio de Recursos Guía Primaria",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/guia_primaria-09.jpg",
         "url" : "https://www.mep.go.cr/educatico/recursos-guia-primaria",
         "ciclo" : ["I", "II" ],
@@ -157,7 +172,8 @@
 
   
     {
-        "etiqueta" : "Flora and Fauna in Costa Rica",
+        "nombre" : "Flora and Fauna in Costa Rica",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/flora_fauna-06.jpg",
         "url" : "https://www.mep.go.cr/educatico/flora-and-fauna-costa-rica",
         "ciclo" : ["I", "II" ],
@@ -167,7 +183,8 @@
     },  
 
     {
-        "etiqueta" : "Holidays Around the World",
+        "nombre" : "Holidays Around the World",
+        "etiqueta" : [  ], 
         "urlImg" : "  http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/holidays_festivals-12.jpg",
         "url" : "https://www.mep.go.cr/educatico/holidays-around-world",
         "ciclo" : ["III", "Diversificada" ],
@@ -176,7 +193,8 @@
         "seccion" : "4-2018"
     },
     {
-        "etiqueta" : "Costa Rica Pura Vida in Many Ways",
+        "nombre" : "Costa Rica Pura Vida in Many Ways",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/costarica_puravida-15.jpg",
         "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
         "ciclo" : ["I", "Diversificada" ],
@@ -185,7 +203,8 @@
         "seccion" : "4-2018"
     },
     {
-        "etiqueta" : "Verbs Fair",
+        "nombre" : "Verbs Fair",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/verbs_fair-18.jpg",
         "url" : "https://www.mep.go.cr/educatico/costa-rica-pura-vida-many-ways",
         "ciclo" : ["I", "II","III","Diversificada" ],
@@ -194,7 +213,8 @@
         "seccion" : "4-2018"
     },
     {
-        "etiqueta" : "Follow me!",
+        "nombre" : "Follow me!",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/follome-04.jpg",
         "url" : "https://www.mep.go.cr/educatico/follow-me",
         "ciclo" : ["I", "II" ],
@@ -207,7 +227,8 @@
 
 
     {
-        "etiqueta" : "Orientaciones para los procesos de evaluación de los aprendizajes",
+        "nombre" : "Orientaciones para los procesos de evaluación de los aprendizajes",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/proc_evaluacion-11.jpg",
         "url" : "https://www.mep.go.cr/educatico/orientaciones-procesos-evaluacion-aprendizajes",
         "ciclo" : ["General" ],
@@ -216,7 +237,8 @@
         "seccion" : "5-2018"
     },
     {
-        "etiqueta" : "Prácticas para bachillerato a tu medida #2",
+        "nombre" : "Prácticas para bachillerato a tu medida #2",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/pract_bachi-14.jpg",
         "url" : "https://www.mep.go.cr/educatico/practicas-bachillerato-tu-medida-2",
         "ciclo" : ["III", "Diversificada" ],
@@ -226,7 +248,8 @@
     },
 
     {
-        "etiqueta" : "Piensa en Arte",
+        "nombre" : "Piensa en Arte",
+        "etiqueta" : [  ], 
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/piensa_enarte-21.jpg",
         "url" : "https://www.mep.go.cr/educatico/sitio-piensa-arte-espanol",
         "ciclo" : ["II", "II" ],
