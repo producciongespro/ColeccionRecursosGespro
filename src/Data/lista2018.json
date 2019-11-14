@@ -214,7 +214,7 @@
     },
     {
         "nombre" : "Follow me!",
-        "etiqueta" : [  ], 
+        "etiqueta" :  ["Follow me"," inglés"," english"," aplicación gratuita en inglés"," free application for English","   patrones de vocabulario"," cvc words"," English pronunciation"," English vocabulary"," following patterns","game","grammar"," vocabulario"," android","app","apps" ],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/follome-04.jpg",
         "url" : "https://www.mep.go.cr/educatico/follow-me",
         "ciclo" : ["I", "II" ],

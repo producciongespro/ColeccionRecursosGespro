@@ -308,7 +308,7 @@
     },
     {
         "nombre" : "La lista de los mandados",
-        "etiqueta" : [],
+        "etiqueta" :   ["La lista de los mandados"," cuerpos sólidos","esfera","geometría","prismas","triángulo"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/lista_mandados.png",
         "url" : "https://www.mep.go.cr/educatico/lista-mandados",
         "ciclo" : ["I"],
@@ -319,7 +319,7 @@
     
     {
         "nombre" : "Trazando el cuerpo humano",
-        "etiqueta" : [],
+        "etiqueta" :   ["Trazando el cuerpo humano"," borde","exterior","figuras","geometría","interior","líneas curvas","líneas mixtas","líneas quebradas","líneas rectas" ],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/trazando_cuerpo.png",
         "url" : "https://www.mep.go.cr/educatico/trazando-cuerpo-humano",
         "ciclo" : ["I"],
