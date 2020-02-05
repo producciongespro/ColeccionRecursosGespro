@@ -32,7 +32,7 @@
     {
         "nombre" : "Vida Clips",
         "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/vida_clips.png",
         "url" : "https://www.mep.go.cr/educatico/vida-clips",
         "ciclo" : ["III", "Diversificada" ],
         "materia" : "Religión",
@@ -42,7 +42,7 @@
     {
         "nombre" : "Sucesiones y patrones ",
         "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/sucesiones_patrones-63.png",
         "url" : "https://www.mep.go.cr/educatico/sucesiones-patrones",
         "ciclo" : ["II" ],
         "materia" : "Matemáticas",
@@ -58,7 +58,7 @@
     {
         "nombre" : "English mini books: First Cicle",
         "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/english_minibooks-97.png",
         "url" : "https://www.mep.go.cr/educatico/english-mini-books-first-cycle",
         "ciclo" : ["I", "II" ],
         "materia" : "Inglés",
@@ -68,7 +68,7 @@
     {
         "nombre" : "Sitio de Recursos Guía Noveno Año Inglés",
         "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/sitio_9no.png",
         "url" : "https://www.mep.go.cr/educatico/recursos-guia-noveno-ano",
         "ciclo" : ["III" ],
         "materia" : "Inglés",
@@ -78,7 +78,7 @@
     {
         "nombre" : "Plataforma Oferta Educativa",
         "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/plataforma_ed.png",
         "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
         "ciclo" : ["I", "II", "III", "Diversificada" ],
         "materia" : "General",
@@ -88,7 +88,7 @@
     {
         "nombre" : "Orienta2",
         "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/orienta2.png",
         "url" : "https://orienta2.mep.go.cr/",
         "ciclo" : ["III", "Diversificada"],
         "materia" : "Orientación",
@@ -98,7 +98,7 @@
     {
         "nombre" : "Matricula Preescolar-2020",
         "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/matricula_preesc2020.png",
         "url" : "https://www.mep.go.cr/educatico/matricula-preescolar-2020",
         "ciclo" : ["Primera Infancia" ],
         "materia" : "Preescolar",
@@ -113,7 +113,7 @@
     {
         "nombre" : "Digital Resources Blog For Teachers and Students",
         "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/digitalres_log-102.png",
         "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
         "ciclo" : ["I", "II", "III"],
         "materia" : "Inglés",
@@ -123,7 +123,7 @@
     {
         "nombre" : "Cientec-Tendencias 2019",
         "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/imgenes-2019.jpg",
+        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/cientec_tend2019-103.png",
         "url" : "https://www.mep.go.cr/educatico/digital-resources",
         "ciclo" : ["I", "II", "III", "Diversificada" ],
         "materia" : "General",
