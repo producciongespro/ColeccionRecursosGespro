@@ -279,7 +279,7 @@
         "nombre" : "Watch Out!",
         "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-        "url" : "",
+        "url" : "nulo",
         "ciclo" : ["I"],
         "materia" : "Inglés ",
         "comentarios" : "",
