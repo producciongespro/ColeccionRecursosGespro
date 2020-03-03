@@ -11,7 +11,7 @@
     },
     {
         "nombre": "Match Verbal",
-        "etiqueta": ["Match-Verbal","espagnol","temps de verbe","tiempos verbales","présent","temps","verbaux"," francés","futur simple","pass composé","application  educative","aplicación educativa","conjugación de verbos","conjugaison des verbes","android","app","apps","espagnol"],
+        "etiqueta": ["Match-Verbal","espagnol","temps de verbe","tiempos verbales","présent","temps","verbaux","francés","futur simple","pass composé","application  educative","aplicación educativa","conjugación de verbos","conjugaison des verbes","android","app","apps","espagnol"],
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/matchVerbal-24.png",
         "url": "https://www.mep.go.cr/educatico/match-verbal",
         "ciclo": ["I", "II","III", "Diversificada"],
@@ -69,7 +69,7 @@
         "ciclo": ["General"],
         "materia": "General",
         "comentarios": "",
-        "seccion": "2-2017"  
+        "seccion": "2-2017"
     }
 
 
