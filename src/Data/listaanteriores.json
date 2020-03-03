@@ -86,7 +86,7 @@
 
     {
         "nombre" : "Energía embotellada",
-        "etiqueta" : [],
+        "etiqueta" : ["Energía embotellada","demostraciones","energía concepto","experimentos","indagación"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/energ_embotellada-72.png",
         "url" : "https://www.mep.go.cr/educatico/energia-embotellada",
         "ciclo" : ["II"],
@@ -97,7 +97,7 @@
 
     {
         "nombre" : "La cultura de las Tres Rs",
-        "etiqueta" : [],
+        "etiqueta" : ["La cultura de las Tres Rs","3Rs","Carmen Enid Jiménez Araya","Geovanna Dávila Monge","reciclar","reducir","rehusar","Roberto Céspedes Porras"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/3r-73.png",
         "url" : "https://www.mep.go.cr/educatico/cultura-tres-rs",
         "ciclo" : ["II","III"],
@@ -108,7 +108,7 @@
 
     {
         "nombre" : "Ramas de la ciencia",
-        "etiqueta" : [],
+        "etiqueta" :   ["Ramas de la ciencia","biología","calidad de vida","botánica","zoologia","ecología","citología"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/ciencias_biolo-75.png",
         "url" : "https://www.mep.go.cr/educatico/ramas-de-la-ciencia",
         "ciclo" : ["III"],
@@ -137,7 +137,7 @@
 
     {
         "nombre" : "La Odisea: viaje exploratorio con teatro de sombras y muñecos",
-        "etiqueta" : [],
+        "etiqueta" :   ["La Odisea: viaje exploratorio con teatro de sombras y muñecos","mitología","Odiseo","Penélope"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/odisea-74.png",
         "url" : "https://www.mep.go.cr/educatico/la-odisea-viaje-exploratorio-con-teatro-de-sombras-y-munecos",
         "ciclo" : ["Diversificada"],
@@ -148,7 +148,7 @@
 
     {
         "nombre" : "Finca Las Soniletras",
-        "etiqueta" : [],
+        "etiqueta" :   ["Finca Las Soniletras","abecedario","conciencia fonológica","consonantes","letras","palabras","sílabas","sonidos","vocales"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/soniletras-76.png",
         "url" : "https://www.mep.go.cr/educatico/finca-soniletras",
         "ciclo" : ["I"],
@@ -159,7 +159,7 @@
 
     {
         "nombre" : "Sitio: Videoteca Español Educación Abierta",
-        "etiqueta" : [],
+        "etiqueta" : ["Videoteca Español Educación Abierta","educación abierta","educación adultos","vídeos español"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/videoteca-77.png",
         "url" : "https://www.mep.go.cr/educatico/videoteca-espanol-educacion-abierta",
         "ciclo" : ["III","Diversificada"],
@@ -170,7 +170,7 @@
   
     {
         "nombre" : "Catálogo de Educación Abierta Matemáticas-III Ciclo",
-        "etiqueta" : [],
+        "etiqueta" :   ["Catálogo de Educación Abierta Matemáticas-III Ciclo","adultos","álgebra","bachillerato","educación abierta","geometría","matemática","relaciones y álgebra","Térraba","Ujarrás","Zapandí"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/educ_ab-78.png",
         "url" : "https://www.mep.go.cr/educatico/catalogo-educacion-abierta-matematicas-iii-ciclo",
         "ciclo" : ["Educación Abierta"],
@@ -181,7 +181,7 @@
 
         {
             "nombre" : "Catálogo de Educación Abierta Matemáticas-Secundaria",
-            "etiqueta" : [],
+            "etiqueta" :["Catálogo de Educación Abierta Matemáticas-Secundaria","adultos","álgebra","bachillerato","educación abierta","estadística","funciones","geometría","matemática","probabilidad","recursos","relaciones y álgebra","secundaria"],
             "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/educ_abII-79.png",
             "url" : "https://www.mep.go.cr/educatico/educ-abierta-matematicas-secundaria",
             "ciclo" : ["Educación Abierta"],
