@@ -77,7 +77,7 @@
     },
     {
         "nombre": "Plataforma Oferta Educativa",
-        "etiqueta": [],
+        "etiqueta": ["Plataforma Nacional de la Oferta Educativa de Costa Rica","mep","ina","universidades públicas","universidades","conesup"],
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/plataforma_ed.png",
         "url": "http://www.ofertaeducativanacional.mep.go.cr/",
         "ciclo": ["I", "II", "III", "Diversificada"],
@@ -87,7 +87,7 @@
     },
     {
         "nombre": "Orienta2",
-        "etiqueta": [],
+        "etiqueta": ["Orienta2","orientacion","orientación","vocacional","carreras","habilidades","educación tecnica","educacion tecnica","que puedo estudiar","emprendimiento"],
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/orienta2.png",
         "url": "https://orienta2.mep.go.cr/",
         "ciclo": ["III", "Diversificada"],
@@ -97,7 +97,7 @@
     },
     {
         "nombre": "Matricula Preescolar-2020",
-        "etiqueta": [],
+        "etiqueta":   ["Matricula Preescolar-2020","ciclo materno infantil","Departamento de Educación de la Primera Infancia","grupo interactivo","Luis Chacón","matrícula","Ofelia Montoya","Oscar Pérez","Patricia Hernández","preescolar","reglamento","requisitos","sitio","uniforme"],
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/matricula_preesc2020.png",
         "url": "https://www.mep.go.cr/educatico/matricula-preescolar-2020",
         "ciclo": ["Primera Infancia"],
@@ -112,7 +112,7 @@
 
     {
         "nombre": "Digital Resources Blog For Teachers and Students",
-        "etiqueta": [],
+        "etiqueta":   ["Digital Resources Blog For Teachers and Students","digital resources","english","enseñanza del inglés","enseñaza del inglés","inglés","Katherine Williams Jiménez","MEP","new english curriculum","oral and written comprehension","oral and written production","recursos digitale"],
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/digitalres_log-102.png",
         "url": "https://www.mep.go.cr/educatico/digital-resources",
         "ciclo": ["I", "II", "III"],
@@ -122,7 +122,7 @@
     },
     {
         "nombre": "Cientec-Tendencias 2019",
-        "etiqueta": [],
+        "etiqueta": ["cientec-2019","cientec-tecnología","recursos","realidad aumentada","realidad","virtual","tendencias tencnológica"],
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/cientec_tend2019-103.png",
         "url": "https://recursos.mep.go.cr/2019/cientec-exploratorio/",
         "ciclo": ["I", "II", "III", "Diversificada"],
