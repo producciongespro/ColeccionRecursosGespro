@@ -11,7 +11,7 @@
     },
     {
         "nombre": "Kugwe nemani bare meguera Costa Rica tigani ngäbere",
-        "etiqueta": [],
+        "etiqueta": ["Kugwe nemani bare meguera Costa Rica tigani ngäbere","Anancy","costumbres","ejercicios de comprensión lectora","iztarú","lengua ngäbere","leyendas","leyendas de Costa Rica","San Isidro de San Ramon","tradiciones de Costa Rica","Turrialba","Turrialba btä"],
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/leyendas_CR.png",
         "url": "https://www.mep.go.cr/educatico/leyendas-ngabere",
         "ciclo": ["III", "Diversificada"],
@@ -21,7 +21,7 @@
     },
     {
         "nombre": "Cuenticos",
-        "etiqueta": [],
+        "etiqueta": ["Cuenticos","ciencia ficción","cuento","escritura creativa","español","fantástico","maravilloso","producción","producción textual","realista","suspenso"],
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/cuenticos.png",
         "url": "https://www.mep.go.cr/educatico/cuenticos",
         "ciclo": ["I", "II", "III"],
@@ -31,7 +31,7 @@
     },
     {
         "nombre": "Vida Clips",
-        "etiqueta": [],
+        "etiqueta": ["Vida Clips","bullying","deserción","desorden alimenticio","drogadicción","farándula","hedonismo","nadie me entiende","ninis","pandillas","peligros de internet","rebeldía","religión","sexualidad","suicidio","toma de decisiones","trascendencia","tribus urbanas","vida","vídeos"],
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/vida_clips.png",
         "url": "https://www.mep.go.cr/educatico/vida-clips",
         "ciclo": ["III", "Diversificada"],
@@ -41,7 +41,7 @@
     },
     {
         "nombre": "Sucesiones y patrones ",
-        "etiqueta": [],
+        "etiqueta":   ["Sucesiones y patrone ","android","app","apps","IOS","matemáticas","números","patrones","relaciones y álgebra","sucesiones"],
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/sucesiones_patrones-63.png",
         "url": "https://www.mep.go.cr/educatico/sucesiones-patrones",
         "ciclo": ["II"],
@@ -57,7 +57,7 @@
 
     {
         "nombre": "English mini books: First Cicle",
-        "etiqueta": [],
+        "etiqueta": ["English mini books: First Cicle","english","first cycle","first grade","inglés","inglés primaria","libritos de inglés","mini books","new english curriculum","primer ciclo","second grade","third grade"],
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/english_minibooks-97.png",
         "url": "https://www.mep.go.cr/educatico/english-mini-books-first-cycle",
         "ciclo": ["I", "II"],
@@ -67,7 +67,7 @@
     },
     {
         "nombre": "Sitio de Recursos Guía Noveno Año Inglés",
-        "etiqueta": [],
+        "etiqueta":   ["Sitio de Recursos Guía Noveno Año","guia 9","9","english","inglés","ninth grade","noveno","nuevos programas","recursos Inglés","secundaria","sitio"],
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/sitio_9no.png",
         "url": "https://www.mep.go.cr/educatico/recursos-guia-noveno-ano",
         "ciclo": ["III"],
