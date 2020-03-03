@@ -1,134 +1,134 @@
 [
     {
-        "nombre" : "Micro Dialogues Outils pour classe FLE",
-        "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/outils.png",
-        "url" : "https://www.mep.go.cr/educatico/micro-dialogues-outils-pour-classe-fle",
-        "ciclo" : ["I", "II", "III", "Diversificada" ],
-        "materia" : "Francés",
-        "comentarios" : "",
-        "seccion" : "1-2019"
+        "nombre": "Micro Dialogues Outils pour classe FLE",
+        "etiqueta": [],
+        "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/outils.png",
+        "url": "https://www.mep.go.cr/educatico/micro-dialogues-outils-pour-classe-fle",
+        "ciclo": ["I", "II", "III", "Diversificada"],
+        "materia": "Francés",
+        "comentarios": "",
+        "seccion": "1-2019"
     },
     {
-        "nombre" : "Kugwe nemani bare meguera Costa Rica tigani ngäbere",
-        "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/leyendas_CR.png",
-        "url" : "https://www.mep.go.cr/educatico/leyendas-ngabere",
-        "ciclo" : ["III", "Diversificada" ],
-        "materia" : "Interculturalidad",
-        "comentarios" : "",
-        "seccion" : "1-2019"
+        "nombre": "Kugwe nemani bare meguera Costa Rica tigani ngäbere",
+        "etiqueta": [],
+        "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/leyendas_CR.png",
+        "url": "https://www.mep.go.cr/educatico/leyendas-ngabere",
+        "ciclo": ["III", "Diversificada"],
+        "materia": "Interculturalidad",
+        "comentarios": "",
+        "seccion": "1-2019"
     },
     {
-        "nombre" : "Cuenticos",
-        "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/cuenticos.png",
-        "url" : "https://www.mep.go.cr/educatico/cuenticos",
-        "ciclo" : ["I", "II", "III"  ],
-        "materia" : "Español",
-        "comentarios" : "",
-        "seccion" : "1-2019"
+        "nombre": "Cuenticos",
+        "etiqueta": [],
+        "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/cuenticos.png",
+        "url": "https://www.mep.go.cr/educatico/cuenticos",
+        "ciclo": ["I", "II", "III"],
+        "materia": "Español",
+        "comentarios": "",
+        "seccion": "1-2019"
     },
     {
-        "nombre" : "Vida Clips",
-        "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/vida_clips.png",
-        "url" : "https://www.mep.go.cr/educatico/vida-clips",
-        "ciclo" : ["III", "Diversificada" ],
-        "materia" : "Religión",
-        "comentarios" : "",
-        "seccion" : "1-2019"
+        "nombre": "Vida Clips",
+        "etiqueta": [],
+        "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/vida_clips.png",
+        "url": "https://www.mep.go.cr/educatico/vida-clips",
+        "ciclo": ["III", "Diversificada"],
+        "materia": "Religión",
+        "comentarios": "",
+        "seccion": "1-2019"
     },
     {
-        "nombre" : "Sucesiones y patrones ",
-        "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/sucesiones_patrones-63.png",
-        "url" : "https://www.mep.go.cr/educatico/sucesiones-patrones",
-        "ciclo" : ["II" ],
-        "materia" : "Matemáticas",
-        "comentarios" : "",
-        "seccion" : "1-2019"
-    },
-
-
-
-
-
-
-    {
-        "nombre" : "English mini books: First Cicle",
-        "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/english_minibooks-97.png",
-        "url" : "https://www.mep.go.cr/educatico/english-mini-books-first-cycle",
-        "ciclo" : ["I", "II" ],
-        "materia" : "Inglés",
-        "comentarios" : "",
-        "seccion" : "2-2019"
-    },
-    {
-        "nombre" : "Sitio de Recursos Guía Noveno Año Inglés",
-        "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/sitio_9no.png",
-        "url" : "https://www.mep.go.cr/educatico/recursos-guia-noveno-ano",
-        "ciclo" : ["III" ],
-        "materia" : "Inglés",
-        "comentarios" : "",
-        "seccion" : "2-2019"
-    },
-    {
-        "nombre" : "Plataforma Oferta Educativa",
-        "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/plataforma_ed.png",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II", "III", "Diversificada" ],
-        "materia" : "General",
-        "comentarios" : "",
-        "seccion" : "2-2019"
-    },
-    {
-        "nombre" : "Orienta2",
-        "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/orienta2.png",
-        "url" : "https://orienta2.mep.go.cr/",
-        "ciclo" : ["III", "Diversificada"],
-        "materia" : "Orientación",
-        "comentarios" : "",
-        "seccion" : "2-2019"
-    },
-    {
-        "nombre" : "Matricula Preescolar-2020",
-        "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/matricula_preesc2020.png",
-        "url" : "https://www.mep.go.cr/educatico/matricula-preescolar-2020",
-        "ciclo" : ["Primera Infancia" ],
-        "materia" : "Preescolar",
-        "comentarios" : "",
-        "seccion" : "2-2019"
+        "nombre": "Sucesiones y patrones ",
+        "etiqueta": [],
+        "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/sucesiones_patrones-63.png",
+        "url": "https://www.mep.go.cr/educatico/sucesiones-patrones",
+        "ciclo": ["II"],
+        "materia": "Matemáticas",
+        "comentarios": "",
+        "seccion": "1-2019"
     },
 
 
 
 
 
+
     {
-        "nombre" : "Digital Resources Blog For Teachers and Students",
-        "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/digitalres_log-102.png",
-        "url" : "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
-        "ciclo" : ["I", "II", "III"],
-        "materia" : "Inglés",
-        "comentarios" : "",
-        "seccion" : "3-2019"
+        "nombre": "English mini books: First Cicle",
+        "etiqueta": [],
+        "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/english_minibooks-97.png",
+        "url": "https://www.mep.go.cr/educatico/english-mini-books-first-cycle",
+        "ciclo": ["I", "II"],
+        "materia": "Inglés",
+        "comentarios": "",
+        "seccion": "2-2019"
     },
     {
-        "nombre" : "Cientec-Tendencias 2019",
-        "etiqueta" : [],
-        "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/cientec_tend2019-103.png",
-        "url" : "https://recursos.mep.go.cr/2019/cientec-exploratorio/",
-        "ciclo" : ["I", "II", "III", "Diversificada" ],
-        "materia" : "General",
-        "comentarios" : "",
-        "seccion" : "3-2019"
+        "nombre": "Sitio de Recursos Guía Noveno Año Inglés",
+        "etiqueta": [],
+        "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/sitio_9no.png",
+        "url": "https://www.mep.go.cr/educatico/recursos-guia-noveno-ano",
+        "ciclo": ["III"],
+        "materia": "Inglés",
+        "comentarios": "",
+        "seccion": "2-2019"
+    },
+    {
+        "nombre": "Plataforma Oferta Educativa",
+        "etiqueta": [],
+        "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/plataforma_ed.png",
+        "url": "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
+        "ciclo": ["I", "II", "III", "Diversificada"],
+        "materia": "General",
+        "comentarios": "",
+        "seccion": "2-2019"
+    },
+    {
+        "nombre": "Orienta2",
+        "etiqueta": [],
+        "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/orienta2.png",
+        "url": "https://orienta2.mep.go.cr/",
+        "ciclo": ["III", "Diversificada"],
+        "materia": "Orientación",
+        "comentarios": "",
+        "seccion": "2-2019"
+    },
+    {
+        "nombre": "Matricula Preescolar-2020",
+        "etiqueta": [],
+        "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/matricula_preesc2020.png",
+        "url": "https://www.mep.go.cr/educatico/matricula-preescolar-2020",
+        "ciclo": ["Primera Infancia"],
+        "materia": "Preescolar",
+        "comentarios": "",
+        "seccion": "2-2019"
+    },
+
+
+
+
+
+    {
+        "nombre": "Digital Resources Blog For Teachers and Students",
+        "etiqueta": [],
+        "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/digitalres_log-102.png",
+        "url": "https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
+        "ciclo": ["I", "II", "III"],
+        "materia": "Inglés",
+        "comentarios": "",
+        "seccion": "3-2019"
+    },
+    {
+        "nombre": "Cientec-Tendencias 2019",
+        "etiqueta": [],
+        "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/cientec_tend2019-103.png",
+        "url": "https://recursos.mep.go.cr/2019/cientec-exploratorio/",
+        "ciclo": ["I", "II", "III", "Diversificada"],
+        "materia": "General",
+        "comentarios": "",
+        "seccion": "3-2019"
     }
     
 
