@@ -1,7 +1,7 @@
 [
     {
         "nombre" : "Pintando Ideas",
-        "etiqueta" : [],
+        "etiqueta" :   ["Pintando ideas","anarquismo"," biografías"," ideologías"," liberalismo"," socialcristianismo"," socialdemocracia"," socialismo"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/pintando_ideas-65.png",
         "url" : "https://www.mep.go.cr/educatico/pintando-ideas",
         "ciclo" : ["III","Diversificada"],
@@ -11,7 +11,7 @@
     },
     {
         "nombre" : "Regiones socieconómicas de Costa Rica",
-        "etiqueta" : [],
+        "etiqueta" :   ["Regiones socieconómicas de Costa Rica","brunca","central","chorotega","clima","economía","fauna","huetar atlántica","huetar norte","pacífico central","problemática regional","relieve","vegetación"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/region_socio-66.png",
         "url" : "https://www.mep.go.cr/educatico/regiones",
         "ciclo" : ["III"],
@@ -21,7 +21,7 @@
     },
     {
         "nombre" : "Clima y tiempo atmosférico",
-        "etiqueta" : [],
+        "etiqueta" :   ["Clima y tiempo atmosférico","elementos del clima","factores del clima","pisos térmicos"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/clima_tiempo-67.png",
         "url" : "https://www.mep.go.cr/educatico/clima-tiempo",
         "ciclo" : ["Diversificada"],
@@ -31,7 +31,7 @@
     },
     {
         "nombre" : "Tesoros del Museo Nacional",
-        "etiqueta" : [],
+        "etiqueta" : ["Tesoros del Museo Nacional","arte","comandante","cuartel","historia","historia precolombina","museo nacional","precolombino","tour virtual"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/tesoros_museo-68.png",
         "url" : "https://www.mep.go.cr/educatico/museo-nacional",
         "ciclo" : ["I","II","III","Diversificada"],
@@ -41,7 +41,7 @@
     },
     {
         "nombre" : "Las Artes Plásticas",
-        "etiqueta" : [],
+        "etiqueta" : ["Las Artes Plásticas","arte","artes plásticas","Bellas Artes","cultura","expresión","técnicas"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/artes_plasticas-69.png",
         "url" : "https://www.mep.go.cr/educatico/artes-plasticas",
         "ciclo" : ["I","II"],
@@ -64,7 +64,7 @@
 
     {
         "nombre" : "A Dibujar Popets",
-        "etiqueta" : [],
+        "etiqueta" : ["A Dibujar Popets","dibujo","habilidad","Walter Conejo Carballo"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/popets-70.png",
         "url" : "https://www.mep.go.cr/educatico/dibujar-popets",
         "ciclo" : ["I","II"],
@@ -75,7 +75,7 @@
 
     {
         "nombre" : "Principales ecosistemas de Costa Rica",
-        "etiqueta" : [],
+        "etiqueta" :   ["Principales Ecosistemas de Costa Rica","bosques","ecosistema","fauna","flora","húmedad","húmedo","lluvioso","nuboso","páramo","precipitación","seco","temperatura","tour virtual","zonas de vida"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/ecostistemas-71.png",
         "url" : "https://www.mep.go.cr/educatico/ecosistemas",
         "ciclo" : ["II","Diversificada"],
