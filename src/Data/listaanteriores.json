@@ -219,7 +219,7 @@
 
     {
         "nombre" : "Cuento Triana",
-        "etiqueta" : [],
+        "etiqueta" : ["Cuento Triana","audio","cuentos","diagonales","geometría","mate","matemática","polígonos","rectas notables","relato","triángulo","vértices"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/triana-81.png",
         "url" : "https://www.mep.go.cr/educatico/cuento-triana",
         "ciclo" : ["I","II","III","Diversificada"],
@@ -229,7 +229,7 @@
     },
     {
         "nombre" : "Mate´N´Roll",
-        "etiqueta" : [],
+        "etiqueta" : ["Mate´N´Roll"," conjuntos de números","mayor que","menor que","relación de orden"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/matenroll-82.png",
         "url" : "https://www.mep.go.cr/educatico/mate-roll",
         "ciclo" : ["II"],
@@ -239,7 +239,7 @@
     },
     {
         "nombre" : "Juego Enteros",
-        "etiqueta" : [],
+        "etiqueta" : ["Juego Enteros","división","juegos","mate","matemática","multiplicación","operaciones con enteros","resta","suma"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/juego_enteros-83.png",
         "url" : "https://www.mep.go.cr/educatico/juego-enteros",
         "ciclo" : ["II"],
@@ -249,7 +249,7 @@
     },
     {
         "nombre" : "Web tools´gallery",
-        "etiqueta" : [],
+        "etiqueta" : ["Web tools´gallery","enseñanza del inglés","herramientas web Inglés","recursos web ESL","recursos web Inglés"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/tools_galery-84.png",
         "url" : "https://www.mep.go.cr/educatico/web-tools-gallery",
         "ciclo" : ["III","Diversificada"],
@@ -267,7 +267,7 @@
 
     {
         "nombre" : "Teachers go digital",
-        "etiqueta" : [],
+        "etiqueta" : ["Teachers go digital","bachillerato","EFL","english","enseñanza del inglés","ESL","herramientas","material inglés","sitios Inglés","technology","undécimo año"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/teachers_godigital-85.png",
         "url" : "https://www.mep.go.cr/educatico/teachers-go-digital",
         "ciclo" : ["General"],
@@ -288,7 +288,7 @@
 
     {
         "nombre" : "Costa Rica Wow",
-        "etiqueta" : [],
+        "etiqueta" : ["Costa Rica Wow","activities online ESL","enseñanza Inglés","webquest activity","webquest esl","webquest Inglés"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/CRwow-86.png",
         "url" : "https://www.mep.go.cr/educatico/costa-rica-wow",
         "ciclo" : ["III","Diversificada"],
@@ -298,7 +298,7 @@
     },
     {
         "nombre" : "My Community",
-        "etiqueta" : [],
+        "etiqueta" :   ["My Communit","goods and services","Services","places in the community"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/mycommunity-98.png",
         "url" : "https://www.mep.go.cr/educatico/my-community",
         "ciclo" : ["II"],
@@ -308,7 +308,7 @@
     },
     {
         "nombre" : "Clothes",
-        "etiqueta" : [],
+        "etiqueta" : ["Clothes","clothes","clothing","english","getting dressed"," physical appearance","practice","vocabulary"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
         "url" : "https://www.mep.go.cr/educatico/clothes",
         "ciclo" : ["II"],
@@ -326,7 +326,7 @@
 
     {
         "nombre" : "The House",
-        "etiqueta" : [],
+        "etiqueta" : ["The House furniture","home articles","house","parts of the house"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/theHouse-87.png",
         "url" : "https://www.mep.go.cr/educatico/house",
         "ciclo" : ["II"],
@@ -335,7 +335,7 @@
         "seccion" : "6-anteriores"
     },
     {
-        "nombre" : "Prepositions of place ",
+        "nombre" : "Prepositions of place",
         "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/prepositions_place-88.png",
         "url" : "https://www.mep.go.cr/educatico/prepositions-place",
