@@ -11,7 +11,7 @@
     },
     {
         "nombre" : "Emergencias y Prevención de Riesgos",
-        "etiqueta" : [],
+        "etiqueta" :   ["Emergencias y Prevención de Riesgos","antes","brunca","central","chorotega","Costa Rica","deforestación","después","durante","huetar atlántica","huetar norte","incendios forestales","inundaciones","pacífico central","prevención","regiones socieconómicas","sequía","sismos","terremotos","tormentas"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/emergencias_prev.png",
         "url" : "https://www.mep.go.cr/educatico/emergencias-prevencion",
         "ciclo" : ["III"],
@@ -21,7 +21,7 @@
     },
     {
         "nombre" : "El cuerpo humano",
-        "etiqueta" : [],
+        "etiqueta" : ["El cuerpo humano","circulatorio","cuerpo","cuidado","digestivo","endocrino","esquelético","muscular","nervioso y reproductor","renal","respiratorio","sistemas"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/cuerpo_humano.png",
         "url" : "https://www.mep.go.cr/educatico/cuerpo-humano",
         "ciclo" : ["II"],
@@ -31,7 +31,7 @@
     },
     {
         "nombre" : "¿Sexo? ¿Sexualidad?",
-        "etiqueta" : [],
+        "etiqueta" :   ["¿Sexo? ¿Sexualidad?","cuerpo","factores","pubertad","sexo","sexualidad"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/sexo_sexualidad.png",
         "url" : "https://www.mep.go.cr/educatico/sexo-sexualidad",
         "ciclo" : ["II"],
@@ -41,7 +41,7 @@
     },
     {
         "nombre" : "Diseñe una figura humana",
-        "etiqueta" : [],
+        "etiqueta" : ["Diseñe una figura humana","cuerpo","figura humana","integridad humana"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/disene-figura-humana.png",
         "url" : "https://www.mep.go.cr/educatico/disene-figura-humana",
         "ciclo" : ["II"],
@@ -56,7 +56,7 @@
 
     {
         "nombre" : "Diseñemos un menú",
-        "etiqueta" : [],
+        "etiqueta" : ["Diseñemos un menú","alimentos","consumo","cuerpo","dieta balanceada","menú","salud","valor nutritivo"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/disene-menu.png",
         "url" : "https://www.mep.go.cr/educatico/disenemos-menu",
         "ciclo" : ["I"],
@@ -67,7 +67,7 @@
 
     {
         "nombre" : "¿Dónde vamos? ¿Qué es salud?",
-        "etiqueta" : [],
+        "etiqueta" : ["¿Dónde vamos? ¿Qué es salud?","comunidad","escuela","familia","importancia salud","relaciones humanas"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/donde-vamos.png",
         "url" : "https://www.mep.go.cr/educatico/donde-vamos-que-es-salud",
         "ciclo" : ["I"],
@@ -78,7 +78,7 @@
 
     {
         "nombre" : "Arme la figura humana",
-        "etiqueta" : [],
+        "etiqueta" : ["Arme la figura humana","características","cuerpo humano","forma","identidad","locomoción","posición"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/arme_figura.png",
         "url" : "https://www.mep.go.cr/educatico/arme-figura-humana",
         "ciclo" : ["I"],
@@ -89,7 +89,7 @@
 
     {
         "nombre" : "Desafío PJ verde",
-        "etiqueta" : [],
+        "etiqueta" : ["Desafío PJ verde","agua limpia","ahorro","desechos","energía","gestión ambiental","poder judicial","reciclaje","regeneración ambiental"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/desafio_PJverde.png",
         "url" : "https://www.mep.go.cr/educatico/desafio-pj-verde",
         "ciclo" : ["II", "II"],
@@ -100,7 +100,7 @@
 
     {
         "nombre" : "Los pares perdidos",
-        "etiqueta" : [],
+        "etiqueta" : ["Los pares perdidos","Defensoría de los Habitantes","derechos","EBAIS","IMAS","juegos","memoria","MEP","PANI","protección"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/pares_perdidos.png",
         "url" : "https://www.mep.go.cr/educatico/pares-perdidos",
         "ciclo" : ["II"],
@@ -147,7 +147,7 @@
     },
   
     {
-        "nombre" : "¿Dónde estoy, hacia adónde voy? ",
+        "nombre" : "¿Dónde estoy, hacia adónde voy?",
         "etiqueta" : [],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/donde-estoy.png",
         "url" : "https://www.mep.go.cr/educatico/donde-estoy-adonde-voy",
