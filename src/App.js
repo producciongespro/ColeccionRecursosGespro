@@ -7,6 +7,7 @@ import lista2019 from './Data/lista2019.json';
 import lista2017 from './Data/lista2017.json';
 import listaanteriores from './Data/listaanteriores.json';
 import listaotros from './Data/listaotros.json';
+import listaavances from './Data/listaavances.json';
 
 function App() {
   return (
@@ -15,8 +16,11 @@ function App() {
       </div>
 
       <div className="row center">
-            
-            <div className="col-2 fondo-claro">              
+            <div className="col-6">              
+                          
+            </div>
+
+            <div className="col-4 fondo-claro">              
               <input className="form-control" type="text"  id="txtBuscar"/>              
             </div>
             <div className="col-2 fondo-claro">
@@ -25,9 +29,26 @@ function App() {
         </div>
 
 
+
+ 
 <div className="row">
   <div className="col-12">
-    <span className="subTitulo" >Colección 2019</span>
+    <span className="subTitulo" >Avances</span>
+          <div className="wrapper">
+            <Seccion array={listaavances} numSeccion="1-avances" anterior="3-avances" siguiente="2-avances" />
+            <Seccion array={listaavances} numSeccion="2-avances" anterior="1-avances" siguiente="3-avances" />
+            <Seccion array={listaavances} numSeccion="3-avances" anterior="2-avances" siguiente="1-avances" />
+          </div>
+  </div>
+</div>
+<br/> <br/>
+
+
+
+
+<div className="row">
+  <div className="col-12">
+    <span className="subTitulo" >2019</span>
           <div className="wrapper">
             <Seccion array={lista2019} numSeccion="1-2019" anterior="3-2019" siguiente="2-2019" />
             <Seccion array={lista2019} numSeccion="2-2019" anterior="1-2019" siguiente="3-2019" />
@@ -40,7 +61,7 @@ function App() {
 
 <div className="row">
   <div className="col-12">
-    <span className="subTitulo" >Colección 2018</span>
+    <span className="subTitulo" >2018</span>
         <div className="wrapper">
           <Seccion array={lista2018} numSeccion="1-2018" anterior="5-2018" siguiente="2-2018" />
           <Seccion array={lista2018} numSeccion="2-2018" anterior="1-2018" siguiente="3-2018" />
@@ -55,7 +76,7 @@ function App() {
 
 <div className="row">
   <div className="col-12">
-    <span className="subTitulo" >Colección 2017</span>
+    <span className="subTitulo" >2017</span>
         <div className="wrapper">
           <Seccion array={lista2017} numSeccion="1-2017" anterior="2-2017" siguiente="2-2017" />
           <Seccion array={lista2017} numSeccion="2-2017" anterior="1-2017" siguiente="1-2017" />

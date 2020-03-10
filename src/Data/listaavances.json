@@ -7,7 +7,7 @@
         "ciclo": ["I", "II","III", "Diversificada"],
         "materia": "Francés",
         "comentarios": "",
-        "seccion": "1-2017"
+        "seccion": "1-avances"
     },
     {
         "nombre": "Match Verbal",
@@ -17,7 +17,7 @@
         "ciclo": ["I", "II","III", "Diversificada"],
         "materia": "Francés",
         "comentarios": "",
-        "seccion": "1-2017"
+        "seccion": "1-avances"
     },
     {
         "nombre": "Leyendas de Costa Rica",
@@ -27,7 +27,7 @@
         "ciclo": ["III", "Diversificada"],
         "materia": "Español",
         "comentarios": "",
-        "seccion": "1-2017"
+        "seccion": "1-avances"
     },
     {
         "nombre": "Rocking Verbs",
@@ -37,7 +37,7 @@
         "ciclo": ["III"],
         "materia": "Inglés",
         "comentarios": "",
-        "seccion": "1-2017"
+        "seccion": "1-avances"
     },
     {
         "nombre": "Kahoot: Cuestionarios y encuestas en línea",
@@ -47,7 +47,7 @@
         "ciclo": ["General"],
         "materia": "Tecnología",
         "comentarios": "",
-        "seccion": "1-2017"
+        "seccion": "1-avances"
     },
 
 
@@ -59,7 +59,7 @@
         "ciclo": ["General"],
         "materia": "Tecnología",
         "comentarios": "",
-        "seccion": "2-2017"
+        "seccion": "2-avances"
     },
     {
         "nombre": "Galería Fotográfica",
@@ -69,9 +69,39 @@
         "ciclo": ["General"],
         "materia": "General",
         "comentarios": "",
-        "seccion": "2-2017"
-    }
+        "seccion": "2-avances"
+    },
 
+    {
+        "nombre": "Le Marché Aux Verbes",
+        "etiqueta": ["Le March Aux Verbes","espagnol","temps de verbe en francais","tiempos verbales en francés","présent","temps","verbaux","francés","futur simple","passé composé","conjugación de verbos en francés ","conjugaison des verbes en francais","android","app","apps","espagnol"],
+        "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/leMarche-23.png",
+        "url": "https://www.mep.go.cr/educatico/le-marche-aux-verbes",
+        "ciclo": ["I", "II","III", "Diversificada"],
+        "materia": "Francés",
+        "comentarios": "",
+        "seccion": "2-avances"
+    },
+    {
+        "nombre": "Match Verbal",
+        "etiqueta": ["Match-Verbal","espagnol","temps de verbe","tiempos verbales","présent","temps","verbaux","francés","futur simple","pass composé","application  educative","aplicación educativa","conjugación de verbos","conjugaison des verbes","android","app","apps","espagnol"],
+        "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/matchVerbal-24.png",
+        "url": "https://www.mep.go.cr/educatico/match-verbal",
+        "ciclo": ["I", "II","III", "Diversificada"],
+        "materia": "Francés",
+        "comentarios": "",
+        "seccion": "2-avances"
+    },
+    {
+        "nombre": "Leyendas de Costa Rica",
+        "etiqueta": ["leyendas","Costa Rica","Barva","La cascada de la novia","El paso de la Vaca","El diablo del puente","Iztarú","Anayancy y la sabiduría","El misterio","Turrialba","piedra de San Isidro","comprensión lectora","Anancy","Barva","cascada","diablo","Íiztarú","literarios","misterio","novia","paso","piedra","San Isidro","textos","Turrialba","vaca"],
+        "urlImg":"http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2017/leyendascr.png",
+        "url": "https://www.mep.go.cr/educatico/leyendas-de-costa-rica",
+        "ciclo": ["III", "Diversificada"],
+        "materia": "Español",
+        "comentarios": "",
+        "seccion": "2-avances"
+    }
 
 
 ]
