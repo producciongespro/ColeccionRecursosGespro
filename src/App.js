@@ -32,13 +32,12 @@ function App() {
 
  
 <div className="row">
-  <div className="col-12">
+  <div className="col-sm-12">
     <span className="subTitulo" >Avances</span>
           <div className="wrapper">
-            <Seccion array={listaavances} numSeccion="1-avances" anterior="3-avances" siguiente="2-avances" />
-            <Seccion array={listaavances} numSeccion="2-avances" anterior="1-avances" siguiente="3-avances" />
-            <Seccion array={listaavances} numSeccion="3-avances" anterior="2-avances" siguiente="1-avances" />
-          </div>
+            <Seccion array={listaavances} numSeccion="1-avances" anterior="2-avances" siguiente="2-avances" />
+            <Seccion array={listaavances} numSeccion="2-avances" anterior="1-avances" siguiente="1-avances" />
+            </div>
   </div>
 </div>
 <br/> <br/>
@@ -47,7 +46,7 @@ function App() {
 
 
 <div className="row">
-  <div className="col-12">
+  <div className="col-sm-12">
     <span className="subTitulo" >2019</span>
           <div className="wrapper">
             <Seccion array={lista2019} numSeccion="1-2019" anterior="3-2019" siguiente="2-2019" />
@@ -60,7 +59,7 @@ function App() {
 
 
 <div className="row">
-  <div className="col-12">
+  <div className="col-sm-12">
     <span className="subTitulo" >2018</span>
         <div className="wrapper">
           <Seccion array={lista2018} numSeccion="1-2018" anterior="5-2018" siguiente="2-2018" />
@@ -75,7 +74,7 @@ function App() {
 
 
 <div className="row">
-  <div className="col-12">
+  <div className="col-sm-12">
     <span className="subTitulo" >2017</span>
         <div className="wrapper">
           <Seccion array={lista2017} numSeccion="1-2017" anterior="2-2017" siguiente="2-2017" />
@@ -87,7 +86,7 @@ function App() {
     
 
 <div className="row">
-  <div className="col-12">
+  <div className="col-sm-12">
     <span className="subTitulo" >Anteriores</span>
         <div className="wrapper">
           <Seccion array={listaanteriores} numSeccion="1-anteriores" anterior="7-anteriores" siguiente="2-anteriores" />
@@ -106,7 +105,7 @@ function App() {
 
 
 <div className="row">
-  <div className="col-12">
+  <div className="col-sm-12">
     <span className="subTitulo" >Otros</span>
         <div className="wrapper">
           <Seccion array={listaotros} numSeccion="1-otros" anterior="6-otros" siguiente="2-otros" />

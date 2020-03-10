@@ -1,6 +1,8 @@
 $itemGrow: 1.2;
 $duration: 250ms;
 
+
+
 html {
   scroll-behavior: smooth;
 }
@@ -21,6 +23,7 @@ h1 {
 .subTitulo {
   color: #fff;
   font-size: 2em;
+  font-weight: bold;
 }
 
 .jumbotron { 
@@ -40,11 +43,15 @@ h1 {
   width: auto;
 }
 
+
+
 .wrapper {
   display: grid;
   grid-template-columns: repeat(7,100%);
   overflow:hidden;
   scroll-behavior: smooth;
+ 
+  
 
   section {
     width: 100%;
