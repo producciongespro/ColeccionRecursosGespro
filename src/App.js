@@ -11,21 +11,19 @@ import listaotros from './Data/listaotros.json';
 function App() {
   return (
     <div className="App container">
-      <div className="jumbotron">
-          
-          <div className="row ">
-            <div className="col-8">
-                <h1>Colección Recursos MEP</h1>
-            </div>
+      <div className="jumbotron">     
+      </div>
+
+      <div className="row center">
+            
             <div className="col-2 fondo-claro">              
               <input className="form-control" type="text"  id="txtBuscar"/>              
             </div>
             <div className="col-2 fondo-claro">
               <img className="img-1"  src="http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/lupa2.png" alt="buscar" />            
             </div>
-          </div>
-          
-      </div>
+        </div>
+
 
 <div className="row">
   <div className="col-12">
