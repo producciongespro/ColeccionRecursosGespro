@@ -1,7 +1,7 @@
 [
     {
         "nombre": "Micro Dialogues Outils pour classe FLE",
-        "etiqueta": [],
+        "etiqueta": ["audios", "francés", "lien", "micro dialogues", "prácticas", "vídeos"],
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/outils.png",
         "url": "https://www.mep.go.cr/educatico/micro-dialogues-outils-pour-classe-fle",
         "ciclo": ["I", "II", "III", "Diversificada"],
