@@ -100,7 +100,7 @@
 
     {
         "nombre": "Catálogo de Educación Abierta Alfabetización-Matemáticas",
-        "etiqueta": [  ], 
+        "etiqueta": ["alfabetización","educación abierta","educación adultos"], 
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/catalogo_ed-96.png",
         "url": "https://www.mep.go.cr/educatico/catalogo-educacion-abierta-alfabetizacion-matematicas",
         "ciclo": ["Educación Abierta"],
@@ -159,7 +159,7 @@
 
         {
         "nombre": "Sitio de Recursos Guía Primaria",
-        "etiqueta": [  ], 
+        "etiqueta": ["english", "english resources", "guia", "guide", "I and II cicles", "inglés"], 
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/guia_primaria-09.jpg",
         "url": "https://www.mep.go.cr/educatico/recursos-guia-primaria",
         "ciclo": ["I", "II"],
@@ -249,7 +249,7 @@
 
     {
         "nombre": "Piensa en Arte",
-        "etiqueta": [  ], 
+        "etiqueta": ["arte","colección","escritura creativa","español","mediación","piensa en arte"], 
         "urlImg": "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/piensa_enarte-21.jpg",
         "url": "https://www.mep.go.cr/educatico/sitio-piensa-arte-espanol",
         "ciclo": ["II", "II"],
