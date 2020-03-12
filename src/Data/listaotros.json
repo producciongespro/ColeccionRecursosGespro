@@ -1,7 +1,7 @@
 [
     {
         "nombre" : "Parque de la Energía",
-        "etiqueta" : [],
+        "etiqueta" : ["factores climatológicos", "fuentes de energía", "historia", "ICE", "impacto ambiental", "Instituto Costarricense de Electricidad", "juegos", "potencial de los recuros energéticos", "producción y transporte de energía", "suministro de energía", "transformación"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/parque_energia.png",
         "url" : "https://www.mep.go.cr/educatico/parque-energia",
         "ciclo" : ["I", "II"],
@@ -231,7 +231,7 @@
 
     {
         "nombre" : "Jóvenes Banqueros",
-        "etiqueta" : [],
+        "etiqueta" : ["Jóvenes Banqueros","educación financiera","ahorro", "beneficios","Cámara de Bancos e Instituciones Financieras de Costa Rica", "finanazas", "riesgos", "sistema financiero"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/jovenes-banqueros.png",
         "url" : "https://www.mep.go.cr/educatico/jovenes-banqueros",
         "ciclo" : ["III"],
@@ -241,7 +241,7 @@
     },
      {
         "nombre" : "Comunicación efectiva",
-        "etiqueta" : [],
+        "etiqueta" : ["comunicación asertiva", "efectiva", "mejorar"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/comunic-efectiva.png",
         "url" : "https://www.mep.go.cr/educatico/comunicacion-efectiva",
         "ciclo" : ["I","II","III","Diversificada"],
@@ -251,7 +251,7 @@
     },
     {
         "nombre" : "Toma de decisiones",
-        "etiqueta" : [],
+        "etiqueta" : ["apropiadas", "emociones", "evaluar"],
         "urlImg" : "http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/toma_decisiones.png",
         "url" : "https://www.mep.go.cr/educatico/toma-decisiones",
         "ciclo" : ["I","II","III","Diversificada"],
