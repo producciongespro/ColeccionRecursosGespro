@@ -12,7 +12,9 @@ import listaavances from './Data/listaavances.json';
 function App() {
   return (
     <div className="App container">
-      <div className="jumbotron">     
+      
+      <div className="jumbotron">  
+         
       </div>
 
       <div className="row center">
