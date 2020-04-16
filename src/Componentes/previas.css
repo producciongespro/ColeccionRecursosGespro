@@ -1,0 +1,4 @@
+.zoom:hover {
+    z-index: 999999;
+    transform: scale(1.12);
+}

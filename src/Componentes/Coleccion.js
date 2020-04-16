@@ -28,6 +28,8 @@ function Coleccion (props) {
    
     
     return (
+      <React.Fragment>
+      <h1 className="titulo-1"> {props.titulo} </h1>
     <Carousel responsive={responsive}>
                    {
                 props.array.map((item,i)=>(
@@ -35,6 +37,7 @@ function Coleccion (props) {
                 ))
             }
     </Carousel>
+    </React.Fragment>
     );
 }
 

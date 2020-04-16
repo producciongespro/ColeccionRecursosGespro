@@ -3,13 +3,13 @@ import React from 'react';
 import Coleccion from './Componentes/Coleccion';
 
 
-import Seccion from './Componentes/Seccion';
+import listaavances from './Data/listaavances.json';
+import lista2017 from './Data/lista2017.json';
 import lista2018 from './Data/lista2018.json';
 import lista2019 from './Data/lista2019.json';
-import lista2017 from './Data/lista2017.json';
 import listaanteriores from './Data/listaanteriores.json';
 import listaotros from './Data/listaotros.json';
-import listaavances from './Data/listaavances.json';
+
 
 console.log(lista2018);
 
@@ -35,14 +35,15 @@ function App() {
             </div>
         </div>
 
-        {lista2017 &&  <Coleccion array={lista2017} />  }
+        {lista2019 &&  <Coleccion titulo="Colección 2019" array={lista2019} />  }
         <br/>
-        {lista2018 &&  <Coleccion array={lista2018} />  }
+        {lista2018 &&  <Coleccion titulo="Colección 2018" array={lista2018} />  }
         <br/>
-        {lista2019 &&  <Coleccion array={lista2019} />  }
-        
-
-
+        {lista2017 &&  <Coleccion titulo="Colección 2017" array={lista2017} />  }
+        <br/>      
+        {listaanteriores &&  <Coleccion titulo="Anteriores" array={listaanteriores} />  }
+        <br/>
+        {listaotros &&  <Coleccion titulo="Otros" array={listaotros} />  }        
     </div>
   );
 }
