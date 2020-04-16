@@ -384,7 +384,7 @@
     
     {
        "nombre":"Colors and Shapes",
-       "etiquetas": ["Colors and Shapes","colors","describing objects","english","figures","Katherine Williams Jiménez","Shapes"],
+       "etiqueta": ["Colors and Shapes","colors","describing objects","english","figures","Katherine Williams Jiménez","Shapes"],
        "urlImg":"http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/colorsShapes-92.png",
        "url":"https://www.mep.go.cr/educatico/colors-and-shapes",
        "ciclo": ["II"],
@@ -394,7 +394,7 @@
     },
     {
        "nombre":"Himnos Patrios de Costa Rica",
-       "etiquetas":   ["Himnos Patrios de Costa Rica","15 septiembre","anexión","aniversario","audio","bandera","batalla","canción","canciones","canto","compositores","conmemoraciones","efemérides","Guanacaste","himnos","historia","Juan Santamaría","karaoke","LESCO","partitura","patriótica"],
+       "etiqueta":   ["Himnos Patrios de Costa Rica","15 septiembre","anexión","aniversario","audio","bandera","batalla","canción","canciones","canto","compositores","conmemoraciones","efemérides","Guanacaste","himnos","historia","Juan Santamaría","karaoke","LESCO","partitura","patriótica"],
        "urlImg":"http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
        "url":"https://www.mep.go.cr/educatico/himnos-patrios",
        "ciclo": ["I","II","III","Diversificada"],
