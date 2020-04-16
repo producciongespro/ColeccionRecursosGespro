@@ -7,7 +7,7 @@ function Previas (props) {
     return (
         <div className="zoom">
             <a href={item.url} target="_blank" rel="noopener noreferrer">                
-                <img src={item.urlImg } alt={item.nombre} />
+                <img src={item.urlImg } alt={item.nombre} data-seccion={item.seccion} />
             </a>
         </div>        
     );

@@ -31,7 +31,7 @@
     },
     {
        "nombre":"¿Sexo? ¿Sexualidad?",
-       "etiqueta":   ["¿Sexo? ¿Sexualidad?","cuerpo","factores","pubertad","sexo","sexualidad"],
+       "etiqueta":   ["Sexo Sexualidad","cuerpo","factores","pubertad","sexo","sexualidad"],
        "urlImg":"http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/sexo_sexualidad.png",
        "url":"https://www.mep.go.cr/educatico/sexo-sexualidad",
        "ciclo": ["II"],
