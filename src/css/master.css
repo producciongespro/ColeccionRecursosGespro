@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background-color: #000;
+  }
+  
+  h1 {
+    font-family: 'Righteous', cursive;    
+    text-align: center;
+    font-size: 3em;  
+    color: #E0FFFF;
+  }
+  
+  
+  .subTitulo {
+    color: #fff;
+    font-size: 2em;
+    font-weight: bold;
+  }
+  
+  .jumbotron { 
+    background-image: url("http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/banner_coleccion.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-color: #000;
+    border-radius: 5%;  
+  }
+  .fondo-claro {
+    background-color: rgba($color: #000000, $alpha: 0.8);
+    padding: 1em;
+  }
+
+  .img-1 {
+    height: 32px;
+    width: auto;
+  }
