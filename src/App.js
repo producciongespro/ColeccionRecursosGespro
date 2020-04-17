@@ -2,7 +2,9 @@ import React, {useState, useEffect} from 'react';
 
 import GrupoColeccion from './Componentes/GrupoColeccion';
 import Coleccion from './Componentes/Coleccion';
+import Avances from './Componentes/Avances';
 import busqueda from './modulos/busquedaAvanzada';
+
 
 
 import listaAvances from './data/listaavances.json';
@@ -52,6 +54,14 @@ function App() {
     <div className="App container">
       
       <div className="jumbotron"></div>
+
+      <div className="row">
+        <div className="col-sm-12">
+          {
+            listaAvances &&  <Avances array={listaAvances} />
+          }
+        </div>
+      </div>
 
       <div className="row">
             <div className="col-6 text-right"> 

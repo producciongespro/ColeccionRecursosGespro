@@ -36,7 +36,7 @@ function Coleccion (props) {
     <Carousel responsive={responsive}>
                    {
                 props.array.map((item,i)=>(
-                    <Previas item={item} key={"previas"+i} />
+                    <Previas modo="coleccion" item={item} key={"previas"+i} />
                 ))
             }
     </Carousel>
