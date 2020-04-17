@@ -32,4 +32,5 @@ body {
   .img-1 {
     height: 32px;
     width: auto;
+    margin:0.5em;
   }

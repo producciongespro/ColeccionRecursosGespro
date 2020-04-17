@@ -25,13 +25,26 @@ const arrayGeneral= listaOtros.concat(lista2017, lista2018, lista2019, listaAnte
 
 function App() {
   const [arrayResultaado, setArrayResultado]=useState(null);
+  const [palabraBusqueda, setPalabraBusuqeda ]=useState("");
+  const [isBusqueda, setIsBusqueda]=useState(false);
 
   useEffect(()=>{
-    console.log(arrayResultaado);    
-  })
+    //console.log(arrayResultaado);
+    //console.log("palabraBusqueda",palabraBusqueda);
+    console.log("isBusqueda",isBusqueda);
+
+        
+  });
+
+  const handleActivarBusqueda=()=>{
+    setIsBusqueda(!isBusqueda);
+  }
   
-  const handleBuscar=(e)=>{
+  const handleBuscar=(e)=>{    
       setArrayResultado(busqueda(arrayGeneral, e.target.value));
+      //Se almacena la palabra en estado para oder contorlar el momento
+      //en que se carga el grupo de colección (Que sería cuando la palabra está vacía)
+      setPalabraBusuqeda(e.target.value);
   }
 
 
@@ -40,21 +53,23 @@ function App() {
       
       <div className="jumbotron"></div>
 
-      <div className="row center">
-            <div className="col-6">              
-                          
+      <div className="row">
+            <div className="col-6 text-right"> 
+              <button onClick={handleActivarBusqueda} className="btn btn-outline-dark">
+                <img className="img-1"  src="http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/lupa2.png" alt="buscar" />                        
+              </button>             
             </div>
-
-            <div className="col-4 fondo-claro">              
-                <input onChange={handleBuscar} className="form-control" type="text"  id="txtBuscar"/>              
-            </div>
-            <div className="col-2 fondo-claro">
-              <img className="img-1"  src="http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/lupa2.png" alt="buscar" />            
-            </div>
+        {
+          isBusqueda && (
+                <div className="col-6 fondo-claro">              
+                  <input onChange={handleBuscar} className="form-control" type="text"  id="txtBuscar"/>              
+                </div>          
+          )
+        }
         </div>
 
         {
-          arrayResultaado ?          
+          (arrayResultaado && palabraBusqueda !== "" && isBusqueda ) ?          
             <Coleccion titulo="Búsqueda" array={arrayResultaado} />
           :
             <GrupoColeccion lista2017={lista2017} lista2018={lista2018} lista2019={lista2019} listaAnteriores={listaAnteriores}  listaOtros={listaOtros} />
