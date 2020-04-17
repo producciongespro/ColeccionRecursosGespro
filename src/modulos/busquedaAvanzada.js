@@ -30,6 +30,10 @@ cadena = eliminarTildes(cadena);
         let pattNombre = new RegExp( cadena.toLowerCase()  );
         let resNombre = pattNombre.test(strNombre);
 
+        let strCiclo = eliminarTildes( array[index].ciclo.toString().toLowerCase() );
+        let pattCiclo = new RegExp( cadena.toLowerCase()  );
+        let resCiclo = pattCiclo.test(strCiclo);
+
 
     /*
     console.log(array[index].etiqueta , "---", array[index].seccion, "*****", array[index].nombre );
@@ -37,7 +41,7 @@ cadena = eliminarTildes(cadena);
     */
 
 
-        if (resMateria || resEtiqueta || resNombre ) {
+        if (resMateria || resEtiqueta || resNombre || resCiclo ) {
             tmpArray.push(array[index]);
         }        
     }    
