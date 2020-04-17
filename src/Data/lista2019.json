@@ -31,7 +31,7 @@
     },
     {
        "nombre":"Vida Clips",
-       "etiqueta": ["Vida Clips","bullying","deserción","desorden alimenticio","drogadicción","farándula","hedonismo","nadie me entiende","ninis","pandillas","peligros de internet","rebeldía","religión","sexualidad","suicidio","toma de decisiones","trascendencia","tribus urbanas","vida","vídeos"],
+       "etiqueta": ["Vida Clips","bullying","deserción","desorden alimenticio","drogadicción","farándula","hedonismo","nadie me entiende","ninis","pandillas","peligros de internet","rebeldía","religión","sexualidad","suicidio","toma de decisiones","trascendencia","tribus urbanas","vida","vídeos", "consejo", "adolescencia", "edgar silva", "viviana calderon" ],
        "urlImg":"http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/vida_clips.png",
        "url":"https://www.mep.go.cr/educatico/vida-clips",
        "ciclo": ["III","Diversificada"],
@@ -57,7 +57,7 @@
 
     {
        "nombre":"English mini books: First Cicle",
-       "etiqueta": ["English mini books: First Cicle","english","first cycle","first grade","inglés","inglés primaria","libritos de inglés","mini books","new english curriculum","primer ciclo","second grade","third grade"],
+       "etiqueta": ["first Cicle","english","first cycle","first grade","inglés","inglés primaria","libritos de inglés","mini books","new english curriculum","primer ciclo","second grade","third grade", "listen", "amanda" ],
        "urlImg":"http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2019/english_minibooks-97.png",
        "url":"https://www.mep.go.cr/educatico/english-mini-books-first-cycle",
        "ciclo": ["I","II"],

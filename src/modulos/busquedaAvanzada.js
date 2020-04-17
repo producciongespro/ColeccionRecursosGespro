@@ -1,15 +1,34 @@
+function eliminarTildes(cadena) {
+    let tmpCadena = cadena.replace(/á/g, "a");
+    tmpCadena = tmpCadena.replace(/é/g, "e");    
+    tmpCadena = tmpCadena.replace(/í/g, "i");
+    tmpCadena = tmpCadena.replace(/ó/g, "o");
+    tmpCadena = tmpCadena.replace(/ú/g, "u");
+    //console.log("tmpCadena",tmpCadena);   
+    return tmpCadena;
+}
+
+
 
 
 function busquedaAvanzada  (array, cadena ) {
 let tmpArray=[];
-    for (let index = 0; index < array.length; index++) {
-        let strMateria = array[index].materia.toLowerCase()
+cadena = eliminarTildes(cadena);
+
+
+    for (let index = 0; index < array.length; index++) {      
+        
+        let strMateria = eliminarTildes( array[index].materia.toLowerCase() );
         let pattMateria = new RegExp( cadena.toLowerCase()  );
         let resMateria = pattMateria.test(strMateria);
 
-        let strEtiqueta = array[index].etiqueta.toString().toLowerCase()
+        let strEtiqueta = eliminarTildes( array[index].etiqueta.toString().toLowerCase() );
         let pattEtiqueta = new RegExp( cadena.toLowerCase()  );
         let resEtiqueta = pattEtiqueta.test(strEtiqueta);
+
+        let strNombre = eliminarTildes( array[index].nombre.toLowerCase() );
+        let pattNombre = new RegExp( cadena.toLowerCase()  );
+        let resNombre = pattNombre.test(strNombre);
 
 
     /*
@@ -18,7 +37,7 @@ let tmpArray=[];
     */
 
 
-        if (resMateria || resEtiqueta ) {
+        if (resMateria || resEtiqueta || resNombre ) {
             tmpArray.push(array[index]);
         }        
     }    
