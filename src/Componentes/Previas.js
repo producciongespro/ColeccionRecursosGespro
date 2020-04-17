@@ -14,7 +14,13 @@ function Previas(props) {
             }
             {
                 props.modo === "avances" &&
-                <img src={item.urlImg} alt={item.nombre} data-seccion={item.seccion} />
+                    <img 
+                    onClick={props.handleShow} 
+                    src={item.urlImg} 
+                    alt={item.nombre} 
+                    data-seccion={item.seccion} 
+                    data-url={item.url }
+                    />
             }
         </div>
     );
