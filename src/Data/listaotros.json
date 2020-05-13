@@ -173,7 +173,7 @@
   
     {
        "nombre":"Justicia en acción",
-       "etiqueta": ["Justicia en acción","AECID","amparo","CONAMAJ","Corte Suprema de Justicia","Costa Rica","delito","división de poderes","Hábeas Corpus","incostitucionalidad","leyes","magistrado","MIDEPLAN","poder ejecutivo","poder judicial","poder legislativo","requisitos"],
+       "etiqueta": ["justicia","AECID","amparo","CONAMAJ","Corte Suprema de Justicia","Costa Rica","delito","poderes","Hábeas Corpus","incostitucionalidad","leyes","magistrado","MIDEPLAN","poder ejecutivo","poder judicial","poder legislativo","requisitos"],
        "urlImg":"http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/justicia-accion.png",
        "url":"https://www.mep.go.cr/educatico/justicia-accion",
        "ciclo": ["Diversificada"],
@@ -218,7 +218,7 @@
        "urlImg":"http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/logica_espanol.png",
        "url":"https://www.mep.go.cr/educatico/logica-espanol",
        "ciclo": ["III","Diversificada"],
-       "materia":"Educación Cívica",
+       "materia":"Español",
        "comentarios":"",
        "seccion":"4-otros"
     },
@@ -231,7 +231,7 @@
 
     {
        "nombre":"Jóvenes Banqueros",
-       "etiqueta": ["Jóvenes Banqueros","educación financiera","ahorro","beneficios","Cámara de Bancos e Instituciones Financieras de Costa Rica","finanazas","riesgos","sistema financiero"],
+       "etiqueta": ["Jovenes", "banqueros", "bancos", "educación financiera","ahorro","beneficios","Instituciones Financieras de Costa Rica","finanazas","riesgos","financiero"],
        "urlImg":"http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/jovenes-banqueros.png",
        "url":"https://www.mep.go.cr/educatico/jovenes-banqueros",
        "ciclo": ["III"],

@@ -1,7 +1,8 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "coleccion-gespro",
+  "version": "0.2.1",
   "private": true,
+  "homepage": "./",
   "dependencies": {
     "bootstrap": "^4.4.1",
     "node-sass": "^4.13.1",
