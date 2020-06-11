@@ -54,10 +54,27 @@ function App() {
   
 
 
-  return (
+  return ( 
+    <div> 
+        {
+        plataforma==="movil" ?
+            (
+           <React.Fragment>
+              <div className="">
+              <img className="img-fluid pepito" src="http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/banner_coleccion.png" alt=""/>
+              </div>
+          </React.Fragment> 
+          ) :
+          (
+          <React.Fragment>
+            <div className="jumbotron">
+            </div>
+          </React.Fragment> 
+          )
+          }
     <div className="App container">
       {console.log(plataforma)}
-      <div className="jumbotron"></div>
+ 
 
       <div className="row">
         <div className="col-12">
@@ -91,6 +108,7 @@ function App() {
           
         }
 
+    </div>
     </div>
   );
 }
