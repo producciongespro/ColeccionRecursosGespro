@@ -23,7 +23,7 @@ function Avances(props) {
         },
         mobile: {
             breakpoint: { max: 464, min: 0 },
-            items: 3
+            items: 1
         }
     };
 
@@ -53,7 +53,7 @@ function Avances(props) {
                     }
                 </Modal.Header>
                 <Modal.Body>
-                    <div className="col-12 text-center">
+                    <div className="col-sm-12 text-center">
                         <img
                             src={urlImg}
                             alt="avances"
@@ -75,7 +75,7 @@ function Avances(props) {
                 ModalBs()
             }
             <div className="row">
-                <div className="col-12 text-center">
+                <div className="col-sm-12 text-center">
                     <h1 className="titulo-1">Avances</h1>
                 </div>
             </div>

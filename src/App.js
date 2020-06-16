@@ -5,7 +5,7 @@ import Coleccion from './Componentes/Coleccion';
 import Avances from './Componentes/Avances';
 import busqueda from './modulos/busquedaAvanzada';
 
-import detectarPlataforma from './modulos/plataforma';
+
 
 import listaAvances from './data/listaavances.json';
 import lista2017 from './data/lista2017.json';
@@ -42,8 +42,6 @@ function App() {
     setIsBusqueda(!isBusqueda);
   }
   
-  const plataforma = detectarPlataforma();
-
   const handleBuscar=(e)=>{    
       setArrayResultado(busqueda(arrayGeneral, e.target.value));
       //Se almacena la palabra en estado para oder contorlar el momento
@@ -51,36 +49,16 @@ function App() {
       setPalabraBusuqeda(e.target.value);
   }
 
-  
 
-
-  return ( 
-    <div> 
-        {
-        plataforma==="movil" ?
-            (
-           <React.Fragment>
-              <div className="">
-              <img className="img-fluid pepito" src="http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/banner_coleccion.png" alt=""/>
-              </div>
-          </React.Fragment> 
-          ) :
-          (
-          <React.Fragment>
-            <div className="jumbotron">
-            </div>
-          </React.Fragment> 
-          )
-          }
+  return (
     <div className="App container">
-      {console.log(plataforma)}
- 
+      
+      <div className="jumbotron"></div>
 
       <div className="row">
-        <div className="col-12">
+        <div className="col-sm-12">
           {
             listaAvances &&  <Avances array={listaAvances} />
-            
           }
         </div>
       </div>
@@ -108,7 +86,6 @@ function App() {
           
         }
 
-    </div>
     </div>
   );
 }
