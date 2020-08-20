@@ -66,7 +66,7 @@ function App() {
       <div className="row">
             <div className="col-6 text-right"> 
               <button onClick={handleActivarBusqueda} className="btn btn-outline-dark">
-                <img className="img-1"  src="http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/lupa2.png" alt="buscar" />                        
+                <img className="img-1"  src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/lupa2.png" alt="buscar" />                        
               </button>             
             </div>
         {
