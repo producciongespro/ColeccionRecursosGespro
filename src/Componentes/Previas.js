@@ -9,12 +9,12 @@ function Previas(props) {
             {
                 props.modo === "coleccion" &&
                 <a href={item.url} target="_blank" rel="noopener noreferrer">
-                    <img src={item.urlImg} className="img-fluid" alt={item.nombre} data-seccion={item.seccion} />
+                    <img src={item.urlImg} alt={item.nombre} data-seccion={item.seccion} />
                 </a>
             }
             {
                 props.modo === "avances" &&
-                    <img className="img-fluid"
+                    <img 
                     onClick={props.handleShow} 
                     src={item.urlImg} 
                     alt={item.nombre} 
