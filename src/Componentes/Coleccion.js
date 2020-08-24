@@ -21,7 +21,7 @@ function Coleccion (props) {
         },
         mobile: {
           breakpoint: { max: 464, min: 0 },
-          items: 3
+          items: 4
         }
       };    
     
