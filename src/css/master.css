@@ -6,9 +6,12 @@ body {
   .titulo-1 {
     font-family: 'Righteous', cursive;    
     text-align: center;
-    font-size: 3em;  
+    font-size: 5vh;  
     color: #E0FFFF;
   }
+
+  
+
   
   
   .subTitulo {
@@ -16,11 +19,19 @@ body {
     font-size: 2em;
     font-weight: bold;
   }
+
+  .pepito { 
+    width: 100%;
+  }
+
+  
   
   .jumbotron { 
-    background-image: url("https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/banner_coleccion.png");
+    background-image: url("http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/banner_coleccion.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    margin-right: 2%;
+    margin-left: 2%;
     background-color: #000;
     border-radius: 5%;  
   }
