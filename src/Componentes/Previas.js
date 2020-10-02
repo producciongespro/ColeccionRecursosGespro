@@ -2,6 +2,7 @@ import React from 'react';
 import './previas.css';
 
 function Previas(props) {
+    console.log("props.tabIndex", props.tabIndex);
     let item = props.item;
 
     return (

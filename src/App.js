@@ -60,7 +60,7 @@ function App() {
               </div>         
           ) :
           (         
-            <div tabIndex="1"  role="header" alt="Colección recursos"  className="jumbotron"> </div>         
+            <div tabIndex="1"  role="heading" aria-level="1" title="Colección recursos"  className="jumbotron"> </div>         
           )
           } 
       <div className="row">
@@ -94,7 +94,7 @@ function App() {
 
         {
           (arrayResultaado && palabraBusqueda !== "" && isBusqueda ) ?          
-            <Coleccion titulo="Búsqueda" array={arrayResultaado} />
+            <Coleccion tabIndex={4} titulo="Búsqueda" array={arrayResultaado} />
           :
             <GrupoColeccion lista2017={lista2017} lista2018={lista2018} lista2019={lista2019} listaAnteriores={listaAnteriores}  listaOtros={listaOtros} />
           

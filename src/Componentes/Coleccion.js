@@ -29,14 +29,18 @@ function Coleccion (props) {
     
     return (
       <React.Fragment>
-      <h1 className="titulo-1"> {props.titulo} </h1>       
+      <h1 
+        aria-level="2"
+        tabIndex={props.tabIndex}  
+        className="titulo-1"> {props.titulo}       
+        </h1>       
         <span className="text-light">  {props.array.length } títulos encontrados </span>
         <br/>
       
     <Carousel responsive={responsive}>
                    {
                 props.array.map((item,i)=>(
-                    <Previas modo="coleccion" item={item} key={"previas"+i} />
+                    <Previas tabIndex={props.tabIndex} modo="coleccion" item={item} key={"previas"+i} />
                 ))
             }
     </Carousel>

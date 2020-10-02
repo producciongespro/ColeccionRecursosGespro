@@ -76,7 +76,7 @@ function Avances(props) {
             }
             <div className="row">
                 <div className="col-12 text-center">
-                    <h1 className="titulo-1">Avances</h1>
+                    <h1  tabIndex={props.tabIndex} aria-level="2" className="titulo-1">Avances</h1>
                 </div>
             </div>
             <Carousel   responsive={responsive}>

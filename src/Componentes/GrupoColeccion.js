@@ -11,15 +11,15 @@ function GrupoColeccion(props) {
     return (
         <React.Fragment>
                      
-            {props.lista2019 &&  <Coleccion titulo="Colección 2019" array={props.lista2019} />  }
+            {props.lista2019 &&  <Coleccion tabIndex={4} titulo="Colección 2019" array={props.lista2019} />  }
             <br/>
-            {props.lista2018 &&  <Coleccion titulo="Colección 2018" array={props.lista2018} />  }
+            {props.lista2018 &&  <Coleccion tabIndex={5} titulo="Colección 2018" array={props.lista2018} />  }
             <br/>
-            {props.lista2017 &&  <Coleccion titulo="Colección 2017" array={props.lista2017} />  }
+            {props.lista2017 &&  <Coleccion tabIndex={6} titulo="Colección 2017" array={props.lista2017} />  }
             <br/>      
-            {props.listaAnteriores &&  <Coleccion titulo="Anteriores" array={props.listaAnteriores} />  }
+            {props.listaAnteriores &&  <Coleccion tabIndex={7} titulo="Anteriores" array={props.listaAnteriores} />  }
             <br/>
-            {props.listaOtros &&  <Coleccion titulo="Otros" array={props.listaOtros} />  } 
+            {props.listaOtros &&  <Coleccion tabIndex={8} titulo="Otros" array={props.listaOtros} />  } 
     
         </React.Fragment>
     );
