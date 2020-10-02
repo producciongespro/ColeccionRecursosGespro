@@ -79,10 +79,10 @@ function Avances(props) {
                     <h1 className="titulo-1">Avances</h1>
                 </div>
             </div>
-            <Carousel responsive={responsive}>
+            <Carousel   responsive={responsive}>
                 {
                     props.array.map((item, i) => (
-                        <Previas handleShow={handleShow} modo="avances" item={item} key={"previas" + i} />
+                        <Previas tabIndex={props.tabIndex}  handleShow={handleShow} modo="avances" item={item} key={"previas" + i} />
                     ))
                 }
             </Carousel>

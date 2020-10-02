@@ -51,34 +51,27 @@ function App() {
 
 
   return (
-    <div className="App container">
-    <div> 
+    <div className="App container">   
         {
         plataforma==="movil" ?
-            (
-           <React.Fragment>
+            (           
               <div className="">
               <img className="img-fluid pepito" src="http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/banner_coleccion.png" alt=""/>
-              </div>
-          </React.Fragment> 
+              </div>         
           ) :
-          (
-          <React.Fragment>
-            <div className="jumbotron">
-            </div>
-          </React.Fragment> 
+          (         
+            <div tabIndex="1"  role="header" alt="Colección recursos"  className="jumbotron"> </div>         
           )
-          }
-      </div>
+          } 
       <div className="row">
         <div className="col-12">
           {
-            listaAvances &&  <Avances array={listaAvances} />
+            listaAvances &&  <Avances tabIndex="2"  array={listaAvances} />
           }
         </div>
       </div>
 
-      <div className="row">
+      <div tabIndex="3" className="row" >
             <div className="col-6 text-right"> 
               <button onClick={handleActivarBusqueda} className="btn btn-outline-dark">
                 <img className="img-1"  src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/lupa2.png" alt="buscar" />                        
@@ -87,7 +80,13 @@ function App() {
         {
           isBusqueda && (
                 <div className="col-6 fondo-claro">              
-                  <input onChange={handleBuscar} className="form-control" type="text"  id="txtBuscar"/>              
+                  <input 
+                  alt="Escriba la palabra para búsqueda" 
+                  onChange={handleBuscar} 
+                  className="form-control" 
+                  type="text"  
+                  id="txtBuscar"
+                  />              
                 </div>          
           )
         }

@@ -1,5 +1,6 @@
 function Plataforma() {
     let plataforma = navigator.platform;
+    //let plataforma = "Linux armv8l";
     switch (plataforma) {
       case "Linux armv7l":
       case "Linux armv8l":

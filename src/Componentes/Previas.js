@@ -5,7 +5,7 @@ function Previas(props) {
     let item = props.item;
 
     return (
-        <div className="zoom">
+        <div tabIndex={props.tabIndex}  className="zoom">
             {
                 props.modo === "coleccion" &&
                 <a href={item.url} target="_blank" rel="noopener noreferrer">
