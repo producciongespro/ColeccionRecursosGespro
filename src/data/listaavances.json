@@ -2,7 +2,7 @@
     {
        "nombre":"nulo",
        "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/ap_zombie.png",
+       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/ap_zombi.png",
        "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/apoalipsis.jpg",
        "ciclo": ["nulo"],
        "materia":"",
@@ -13,7 +13,7 @@
     {
        "nombre":"nulo",
        "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/brigada.png",
+       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/brigad.png",
        "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/brigada.jpg",
        "ciclo": ["nulo"],
        "materia":"",
@@ -23,7 +23,7 @@
     {
        "nombre":"nulo",
        "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/ed_financ.png",
+       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/ed_finan.png",
        "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/educacionfinan.jpg",
        "ciclo": ["nulo"],
        "materia":"",
@@ -33,7 +33,7 @@
     {
        "nombre":"nulo",
        "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/qr_codes.png",
+       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/qr_code.png",
        "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/base.jpg",
        "ciclo": ["nulo"],
        "materia":"",
@@ -45,7 +45,7 @@
     {
        "nombre":"nulo",
        "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/traductor.png",
+       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/traducto.png",
        "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/traductor.jpg",
        "ciclo": ["nulo"],
        "materia":"",
