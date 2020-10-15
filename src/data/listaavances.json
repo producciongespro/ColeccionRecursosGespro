@@ -2,8 +2,19 @@
     {
        "nombre":"nulo",
        "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_avances/ap_zombie.png",
-       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_avances/ejemplo-avances.png",
+       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/ap_zombie.png",
+       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/apoalipsis.jpg",
+       "ciclo": ["nulo"],
+       "materia":"",
+       "comentarios":"",
+       "seccion":"1-avances"
+    },
+    
+    {
+       "nombre":"nulo",
+       "etiqueta": ["nulo"],
+       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/brigada.png",
+       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/brigada.jpg",
        "ciclo": ["nulo"],
        "materia":"",
        "comentarios":"",
@@ -12,8 +23,8 @@
     {
        "nombre":"nulo",
        "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_avances/arte_contemp.png",
-       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_avances/ejemplo-avances.png",
+       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/ed_financ.png",
+       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/educacionfinan.jpg",
        "ciclo": ["nulo"],
        "materia":"",
        "comentarios":"",
@@ -22,28 +33,8 @@
     {
        "nombre":"nulo",
        "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_avances/brigada.png",
-       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_avances/ejemplo-avances.png",
-       "ciclo": ["nulo"],
-       "materia":"",
-       "comentarios":"",
-       "seccion":"1-avances"
-    },
-    {
-       "nombre":"nulo",
-       "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_avances/ed_financ.png",
-       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_avances/ejemplo-avances.png",
-       "ciclo": ["nulo"],
-       "materia":"",
-       "comentarios":"",
-       "seccion":"1-avances"
-    },
-    {
-       "nombre":"nulo",
-       "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_avances/qr_codes.jpg",
-       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_avances/ejemplo-avances.png",
+       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/qr_codes.png",
+       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/base.jpg",
        "ciclo": ["nulo"],
        "materia":"",
        "comentarios":"",
@@ -54,8 +45,8 @@
     {
        "nombre":"nulo",
        "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_avances/traductor.png",
-       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_avances/ejemplo-avances.png",
+       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/traductor.png",
+       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/traductor.jpg",
        "ciclo": ["nulo"],
        "materia":"",
        "comentarios":"",
@@ -65,7 +56,7 @@
        "nombre":"nulo",
        "etiqueta": ["nulo"],
        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_avances/avances.png",
-       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_avances/ejemplo-avances.png",
+       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/base.jpg",
        "ciclo": ["nulo"],
        "materia":"",
        "comentarios":"",
