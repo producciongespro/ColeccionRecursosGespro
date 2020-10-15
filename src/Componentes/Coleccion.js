@@ -46,6 +46,7 @@ function Coleccion (props) {
     </Carousel>
     </React.Fragment>
     );
+
 }
 
 

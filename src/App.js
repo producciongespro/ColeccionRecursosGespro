@@ -63,15 +63,11 @@ function App() {
             <div tabIndex="1"  role="heading" aria-level="1" title="Colección recursos"  className="jumbotron"> </div>         
           )
           } 
-      <div className="row">
-        <div className="col-12">
-          {
-            listaAvances &&  <Avances tabIndex="2"  array={listaAvances} />
-          }
-        </div>
-      </div>
 
-      <div tabIndex="3" className="row" >
+
+
+
+    <div tabIndex="3" className="row" >
             <div className="col-6 text-right"> 
               <button onClick={handleActivarBusqueda} className="btn btn-outline-dark">
                 <img className="img-1"  src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/lupa2.png" alt="buscar" />                        
@@ -87,10 +83,24 @@ function App() {
                   type="text"  
                   id="txtBuscar"
                   />              
-                </div>          
+                </div>        
           )
         }
+        </div><br/><br/>  
+
+
+
+
+      <div className="row">
+        <div className="col-12">
+          {
+            listaAvances &&  <Avances tabIndex="2"  array={listaAvances} />
+          }
         </div>
+      </div> <br/><br/>  <br/>
+
+ 
+
 
         {
           (arrayResultaado && palabraBusqueda !== "" && isBusqueda ) ?          
@@ -100,8 +110,17 @@ function App() {
           
         }
 
+        <br/><br/>
+    
+    <div className="col-12 text-center">
+        <span>DIRECCIÓN DE RECURSOS TECNOLÓGICOS EN EDUCACIÓN DEL MINISTERIO DE EDUCACIÓN PÚBLICA DE COSTA RICA</span> <br/><br/>
+        <span>Departamento de Gestión y Producción de Recursos</span>
+    </div>  <br/> 
+        
+
     </div>
   );
+
 }
 
 export default App;
