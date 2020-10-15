@@ -51,16 +51,6 @@
        "materia":"",
        "comentarios":"",
        "seccion":"1-avances"
-    },
-    {
-       "nombre":"nulo",
-       "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_avances/avances.png",
-       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/base.jpg",
-       "ciclo": ["nulo"],
-       "materia":"",
-       "comentarios":"",
-       "seccion":"1-avances"
     }
     
 
