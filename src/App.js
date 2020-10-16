@@ -65,7 +65,7 @@ function App() {
           } 
 
 
-
+{ /* Sección de búsqueda de recursos*/ }
 
     <div tabIndex="3" className="row" >
             <div className="col-6 text-right"> 
@@ -91,6 +91,7 @@ function App() {
 
 
 
+{ /* Sección de búsqueda de avacnces*/ }
       <div className="row">
         <div className="col-12">
           {
@@ -101,7 +102,7 @@ function App() {
 
  
 
-
+{ /* Sección de búsqueda de cada categoría*/ }
         {
           (arrayResultaado && palabraBusqueda !== "" && isBusqueda ) ?          
             <Coleccion tabIndex={4} titulo="Búsqueda" array={arrayResultaado} />
@@ -109,6 +110,7 @@ function App() {
             <GrupoColeccion lista2017={lista2017} lista2018={lista2018} lista2019={lista2019} listaAnteriores={listaAnteriores}  listaOtros={listaOtros} />
           
         }
+
 
         <br/><br/>
     
