@@ -1,6 +1,6 @@
 [
     {
-       "nombre":"Parque de la Energía",
+       "nombre":"Partes de la oración: adjetivo y artículo",
        "etiqueta": ["nulo"],
        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/imagenes-profe.png",
        "url":"nulo",
@@ -10,7 +10,7 @@
        "seccion":"1-profe"
     },
     {
-      "nombre":"nulo",
+      "nombre":"Las partes de la oración: el verbo",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(2).jpg",
       "url":"nulo",
@@ -20,7 +20,7 @@
       "seccion":"1-profe"
    },
    {
-      "nombre":"nulo",
+      "nombre":"Verbos regulares e irregulares",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(3).jpg",
       "url":"nulo",
@@ -30,7 +30,7 @@
       "seccion":"1-profe"
    },
    {
-      "nombre":"nulo",
+      "nombre":"El pronombre, las conjunciones, la interjección, la preposición y el adverbio",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(4).jpg",
       "url":"nulo",
@@ -40,7 +40,7 @@
       "seccion":"1-profe"
    },
    {
-      "nombre":"nulo",
+      "nombre":"Falacias",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(5).jpg",
       "url":"nulo",
@@ -68,7 +68,7 @@
 
 
    {
-      "nombre":"nulo",
+      "nombre":"La inferencia",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(6).jpg",
       "url":"nulo",
@@ -78,7 +78,7 @@
       "seccion":"1-profe"
    },
    {
-      "nombre":"nulo",
+      "nombre":"Tablas de verdad",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(7).jpg",
       "url":"nulo",
@@ -88,7 +88,7 @@
       "seccion":"1-profe"
    },
    {
-      "nombre":"nulo",
+      "nombre":"Figuras literarias",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(8).jpg",
       "url":"nulo",
@@ -98,7 +98,7 @@
       "seccion":"1-profe"
    },
    {
-      "nombre":"nulo",
+      "nombre":"Signos de puntuación",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(9).jpg",
       "url":"nulo",
@@ -108,7 +108,7 @@
       "seccion":"1-profe"
    },
    {
-      "nombre":"nulo",
+      "nombre":"El razonamiento",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(10).jpg",
       "url":"nulo",
@@ -141,7 +141,7 @@
 
 
     {
-       "nombre":"nulo",
+       "nombre":"El interés simple y el interés compuesto",
        "etiqueta": ["nulo"],
        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(11).jpg",
        "url":"nulo",
@@ -151,7 +151,7 @@
        "seccion":"1-profe"
     },
     {
-      "nombre":"nulo",
+      "nombre":"Los módelos atómicos",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(12).jpg",
       "url":"nulo",
@@ -161,7 +161,7 @@
       "seccion":"1-profe"
    },
    {
-      "nombre":"nulo",
+      "nombre":"Estado de la materia",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(13).jpg",
       "url":"nulo",
@@ -171,7 +171,7 @@
       "seccion":"1-profe"
    },
    {
-      "nombre":"nulo",
+      "nombre":"Tabla Periódica: generalidades",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(14).jpg",
       "url":"nulo",
@@ -181,7 +181,7 @@
       "seccion":"1-profe"
    },
    {
-      "nombre":"nulo",
+      "nombre":"Tabla periódica: números cuánticos ",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(15).jpg",
       "url":"nulo",
@@ -209,7 +209,7 @@
 
 
    {
-      "nombre":"nulo",
+      "nombre":"Tabla periódica: configuraciones electrónicas ",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(16).jpg",
       "url":"nulo",
@@ -219,7 +219,7 @@
       "seccion":"1-profe"
    },
    {
-      "nombre":"nulo",
+      "nombre":"Solubilidad",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(17).jpg",
       "url":"nulo",
@@ -229,7 +229,7 @@
       "seccion":"1-profe"
    },
    {
-      "nombre":"nulo",
+      "nombre":"Fuerzas intermoleculares",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(18).jpg",
       "url":"nulo",
@@ -239,7 +239,7 @@
       "seccion":"1-profe"
    },
    {
-      "nombre":"nulo",
+      "nombre":"Polaridad ",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(19).jpg",
       "url":"nulo",
@@ -249,7 +249,7 @@
       "seccion":"1-profe"
    },
    {
-      "nombre":"nulo",
+      "nombre":"Geometría molecular",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(20).jpg",
       "url":"nulo",
@@ -265,7 +265,7 @@
 
 
    {
-      "nombre":"nulo",
+      "nombre":"Estructura de Lewis",
       "etiqueta": ["nulo"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(21).jpg",
       "url":"nulo",
@@ -275,7 +275,7 @@
       "seccion":"1-profe"
    },
    {
-     "nombre":"nulo",
+     "nombre":"Enlace iónico y metálico",
      "etiqueta": ["nulo"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(22).jpg",
      "url":"nulo",
@@ -285,7 +285,7 @@
      "seccion":"1-profe"
   },
   {
-     "nombre":"nulo",
+     "nombre":"Enlaces químicos",
      "etiqueta": ["nulo"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(23).jpg",
      "url":"nulo",
@@ -295,7 +295,7 @@
      "seccion":"1-profe"
   },
   {
-     "nombre":"nulo",
+     "nombre":"Enlaces químicos covalentes",
      "etiqueta": ["nulo"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(24).jpg",
      "url":"nulo",
@@ -305,7 +305,7 @@
      "seccion":"1-profe"
   },
   {
-     "nombre":"nulo",
+     "nombre":"Estequiometría: resolución de problemas",
      "etiqueta": ["nulo"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(25).jpg",
      "url":"nulo",
@@ -333,7 +333,7 @@
 
 
   {
-     "nombre":"nulo",
+     "nombre":"Conceptos básicos de estequiometría",
      "etiqueta": ["nulo"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(26).jpg",
      "url":"nulo",
@@ -343,7 +343,7 @@
      "seccion":"1-profe"
   },
   {
-     "nombre":"nulo",
+     "nombre":"Combinación de operaciones con paréntesis",
      "etiqueta": ["nulo"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(27).jpg",
      "url":"nulo",
@@ -353,7 +353,7 @@
      "seccion":"1-profe"
   },
   {
-     "nombre":"nulo",
+     "nombre":"Patrones y sucesiones",
      "etiqueta": ["nulo"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(28).jpg",
      "url":"nulo",
@@ -363,7 +363,7 @@
      "seccion":"1-profe"
   },
   {
-     "nombre":"nulo",
+     "nombre":"Funciones inversas",
      "etiqueta": ["nulo"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(29).jpg",
      "url":"nulo",
@@ -373,7 +373,7 @@
      "seccion":"1-profe"
   },
   {
-     "nombre":"nulo",
+     "nombre":"Ecuaciones fraccionarias y literales ",
      "etiqueta": ["nulo"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(30).jpg",
      "url":"nulo",
@@ -387,7 +387,7 @@
 
 
   {
-   "nombre":"nulo",
+   "nombre":"Ángulos de elevación, ángulos de depresión",
    "etiqueta": ["nulo"],
    "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(31).jpg",
    "url":"nulo",
@@ -397,7 +397,7 @@
    "seccion":"1-profe"
 },
 {
-  "nombre":"nulo",
+  "nombre":"Homotecias",
   "etiqueta": ["nulo"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(32).jpg",
   "url":"nulo",
@@ -407,7 +407,7 @@
   "seccion":"1-profe"
 },
 {
-  "nombre":"nulo",
+  "nombre":"Productos notables",
   "etiqueta": ["nulo"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(33).jpg",
   "url":"nulo",
@@ -417,7 +417,7 @@
   "seccion":"1-profe"
 },
 {
-  "nombre":"nulo",
+  "nombre":"Mínimo múltiplo común y máximo divisor común",
   "etiqueta": ["nulo"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(34).jpg",
   "url":"nulo",
@@ -427,7 +427,7 @@
   "seccion":"1-profe"
 },
 {
-  "nombre":"nulo",
+  "nombre":"Variables cuantitativas discretas y variables cuantitativas continuas",
   "etiqueta": ["nulo"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(35).jpg",
   "url":"nulo",
@@ -455,7 +455,7 @@
 
 
 {
-  "nombre":"nulo",
+  "nombre":"Semejanza y congruencia de triángulos",
   "etiqueta": ["nulo"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(36).jpg",
   "url":"nulo",
@@ -465,7 +465,7 @@
   "seccion":"1-profe"
 },
 {
-  "nombre":"nulo",
+  "nombre":"Estimación de áreas de figuras planas no poligonales",
   "etiqueta": ["nulo"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(37).jpg",
   "url":"nulo",
@@ -475,7 +475,7 @@
   "seccion":"1-profe"
 },
 {
-  "nombre":"nulo",
+  "nombre":"Aplicando probabilidades para la toma de decisiones",
   "etiqueta": ["nulo"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(38).jpg",
   "url":"nulo",
@@ -485,7 +485,7 @@
   "seccion":"1-profe"
 },
 {
-  "nombre":"nulo",
+  "nombre":"Ecuaciones logarítmicas II",
   "etiqueta": ["nulo"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(39).jpg",
   "url":"nulo",
@@ -495,7 +495,7 @@
   "seccion":"1-profe"
 },
 {
-  "nombre":"nulo",
+  "nombre":"Plantear y resolver problemas utilizando ecuaciones de segundo grado con una incógnita",
   "etiqueta": ["nulo"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(40).jpg",
   "url":"nulo",
@@ -513,7 +513,7 @@
 
 
 {
-   "nombre":"nulo",
+   "nombre":"Plantear y resolver problemas utilizando sistemas de dos ecuaciones con dos incógnitas",
    "etiqueta": ["nulo"],
    "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(41).jpg",
    "url":"nulo",
@@ -523,7 +523,7 @@
    "seccion":"1-profe"
 },
 {
-  "nombre":"nulo",
+  "nombre":"Proporcionalidad directa e inversa",
   "etiqueta": ["nulo"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(42).jpg",
   "url":"nulo",
@@ -533,7 +533,7 @@
   "seccion":"1-profe"
 },
 {
-  "nombre":"nulo",
+  "nombre":"Conceptos básicos de la función logarítmica",
   "etiqueta": ["nulo"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(43).jpg",
   "url":"nulo",
