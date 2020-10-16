@@ -11,6 +11,8 @@ function GrupoColeccion(props) {
     return (
         <React.Fragment>
                      
+            {props.lista2020 &&  <Coleccion tabIndex={3} titulo="Colección 2020" array={props.lista2020} />  }
+            <br/>
             {props.lista2019 &&  <Coleccion tabIndex={4} titulo="Colección 2019" array={props.lista2019} />  }
             <br/>
             {props.lista2018 &&  <Coleccion tabIndex={5} titulo="Colección 2018" array={props.lista2018} />  }
