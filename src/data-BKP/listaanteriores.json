@@ -356,10 +356,10 @@
        "seccion":"6-anteriores"
     },
     {
-       "nombre":"Numbers 1 to 20",
+       "nombre":"Numbers 1 to 10",
        "etiqueta": ["Numbers 1 to 20","1 to 20","english","numbers"],
        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/numbers1to20-90.png",
-       "url":"https://www.mep.go.cr/educatico/numbers-1-20",
+       "url":"http://www.mep.go.cr/educatico/numbers-1-10",
        "ciclo": ["II"],
        "materia":"Inglés",
        "comentarios":"",
@@ -412,7 +412,18 @@
        "materia":"General",
        "comentarios":"",
        "seccion":"7-anteriores"
-    }
+    },
+
+    {
+      "nombre":"Numbers 11 to 20",
+      "etiqueta": ["Numbers 11 to 20","1 to 20","english","numbers"],
+      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/numbers1to20-90.png",
+      "url":"http://www.mep.go.cr/educatico/numbers-11-20",
+      "ciclo": ["II"],
+      "materia":"Inglés",
+      "comentarios":"",
+      "seccion":"7-anteriores"
+   },
    
 
 
