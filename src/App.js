@@ -65,6 +65,14 @@ function App() {
             <div tabIndex="1"  role="heading" aria-level="1" title="Colección recursos"  className="jumbotron"> </div>         
           )
           } 
+    
+    { /*
+       <div tabIndex="3" className="row">
+          <div className="col-10 text right">
+            <img className="img-2" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/lupa2.png" alt="Acerca de"/>
+          </div>
+        </div>
+     */ }
 
 
 { /* Sección de búsqueda de recursos*/ }

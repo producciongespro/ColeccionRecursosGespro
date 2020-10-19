@@ -21,9 +21,10 @@ function GrupoColeccion(props) {
             <br/>      
             {props.listaAnteriores &&  <Coleccion tabIndex={7} titulo="Anteriores" array={props.listaAnteriores} />  }
             <br/>
-            {props.listaOtros &&  <Coleccion tabIndex={8} titulo="Otros" array={props.listaOtros} />  }
-            <br/> 
             {props.listaprofe &&  <Coleccion tabIndex={9} titulo="Profe en casa" array={props.listaprofe} />  }
+            <br/> 
+            {props.listaOtros &&  <Coleccion tabIndex={8} titulo="Otros" array={props.listaOtros} />  }
+       
     
         </React.Fragment>
     );

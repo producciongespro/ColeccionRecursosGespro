@@ -46,6 +46,14 @@ body {
     margin:0.5em;
   }
 
+  .img-2 {
+    height: 32px;
+    width: auto;
+    margin:0.5em;
+    box-align: left;
+  }
+
+
   .modal-content {
     background-color: #753030;
   }

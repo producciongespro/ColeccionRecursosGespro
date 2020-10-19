@@ -75,7 +75,7 @@
       "ciclo": ["nulo"],
       "materia":"nulo",
       "comentarios":"",
-      "seccion":"1-profe"
+      "seccion":"2-profe"
    },
    {
       "nombre":"Tablas de verdad",
@@ -85,7 +85,7 @@
       "ciclo": ["nulo"],
       "materia":"nulo",
       "comentarios":"",
-      "seccion":"1-profe"
+      "seccion":"2-profe"
    },
    {
       "nombre":"Figuras literarias",
@@ -95,7 +95,7 @@
       "ciclo": ["nulo"],
       "materia":"nulo",
       "comentarios":"",
-      "seccion":"1-profe"
+      "seccion":"2-profe"
    },
    {
       "nombre":"Signos de puntuación",
@@ -105,7 +105,7 @@
       "ciclo": ["nulo"],
       "materia":"nulo",
       "comentarios":"",
-      "seccion":"1-profe"
+      "seccion":"2-profe"
    },
    {
       "nombre":"El razonamiento",
@@ -115,7 +115,7 @@
       "ciclo": ["nulo"],
       "materia":"nulo",
       "comentarios":"",
-      "seccion":"1-profe"
+      "seccion":"2-profe"
    },
 
 
@@ -148,7 +148,7 @@
        "ciclo": ["nulo"],
        "materia":"nulo",
        "comentarios":"",
-       "seccion":"1-profe"
+       "seccion":"3-profe"
     },
     {
       "nombre":"Los módelos atómicos",
@@ -158,7 +158,7 @@
       "ciclo": ["nulo"],
       "materia":"nulo",
       "comentarios":"",
-      "seccion":"1-profe"
+      "seccion":"3-profe"
    },
    {
       "nombre":"Estado de la materia",
@@ -168,7 +168,7 @@
       "ciclo": ["nulo"],
       "materia":"nulo",
       "comentarios":"",
-      "seccion":"1-profe"
+      "seccion":"3-profe"
    },
    {
       "nombre":"Tabla Periódica: generalidades",
@@ -178,7 +178,7 @@
       "ciclo": ["nulo"],
       "materia":"nulo",
       "comentarios":"",
-      "seccion":"1-profe"
+      "seccion":"3-profe"
    },
    {
       "nombre":"Tabla periódica: números cuánticos",
@@ -188,7 +188,7 @@
       "ciclo": ["nulo"],
       "materia":"nulo",
       "comentarios":"",
-      "seccion":"1-profe"
+      "seccion":"3-profe"
    },
 
 
@@ -216,7 +216,7 @@
       "ciclo": ["nulo"],
       "materia":"nulo",
       "comentarios":"",
-      "seccion":"1-profe"
+      "seccion":"4-profe"
    },
    {
       "nombre":"Solubilidad",
@@ -226,7 +226,7 @@
       "ciclo": ["nulo"],
       "materia":"nulo",
       "comentarios":"",
-      "seccion":"1-profe"
+      "seccion":"4-profe"
    },
    {
       "nombre":"Fuerzas intermoleculares",
@@ -236,7 +236,7 @@
       "ciclo": ["nulo"],
       "materia":"nulo",
       "comentarios":"",
-      "seccion":"1-profe"
+      "seccion":"4-profe"
    },
    {
       "nombre":"Polaridad",
@@ -246,7 +246,7 @@
       "ciclo": ["nulo"],
       "materia":"nulo",
       "comentarios":"",
-      "seccion":"1-profe"
+      "seccion":"4-profe"
    },
    {
       "nombre":"Geometría molecular",
@@ -256,7 +256,7 @@
       "ciclo": ["nulo"],
       "materia":"nulo",
       "comentarios":"",
-      "seccion":"1-profe"
+      "seccion":"4-profe"
    },
 
 
@@ -272,7 +272,7 @@
       "ciclo": ["nulo"],
       "materia":"nulo",
       "comentarios":"",
-      "seccion":"1-profe"
+      "seccion":"5-profe"
    },
    {
      "nombre":"Enlace iónico y metálico",
@@ -282,7 +282,7 @@
      "ciclo": ["nulo"],
      "materia":"nulo",
      "comentarios":"",
-     "seccion":"1-profe"
+     "seccion":"5-profe"
   },
   {
      "nombre":"Enlaces químicos",
@@ -292,7 +292,7 @@
      "ciclo": ["nulo"],
      "materia":"nulo",
      "comentarios":"",
-     "seccion":"1-profe"
+     "seccion":"5-profe"
   },
   {
      "nombre":"Enlaces químicos covalentes",
@@ -302,7 +302,7 @@
      "ciclo": ["nulo"],
      "materia":"nulo",
      "comentarios":"",
-     "seccion":"1-profe"
+     "seccion":"5-profe"
   },
   {
      "nombre":"Estequiometría: resolución de problemas",
@@ -312,7 +312,7 @@
      "ciclo": ["nulo"],
      "materia":"nulo",
      "comentarios":"",
-     "seccion":"1-profe"
+     "seccion":"5-profe"
   },
 
 
@@ -340,7 +340,7 @@
      "ciclo": ["nulo"],
      "materia":"nulo",
      "comentarios":"",
-     "seccion":"1-profe"
+     "seccion":"6-profe"
   },
   {
      "nombre":"Combinación de operaciones con paréntesis",
@@ -350,7 +350,7 @@
      "ciclo": ["nulo"],
      "materia":"nulo",
      "comentarios":"",
-     "seccion":"1-profe"
+     "seccion":"6-profe"
   },
   {
      "nombre":"Patrones y sucesiones",
@@ -360,7 +360,7 @@
      "ciclo": ["nulo"],
      "materia":"nulo",
      "comentarios":"",
-     "seccion":"1-profe"
+     "seccion":"6-profe"
   },
   {
      "nombre":"Funciones inversas",
@@ -370,7 +370,7 @@
      "ciclo": ["nulo"],
      "materia":"nulo",
      "comentarios":"",
-     "seccion":"1-profe"
+     "seccion":"6-profe"
   },
   {
      "nombre":"Ecuaciones fraccionarias y literales",
@@ -380,7 +380,7 @@
      "ciclo": ["nulo"],
      "materia":"nulo",
      "comentarios":"",
-     "seccion":"1-profe"
+     "seccion":"6-profe"
   },
 
 
@@ -394,7 +394,7 @@
    "ciclo": ["nulo"],
    "materia":"nulo",
    "comentarios":"",
-   "seccion":"1-profe"
+   "seccion":"7-profe"
 },
 {
   "nombre":"Homotecias",
@@ -404,7 +404,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"7-profe"
 },
 {
   "nombre":"Productos notables",
@@ -414,7 +414,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"7-profe"
 },
 {
   "nombre":"Mínimo múltiplo común y máximo divisor común",
@@ -424,7 +424,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"7-profe"
 },
 {
   "nombre":"Variables cuantitativas discretas y variables cuantitativas continuas",
@@ -434,7 +434,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"7-profe"
 },
 
 
@@ -462,7 +462,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"8-profe"
 },
 {
   "nombre":"Estimación de áreas de figuras planas no poligonales",
@@ -472,7 +472,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"8-profe"
 },
 {
   "nombre":"Aplicando probabilidades para la toma de decisiones",
@@ -482,7 +482,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"8-profe"
 },
 {
   "nombre":"Ecuaciones logarítmicas II",
@@ -492,7 +492,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"8-profe"
 },
 {
   "nombre":"Plantear y resolver problemas utilizando ecuaciones de segundo grado con una incógnita",
@@ -502,7 +502,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"8-profe"
 },
 
 
@@ -520,7 +520,7 @@
    "ciclo": ["nulo"],
    "materia":"nulo",
    "comentarios":"",
-   "seccion":"1-profe"
+   "seccion":"9-profe"
 },
 {
   "nombre":"Proporcionalidad directa e inversa",
@@ -530,7 +530,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"9-profe"
 },
 {
   "nombre":"Conceptos básicos de la función logarítmica",
@@ -540,7 +540,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"9-profe"
 },
 {
   "nombre":"Conceptos básicos de la función exponencial",
@@ -550,7 +550,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"9-profe"
 },
 {
   "nombre":"Resolución de problemas con funciones exponenciales",
@@ -560,7 +560,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"9-profe"
 },
 
 
@@ -588,7 +588,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"10-profe"
 },
 {
   "nombre":"Resolución de problemas con polígonos regulares",
@@ -598,7 +598,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"10-profe"
 },
 {
   "nombre":"Aplicaciones de los logaritmos",
@@ -608,7 +608,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"10-profe"
 },
 {
   "nombre":"Resolución de problemas con polígonos inscritos o circunscritos 2",
@@ -618,7 +618,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"10-profe"
 },
 {
   "nombre":"Resolución de problemas con polígonos inscritos o circunscritos 1",
@@ -628,7 +628,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"10-profe"
 },
 
 
@@ -644,7 +644,7 @@
    "ciclo": ["nulo"],
    "materia":"nulo",
    "comentarios":"",
-   "seccion":"1-profe"
+   "seccion":"11-profe"
 },
 {
   "nombre":"Fragile world handle with care",
@@ -654,7 +654,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"11-profe"
 },
 {
   "nombre":"Identification of family members and partner´s relatives",
@@ -664,7 +664,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"11-profe"
 },
 {
   "nombre":"Acceptance and refusal of goods and services",
@@ -674,7 +674,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"11-profe"
 },
 {
   "nombre":"Personal travel plans",
@@ -684,7 +684,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"11-profe"
 },
 
 
@@ -712,7 +712,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"12-profe"
 },
 {
   "nombre":"Computers and technology in our lives",
@@ -722,7 +722,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"12-profe"
 },
 {
   "nombre":"Operating electrical appliances",
@@ -732,7 +732,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"12-profe"
 },
 {
   "nombre":"Job demand in Costa Rica: job interview",
@@ -742,7 +742,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"12-profe"
 },
 {
   "nombre":"Jobs, careers and lifestyles",
@@ -752,7 +752,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"12-profe"
 },
 
 
@@ -768,7 +768,7 @@
    "ciclo": ["nulo"],
    "materia":"nulo",
    "comentarios":"",
-   "seccion":"1-profe"
+   "seccion":"13-profe"
 },
 {
   "nombre":"Location of people and objects",
@@ -778,7 +778,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"13-profe"
 },
 {
   "nombre":"Identification of oneself to others: personal information",
@@ -788,7 +788,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"13-profe"
 },
 {
   "nombre":"Identification of oneself to others: using personal information",
@@ -798,7 +798,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"13-profe"
 },
 {
   "nombre":"Campaña Nacional 1856-1857, redescubriendo nuestra historia",
@@ -808,7 +808,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"13-profe"
 },
 
 
@@ -836,7 +836,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"14-profe"
 },
 {
   "nombre":"Los procesos de democratización en Centroamérica",
@@ -846,7 +846,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"14-profe"
 },
 {
   "nombre":"Segunda etapa de la Campaña Nacional",
@@ -856,7 +856,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"14-profe"
 },
 {
   "nombre":"Climas de Costa Rica",
@@ -866,7 +866,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"14-profe"
 },
 {
   "nombre":"Consecuencias económicas de la Segunda Guerra Mundial",
@@ -876,7 +876,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"14-profe"
 },
 
 
@@ -902,7 +902,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"15-profe"
 },
 {
   "nombre":"Legado cultural de las civilizaciones americanas en Costa Rica",
@@ -912,7 +912,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"15-profe"
 },
 {
   "nombre":"Problemas ambientales en América",
@@ -922,7 +922,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"15-profe"
 },
 {
   "nombre":"Conversiones",
@@ -932,7 +932,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"15-profe"
 },
 
 
@@ -960,7 +960,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"16-profe"
 },
 {
   "nombre":"Impulso y momento",
@@ -970,7 +970,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"16-profe"
 },
 {
   "nombre":"Energía",
@@ -980,7 +980,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"16-profe"
 },
 {
   "nombre":"Parler de l`environnement",
@@ -990,7 +990,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"16-profe"
 },
 {
   "nombre":"Demander des informations",
@@ -1000,7 +1000,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"16-profe"
 },
 
 
@@ -1015,7 +1015,7 @@
    "ciclo": ["nulo"],
    "materia":"nulo",
    "comentarios":"",
-   "seccion":"1-profe"
+   "seccion":"17-profe"
 },
 {
   "nombre":"Rendre compte des activités accomplies par quelqu'un",
@@ -1025,7 +1025,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"17-profe"
 },
 {
   "nombre":"Décrire les différentes activités de la vie quotidienne",
@@ -1035,7 +1035,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"17-profe"
 },
 {
   "nombre":"Identifier quelque chose ",
@@ -1045,7 +1045,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"17-profe"
 },
 {
   "nombre":"Les nombres du zéro au cinquante neuf",
@@ -1055,7 +1055,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"17-profe"
 },
 
 
@@ -1083,7 +1083,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"18-profe"
 },
 {
   "nombre":"Se situer dans l’espace 2",
@@ -1093,7 +1093,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"18-profe"
 },
 {
   "nombre":"Se situer dans l’espace 1",
@@ -1103,7 +1103,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"18-profe"
 },
 {
   "nombre":"Poser des questions",
@@ -1113,7 +1113,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"18-profe"
 },
 {
   "nombre":"Caractériser des objets et des lieux",
@@ -1123,7 +1123,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"18-profe"
 },
 
 
@@ -1139,7 +1139,7 @@
    "ciclo": ["nulo"],
    "materia":"nulo",
    "comentarios":"",
-   "seccion":"1-profe"
+   "seccion":"19-profe"
 },
 {
   "nombre":"Hidrostática",
@@ -1149,7 +1149,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"19-profe"
 },
 {
   "nombre":"Respiración celular: cadena respiratoria",
@@ -1159,7 +1159,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"19-profe"
 },
 {
   "nombre":"Respiración celular: formación de acetil coenzima A y ciclo de Krebs",
@@ -1169,7 +1169,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"19-profe"
 },
 {
   "nombre":"Respiración celular: glucólisis",
@@ -1179,7 +1179,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"19-profe"
 },
 
 
@@ -1207,7 +1207,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"20-profe"
 },
 {
   "nombre":"Biotecnología: cultivos celulares y reproducción asistida",
@@ -1217,7 +1217,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"20-profe"
 },
 {
   "nombre":"Ciclo celular: mitosis",
@@ -1227,7 +1227,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"20-profe"
 },
 {
   "nombre":"Biomoléculas",
@@ -1237,7 +1237,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"20-profe"
 },
 {
   "nombre":"ADN y ARN",
@@ -1247,7 +1247,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"20-profe"
 },
 
 
@@ -1262,7 +1262,7 @@
    "ciclo": ["nulo"],
    "materia":"nulo",
    "comentarios":"",
-   "seccion":"1-profe"
+   "seccion":"20-profe"
 },
 {
   "nombre":"Ecología",
@@ -1272,7 +1272,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"20-profe"
 },
 {
   "nombre":"Conceptos de fuerza y trabajo",
@@ -1282,7 +1282,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"20-profe"
 },
 {
   "nombre":"Mediciones",
@@ -1292,7 +1292,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"20-profe"
 },
 {
   "nombre":"El peso y la masa",
@@ -1302,7 +1302,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"20-profe"
 },
 
 
@@ -1330,7 +1330,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"21-profe"
 },
 {
   "nombre":"Fotosíntesis ",
@@ -1340,7 +1340,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"21-profe"
 },
 {
   "nombre":"Cruces monohíbridos",
@@ -1350,7 +1350,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"21-profe"
 },
 {
   "nombre":"Conceptos básicos de genética: cruces",
@@ -1360,7 +1360,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"21-profe"
 },
 {
   "nombre":"Expansión comercial europea a América de 1492 a 1580",
@@ -1370,7 +1370,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"21-profe"
 },
 
 
@@ -1387,7 +1387,7 @@
    "ciclo": ["nulo"],
    "materia":"nulo",
    "comentarios":"",
-   "seccion":"1-profe"
+   "seccion":"22-profe"
 },
 {
   "nombre":"Experimentos de comprobación de las leyes de hidrostática",
@@ -1397,7 +1397,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"22-profe"
 },
 {
   "nombre":"Leyes de Newton",
@@ -1407,7 +1407,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"22-profe"
 },
 {
   "nombre":"Le futur simple",
@@ -1417,7 +1417,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"22-profe"
 },
 {
   "nombre":"Visualizacion espacial",
@@ -1427,7 +1427,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"22-profe"
 },
 
 
@@ -1455,7 +1455,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"23-profe"
 },
 {
   "nombre":"Realidad Aumentada aplicada a la educación",
@@ -1465,7 +1465,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"23-profe"
 },
 {
   "nombre":"Afectividad y sexualidad integral",
@@ -1475,7 +1475,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"23-profe"
 },
 {
   "nombre":"Afectividad y sexualidad",
@@ -1485,7 +1485,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"23-profe"
 },
 {
   "nombre":"Recurso hídrico",
@@ -1495,7 +1495,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"23-profe"
 },
 
 
@@ -1514,7 +1514,7 @@
    "ciclo": ["nulo"],
    "materia":"nulo",
    "comentarios":"",
-   "seccion":"1-profe"
+   "seccion":"24-profe"
 },
 {
   "nombre":"Clasificación compuestos binarios",
@@ -1524,7 +1524,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"24-profe"
 },
 {
   "nombre":"Formas de expresar afecto para la vivencia de una sexualidad responsable y placentera",
@@ -1534,7 +1534,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"24-profe"
 },
 {
   "nombre":"La célula y el ciclo celular",
@@ -1544,7 +1544,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"24-profe"
 },
 {
   "nombre":"Amenazas naturales: inundaciones",
@@ -1554,7 +1554,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"24-profe"
 },
 
 
@@ -1582,7 +1582,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"25-profe"
 },
 {
   "nombre":"Régimen político: democracia y dictadura",
@@ -1592,7 +1592,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"25-profe"
 },
 {
   "nombre":"Derechos Humanos",
@@ -1602,7 +1602,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"25-profe"
 },
 {
   "nombre":"Organización institucional de Costa Rica",
@@ -1612,7 +1612,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"25-profe"
 },
 {
   "nombre":"Abolición del ejército",
@@ -1622,7 +1622,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"25-profe"
 },
 
 
@@ -1638,7 +1638,7 @@
    "ciclo": ["nulo"],
    "materia":"nulo",
    "comentarios":"",
-   "seccion":"1-profe"
+   "seccion":"26-profe"
 },
 {
   "nombre":"Oraciones compuestas por yuxtaposición y coordinación",
@@ -1648,7 +1648,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"26-profe"
 },
 {
   "nombre":"Oraciones compuestas por subordinación",
@@ -1658,7 +1658,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"26-profe"
 },
 {
   "nombre":"Leyes de acentuación y ley del hiato",
@@ -1668,7 +1668,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"26-profe"
 },
 {
   "nombre":"El hablante en primera persona como recurso coloquial",
@@ -1678,7 +1678,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"26-profe"
 },
 
 
@@ -1706,7 +1706,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"27-profe"
 },
 {
   "nombre":"La relación del texto con el contexto, género literario y movimiento literario",
@@ -1716,7 +1716,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"27-profe"
 },
 {
   "nombre":"Empleo de letras: b, v, c, z, s, g, j, h",
@@ -1726,7 +1726,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"27-profe"
 },
 {
   "nombre":"Oración impersonal",
@@ -1736,7 +1736,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"27-profe"
 },
 {
   "nombre":"Formas de tratamiento",
@@ -1746,7 +1746,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"27-profe"
 },
 
 
@@ -1762,7 +1762,7 @@
    "ciclo": ["nulo"],
    "materia":"nulo",
    "comentarios":"",
-   "seccion":"1-profe"
+   "seccion":"28-profe"
 },
 {
   "nombre":"Interpretación del lenguaje connotativo",
@@ -1772,7 +1772,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"28-profe"
 },
 {
   "nombre":"Paradigma verbal",
@@ -1782,7 +1782,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"28-profe"
 },
 {
   "nombre":"Registros del habla",
@@ -1792,7 +1792,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"28-profe"
 },
 {
   "nombre":"Partes de la oración: sustantivo",
@@ -1802,7 +1802,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"28-profe"
 },
 
 
@@ -1830,7 +1830,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"29-profe"
 },
 {
   "nombre":"El peso",
@@ -1840,7 +1840,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"29-profe"
 },
 {
   "nombre":"Usos de la mayúscula",
@@ -1850,7 +1850,7 @@
   "ciclo": ["nulo"],
   "materia":"nulo",
   "comentarios":"",
-  "seccion":"1-profe"
+  "seccion":"29-profe"
 }
 
 
