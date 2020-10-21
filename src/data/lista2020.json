@@ -70,6 +70,172 @@
         "materia":"General",
         "comentarios":"",
         "seccion":"2-2017"
+    },
+
+    {
+        "nombre":"Caja de herramientas",
+        "etiqueta": ["nulo"],
+        "urlImg":"",
+        "url":"http://www.cajadeherramientas.mep.go.cr/app/",
+        "ciclo": ["General"],
+        "materia":"General",
+        "comentarios":"",
+        "seccion":"2-2017"
+    },
+
+    {
+        "nombre":"Estilización y abstracción en el Arte Moderno",
+        "etiqueta": ["nulo"],
+        "urlImg":"",
+        "url":"https://www.mep.go.cr/educatico/estilizacion-abstraccion-arte-moderno",
+        "ciclo": ["III"],
+        "materia":"Artes Plásticas",
+        "comentarios":"",
+        "seccion":"2-2017"
+    },
+
+    {
+        "nombre":"Aprendo en casa",
+        "etiqueta": ["nulo"],
+        "urlImg":"",
+        "url":"",
+        "ciclo": ["General"],
+        "materia":"General",
+        "comentarios":"",
+        "seccion":"2-2017"
+    },
+
+    {
+        "nombre":"Sitio de Artes Plásticas",
+        "etiqueta": ["nulo"],
+        "urlImg":"",
+        "url":"",
+        "ciclo": ["III, Diversificada"],
+        "materia":"Artes Plásticas",
+        "comentarios":"",
+        "seccion":"2-2017"
+    },
+
+    {
+        "nombre":"Waeather Wise",
+        "etiqueta": ["nulo"],
+        "urlImg":"",
+        "url":"",
+        "ciclo": ["II"],
+        "materia":"Inglés",
+        "comentarios":"",
+        "seccion":"2-2017"
+    },
+
+    {
+        "nombre":"Objetos enigmáticos",
+        "etiqueta": ["nulo"],
+        "urlImg":"",
+        "url":"",
+        "ciclo": ["I"],
+        "materia":"Artes Plásticas",
+        "comentarios":"",
+        "seccion":"2-2017"
+    },
+
+    {
+        "nombre":"Natural Treasures",
+        "etiqueta": ["nulo"],
+        "urlImg":"",
+        "url":"",
+        "ciclo": ["II"],
+        "materia":"Inglés",
+        "comentarios":"",
+        "seccion":"2-2017"
+    },
+
+
+    {
+        "nombre":"Matrícula de Preescolar 2021",
+        "etiqueta": ["nulo"],
+        "urlImg":"",
+        "url":"",
+        "ciclo": ["Primera Infancia"],
+        "materia":"Preescolar",
+        "comentarios":"",
+        "seccion":"2-2017"
+    },
+
+    {
+        "nombre":"Recorrido Virtual de la Antorcha",
+        "etiqueta": ["nulo"],
+        "urlImg":"",
+        "url":"",
+        "ciclo": ["General"],
+        "materia":"General",
+        "comentarios":"",
+        "seccion":"2-2017"
+    },
+
+    {
+        "nombre":"Guía Décimo Año",
+        "etiqueta": ["nulo"],
+        "urlImg":"",
+        "url":"",
+        "ciclo": ["Diversificada"],
+        "materia":"Inglés",
+        "comentarios":"",
+        "seccion":"2-2017"
+    },
+
+    {
+        "nombre":"Arte Contemporáneo Universal",
+        "etiqueta": ["nulo"],
+        "urlImg":"",
+        "url":"",
+        "ciclo": ["III"],
+        "materia":"Artes Plásticas",
+        "comentarios":"",
+        "seccion":"2-2017"
+    },
+
+    {
+        "nombre":"COVID-19",
+        "etiqueta": ["nulo"],
+        "urlImg":"",
+        "url":"",
+        "ciclo": ["General"],
+        "materia":"General",
+        "comentarios":"",
+        "seccion":"2-2017"
+    },
+
+    {
+        "nombre":"Apoyos procesos a distancia",
+        "etiqueta": ["nulo"],
+        "urlImg":"",
+        "url":"",
+        "ciclo": ["General"],
+        "materia":"General",
+        "comentarios":"",
+        "seccion":"2-2017"
+    },
+
+    {
+        "nombre":"MakeCode Arcade de Microsoft",
+        "etiqueta": ["nulo"],
+        "urlImg":"",
+        "url":"",
+        "ciclo": ["Diversificada","II","III"],
+        "materia":"Tecnología",
+        "comentarios":"",
+        "seccion":"2-2017"
+    },
+
+    {
+        "nombre":"Family Celebrations in Costa Rica Minibook",
+        "etiqueta": ["nulo"],
+        "urlImg":"",
+        "url":"",
+        "ciclo": ["I"],
+        "materia":"Inglés",
+        "comentarios":"",
+        "seccion":"2-2017"
     }
 
 
