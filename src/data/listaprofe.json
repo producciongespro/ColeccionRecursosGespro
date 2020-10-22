@@ -266,7 +266,7 @@
 
    {
       "nombre":"Estructura de Lewis",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["21"," tomo central","bachillerato","electrones","elementos","elementos químicos","enlaces covalentes","enlaces dobles","enlaces simples","enlaces triples","grupo o familia","mol‚cula","mol‚culas","Oscar Ulate Morales","profe en casa","undécimo año","valencia","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(21).jpg",
       "url":"https://www.mep.go.cr/educatico/estructura-lewis",
       "ciclo": ["Diversificada"],
@@ -276,7 +276,7 @@
    },
    {
      "nombre":"Enlace iónico y metálico",
-     "etiqueta": ["nulo"],
+     "etiqueta": ["22","aniones","bachillerato","cationes","compuestos iónicos","configuación electrónica","enlaces","iones","Jonathan Alvarado Murillo","miostasis","Oscar Ulate Morales","profe en casa","undécimo año","vídeo","vídeos"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(22).jpg",
      "url":"https://www.mep.go.cr/educatico/enlace-ionico-metalico",
      "ciclo": ["Diversificada"],
@@ -286,7 +286,7 @@
   },
   {
      "nombre":"Enlaces químicos",
-     "etiqueta": ["nulo"],
+     "etiqueta": ["23","aniones","bachillerato","cationes","covalente","elementos","enlace","iones","iónico","met lico","mol‚culas","Oscar Ulate Morales","profe en casa","química","tabla periódica","undécimo año","vídeo","vídeos"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(23).jpg",
      "url":"https://www.mep.go.cr/educatico/enlaces-quimicos",
      "ciclo": ["Diversificada"],
@@ -296,7 +296,7 @@
   },
   {
      "nombre":"Enlaces químicos covalentes",
-     "etiqueta": ["nulo"],
+     "etiqueta": ["24","bachillerato","conducción t‚rmica y el‚ctrica","covalente polar","ebullición","electronegatividad","electrones","enlace","estados de la materia","estructura de Lewis","Oscar Ulate Morales","profe en casa","punto de fusión","solubles","undécimo año","vídeo","vídeos"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(24).jpg",
      "url":"https://www.mep.go.cr/educatico/enlaces-quimicos-covalentes",
      "ciclo": ["Diversificada"],
@@ -306,7 +306,7 @@
   },
   {
      "nombre":"Estequiometría: resolución de problemas",
-     "etiqueta": ["nulo"],
+     "etiqueta": ["25","bachillerato","cálculo","ciencias","conversiones","ejemplos","estequeometría","Fabi n Mora Granados","gramos","moles","operaciones","partículas elementales","profe en casa","química","reacciones químicas","undécimo año","vídeo","vídeos"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(25).jpg",
      "url":"https://www.mep.go.cr/educatico/estequiometria-resolucion",
      "ciclo": ["Diversificada"],
@@ -334,7 +334,7 @@
 
   {
      "nombre":"Conceptos básicos de estequiometría",
-     "etiqueta": ["nulo"],
+     "etiqueta": ["26","bachillerato","cálculo","ciencias","ejemplos","estequeometría","Fabi n Mora Granados","gramos","moles","partículas elementales","profe en casa","química","reacciones químicas","undécimo año","vídeo","vídeos"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(26).jpg",
      "url":"https://www.mep.go.cr/educatico/conceptos-estequiometria",
      "ciclo": ["Diversificada"],
@@ -344,7 +344,7 @@
   },
   {
      "nombre":"Combinación de operaciones con paréntesis",
-     "etiqueta": ["nulo"],
+     "etiqueta": ["27","números","operaciones","prioridad de operaciones","profe en casa","sétimo año","vídeo","vídeos","Yency Castro Barrantes"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(27).jpg",
      "url":"https://www.mep.go.cr/educatico/combinacion-operaciones-parentesis",
      "ciclo": ["III"],
@@ -354,7 +354,7 @@
   },
   {
      "nombre":"Patrones y sucesiones",
-     "etiqueta": ["nulo"],
+     "etiqueta": ["28","German Quirós Quirós","ley de formación","números","profe en casa","secuencias","sétimo año","sucesión","teoría de números","vídeo","vídeos"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(28).jpg",
      "url":"https://www.mep.go.cr/educatico/patrones-sucesiones",
      "ciclo": ["III"],
@@ -364,7 +364,7 @@
   },
   {
      "nombre":"Funciones inversas",
-     "etiqueta": ["nulo"],
+     "etiqueta": ["29","Angie Herrera","bachillerato","función cuadr tica","función lineal","funciones inversas","profe en casa","restricción de una función","undécimo año","vídeo","vídeos"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(29).jpg",
      "url":"https://www.mep.go.cr/educatico/funciones-inversas",
      "ciclo": ["Diversificada"],
@@ -374,7 +374,7 @@
   },
   {
      "nombre":"Ecuaciones fraccionarias y literales",
-     "etiqueta": ["nulo"],
+     "etiqueta": ["30","algebra","ecuación","ecuaciones","ecuaciones fraccionarias","ecuaciones literales","Eithel Vega","fraccionaria","literal","octavo año","profe en casa","vídeo","vídeos"],
      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(30).jpg",
      "url":"https://www.mep.go.cr/educatico/ecuaciones-fraccionarias-literales",
      "ciclo": ["III"],
@@ -388,7 +388,7 @@
 
   {
    "nombre":"Ángulos de elevación, ángulos de depresión",
-   "etiqueta": ["nulo"],
+   "etiqueta": ["31"," ngulo de depresión"," ngulo de elevación"," ngulos","noveno año","profe en casa","trigonometría","vídeo","vídeos"],
    "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(31).jpg",
    "url":"https://www.mep.go.cr/educatico/angulos-elevacion-depresion",
    "ciclo": ["III"],
@@ -398,7 +398,7 @@
 },
 {
   "nombre":"Homotecias",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["32","geometría","homotecia","plano cartesiano","profe en casa","puntos homólgos","razón","vídeo","vídeos","Yency Castro Barrantes"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(32).jpg",
   "url":"https://www.mep.go.cr/educatico/homotecias",
   "ciclo": ["III"],
@@ -408,7 +408,7 @@
 },
 {
   "nombre":"Productos notables",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["33"," lgebra","fórmulas notables","octavo año","polinomios","producto notable","profe en casa","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(33).jpg",
   "url":"https://www.mep.go.cr/educatico/productos-notables",
   "ciclo": ["III"],
@@ -418,7 +418,7 @@
 },
 {
   "nombre":"Mínimo múltiplo común y máximo divisor común",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["34","divisor","divisores","German Quirós Quirós","m ximo divisor común","mínimo múltiplo común","múltiplos","números","primos","profe en casa","sétimo año","teoría de números","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(34).jpg",
   "url":"https://www.mep.go.cr/educatico/minimo-multiplo-comun-maximo-divisor-comun",
   "ciclo": ["III"],
@@ -428,7 +428,7 @@
 },
 {
   "nombre":"Variables cuantitativas discretas y variables cuantitativas continuas",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["35","cuantitativa","estadística","historia","Mariela Jim‚nez Quesada","profe en casa","sétimo año","variable","variable cuantitativa continua","variable cuantitativa discreta","variables","variables estadísticas","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(35).jpg",
   "url":"https://www.mep.go.cr/educatico/variables-discretas-continuas",
   "ciclo": ["III"],
@@ -456,7 +456,7 @@
 
 {
   "nombre":"Semejanza y congruencia de triángulos",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["36","congruencia","geometría","matem tica","octavo año","profe en casa","semejanza","tri ngulos","tri ngulos congruentes","tri ngulos semejantes","vídeo","vídeos","Yency Castro Barrantes"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(36).jpg",
   "url":"https://www.mep.go.cr/educatico/semejanza-congruencia-triangulos",
   "ciclo": ["III"],
@@ -466,7 +466,7 @@
 },
 {
   "nombre":"Estimación de áreas de figuras planas no poligonales",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["37"," reas","Carlos Esquivel Villalobos","décimo año","estimación","figuras planas","geometría","geometría analítica","no polígonos","profe en casa","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(37).jpg",
   "url":"https://www.mep.go.cr/educatico/figuras-planas-no-poligonales",
   "ciclo": ["Diversificada"],
@@ -476,7 +476,7 @@
 },
 {
   "nombre":"Aplicando probabilidades para la toma de decisiones",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["38","Eithel G. Vega Rodríguez","evento","eventos mutuamente excluyentes","Laplace","octavo año","probabilidad","profe en casa","regla de Laplace","toma de decisiones","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(38).jpg",
   "url":"https://www.mep.go.cr/educatico/aplicando-probabilidades-para-toma-decisiones",
   "ciclo": ["III"],
@@ -486,7 +486,7 @@
 },
 {
   "nombre":"Ecuaciones logarítmicas II",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["39","bachillerato","base 10","disolución","logaritmo","preim genes","profe en casa","undécimo año","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(39).jpg",
   "url":"https://www.mep.go.cr/educatico/ecuaciones-logaritmicas-ii",
   "ciclo": ["Diversificada"],
@@ -496,7 +496,7 @@
 },
 {
   "nombre":"Plantear y resolver problemas utilizando ecuaciones de segundo grado con una incógnita",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["40"," rea","catetos","cociente","discriminante","ecuación","fórmulas notables","hipotenusa","noveno año","profe en casa","teorema de Pitagóras","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(40).jpg",
   "url":"https://www.mep.go.cr/educatico/ecuaciones-segundo-grado",
   "ciclo": ["III"],
@@ -514,7 +514,7 @@
 
 {
    "nombre":"Plantear y resolver problemas utilizando sistemas de dos ecuaciones con dos incógnitas",
-   "etiqueta": ["nulo"],
+   "etiqueta": ["41","décimo año","ecuaciones","Greivin Arroyo Trejos","incógnitas","problemas","profe en casa","realidad","toma de decisiones","vídeo","vídeos"],
    "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(41).jpg",
    "url":"https://www.mep.go.cr/educatico/plantear-resolver-problemas-utilizando-sistemas-dos-ecuaciones-dos-incognitas",
    "ciclo": ["Diversificada"],
@@ -524,7 +524,7 @@
 },
 {
   "nombre":"Proporcionalidad directa e inversa",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["42","datos","Greivin Arroyo Trejos","profe en casa","proporcionalidad directa","proporcionalidad inversa","séptimo año","sétimo año","tabulación","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(42).jpg",
   "url":"https://www.mep.go.cr/educatico/proporcionalidad-directa-e-inversa",
   "ciclo": ["III"],
@@ -534,7 +534,7 @@
 },
 {
   "nombre":"Conceptos básicos de la función logarítmica",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["43"," mbito","argumento","asíntota","bachillerato","dominio","función exponencial","intersección","logaritmo","mate","matem tica","modelo exponencial","números reales","profe en casa","Sandra Rodríguez Herrera","undécimo año","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(43).jpg",
   "url":"https://www.mep.go.cr/educatico/conceptos-funcion-logaritmica",
   "ciclo": ["Diversificada"],
@@ -544,7 +544,7 @@
 },
 {
   "nombre":"Conceptos básicos de la función exponencial",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["44","arteciano","bachillerato","base","conceptos","exponente","mate","matem tica","plano cartesiano","potencia","profe en casa","Sandra Rodríguez Herrera","undécimo año","variante","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(44).jpg",
   "url":"https://www.mep.go.cr/educatico/conceptos-funcion-exponencial",
   "ciclo": ["Diversificada"],
@@ -554,7 +554,7 @@
 },
 {
   "nombre":"Resolución de problemas con funciones exponenciales",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["45","bachillerato","exponencial","función exponencial","funciones","mate","matem tica","Maynor Rojas Bolaños","problemas","profe en casa","undécimo año","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(45).jpg",
   "url":"https://www.mep.go.cr/educatico/funciones-exponenciales-resolucion",
   "ciclo": ["Diversificada"],
@@ -582,7 +582,7 @@
 
 {
   "nombre":"Resolución de problemas con ecuaciones logarítmicas",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["46","bachillerato","ecuación logarítmica","ecuaciones","logaritmos","mate","matem tica","Maynor Rojas Bolaños","profe en casa","propiedades","propiedades de los logaritmos","undécimo año","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(46).jpg",
   "url":"https://www.mep.go.cr/educatico/ecuaciones-logaritmicas-resolucion",
   "ciclo": ["Diversificada"],
@@ -592,7 +592,7 @@
 },
 {
   "nombre":"Resolución de problemas con polígonos regulares",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["47"," ngulo externo"," ngulo interno","bachillerato","diagonal","geometría","Jessica Chacón Piedra","polígono","polígonos regulares","profe en casa","undécimo año","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(47).jpg",
   "url":"https://www.mep.go.cr/educatico/poligonos-regulares",
   "ciclo": ["Diversificada"],
@@ -602,7 +602,7 @@
 },
 {
   "nombre":"Aplicaciones de los logaritmos",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["48","bachillerato","Jessica Chacón Piedra","logaritmo","mate","matem tica","profe en casa","undécimo año","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(48).jpg",
   "url":"https://www.mep.go.cr/educatico/aplicaciones-logaritmos",
   "ciclo": ["Diversificada"],
@@ -612,7 +612,7 @@
 },
 {
   "nombre":"Resolución de problemas con polígonos inscritos o circunscritos 2",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["49"," rea","bachillerato","ejercicio","Elmer Ramírez Chaves","geometría","lado","mate","matem tica","polígono regular","problema","profe en casa","undécimo año","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(49).jpg",
   "url":"https://www.mep.go.cr/educatico/poligonos-inscritos-circunscritos-2",
   "ciclo": ["Diversificada"],
@@ -622,7 +622,7 @@
 },
 {
   "nombre":"Resolución de problemas con polígonos inscritos o circunscritos 1",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["50"," ngulo central"," ngulo externo"," ngulo interno","apotema"," rea","bachillerato","circunscrito","diagonal","Elmer Ramírez Chaves","geometría","inscrito","mate","matem tica","perímetro","polígono regular","profe en casa","radio","undécimo año","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(50).jpg",
   "url":"https://www.mep.go.cr/educatico/poligonos-inscritos-circunscritos-1",
   "ciclo": ["Diversificada"],
@@ -638,7 +638,7 @@
 
 {
    "nombre":"High tech high touch",
-   "etiqueta": ["nulo"],
+   "etiqueta": ["51","danger zone","english","Gabriela Cordero","octavo año","online dangers","profe en casa","safety on the web","socialmedia","tech tools","technology","vídeo","vídeos"],
    "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(51).jpg",
    "url":"https://www.mep.go.cr/educatico/high-tech-high-touch",
    "ciclo": ["Diversificada"],
@@ -648,7 +648,7 @@
 },
 {
   "nombre":"Fragile world handle with care",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["52","décimo año","environment","environmental education","Jorge M‚ndez","natural resources","pollution","profe en casa","recycle","reduce","reuse","sustainable development","vídeo","vídeos","water conservation"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(52).jpg",
   "url":"https://www.mep.go.cr/educatico/fragile-world-handle-care",
   "ciclo": ["Diversificada"],
@@ -658,7 +658,7 @@
 },
 {
   "nombre":"Identification of family members and partner´s relatives",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["53","Alejandra Agero Ortega","family","family members","non-tradditional families","octavo año","possessive"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(53).jpg",
   "url":"https://www.mep.go.cr/educatico/family-members",
   "ciclo": ["Diversificada"],
@@ -668,7 +668,7 @@
 },
 {
   "nombre":"Acceptance and refusal of goods and services",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["54","Annette Boza Meneses","at a restaurant","at the store","goods and services","inviting someone","octavo año","profe en casa","Services","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(54).jpg",
   "url":"https://www.mep.go.cr/educatico/acceptance-and-refusal",
   "ciclo": ["III"],
@@ -678,7 +678,7 @@
 },
 {
   "nombre":"Personal travel plans",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["55","Anayanse Valerio Hern ndez","at the airport","booking for a flight","checking places","looking for accomodations","making travel plans","octavo año","planning a trip","profe en casa","travel abroad","travel plans","trips","vacation period","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(55).jpg",
   "url":"https://www.mep.go.cr/educatico/personal-travel-plans",
   "ciclo": ["III"],
@@ -706,7 +706,7 @@
 
 {
   "nombre":"Our democratic tradition",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["56","décimo año","democracy","democratic","democratic values","elections","expressing opinion","Gabriela Cordero Gómez","kinds of government","political ideology","political issues","political party","profe en casa","rights","vídeo","vídeos","voting"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(56).jpg",
   "url":"https://www.mep.go.cr/educatico/our-democratic-tradition",
   "ciclo": ["Diversificada"],
@@ -716,7 +716,7 @@
 },
 {
   "nombre":"Computers and technology in our lives",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["57","Ana Bonilla Rodríguez","computer programs","computers","comunication tecnologies","evolution","internet","means of communication","noveno año","profe en casa","software","tecnological advances","tecnology","vídeo","vídeos","web"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(57).jpg",
   "url":"https://www.mep.go.cr/educatico/computers-and-technology",
   "ciclo": ["III"],
@@ -726,7 +726,7 @@
 },
 {
   "nombre":"Operating electrical appliances",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["58","aparatos electrodom‚sticos","Evelyn Salazar Lobo","imperatives","instructions","noveno año","operating electrical appliances","profe en casa","secuence adverbs","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(58).jpg",
   "url":"https://www.mep.go.cr/educatico/operating-electrical-appliances",
   "ciclo": ["III"],
@@ -736,7 +736,7 @@
 },
 {
   "nombre":"Job demand in Costa Rica: job interview",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["59","Arnulfo Godínez Chanto","bachillerato","careers","job demand","job interview","jobs","occupations","profe en casa","undécimo año","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(59).jpg",
   "url":"https://www.mep.go.cr/educatico/job-interview",
   "ciclo": ["Diversificada"],
@@ -745,8 +745,8 @@
   "seccion":"12-profe"
 },
 {
-  "nombre":"Jobs, careers and lifestyles",
-  "etiqueta": ["nulo"],
+  "nombre":"Jobs, careers and lifestyles", 
+  "etiqueta": ["60","careers","Carlos Gómez Montoya","décimo año","english","job","lifestyles","possibilities","profe en casa","skills","vídeo","vídeos","vocation"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(60).jpg",
   "url":"https://www.mep.go.cr/educatico/jobs-careers-and-lifestyles",
   "ciclo": ["Diversificada"],
@@ -762,7 +762,7 @@
 
 {
    "nombre":"Describing objects",
-   "etiqueta": ["nulo"],
+   "etiqueta": ["61","cosas","descripción","Gabriela Arguedas Arroyo","Objetos","oraciones","preguntas","profe en casa","séptimo año","sétimo año","vídeo","vídeos"],
    "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(61).jpg",
    "url":"https://www.mep.go.cr/educatico/describing-objects",
    "ciclo": ["III"],
@@ -772,7 +772,7 @@
 },
 {
   "nombre":"Location of people and objects",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["62","describing people","english","Gabriela Arguedas Arroyo","identifying someone","location of objects","location of people","locations","prepositions","prepositons of place","profe en casa","séptimo año","sétimo año","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(62).jpg",
   "url":"https://www.mep.go.cr/educatico/location-people-objects",
   "ciclo": ["III"],
@@ -782,7 +782,7 @@
 },
 {
   "nombre":"Identification of oneself to others: personal information",
-  "etiqueta": ["nulo"],
+  "etiqueta": ["63","english","identifying oneseflt to others","information questions","introductions","Johnny Montoya Rojas","personal information","profe en casa","séptimo año","sétimo año","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(63).jpg",
   "url":"https://www.mep.go.cr/educatico/identification-personal-information",
   "ciclo": ["III"],
