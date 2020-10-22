@@ -1,7 +1,7 @@
 [
     {
        "nombre":"Partes de la oración: adjetivo y artículo",
-       "etiqueta": ["nulo"],
+       "etiqueta": ["1","adjetivo", "artículo", "Olga Camacho Bermúdez", "profe en casa", "séptimo año", "sétimo año", "vídeo", "vídeos"],
        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/imagenes-profe.png",
        "url":"https://www.mep.go.cr/educatico/oracion-adjetivo-articulo",
        "ciclo": ["III"],
@@ -11,7 +11,7 @@
     },
     {
       "nombre":"Las partes de la oración: el verbo",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["2","concordancia sujeto-verbo","formas no personales","formas verbales","número","Olga Camacho Bermúdez","persona","profe en casa","séptimo año","sétimo año","tiempo","verbo","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(2).jpg",
       "url":"https://www.mep.go.cr/educatico/oracion-verbo",
       "ciclo": ["III"],
@@ -21,7 +21,7 @@
    },
    {
       "nombre":"Verbos regulares e irregulares",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["3","adjetivo","artículo","Olga Camacho Bermúdez","profe en casa","séptimo año","sétimo año","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(3).jpg",
       "url":"https://www.mep.go.cr/educatico/verbos-regulares-irregulares",
       "ciclo": ["Diversificada"],
@@ -31,7 +31,7 @@
    },
    {
       "nombre":"El pronombre, las conjunciones, la interjección, la preposición y el adverbio",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["4","adverbio","comunicación","conjunción","enclítico","interjección","Marianella Abell n Vargas","noveno año","preposición","proclítico","profe en casa","pronombre","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(4).jpg",
       "url":"https://www.mep.go.cr/educatico/pronombre-conjunciones-interjeccion-preposicion-adverbio",
       "ciclo": ["III"],
@@ -41,7 +41,7 @@
    },
    {
       "nombre":"Falacias",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["5","Argel Monge Zamora","comunicación","español","expresión","falacias","lingística","noveno año","profe en casa","vídeo","vídeos" ],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(5).jpg",
       "url":"https://www.mep.go.cr/educatico/falacias",
       "ciclo": ["III"],
@@ -69,7 +69,7 @@
 
    {
       "nombre":"La inferencia",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["6","Grethel Ruiz Mejía","inferencia","lógica","octavo año","profe en casa","repaso de inferencias","vídeo","vídeos" ],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(6).jpg",
       "url":"https://www.mep.go.cr/educatico/inferencia",
       "ciclo": ["III"],
@@ -79,7 +79,7 @@
    },
    {
       "nombre":"Tablas de verdad",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["7","bachillerato","conclusión","conectores","Glenda Campos Paniagua","premisas","profe en casa","tablas de verdad","undécimo año","vídeo","vídeos" ],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(7).jpg",
       "url":"https://www.mep.go.cr/educatico/tablas-verdad",
       "ciclo": ["Diversificada"],
@@ -89,7 +89,7 @@
    },
    {
       "nombre":"Figuras literarias",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["8","figuras de construcción","Jorge Debravo","literatura costarricense","Marianella Abell n Vargas","noveno año","Osvaldo Sauma","profe en casa","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(8).jpg",
       "url":"https://www.mep.go.cr/educatico/figuras-literarias",
       "ciclo": ["III"],
@@ -99,7 +99,7 @@
    },
    {
       "nombre":"Signos de puntuación",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["9","expresión escrita","José Ramón Salas","noveno año","profe en casa","puntuación","redacción","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(9).jpg",
       "url":"https://www.mep.go.cr/educatico/signos-puntuacion",
       "ciclo": ["III"],
@@ -109,7 +109,7 @@
    },
    {
       "nombre":"El razonamiento",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["10","Argel Monge Zamora","conector lógico","décimo año","profe en casa","razonamiento","validez e invalidez","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(10).jpg",
       "url":"https://www.mep.go.cr/educatico/razonamiento",
       "ciclo": ["Diversificada"],
@@ -142,7 +142,7 @@
 
     {
        "nombre":"El interés simple y el interés compuesto",
-       "etiqueta": ["nulo"],
+       "etiqueta": ["11","bolsa nacional de valores","cálculo de intereses","explicación","explicaciones","inter‚s compuesto","inter‚s simple","Mildred V squez Soto","octavo año","profe en casa","secundaria","vídeo","vídeos" ],
        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(11).jpg",
        "url":"https://www.mep.go.cr/educatico/interes-simple-interes-compuesto",
        "ciclo": ["III"],
@@ -152,7 +152,7 @@
     },
     {
       "nombre":"Los módelos atómicos",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["12","bachillerato","beta y gama","definición de  tomo","electrones","indestructible","indivisible","modelo atómico","partículas alfa","profe en casa","protones","Sandra Carballo Rodríguez","teoría atómica moderna","undécimo año","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(12).jpg",
       "url":"https://www.mep.go.cr/educatico/modelos-atomicos",
       "ciclo": ["Diversificada"],
@@ -162,7 +162,7 @@
    },
    {
       "nombre":"Estado de la materia",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["13","balanceo","cambio químico","décimo año","ecuación química","índices estequiom‚tricos","ley Lavoisier","materia","productos","profe en casa","reacciones químicas","reactivos","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(13).jpg",
       "url":"https://www.mep.go.cr/educatico/estado-materia",
       "ciclo": ["Diversificada"],
@@ -172,7 +172,7 @@
    },
    {
       "nombre":"Tabla Periódica: generalidades",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["14","décimo año","elemento químico","elementos","equivalencias","isótopos","masa atómica","número atómico","número m sico","profe en casa","química","representación de elementos","Roma Mata Apui","símbolo","símbolos","valor medio","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(14).jpg",
       "url":"https://www.mep.go.cr/educatico/tabla-periodica-generalidades",
       "ciclo": ["Diversificada"],
@@ -182,7 +182,7 @@
    },
    {
       "nombre":"Tabla periódica: números cuánticos",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["15","características físicas","características químicas","décimo año","elementos químicos","Fabi n Mora Granados","números cu nticos","profe en casa","tabla periódica","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(15).jpg",
       "url":"https://www.mep.go.cr/educatico/tabla-periodica-nu%CC%81meros-cua%CC%81nticos",
       "ciclo": ["Diversificada"],
@@ -210,7 +210,7 @@
 
    {
       "nombre":"Tabla periódica: configuraciones electrónicas",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["16","configuraciones electrónicas","décimo año","electrones","elementos químicos","Fabi n Mora Granados","profe en casa","tabla periódica","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(16).jpg",
       "url":"https://www.mep.go.cr/educatico/tabla-periodica-configuraciones-electronicas",
       "ciclo": ["Diversificada"],
@@ -220,7 +220,7 @@
    },
    {
       "nombre":"Solubilidad",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["17","bachillerato","cationes","disolventes","gases","Jonathan Alvarado Murillo","proceso de disolución","profe en casa","solutos","undécimo año","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(17).jpg",
       "url":"https://www.mep.go.cr/educatico/solubilidad",
       "ciclo": ["Diversificada"],
@@ -230,7 +230,7 @@
    },
    {
       "nombre":"Fuerzas intermoleculares",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["18","atracción","bachillerato","enlace covalente","fuerza ión-dipolo","fuerzas de dispersión","fuerzas de Van der Waals","fuerzas dipolo-dipolo","Jonathan Alvarado Murillo","mólecula polar","procesos químicos","profe en casa","repulsión","undécimo año","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(18).jpg",
       "url":"https://www.mep.go.cr/educatico/fuerzas-intermoleculares",
       "ciclo": ["Diversificada"],
@@ -240,7 +240,7 @@
    },
    {
       "nombre":"Polaridad",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["19","bachillerato","cargas el‚ctricas","electronegatividad","elementos químicos","enlace","geometría molecular","Jonathan Alvarado Murillo","mólecula polar","moléculas","momento dipolar","polaridad","profe en casa","undécimo año","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(19).jpg",
       "url":"https://www.mep.go.cr/educatico/polaridad",
       "ciclo": ["Diversificada"],
@@ -250,7 +250,7 @@
    },
    {
       "nombre":"Geometría molecular",
-      "etiqueta": ["nulo"],
+      "etiqueta": ["20","angular"," tomos","bachillerato","distribución espacial","estructura molecular","Jonathan Alvarado Murillo","lineal","mol‚cula","profe en casa","teta‚dria","trigonal piramidal","trigonal plana","undécimo año","vídeo","vídeos"],
       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(20).jpg",
       "url":"https://www.mep.go.cr/educatico/geometria-molecular",
       "ciclo": ["Diversificada"],
