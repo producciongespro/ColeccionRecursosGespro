@@ -51,7 +51,19 @@
        "materia":"",
        "comentarios":"",
        "seccion":"1-avances"
-    }
+    },
+
+    {
+      "nombre":"nulo",
+      "etiqueta": ["nulo"],
+      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/primeros.png",
+      "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/diccionario.png",
+      "ciclo": ["nulo"],
+      "materia":"",
+      "comentarios":"",
+      "seccion":"1-avances"
+   }
+
     
 
 ]

@@ -1,7 +1,7 @@
 [
     {
        "nombre":"Partes de la oración: adjetivo y artículo",
-       "etiqueta": ["1","adjetivo", "artículo", "Olga Camacho Bermúdez", "profe en casa", "séptimo año", "sétimo año", "vídeo", "vídeos"],
+       "etiqueta": ["1","adjetivo","artículo","Olga Camacho Bermúdez","profe en casa","séptimo año","sétimo año","vídeo","vídeos"],
        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/imagenes-profe.png",
        "url":"https://www.mep.go.cr/educatico/oracion-adjetivo-articulo",
        "ciclo": ["III"],
@@ -1596,7 +1596,7 @@
 },
 {
   "nombre":"Derechos Humanos",
-  "etiqueta": ["128","interdependencia","intransferibilidad","irreversibilidad","libertades inherentes","noveno año","Olman Vega Castro","profe en casa","progresividad","temporalidad","universalidad","vídeo","vídeos" ,],
+  "etiqueta": ["128","interdependencia","intransferibilidad","irreversibilidad","libertades inherentes","noveno año","Olman Vega Castro","profe en casa","progresividad","temporalidad","universalidad","vídeo","vídeos"],
   "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-profe/profe(128).jpg",
   "url":"https://www.mep.go.cr/educatico/derechos-humanos",
   "ciclo": ["III"],
