@@ -1,9 +1,9 @@
 [
     {
         "nombre":"Caja de Herramientas",
-        "etiqueta": ["nulo"],
+        "etiqueta": ["caja de herramientas para docentes","documentos de apoyo","documentos","oficiales","plásticas","evaluación","compartir","herramientas","plantillas de planeamiento","recursos","transformación curricular","imaginar","guías","plantillas de aprendizaje","gta","secundaria"],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
-        "url":"http://www.cajadeherramientas.mep.go.cr/app/",
+        "url":"https://www.mep.go.cr/educatico/caja-herramientas-docentes",
         "ciclo": ["General"],
         "materia":"General",
         "comentarios":"",
@@ -11,7 +11,7 @@
     },
     {
         "nombre":"Estilización y abstracción en el Arte Moderno",
-        "etiqueta": ["nulo"],
+        "etiqueta": ["arte moderno","abtración","abstracción","artes","estilización","plásticas","crear","jugar","artes"],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/estilizacion.jpg",
         "url":"https://www.mep.go.cr/educatico/estilizacion-abstraccion-arte-moderno",
         "ciclo": ["III"],
@@ -21,9 +21,9 @@
     },
     {
         "nombre":"Aprendo en casa",
-        "etiqueta": ["nulo"],
+        "etiqueta": ["aprendo en casa","aulavirtual","documentos de apoyo","contagio","documentoso ficiales","coronavirus","evaluacin","covid-19","herramientas","emergencia","plantillas de planeamiento","materiales","recursos","mediacin","transformación curricular","protocolos","guías","recursoscovid","plantillas de aprendizaje","salud","gta","sinart","autnomo","televisión","guíasdetrabajo","virus","plantillas de planeamiento","plantillas de aprendizaje"],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/aprendo.jpg",
-        "url":"https://recursos.mep.go.cr/2020/aprendoencasa/",
+        "url":"https://www.mep.go.cr/educatico/aprendo-casa",
         "ciclo": ["General"],
         "materia":"General",
         "comentarios":"",
@@ -31,7 +31,7 @@
     },
     {
         "nombre":"Sitio de Artes Plásticas",
-        "etiqueta": ["nulo"],
+        "etiqueta": ["arte costarricense","artes","artes plásticas","claves del arte","creatividad","herramientas","plásticas","sitio"],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/artes.jpg",
         "url":"https://www.mep.go.cr/educatico/sitio-artes-plasticas-iii-ciclo-educacion-diversificada",
         "ciclo": ["III","Diversificada"],
@@ -41,7 +41,7 @@
     },
     {
         "nombre":"Waeather Wise",
-        "etiqueta": ["nulo"],
+        "etiqueta": ["english","primaria","evaluación","recursos Inglés","herramientas","weather","weatherwise"],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/weather.jpg",
         "url":"https://www.mep.go.cr/educatico/weather-wise",
         "ciclo": ["II"],
