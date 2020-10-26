@@ -130,7 +130,7 @@
 
     {
         "nombre":"Family Celebrations in Costa Rica Minibook",
-        "etiqueta": ["nulo"],
+        "etiqueta": ["celebrations in Costa Rica","english","family celebrations","holidays","inglés","minibook","primaria","recursos Inglés"],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/celebrations.jpg",
         "url":"https://www.mep.go.cr/educatico/family-celebrations-costa-rica-minibook",
         "ciclo": ["I"],
@@ -141,7 +141,7 @@
 
     {
         "nombre":"Arte Contemporáneo Universal",
-        "etiqueta": ["nulo"],
+        "etiqueta": ["artes","bodyart","contemporneo","fluxus","happening","instalación","recursos","landart","noveno","plásticas"],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/contemporaneo.jpg",
         "url":"https://www.mep.go.cr/educatico/arte-contemporaneo-universal",
         "ciclo": ["III"],
@@ -152,7 +152,7 @@
 
     {
         "nombre":"COVID-19",
-        "etiqueta": ["nulo"],
+        "etiqueta": ["aislamiento","aseo","coronavirus","covid","emergencia","contagio","protocolo","salud","virus"],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/covid_19.jpg",
         "url":"https://www.mep.go.cr/educatico/covid-19",
         "ciclo": ["I","II","II"],
@@ -163,7 +163,7 @@
 
     {
         "nombre":"Apoyos procesos a distancia",
-        "etiqueta": ["nulo"],
+        "etiqueta": ["orientacions","covid","a distancia","virtualidad","Teams","cuidados", "covid","emergencia"],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/apoyo.jpg",
         "url":"http://www.mep.go.cr/sites/default/files/Orientaciones/index.html",
         "ciclo": ["General"],
@@ -175,7 +175,7 @@
 
     {
         "nombre":"MakeCode Arcade de Microsoft",
-        "etiqueta": ["nulo"],
+        "etiqueta": ["14 de setiembre","15 de setiembre","patrias","antorcha","Cvica","civismo","recursos","faroles"],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/makecode.jpg",
         "url":"https://www.mep.go.cr/educatico/makecode-arcade-microsoft",
         "ciclo": ["II","III","Diversificada"],
