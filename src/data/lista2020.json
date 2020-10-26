@@ -1,92 +1,82 @@
 [
     {
-        "nombre":"nulo",
+        "nombre":"Caja de Herramientas",
         "etiqueta": ["nulo"],
-        "urlImg":"nulo",
-        "url":"nulo",
-        "ciclo": ["nulo"],
-        "materia":"nulo",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "url":"http://www.cajadeherramientas.mep.go.cr/app/",
+        "ciclo": ["General"],
+        "materia":"General",
         "comentarios":"",
-        "seccion":"2-2020"
+        "seccion":"1-2020"
+    },
+    {
+        "nombre":"Estilización y abstracción en el Arte Moderno",
+        "etiqueta": ["nulo"],
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "url":"https://www.mep.go.cr/educatico/estilizacion-abstraccion-arte-moderno",
+        "ciclo": ["III"],
+        "materia":"Artes Plásticas ",
+        "comentarios":"",
+        "seccion":"1-2020"
     },
     {
         "nombre":"nulo",
         "etiqueta": ["nulo"],
-        "urlImg":"nulo",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
         "comentarios":"",
-        "seccion":"2-2020"
+        "seccion":"1-2020"
     },
     {
         "nombre":"nulo",
         "etiqueta": ["nulo"],
-        "urlImg":"nulo",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
         "comentarios":"",
-        "seccion":"2-2020"
+        "seccion":"1-2020"
     },
     {
         "nombre":"nulo",
         "etiqueta": ["nulo"],
-        "urlImg":"nulo",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
         "comentarios":"",
-        "seccion":"2-2020"
-    },
-    {
-        "nombre":"nulo",
-        "etiqueta": ["nulo"],
-        "urlImg":"nulo",
-        "url":"nulo",
-        "ciclo": ["nulo"],
-        "materia":"nulo",
-        "comentarios":"",
-        "seccion":"2-2020"
+        "seccion":"1-2020"
     },
 
 
-    {
-        "nombre":"nulo",
-        "etiqueta": ["nulo"],
-        "urlImg":"nulo",
-        "url":"nulo",
-        "ciclo": ["nulo"],
-        "materia":"nulo",
-        "comentarios":"",
-        "seccion":"2-2020"
-    },
-    {
-        "nombre":"nulo",
-        "etiqueta": ["nulo"],
-        "urlImg":"nulo",
-        "url":"nulo",
-        "ciclo": ["nulo"],
-        "materia":"nulo",
-        "comentarios":"",
-        "seccion":"2-2020"
-    },
+
+
+
+
+
+
+    
+
+
+
+
 
     {
         "nombre":"nulo",
         "etiqueta": ["nulo"],
-        "urlImg":"nulo",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
         "comentarios":"",
         "seccion":"2-2020"
     },
-
     {
         "nombre":"nulo",
         "etiqueta": ["nulo"],
-        "urlImg":"nulo",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
@@ -97,7 +87,7 @@
     {
         "nombre":"nulo",
         "etiqueta": ["nulo"],
-        "urlImg":"nulo",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
@@ -108,7 +98,7 @@
     {
         "nombre":"nulo",
         "etiqueta": ["nulo"],
-        "urlImg":"nulo",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
@@ -119,29 +109,7 @@
     {
         "nombre":"nulo",
         "etiqueta": ["nulo"],
-        "urlImg":"nulo",
-        "url":"nulo",
-        "ciclo": ["nulo"],
-        "materia":"nulo",
-        "comentarios":"",
-        "seccion":"2-2020"
-    },
-
-    {
-        "nombre":"nulo",
-        "etiqueta": ["nulo"],
-        "urlImg":"nulo",
-        "url":"nulo",
-        "ciclo": ["nulo"],
-        "materia":"nulo",
-        "comentarios":"",
-        "seccion":"2-2020"
-    },
-
-    {
-        "nombre":"nulo",
-        "etiqueta": ["nulo"],
-        "urlImg":"nulo",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
@@ -150,94 +118,71 @@
     },
 
 
+
+
+
+
+
+
+
+
+
+
     {
         "nombre":"nulo",
         "etiqueta": ["nulo"],
-        "urlImg":"nulo",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
         "comentarios":"",
-        "seccion":"2-2020"
+        "seccion":"3-2020"
     },
 
     {
         "nombre":"nulo",
         "etiqueta": ["nulo"],
-        "urlImg":"nulo",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
         "comentarios":"",
-        "seccion":"2-2020"
+        "seccion":"3-2020"
     },
 
     {
         "nombre":"nulo",
         "etiqueta": ["nulo"],
-        "urlImg":"nulo",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
         "comentarios":"",
-        "seccion":"2-2020"
+        "seccion":"3-2020"
     },
 
     {
         "nombre":"nulo",
         "etiqueta": ["nulo"],
-        "urlImg":"nulo",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
         "comentarios":"",
-        "seccion":"2-2020"
+        "seccion":"3-2020"
     },
+
 
     {
         "nombre":"nulo",
         "etiqueta": ["nulo"],
-        "urlImg":"nulo",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
         "comentarios":"",
-        "seccion":"2-2020"
-    },
-
-    {
-        "nombre":"nulo",
-        "etiqueta": ["nulo"],
-        "urlImg":"nulo",
-        "url":"nulo",
-        "ciclo": ["nulo"],
-        "materia":"nulo",
-        "comentarios":"",
-        "seccion":"2-2020"
-    },
-
-    {
-        "nombre":"nulo",
-        "etiqueta": ["nulo"],
-        "urlImg":"nulo",
-        "url":"nulo",
-        "ciclo": ["nulo"],
-        "materia":"nulo",
-        "comentarios":"",
-        "seccion":"2-2020"
-    },
-
-    {
-        "nombre":"nulo",
-        "etiqueta": ["nulo"],
-        "urlImg":"nulo",
-        "url":"nulo",
-        "ciclo": ["nulo"],
-        "materia":"nulo",
-        "comentarios":"",
-        "seccion":"2-2020"
+        "seccion":"3-2020"
     }
-
 
 
 ]
