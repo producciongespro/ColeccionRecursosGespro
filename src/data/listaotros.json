@@ -307,6 +307,16 @@
        "seccion":"6-otros"
     },
     {
+      "nombre":"Carretica Cuentera",
+      "etiqueta": ["carretica","cuentera","apps","pictograma","ahorro","finanzas","educación financiera","financiero","cuentos","redacción","cuento","educación"],
+      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/carretica.jpg",
+      "url":"https://www.mep.go.cr/educatico/carretica-cuentera",
+      "ciclo": ["I","II"],
+      "materia":"Educación para el hogar",
+      "comentarios":"",
+      "seccion":"6-otros"
+   },
+    {
        "nombre":"La lista de los mandados",
        "etiqueta":   ["La lista de los mandados","cuerpos sólidos","esfera","geometría","prismas","triángulo"],
        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/lista_mandados.png",
