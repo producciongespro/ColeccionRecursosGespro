@@ -309,7 +309,7 @@
     {
        "nombre":"Clothes",
        "etiqueta": ["Clothes","clothes","clothing","english","getting dressed","physical appearance","practice","vocabulary"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
+       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/clothes.jpg",
        "url":"https://www.mep.go.cr/educatico/clothes",
        "ciclo": ["II"],
        "materia":"Inglés",
@@ -406,7 +406,7 @@
     {
        "nombre":"Secretos de la Madre Tierra",
        "etiqueta":   ["Secretos de la Madre Tierra","conversiones","distancia","fuerza","geometría","movimiento","enteros","proporcionalidad"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
+       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/secretos.jpg",
        "url":"https://www.mep.go.cr/educatico/secretos-madre-tierra",
        "ciclo": ["III"],
        "materia":"General",
