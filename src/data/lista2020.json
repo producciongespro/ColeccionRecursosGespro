@@ -65,7 +65,7 @@
 
     {
         "nombre":"Objetos enigmáticos",
-        "etiqueta": ["nulo"],
+        "etiqueta": ["3° grado", "arte", "enigma", "enigmáticos", "interactivo", "multimedia" , "Objetos", "plásticas", "precolombino", "sello"],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/objetos.jpg",
         "url":"https://www.mep.go.cr/educatico/objetos-enigmaticos",
         "ciclo": ["I"],
@@ -75,7 +75,7 @@
     },
     {
         "nombre":"Natural Treasures",
-        "etiqueta": ["nulo"],
+        "etiqueta": ["english","inglés","natural treasures","parques nacionales","primaria","recursos Inglés","tesoros naturales"],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/natural.jpg",
         "url":"https://www.mep.go.cr/educatico/natural-treasures",
         "ciclo": ["II"],
@@ -86,7 +86,7 @@
 
     {
         "nombre":"Matrícula de Preescolar 2021",
-        "etiqueta": ["nulo"],
+        "etiqueta": ["Departamento de Educación de la Primera Infancia","grupo interactivo","matrícula","matrcula 2020","Ofelia Montoya","Patricia Hernández","preescolar","proceso de matricula","reglamento de matricula","requisitos de matricula","uniforme"],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/preesc21.jpg",
         "url":"https://www.mep.go.cr/educatico/matricula-preescolar-2021",
         "ciclo": ["Primera Infancia"],
@@ -97,7 +97,7 @@
 
     {
         "nombre":"Recorrido Virtual de la Antorcha",
-        "etiqueta": ["nulo"],
+        "etiqueta": ["14 de setiembre","15 de setiembre","antorcha","Cvica","civismo","herramientas","recorrido de la antorcha","recorrido virtual"],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/antorcha.jpg",
         "url":"https://www.mep.go.cr/educatico/recorrido-virtual-antorcha",
         "ciclo": ["General"],
@@ -108,7 +108,7 @@
 
     {
         "nombre":"Guía Décimo Año",
-        "etiqueta": ["nulo"],
+        "etiqueta": ["english","inglés","ninth grade","noveno","nuevos programas","recursos Inglés","secundaria","recursos","sitio"],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/decingles.jpg",
         "url":"https://www.mep.go.cr/educatico/recursos-guia-decimo-ano",
         "ciclo": ["Diversificada"],
