@@ -12,7 +12,7 @@
     {
         "nombre":"Estilización y abstracción en el Arte Moderno",
         "etiqueta": ["nulo"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/estilizacion.jpg",
         "url":"https://www.mep.go.cr/educatico/estilizacion-abstraccion-arte-moderno",
         "ciclo": ["III"],
         "materia":"Artes Plásticas ",
@@ -20,9 +20,9 @@
         "seccion":"1-2020"
     },
     {
-        "nombre":"nulo",
+        "nombre":"Aprendo en casa",
         "etiqueta": ["nulo"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/aprendo.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
@@ -30,9 +30,9 @@
         "seccion":"1-2020"
     },
     {
-        "nombre":"nulo",
+        "nombre":"Sitio de Artes Plásticas",
         "etiqueta": ["nulo"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/artes.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
@@ -40,9 +40,9 @@
         "seccion":"1-2020"
     },
     {
-        "nombre":"nulo",
+        "nombre":"Waeather Wise",
         "etiqueta": ["nulo"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/weather.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
@@ -57,16 +57,16 @@
 
 
 
-    
+
 
 
 
 
 
     {
-        "nombre":"nulo",
+        "nombre":"Objetos enigmáticos",
         "etiqueta": ["nulo"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/objetos.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
@@ -74,20 +74,9 @@
         "seccion":"2-2020"
     },
     {
-        "nombre":"nulo",
+        "nombre":"Natural Treasures",
         "etiqueta": ["nulo"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
-        "url":"nulo",
-        "ciclo": ["nulo"],
-        "materia":"nulo",
-        "comentarios":"",
-        "seccion":"2-2020"
-    },
-
-    {
-        "nombre":"nulo",
-        "etiqueta": ["nulo"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/natural.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
@@ -96,9 +85,9 @@
     },
 
     {
-        "nombre":"nulo",
+        "nombre":"Matrícula de Preescolar 2021",
         "etiqueta": ["nulo"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/preesc21.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
@@ -107,9 +96,20 @@
     },
 
     {
-        "nombre":"nulo",
+        "nombre":"Recorrido Virtual de la Antorcha",
         "etiqueta": ["nulo"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/antorcha.jpg",
+        "url":"nulo",
+        "ciclo": ["nulo"],
+        "materia":"nulo",
+        "comentarios":"",
+        "seccion":"2-2020"
+    },
+
+    {
+        "nombre":"Guía Décimo Año",
+        "etiqueta": ["nulo"],
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/decingles.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
@@ -129,9 +129,9 @@
 
 
     {
-        "nombre":"nulo",
+        "nombre":"Family Celebrations in Costa Rica Minibook",
         "etiqueta": ["nulo"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/celebrations.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
@@ -140,9 +140,9 @@
     },
 
     {
-        "nombre":"nulo",
+        "nombre":"Arte Contemporáneo Universal***********************",
         "etiqueta": ["nulo"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/contemporaneo.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
@@ -151,9 +151,9 @@
     },
 
     {
-        "nombre":"nulo",
+        "nombre":"COVID-19",
         "etiqueta": ["nulo"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/covid_19.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
@@ -162,9 +162,9 @@
     },
 
     {
-        "nombre":"nulo",
+        "nombre":"Apoyos procesos a distancia",
         "etiqueta": ["nulo"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/apoyo.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
@@ -174,9 +174,9 @@
 
 
     {
-        "nombre":"nulo",
+        "nombre":"MakeCode Arcade de Microsoft",
         "etiqueta": ["nulo"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/makecode.jpg",
         "url":"nulo",
         "ciclo": ["nulo"],
         "materia":"nulo",
