@@ -66,6 +66,11 @@ body {
     .acerca {
       height: 50px;
       width: auto;
-      text-align: right;
       }
 
+
+      .encuesta {
+        height: 70px;
+        width: 70px;
+        text-align: center;
+        }

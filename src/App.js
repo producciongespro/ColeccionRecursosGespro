@@ -72,7 +72,7 @@ function App() {
        <div tabIndex="3">
           <div>
             <a href="./Componentes/creditos.js">
-              <img className="row acerca" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png" alt="Acerca de"/>
+              <img className="row acerca img.fluid hvr-pop" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png" alt="Acerca de"/>
             </a>
           </div>
         </div>
@@ -126,10 +126,20 @@ function App() {
             <GrupoColeccion lista2017={lista2017} lista2018={lista2018} lista2019={lista2019} lista2020={lista2020}  listaAnteriores={listaAnteriores}  listaOtros={listaOtros} listaprofe={listaprofe}/>
           
         }
+<br/><br/>
 
 
-        <br/><br/>
+
+{ /* Sección de encuesta*/ }
+  <div className="row">
+        <a href="http://www.encuesta.mep.go.cr/index.php/681422?lang=es" target="_blank" rel="noopener noreferrer"> 
+        <img className="img-responsive center-block encuesta" role="button" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/encuesta.png" alt="Encuesta para nuevo recurso"></img>
+        </a><br/><br/><br/>
+  </div>
+        
     
+
+  { /* Sección pie de página*/ }
     <div className="col-12 text-center pie">
         <span>DIRECCIÓN DE RECURSOS TECNOLÓGICOS EN EDUCACIÓN DEL MINISTERIO DE EDUCACIÓN PÚBLICA DE COSTA RICA</span> <br/><br/>
         <span>Departamento de Gestión y Producción de Recursos</span>
