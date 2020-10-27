@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "./",
   "dependencies": {
+    "boostrap": "^2.0.0",
     "bootstrap": "^4.5.2",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",

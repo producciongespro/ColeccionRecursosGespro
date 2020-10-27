@@ -66,13 +66,19 @@ function App() {
           )
           } 
     
-    { /*
-       <div tabIndex="3" className="row">
-          <div className="col-10 text right">
-            <img className="img-2" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/lupa2.png" alt="Acerca de"/>
+   
+    { /* Sección de acerca de*/ }
+     
+       <div tabIndex="3">
+          <div>
+            <a href="./Componentes/creditos.js">
+              <img className="row acerca" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png" alt="Acerca de"/>
+            </a>
           </div>
         </div>
-     */ }
+     
+
+
 
 
 { /* Sección de búsqueda de recursos*/ }
@@ -124,7 +130,7 @@ function App() {
 
         <br/><br/>
     
-    <div className="col-12 text-center">
+    <div className="col-12 text-center pie">
         <span>DIRECCIÓN DE RECURSOS TECNOLÓGICOS EN EDUCACIÓN DEL MINISTERIO DE EDUCACIÓN PÚBLICA DE COSTA RICA</span> <br/><br/>
         <span>Departamento de Gestión y Producción de Recursos</span>
     </div>  <br/> 
