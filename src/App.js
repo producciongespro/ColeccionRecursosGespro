@@ -133,7 +133,7 @@ function App() {
 { /* Sección de encuesta*/ }
   <div className="row">
         <a href="http://www.encuesta.mep.go.cr/index.php/681422?lang=es" target="_blank" rel="noopener noreferrer"> 
-        <img className="img-responsive center-block encuesta" role="button" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/encuesta.png" alt="Encuesta para nuevo recurso"></img>
+        <img className="img-responsive encuesta" role="button" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/encuesta.png" alt="Encuesta para nuevo recurso"></img>
         </a><br/><br/><br/>
   </div>
         
