@@ -73,7 +73,7 @@ h6 {
 .navbar-custom {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(155, 146, 146, 0.7);
 }
 
 .navbar-custom .navbar-brand {
@@ -211,8 +211,14 @@ header.masthead .bg-circle-4 {
 
 .info {
   color: #e7a678;
+  font-size: 25pX;
+  line-height: 20px;
 }
 
 .info2 {
   color: #e6ddd7;
+}
+
+.navbar-custom1 {
+  background-color: rgb(156, 151, 151);
 }
