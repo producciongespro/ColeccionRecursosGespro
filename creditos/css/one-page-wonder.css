@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Lato';
-  color: #000;
+  background-color: #000;
 }
 
 #logo {width: 70px; height: 45px;}
@@ -202,4 +202,17 @@ header.masthead .bg-circle-4 {
 .btn-secondary:focus {
   -webkit-box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
   box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
+}
+
+
+.nombre {
+  color: rgb(147, 194, 194);
+}
+
+.info {
+  color: #e7a678;
+}
+
+.info2 {
+  color: #e6ddd7;
 }
