@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129164311-31"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129164311-31');
+</script>
+
+
+
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>GESPRO</title>
+  <link rel="icon" type="image/jpg" href="img/logo.min.jpg">
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/one-page-wonder.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+
+
+  <!-- Custom styles for this template -->
+  <link href="css/one-page-wonder.min.css" rel="stylesheet">
+  <style>
+    .div-shadow {
+      z-index: 999;
+      position: absolute;
+      top: 0%;
+      left: 0%;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.2);
+      text-align: center
+    }
+
+.img-ajax-loading {
+    position: absolute;
+    top: 37%;
+    left: 40%;
+    }
+
+
+    html {
+        scroll-behavior: smooth;
+      }
+
+  </style>
+
+
+
+  <script src="vendor/jquery/jquery.min.js" charset="utf-8"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="script/main.js" charset="utf-8"></script>
+
+
+  <script>
+
+  $(document).ready(function () {
+
+    // obtenerRegionales();
+
+
+
+    $("#btnEnviar").click(function (e) {
+      e.preventDefault();
+
+      if ($('#comentario').val() != "" ) {
+        // let regional = $('select[name="regional"] option:selected').text();
+        enviarComentario($('#correo').val(), $('#comentario').val());
+      } else {
+        $("#mensajeResultado").html("<br><div class='alert alert-danger alert-dismissible fade show' role='alert' id='resultado'> </div>");
+        $("#resultado").html("Debe completar el espacio de comentarios. <button type='button' class='close' data-dismiss='alert' aria-label='Close'><span aria-hidden='true'>&times;</span></button>");
+      }
+
+
+
+    });
+  });
+
+
+  </script>
+
+
+
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
+    <div class="container">
+      <a href="index.html"><img id="logo" class="img-responsive" src="img/logo.png"></a>
+      <a class="navbar-brand" href="#">Dirección de Recursos Tecnológicos en Educación - Equipo GESPRO </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+
+  </nav>
+
+
+  <header class="encabezados">
+    <img id="imagen_encab text-center" src="img/banner-produccion.png" alt=""> <hr><hr><hr>
+  </header>
+
+
+
+  <header class="text-center mb-2">
+    <h2 data-animate="fadeInUp" class="title">Equipo GESPRO<br><span>2019</span></h2>
+    <p data-animate="fadeInUp" class="lead">El departamento de Gestión y Producción de Recursos Tecnológicos (GESPRO) le corresponde la producción de recursos tecnológicos destinados a los procesos de enseñanza-aprendizaje.</p>
+  </header>
+
+
+  <section>
+    <div id="vida"   class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 order-lg-2">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/luis.jpg" alt="Fotografia de Luis Chacón">
+          </div>
+        </div>
+        <div class="col-lg-6 order-lg-1">
+          <div class="p-5">
+            <h2 class="display-4">Luis Chacón Campos</h2>
+            <p>Desarrollo de recursos técnológicos</p>
+            <p>Labora en GESPRO desde 2015</p>
+            <p>Correo:luis.chacon.campos@mep.go.cr</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div id="minid" class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/Oscar.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="p-5">
+            <h2 class="display-4">Mini dialogues</h2>
+            <p>Una serie de micro diálogos preparados a partir del nuevo plan de estudios del ciclo FLE III y la educación diversificada para contribuir al trabajo en clase Recuerde que una buena escucha también implica pensar en lo que se presenta. ¡Es por eso que escuchar no es solo escuchar!.</p>
+            <a href="https://www.mep.go.cr/educatico/micro-dialogues-outils-pour-classe-fle" target="_blank"  class="btn btn-primary btn-m rounded-pill mt-5">Ver recurso</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <section>
+    <div id="minib" class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 order-lg-2">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/Ana.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6 order-lg-1">
+          <div class="p-5">
+            <h2 class="display-4">Mini books 1st, 2nd, 3rd grade</h2>
+            <p>Esta es una serie de 18 mini libros. Cada capítulo se basa en los escenarios del nuevo plan de estudios de inglés para el primer ciclo. Su objetivo es promover el disfrute de la lectura en los niños pequeños, así como el desarrollo de las habilidades de lectura y escucha principalmente.</p>
+            <a href="https://www.mep.go.cr/educatico/english-mini-books-first-cycle" target="_blank" class="btn btn-primary btn-m rounded-pill mt-5">Ver recurso</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <section>
+    <div id="cr" class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/Paty.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="p-5">
+            <h2 class="display-4">Costa Rica Pura Vida in Many Ways</h2>
+            <p>¡Practica Inglés viajando por Costa Rica !  Juego multimedial interactivo  “Costa Rica Pura Vida in Many Ways”.  Conoce las maravillas de nuestro país y practica inglés mientras viajas por nuestras hermosas provincias.</p>
+            <a href="https://www.mep.go.cr/educatico/costa-rica-pura-vida-many-ways" target="_blank" class="btn btn-primary btn-m rounded-pill mt-5">Ver recurso</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section>
+    <div id="orient" class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 order-lg-2">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/Katherine.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6 order-lg-1">
+          <div class="p-5">
+            <h2 class="display-4">Orienta2</h2>
+            <p>Portal de información vocacional, constituye un servicio de apoyo especializado para la toma de decisiones en el momento de afrontar situaciones en el medio escolar, familiar, social y laboral.</p>
+            <a href="https://orienta2.mep.go.cr/" target="_blank" class="btn btn-primary btn-m rounded-pill mt-5">Ver recurso</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div id="cuenticos" class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/sirle.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="p-5">
+            <h2 class="display-4">Cuenticos</h2>
+            <p>Aprovecha la versatilidad de la tecnología y, haciendo uso de un diseño atractivo y una perspectiva lúdica, impulsa a la población estudiantil a crear narraciones originales.</p>
+            <a href="https://www.mep.go.cr/educatico/cuenticos" target="_blank"  class="btn btn-primary btn-m rounded-pill mt-5">Ver recurso</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div id="orient" class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 order-lg-2">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/Sonia.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6 order-lg-1">
+          <div class="p-5">
+            <h2 class="display-4">Leyendas en ngäbere</h2>
+            <p>Textos literarios cuyo contenido se inspira en las tradiciones y costumbres de nuestro país; posteriormente, se presentan algunos ítems diseñados para constatar su comprensión, este sitio tiene una traducción en la lengua ngäbere.</p>
+            <a href="https://www.mep.go.cr/educatico/leyendas-ngabere" target="_blank" class="btn btn-primary btn-m rounded-pill mt-5">Ver recurso</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div id="cuenticos" class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/Mauricio.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="p-5">
+            <h2 class="display-4">Prácticas para bachillerato a tu medida</h2>
+            <p>Apoyo para los postulantes de la prueba del plan Bachillerato a Tu Medida con dos prácticas por asignatura de 50 puntos cada una.</p>
+            <a href="https://www.mep.go.cr/educatico/practicas-bachillerato-tu-medida-2" target="_blank"  class="btn btn-primary btn-m rounded-pill mt-5">Ver recurso</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div id="orient" class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 order-lg-2">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/Marco.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6 order-lg-1">
+          <div class="p-5">
+            <h2 class="display-4">El metiche</h2>
+            <p>Vive la aventura de desplazarte por diversos escenarios para conocer algunas características de caminos o trazos.  Puedes relacionar esta experiencia con conceptos matemáticos, funciones.</p>
+            <a href="https://www.mep.go.cr/educatico/busqueda?keys=el+metiche&mtr=All&nvl=All&tpr=All" target="_blank" class="btn btn-primary btn-m rounded-pill mt-5">Ver recurso</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div id="cuenticos" class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/Chris.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="p-5">
+            <h2 class="display-4">Templo de las mil puertas</h2>
+            <p>Recurso con teoría, ejercicios y un juego para realizar la conversión de unidades de las magnitudes: longitud, masa y capacidad.</p>
+            <a href="https://www.mep.go.cr/educatico/busqueda?keys=Templo&mtr=All&nvl=All&tpr=All" target="_blank"  class="btn btn-primary btn-m rounded-pill mt-5">Ver recurso</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div id="orient" class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 order-lg-2">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/person-4.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6 order-lg-1">
+          <div class="p-5">
+            <h2 class="display-4">Un viaje por Costa Rica</h2>
+            <p>¡Un viaje por Costa Rica! es un recurso educativo,  para aprender acerca del idioma español. Constituye una posibilidad de acercamiento a las riquezas naturales y algunas variantes del español de este país.</p>
+            <a href="https://www.mep.go.cr/educatico/un-viaje-costa-rica" target="_blank" class="btn btn-primary btn-m rounded-pill mt-5">Ver recurso</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div id="cuenticos" class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/person-3.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="p-5">
+            <h2 class="display-4">Le marché aux verbes</h2>
+            <p>Aprender los verbos en francés y sus diferentes formas de conjugación,  ahora es fácil y divertido con la feria de verbos. Puedes seleccionar el modo práctica o modo competencia contra el tiempo.</p>
+            <a href="https://www.mep.go.cr/educatico/le-marche-aux-verbes" target="_blank"  class="btn btn-primary btn-m rounded-pill mt-5">Ver recurso</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  
+ 
+  <!-- Footer -->
+  <footer class="py-5 bg-black">
+    <div class="container">
+      <p class="m-0 text-center text-white small">Dirección de Recursos Tecnológicos en Educación</p>
+        <p class="m-0 text-center text-white small">Departamento de GESPRO - 2019</p>
+          <p class="m-0 text-center text-white small">22553525, ext.4622 </p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+
+
+</body>
+
+</html>
