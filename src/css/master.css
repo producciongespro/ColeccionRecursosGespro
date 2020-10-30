@@ -11,7 +11,14 @@ body {
   }
 
   
+  .movil { 
+    width: 90%;
+  }
 
+  .movil2 { 
+    /* height: 50%; */
+    width: 25%;
+  }
   
   
   .subTitulo {
