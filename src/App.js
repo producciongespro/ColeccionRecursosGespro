@@ -142,7 +142,7 @@ function App() {
   { /* Sección pie de página*/ }
     <div className="col-12 text-center pie">
         <span>DIRECCIÓN DE RECURSOS TECNOLÓGICOS EN EDUCACIÓN DEL MINISTERIO DE EDUCACIÓN PÚBLICA DE COSTA RICA</span> <br/><br/>
-        <span>Departamento de Gestión y Producción de Recursos</span>
+        <span>Departamento de Gestión y Producción de Recursos</span> <br/>
         <span>gespro@mep.go.cr</span>
     </div>  <br/> 
         
