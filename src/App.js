@@ -57,8 +57,9 @@ function App() {
         {
         plataforma==="movil" ?
             (           
+              // <div tabIndex="1"  role="heading" aria-level="1" title="Colección recursos"  className="jumbotron"> </div> 
               <div className="">
-              <img className="img-fluid pepito" src="http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/banner_coleccion.png" alt=""/>
+              <img className="img-fluid pepito" src="http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/banner.jpg" alt=""/>
               </div>         
           ) :
           (         
@@ -68,14 +69,28 @@ function App() {
     
    
     { /* Sección de acerca de*/ }
-     
-       <div tabIndex="3">
-          <div>
-            <a href="./Componentes/creditos.js">
-              <img className="row acerca img.fluid hvr-pop" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png" alt="Acerca de"/>
-            </a>
-          </div>
-        </div>
+    {
+        plataforma==="movil" ?
+            (           
+              <div className="row text-right">
+              <div className="col-12">
+                <a href="./Componentes/creditos.js">
+                  <img className=" movil2" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png" alt="Acerca de"/>
+                </a>
+              </div>
+            </div>        
+          ) :
+          (         
+            <div tabIndex="3">
+            <div>
+              <a href="./Componentes/creditos.js">
+                <img className="row acerca img.fluid hvr-pop" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png" alt="Acerca de"/>
+              </a>
+            </div>
+          </div>        
+          )
+          } 
+
      
 
 
