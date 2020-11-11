@@ -222,3 +222,8 @@ header.masthead .bg-circle-4 {
 .navbar-custom1 {
   background-color: rgb(156, 151, 151);
 }
+
+.intro {
+ padding-left: 10%;
+ padding-right: 10%;
+}
