@@ -74,7 +74,7 @@ function App() {
             (           
               <div className="row text-right">
               <div className="col-12">
-                <a href="./Componentes/creditos.js">
+                <a href="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/creditos/" target="_blank" rel="noopener noreferrer">
                   <img className="movil2" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png" alt="Acerca de"/>
                 </a>
               </div>
@@ -84,8 +84,8 @@ function App() {
             <div tabIndex="3">
             <div className="row text-right">
             <div className="col-12">
-              <a href="./Componentes/creditos.js">
-                <img className="acerca img.fluid hvr-pop" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png" alt="Acerca de"/>
+              <a href="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/creditos/" target="_blank" rel="noopener noreferrer">
+                <img className="acerca img.fluid zoom" role="button" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png"  alt="Acerca de"/>
               </a>
             </div>
             </div>
@@ -93,7 +93,6 @@ function App() {
           )
           } 
 
-     
 
 
 
@@ -151,7 +150,7 @@ function App() {
   <div tabIndex="4" className="row text-center">
     <div className="col-12">
         <a href="http://www.encuesta.mep.go.cr/index.php/681422?lang=es" target="_blank" rel="noopener noreferrer"> 
-        <img className="img-fluid img-responsive  encuesta" role="button" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/encuesta.png" alt="Encuesta para nuevo recurso"></img>
+        <img className="img-fluid img-responsive  encuesta zoom" role="button" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/encuesta.png" alt="Encuesta para nuevo recurso"></img>
         </a>
       </div>
         <br/><br/><br/>
