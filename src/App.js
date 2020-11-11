@@ -75,17 +75,19 @@ function App() {
               <div className="row text-right">
               <div className="col-12">
                 <a href="./Componentes/creditos.js">
-                  <img className=" movil2" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png" alt="Acerca de"/>
+                  <img className="movil2" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png" alt="Acerca de"/>
                 </a>
               </div>
             </div>        
           ) :
           (         
             <div tabIndex="3">
-            <div>
+            <div className="row text-right">
+            <div className="col-12">
               <a href="./Componentes/creditos.js">
-                <img className="row acerca img.fluid hvr-pop" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png" alt="Acerca de"/>
+                <img className="acerca img.fluid hvr-pop" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png" alt="Acerca de"/>
               </a>
+            </div>
             </div>
           </div>        
           )
@@ -146,16 +148,19 @@ function App() {
 
 
 { /* Sección de encuesta*/ }
-  <div className="row">
+  <div tabIndex="4" className="row text-center">
+    <div className="col-12">
         <a href="http://www.encuesta.mep.go.cr/index.php/681422?lang=es" target="_blank" rel="noopener noreferrer"> 
-        <img className="img-responsive encuesta" role="button" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/encuesta.png" alt="Encuesta para nuevo recurso"></img>
-        </a><br/><br/><br/>
+        <img className="img-fluid img-responsive  encuesta" role="button" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/encuesta.png" alt="Encuesta para nuevo recurso"></img>
+        </a>
+      </div>
+        <br/><br/><br/>
   </div>
         
     
 
   { /* Sección pie de página*/ }
-    <div className="col-12 text-center pie">
+    <div tabIndex="4" className="col-12 text-center pie">
         <span>DIRECCIÓN DE RECURSOS TECNOLÓGICOS EN EDUCACIÓN DEL MINISTERIO DE EDUCACIÓN PÚBLICA DE COSTA RICA</span> <br/><br/>
         <span>Departamento de Gestión y Producción de Recursos</span> <br/>
         <span>gespro@mep.go.cr</span>
