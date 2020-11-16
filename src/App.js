@@ -125,6 +125,7 @@ function App() {
                   className="form-control" 
                   type="text"  
                   id="txtBuscar"
+                  placeholder="Digite la palabra(s) o frase a buscar"
                   />              
                 </div>        
           )
