@@ -98,11 +98,24 @@ function App() {
 { /* Sección de búsqueda de recursos*/ }
 
     <div tabIndex="3" className="row" >
+          
+            
             <div className="col-6 text-right"> 
-              <button onClick={handleActivarBusqueda} className="btn btn-outline-dark">
-                <img className="img-1"  src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img/lupa2.png" alt="buscar" />                        
-              </button>             
-            </div>
+            <button onClick={handleActivarBusqueda} className="btn btn-outline-dark">
+            {
+              !isBusqueda ?
+              <img className="img-1"  
+                src="./assets/img/lupa2.png" 
+                alt="buscar" />                        
+                :
+                <img className="img-1"  
+                src="./assets/img/cancel.png" 
+                alt="buscar" />                        
+            }
+            </button>             
+          </div>
+          
+
         {
           isBusqueda && (
                 <div className="col-6 fondo-claro">              
