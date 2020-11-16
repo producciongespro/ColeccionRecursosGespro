@@ -165,6 +165,7 @@ function App() {
 
 
 { /* Sección de encuesta*/ }
+  {/*
   <div tabIndex="4" className="row text-center">
     <div className="col-12">
         <a href="http://www.encuesta.mep.go.cr/index.php/681422?lang=es" target="_blank" rel="noopener noreferrer"> 
@@ -173,12 +174,23 @@ function App() {
       </div>
         <br/><br/><br/>
   </div>
+  */}
+
+  <div className="row mt-4">
+    <div className="col-sm-12">
+    <div className="alert alert-info">
+          Si <strong>no</strong> ha encontrado el recurso relacionado con la temática o contendio que buscaba, 
+          puede dar clic  <a href="http://www.encuesta.mep.go.cr/index.php/681422?lang=es" target="_blank" rel="noopener noreferrer">aquí</a> para que nos lo indique.          
+        </div>
+    </div>
+  </div>
         
     
 
   { /* Sección pie de página*/ }
     <div tabIndex="4" className="col-12 text-center pie">
-        <span>DIRECCIÓN DE RECURSOS TECNOLÓGICOS EN EDUCACIÓN DEL MINISTERIO DE EDUCACIÓN PÚBLICA DE COSTA RICA</span> <br/><br/>
+        <span>DIRECCIÓN DE RECURSOS TECNOLÓGICOS EN EDUCACIÓN DEL MINISTERIO DE EDUCACIÓN PÚBLICA DE COSTA RICA</span> <br/>
+        
         <span>Departamento de Gestión y Producción de Recursos</span> <br/>
         <span>gespro@mep.go.cr</span>
     </div>  <br/> 
