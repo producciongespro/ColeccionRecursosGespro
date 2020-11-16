@@ -35,9 +35,7 @@ function App() {
   useEffect(()=>{
     //console.log(arrayResultaado);
     //console.log("palabraBusqueda",palabraBusqueda);
-    console.log("isBusqueda",isBusqueda);
-
-        
+    console.log("isBusqueda",isBusqueda);        
   });
 
   const handleActivarBusqueda=()=>{
@@ -123,14 +121,20 @@ function App() {
 
 
 
-{ /* Sección de búsqueda de avacnces*/ }
-      <div className="row">
+{ /* Sección de avacnces*/ }
+      
+      {
+        !isBusqueda &&
+        <div className="row">
         <div className="col-12">
           {
             listaAvances &&  <Avances tabIndex="2"  array={listaAvances} />
           }
         </div>
-      </div> <br/><br/>  <br/>
+        </div> 
+      }
+    <br/><br/>  <br/>
+     
 
  
 
