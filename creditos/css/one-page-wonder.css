@@ -238,5 +238,12 @@ color: #e6ddd7;
 
   .lineagepro{
   background-color: #1194D2;
+  color: #e6ddd7;
+  text-align: center;
+  font-family: Arial;
+  }
+
+  .imgfondo  {
+    background-image: url(.\img\linea_puntos.png);
   }
   
