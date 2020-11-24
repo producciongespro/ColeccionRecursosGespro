@@ -30,20 +30,66 @@ function obtenerArreglo($sql){
 
     if(!$resultado = mysqli_query($conexion, $sql)) die(); //si la conexión cancelar programa
 
-    $arreglo = array(); //creamos un array
-
+    $arreglo2020 = array(); //creamos un array
+    $arreglo2019 = array(); 
+    $arreglo2018 = array(); 
+    $arreglo2017 = array(); 
+    $arreglootros = array(); 
+    $arregloavances = array(); 
+    $arregloprofe= array(); 
+    $arregloanteriores= array(); 
     //guardamos en un array todos los datos de la consulta
     $i=0;
 
     while($row = mysqli_fetch_assoc($resultado))
     {
-        $arreglo[$i] = $row;
+   
+       switch (substr($row['seccion'],-4)) {
+           case '2020':
+                array_push($arreglo2020,$row);
+            break;
+            case '2019':
+                array_push($arreglo2019,$row);
+            break; 
+            case '2018':
+                array_push($arreglo2018,$row);
+            break; 
+            case '2017':
+                array_push($arreglo2017,$row);
+            break;
+            case 'tros':
+                array_push($arreglootros,$row);
+            break;
+            case 'ores':
+                array_push($arregloanteriores,$row);
+            break; 
+            case 'rofe':
+                array_push($arregloprofe,$row);
+            break; 
+            case 'nces':
+                array_push($arregloavances,$row);
+            break;  
+           default:
+               # code...
+               break;
+       }
+        
         $i++;
     }
 
     desconectar($conexion); //desconectamos la base de datos
-
-    return $arreglo; //devolvemos el array
+    $todos= array(
+      "avances" => $arregloavances,
+      "otros" => $arreglootros,
+      "profe" => $arregloprofe,
+      "anteriores" => $arregloanteriores,
+      2017 => $arreglo2017,
+      2018 => $arreglo2018,
+      2019 => $arreglo2019,
+      2020 => $arreglo2020
+    );
+   
+    return $todos; //devolvemos el array
 }
 
         $r = obtenerArreglo($sql);
