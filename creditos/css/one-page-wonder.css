@@ -244,6 +244,25 @@ color: #e6ddd7;
   }
 
   .imgfondo  {
-    background-image: url(.\img\linea_puntos.png);
+    background-image: url(https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/creditos/img/linea_puntos.png);
   }
+
+  h1 {
+  font-size: 2.8vw;
+}
   
+h2 {
+font-size: 2vw;
+}
+
+h2 {
+font-size: 1.75vw;
+}
+
+h3 {
+  font-size: 1.75vw;
+}
+
+.lead {
+  font-size: 1.9vw;
+}
