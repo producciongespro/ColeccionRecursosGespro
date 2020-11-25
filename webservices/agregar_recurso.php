@@ -47,7 +47,7 @@ if (!($token == API_KEY)) { //API_KEY declarada en conectar.php
   $sql = "INSERT INTO `recursos`(`nombre`, `etiqueta`, `urlImg`, `url`, `ciclo`, `materia`, `comentarios`, `seccion`) VALUES ('$nombre', '$etiqueta', '$urlImg', '$url', '$ciclo', '$materia', '$comentarios', '$seccion')";
 
   if ($conn->query($sql) === TRUE) {
-        echo json_encode(array('error'=>false,'msj'=>'Video agregado satisfactoriamente'));
+        echo json_encode(array('error'=>false,'msj'=>'Recurso agregado satisfactoriamente'));
   } else {
     echo json_encode(array('error'=>true,'msj'=>$conn->error)); 
   }
