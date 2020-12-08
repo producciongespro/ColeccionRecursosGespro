@@ -234,6 +234,7 @@ color: #e6ddd7;
 
 .titulo2 {
   color: #E5E64E;
+  font-size: 0.8em;
   }
 
   .lineagepro{
@@ -248,12 +249,10 @@ color: #e6ddd7;
   }
 
   h1 {
-  font-size: 2.8vw;
+  font-size: 1.4em;
 }
   
-h2 {
-font-size: 2vw;
-}
+
 
 h2 {
 font-size: 1.75vw;
@@ -265,4 +264,9 @@ h3 {
 
 .lead {
   font-size: 1.9vw;
+}
+
+.navbar-brand  {
+  color: #e6ddd7;
+  font-size: 1.4em;
 }
