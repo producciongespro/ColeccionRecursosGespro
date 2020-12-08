@@ -207,17 +207,27 @@ header.masthead .bg-circle-4 {
 
 .nombre {
   color: rgb(147, 194, 194);
+  font-size: 1.6em;
 }
 
 .info {
   color: #e7a678;
-  font-size: 25pX;
-  line-height: 20px;
+  font-size: 1.3em;
+  line-height: 20%;
 }
 
 .info2 {
   color: #e6ddd7;
+  font-size: 0.9em;
 }
+
+
+
+.info3 {
+  color: #e6ddd7;
+  font-size: 0.9em;
+}
+
 
 .navbar-custom1 {
   background-color: rgb(156, 151, 151);
@@ -230,6 +240,7 @@ header.masthead .bg-circle-4 {
 
 .titulo {
 color: #e6ddd7;
+font-size: 1.3em;
 }
 
 .titulo2 {
@@ -248,25 +259,8 @@ color: #e6ddd7;
     background-image: url(https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/creditos/img/linea_puntos.png);
   }
 
-  h1 {
-  font-size: 1.4em;
-}
-  
-
-
-h2 {
-font-size: 1.75vw;
-}
-
-h3 {
-  font-size: 1.75vw;
-}
-
-.lead {
-  font-size: 1.9vw;
-}
 
 .navbar-brand  {
   color: #e6ddd7;
-  font-size: 1.4em;
+  font-size: 1em;
 }
