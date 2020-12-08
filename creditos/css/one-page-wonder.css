@@ -208,12 +208,13 @@ header.masthead .bg-circle-4 {
 .nombre {
   color: rgb(147, 194, 194);
   font-size: 1.6em;
+  font-weight: bold;
 }
 
 .info {
   color: #e7a678;
   font-size: 1.3em;
-  line-height: 20%;
+  line-height: 100%;
 }
 
 .info2 {
