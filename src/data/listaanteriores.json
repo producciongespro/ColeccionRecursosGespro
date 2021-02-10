@@ -275,16 +275,7 @@
        "comentarios":"",
        "seccion":"5-anteriores"
     },
-    {
-       "nombre":"Watch Out!",
-       "etiqueta": [],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/imgenes-anteriores.jpg",
-       "url":"nulo",
-       "ciclo": ["I"],
-       "materia":"Inglés",
-       "comentarios":"",
-       "seccion":"5-anteriores"
-    },
+   
 
     {
        "nombre":"Costa Rica Wow",
@@ -359,7 +350,7 @@
        "nombre":"Numbers 1 to 20",
        "etiqueta": ["Numbers 1 to 20","1 to 20","english","numbers"],
        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_anteriores/numbers1to20-90.png",
-       "url":"https://www.mep.go.cr/educatico/numbers-1-20",
+       "url":"https://www.mep.go.cr/educatico/numbers-11-20",
        "ciclo": ["II"],
        "materia":"Inglés",
        "comentarios":"",

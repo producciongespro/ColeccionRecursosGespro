@@ -29,16 +29,7 @@
        "comentarios":"",
        "seccion":"1-2018"
     },
-    {
-       "nombre":"Matrícula Preescolar 2019",
-       "etiqueta":   ["Matrícula de Preescolar 2019","Departamento de Educación de la Primera Infancia","Educación de la Primera Infancia","matrícula 2019","ciclo materno infantil","nuevo uniforme 2019","matrícula de preescolar","Primera Infancia","Preescolar","grupo interactivo","materno infantil","infantil","proceso de matrícula","reglamento","requisitos de matrícula","uniforme"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/matricula_preescolar-13.jpg",
-       "url":"",
-       "ciclo": ["Primera Infancias"],
-       "materia":"Preescolar",
-       "comentarios":"",
-       "seccion":"1-2018"
-    },
+    
     {
        "nombre":"Un Viaje por Costa Rica",
        "etiqueta": ["Un viaje por Costa Rica","aplicación para español","categorías gramaticales","conjugación verbal","español","español II ciclo","formas de tratamiento","tuteo","ustedeo","voseo","juego educativo","android","app","apps"], 
@@ -97,6 +88,16 @@
        "comentarios":"",
        "seccion":"2-2018"
     },
+    {
+      "nombre":"Guía Octavo Inglés",
+      "etiqueta": ["Sitio de Recursos Guía Inglés Octavo Año","inglés","english","eighth grade","eighth level","english resources","recursos de inglés","recursos de inglés para octavo año","English resources for eighth grade"], 
+      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/guia_octavo-20.jpg",
+      "url":"https://www.mep.go.cr/educatico/recursos-guia-octavo-ano",
+      "ciclo": ["III"],
+      "materia":"Inglés",
+      "comentarios":"",
+      "seccion":"3-2018"
+   },
 
     {
        "nombre":"Catálogo de Educación Abierta Alfabetización-Matemáticas",
@@ -135,16 +136,7 @@
        "seccion":"3-2018"
     },
 
-    {
-       "nombre":"Guía Octavo Inglés",
-       "etiqueta": ["Sitio de Recursos Guía Inglés Octavo Año","inglés","english","eighth grade","eighth level","english resources","recursos de inglés","recursos de inglés para octavo año","English resources for eighth grade"], 
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2018/guia_octavo-20.jpg",
-       "url":"https://www.mep.go.cr/educatico/recursos-guia-octavo-ano",
-       "ciclo": ["III"],
-       "materia":"Inglés",
-       "comentarios":"",
-       "seccion":"3-2018"
-    },
+  
   
     {
        "nombre":"Liceos Experimentales Bilingues y Grupos Bilingues",
