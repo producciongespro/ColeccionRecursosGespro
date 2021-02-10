@@ -17,7 +17,7 @@
         "nombre":"Orientaciones para estudiantes y familia",
         "etiqueta": [],
         "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/orientaciones.jpg",
-        "url":"https://www.mep.go.cr/sites/default/files/Orientaciones/index.html",
+        "url":"https://www.mep.go.cr/educatico/orientaciones-estudiantes-familia",
         "ciclo": ["General"],
         "materia":"General",
         "comentarios":"",
@@ -47,16 +47,7 @@
         "seccion":"1-2020"
     },
 
-    {
-        "nombre":"Apoyos procesos a distancia",
-        "etiqueta": ["orientacions","covid","a distancia","virtualidad","Teams","cuidados", "covid","emergencia"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/apoyo.jpg",
-        "url":"http://www.mep.go.cr/sites/default/files/Orientaciones/index.html",
-        "ciclo": ["General"],
-        "materia":"General",
-        "comentarios":"",
-        "seccion":"1-2020"
-    },
+  
 
    
   
