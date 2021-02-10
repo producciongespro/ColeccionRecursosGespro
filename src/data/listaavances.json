@@ -64,16 +64,6 @@
       "seccion":"1-avances"
    },
 
-   {
-      "nombre":"nulo",
-      "etiqueta": ["nulo"],
-      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/calendario.png",
-      "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/calendario.png",
-      "ciclo": ["nulo"],
-      "materia":"",
-      "comentarios":"",
-      "seccion":"1-avances"
-   },
 
    {
       "nombre":"nulo",
@@ -108,16 +98,7 @@
       "seccion":"1-avances"
    },
 
-   {
-      "nombre":"nulo",
-      "etiqueta": ["nulo"],
-      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/videoteca.png",
-      "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/videoteca.png",
-      "ciclo": ["nulo"],
-      "materia":"",
-      "comentarios":"",
-      "seccion":"1-avances"
-   },
+
 
    {
       "nombre":"nulo",
