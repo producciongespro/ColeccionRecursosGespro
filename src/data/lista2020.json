@@ -1,24 +1,30 @@
 [
+    
     {
-        "nombre":"Caja de Herramientas",
-        "etiqueta": ["caja de herramientas para docentes","documentos de apoyo","documentos","oficiales","plásticas","evaluación","compartir","herramientas","plantillas de planeamiento","recursos","transformación curricular","imaginar","guías","plantillas de aprendizaje","gta","secundaria"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
-        "url":"https://www.mep.go.cr/educatico/caja-herramientas-docentes",
+        "nombre":"COVID-19",
+        "etiqueta": ["aislamiento","aseo","coronavirus","covid","emergencia","contagio","protocolo","salud","virus"],
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/covid_19.jpg",
+        "url":"https://www.mep.go.cr/educatico/covid-19",
+        "ciclo": ["I","II","II"],
+        "materia":"General",
+        "comentarios":"",
+        "seccion":"1-2020"
+    },
+
+  
+
+    {
+        "nombre":"Orientaciones para estudiantes y familia",
+        "etiqueta": [],
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/orientaciones.jpg",
+        "url":"https://www.mep.go.cr/sites/default/files/Orientaciones/index.html",
         "ciclo": ["General"],
         "materia":"General",
         "comentarios":"",
         "seccion":"1-2020"
     },
-    {
-        "nombre":"Estilización y abstracción en el Arte Moderno",
-        "etiqueta": ["arte moderno","abtración","abstracción","artes","estilización","plásticas","crear","jugar","artes"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/estilizacion.jpg",
-        "url":"https://www.mep.go.cr/educatico/estilizacion-abstraccion-arte-moderno",
-        "ciclo": ["III"],
-        "materia":"Artes Plásticas ",
-        "comentarios":"",
-        "seccion":"1-2020"
-    },
+
+ 
     {
         "nombre":"Aprendo en casa",
         "etiqueta": ["aprendo en casa","aulavirtual","documentos de apoyo","contagio","documentoso ficiales","coronavirus","evaluacin","covid-19","herramientas","emergencia","plantillas de planeamiento","materiales","recursos","mediacin","transformación curricular","protocolos","guías","recursoscovid","plantillas de aprendizaje","salud","gta","sinart","autnomo","televisión","guíasdetrabajo","virus","plantillas de planeamiento","plantillas de aprendizaje"],
@@ -29,27 +35,33 @@
         "comentarios":"",
         "seccion":"1-2020"
     },
+
     {
-        "nombre":"Sitio de Artes Plásticas",
-        "etiqueta": ["arte costarricense","artes","artes plásticas","claves del arte","creatividad","herramientas","plásticas","sitio"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/artes.jpg",
-        "url":"https://www.mep.go.cr/educatico/sitio-artes-plasticas-iii-ciclo-educacion-diversificada",
-        "ciclo": ["III","Diversificada"],
-        "materia":"Artes Plásticas ",
-        "comentarios":"",
-        "seccion":"1-2020"
-    },
-    {
-        "nombre":"Waeather Wise",
-        "etiqueta": ["english","primaria","evaluación","recursos Inglés","herramientas","weather","weatherwise"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/weather.jpg",
-        "url":"https://www.mep.go.cr/educatico/weather-wise",
-        "ciclo": ["II"],
-        "materia":"Inglés",
+        "nombre":"Videoteca: Aprendo en casa",
+        "etiqueta": ["aprendo en casa", "canal de YouTube", "covid 19", "documentales", "entrevistas", "Primeria infancia", "sinart", "UNED", "vídeo", "vídeos", "videoteca", "YouTube"],
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/videoteca.jpg",
+        "url":"https://www.mep.go.cr/educatico/videoteca-aprendo-casa",
+        "ciclo": ["General"],
+        "materia":"General",
         "comentarios":"",
         "seccion":"1-2020"
     },
 
+    {
+        "nombre":"Apoyos procesos a distancia",
+        "etiqueta": ["orientacions","covid","a distancia","virtualidad","Teams","cuidados", "covid","emergencia"],
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/apoyo.jpg",
+        "url":"http://www.mep.go.cr/sites/default/files/Orientaciones/index.html",
+        "ciclo": ["General"],
+        "materia":"General",
+        "comentarios":"",
+        "seccion":"1-2020"
+    },
+
+   
+  
+
+ 
 
 
 
@@ -63,6 +75,18 @@
 
 
 
+
+    {
+        "nombre":"Caja de Herramientas",
+        "etiqueta": ["caja de herramientas para docentes","documentos de apoyo","documentos","oficiales","plásticas","evaluación","compartir","herramientas","plantillas de planeamiento","recursos","transformación curricular","imaginar","guías","plantillas de aprendizaje","gta","secundaria"],
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "url":"https://www.mep.go.cr/educatico/caja-herramientas-docentes",
+        "ciclo": ["General"],
+        "materia":"General",
+        "comentarios":"",
+        "seccion":"2-2020"
+    },
+    
     {
         "nombre":"Objetos enigmáticos",
         "etiqueta": ["3° grado", "arte", "enigma", "enigmáticos", "interactivo", "multimedia" , "Objetos", "plásticas", "precolombino", "sello"],
@@ -106,16 +130,7 @@
         "seccion":"2-2020"
     },
 
-    {
-        "nombre":"Guía Décimo Año",
-        "etiqueta": ["english","inglés","ninth grade","noveno","nuevos programas","recursos Inglés","secundaria","recursos","sitio"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/decingles.jpg",
-        "url":"https://www.mep.go.cr/educatico/recursos-guia-decimo-ano",
-        "ciclo": ["Diversificada"],
-        "materia":"Inglés",
-        "comentarios":"",
-        "seccion":"2-2020"
-    },
+  
 
 
 
@@ -151,26 +166,17 @@
     },
 
     {
-        "nombre":"COVID-19",
-        "etiqueta": ["aislamiento","aseo","coronavirus","covid","emergencia","contagio","protocolo","salud","virus"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/covid_19.jpg",
-        "url":"https://www.mep.go.cr/educatico/covid-19",
-        "ciclo": ["I","II","II"],
-        "materia":"General",
+        "nombre":"Waeather Wise",
+        "etiqueta": ["english","primaria","evaluación","recursos Inglés","herramientas","weather","weatherwise"],
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/weather.jpg",
+        "url":"https://www.mep.go.cr/educatico/weather-wise",
+        "ciclo": ["II"],
+        "materia":"Inglés",
         "comentarios":"",
         "seccion":"3-2020"
     },
 
-    {
-        "nombre":"Apoyos procesos a distancia",
-        "etiqueta": ["orientacions","covid","a distancia","virtualidad","Teams","cuidados", "covid","emergencia"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/apoyo.jpg",
-        "url":"http://www.mep.go.cr/sites/default/files/Orientaciones/index.html",
-        "ciclo": ["General"],
-        "materia":"General",
-        "comentarios":"",
-        "seccion":"3-2020"
-    },
+  
 
 
     {
@@ -184,6 +190,16 @@
         "seccion":"3-2020"
     },
 
+    {
+        "nombre":"Guía Décimo Año",
+        "etiqueta": ["english","inglés","ninth grade","noveno","nuevos programas","recursos Inglés","secundaria","recursos","sitio"],
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/decingles.jpg",
+        "url":"https://www.mep.go.cr/educatico/recursos-guia-decimo-ano",
+        "ciclo": ["Diversificada"],
+        "materia":"Inglés",
+        "comentarios":"",
+        "seccion":"3-2020"
+    },
 
 
 
@@ -192,44 +208,37 @@
 
 
 
+ 
+    {
+        "nombre":"Calendario escolar 2021",
+        "etiqueta": ["Calendario escolar","calendario", "calendario virtual", "eventos año", "planificación"],
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/calendario.jpg",
+        "url":"https://www.mep.go.cr/educatico/calendario-escolar-2021",
+        "ciclo": ["General"],
+        "materia":"General",
+        "comentarios":"",
+        "seccion":"4-2020"
+    },
+    
 
     {
-        "nombre":"t",
-        "etiqueta": [],
-        "urlImg":"",
-        "url":"",
+        "nombre":"Estilización y abstracción en el Arte Moderno",
+        "etiqueta": ["arte moderno","abtración","abstracción","artes","estilización","plásticas","crear","jugar","artes"],
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/estilizacion.jpg",
+        "url":"https://www.mep.go.cr/educatico/estilizacion-abstraccion-arte-moderno",
+        "ciclo": ["III"],
+        "materia":"Artes Plásticas ",
+        "comentarios":"",
+        "seccion":"4-2020"
+    },
+
+    {
+        "nombre":"Sitio de Artes Plásticas",
+        "etiqueta": ["arte costarricense","artes","artes plásticas","claves del arte","creatividad","herramientas","plásticas","sitio"],
+        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/artes.jpg",
+        "url":"https://www.mep.go.cr/educatico/sitio-artes-plasticas-iii-ciclo-educacion-diversificada",
         "ciclo": ["III","Diversificada"],
-        "materia":"",
-        "comentarios":"",
-        "seccion":"4-2020"
-    },
-    {
-        "nombre":"t",
-        "etiqueta": [],
-        "urlImg":"",
-        "url":"",
-        "ciclo": ["General"],
-        "materia":"",
-        "comentarios":"",
-        "seccion":"4-2020"
-    },
-    {
-        "nombre":"t",
-        "etiqueta": [],
-        "urlImg":"",
-        "url":"",
-        "ciclo": ["General"],
-        "materia":"",
-        "comentarios":"",
-        "seccion":"4-2020"
-    },
-    {
-        "nombre":"t",
-        "etiqueta": [],
-        "urlImg":"",
-        "url":"",
-        "ciclo": ["General"],
-        "materia":"",
+        "materia":"Artes Plásticas ",
         "comentarios":"",
         "seccion":"4-2020"
     }
