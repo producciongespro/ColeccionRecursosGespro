@@ -12,13 +12,14 @@ import lista2017 from './data/lista2017.json';
 import lista2018 from './data/lista2018.json';
 import lista2019 from './data/lista2019.json';
 import lista2020 from './data/lista2020.json';
+import lista2021 from './data/lista2021.json';
 import listaAnteriores from './data/listaanteriores.json';
 import listaOtros from './data/listaotros.json';
 import listaprofe from './data/listaprofe.json';
 
 
 const plataforma = detectarPlataforma();
-const arrayGeneral= listaOtros.concat(lista2017, lista2018, lista2019, lista2020, listaAnteriores, listaprofe, );
+const arrayGeneral= listaOtros.concat(lista2017, lista2018, lista2019, lista2020, lista2021, listaAnteriores, listaprofe, );
 //console.log(arrayGeneral);
 
 
@@ -157,7 +158,7 @@ function App() {
           (arrayResultaado && palabraBusqueda !== "" && isBusqueda ) ?          
             <Coleccion tabIndex={4} titulo="Búsqueda" array={arrayResultaado} />
           :
-            <GrupoColeccion lista2017={lista2017} lista2018={lista2018} lista2019={lista2019} lista2020={lista2020}  listaAnteriores={listaAnteriores}  listaOtros={listaOtros} listaprofe={listaprofe}/>
+            <GrupoColeccion lista2017={lista2017} lista2018={lista2018} lista2019={lista2019} lista2020={lista2020}  lista2021={lista2021} listaAnteriores={listaAnteriores}  listaOtros={listaOtros} listaprofe={listaprofe}/>
           
         }
 <br/><br/>

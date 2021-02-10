@@ -36,16 +36,7 @@
         "seccion":"1-2020"
     },
 
-    {
-        "nombre":"Videoteca: Aprendo en casa",
-        "etiqueta": ["aprendo en casa", "canal de YouTube", "covid 19", "documentales", "entrevistas", "Primeria infancia", "sinart", "UNED", "vídeo", "vídeos", "videoteca", "YouTube"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/videoteca.jpg",
-        "url":"https://www.mep.go.cr/educatico/videoteca-aprendo-casa",
-        "ciclo": ["General"],
-        "materia":"General",
-        "comentarios":"",
-        "seccion":"1-2020"
-    },
+   
 
   
 
@@ -200,16 +191,7 @@
 
 
  
-    {
-        "nombre":"Calendario escolar 2021",
-        "etiqueta": ["Calendario escolar","calendario", "calendario virtual", "eventos año", "planificación"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/calendario.jpg",
-        "url":"https://www.mep.go.cr/educatico/calendario-escolar-2021",
-        "ciclo": ["General"],
-        "materia":"General",
-        "comentarios":"",
-        "seccion":"4-2020"
-    },
+ 
     
 
     {
