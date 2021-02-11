@@ -80,3 +80,11 @@ body {
         height: 70px;
         width: 70px;
         }
+
+        .infoen
+                {
+        color: rgb(8, 8, 8);
+        font-weight: bold;
+        background-color: rgb(107, 114, 114);
+        font-size: 0.7em;
+                        }

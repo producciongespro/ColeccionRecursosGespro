@@ -179,7 +179,7 @@ function App() {
 
   <div className="row mt-4">
     <div className="col-sm-12">
-    <div className="alert alert-info">
+    <div className="alert alert-info infoen">
           Si <strong>no</strong> ha encontrado el recurso relacionado con la temática o contendio que buscaba, 
           puede dar clic  <a href="http://www.encuesta.mep.go.cr/index.php/681422?lang=es" target="_blank" rel="noopener noreferrer">aquí</a> para que nos lo indique.          
         </div>
