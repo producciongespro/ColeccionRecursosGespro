@@ -30,7 +30,8 @@ function obtenerArreglo($sql){
 
     if(!$resultado = mysqli_query($conexion, $sql)) die(); //si la conexión cancelar programa
 
-    $arreglo2020 = array(); //creamos un array
+    $arreglo2021 = array(); //creamos un array
+    $arreglo2020 = array(); 
     $arreglo2019 = array(); 
     $arreglo2018 = array(); 
     $arreglo2017 = array(); 
@@ -45,7 +46,10 @@ function obtenerArreglo($sql){
     {
    
        switch (substr($row['seccion'],-4)) {
-           case '2020':
+            case '2021':
+                array_push($arreglo2021,$row);
+            break;
+            case '2020':
                 array_push($arreglo2020,$row);
             break;
             case '2019':
@@ -87,6 +91,7 @@ function obtenerArreglo($sql){
       2018 => $arreglo2018,
       2019 => $arreglo2019,
       2020 => $arreglo2020
+      2021 => $arreglo2021
     );
    
     return $todos; //devolvemos el array

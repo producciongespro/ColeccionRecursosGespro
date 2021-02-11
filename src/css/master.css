@@ -81,10 +81,20 @@ body {
         width: 70px;
         }
 
-        .infoen
-                {
+      .infoen
+      {
         color: rgb(8, 8, 8);
         font-weight: bold;
         background-color: rgb(107, 114, 114);
         font-size: 0.7em;
-                        }
+      }
+
+
+  .nota {
+    color: rgb(232, 240, 160);
+  }
+
+  .enlaceAqui
+  {
+    color: rgb(232, 240, 160);
+  }

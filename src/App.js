@@ -161,8 +161,14 @@ function App() {
             <GrupoColeccion lista2017={lista2017} lista2018={lista2018} lista2019={lista2019} lista2020={lista2020}  lista2021={lista2021} listaAnteriores={listaAnteriores}  listaOtros={listaOtros} listaprofe={listaprofe}/>
           
         }
-<br/><br/>
 
+<div className="row mt-4">
+    <div className="col-sm-12">
+    <div className="alert nota">
+          Nota: <strong>Algunos recursos </strong> están siendo actualizados debido a que fueron programados en Adobe Flash, una tecnología obsoleta en estos momentos. 
+    </div>
+    </div>
+  </div>
 
 
 { /* Sección de encuesta*/ }
@@ -181,7 +187,7 @@ function App() {
     <div className="col-sm-12">
     <div className="alert alert-info infoen">
           Si <strong>no</strong> ha encontrado el recurso relacionado con la temática o contendio que buscaba, 
-          puede dar clic  <a href="http://www.encuesta.mep.go.cr/index.php/681422?lang=es" target="_blank" rel="noopener noreferrer">aquí</a> para que nos lo indique.          
+          puede dar clic  <a href="http://www.encuesta.mep.go.cr/index.php/681422?lang=es" target="_blank" rel="noopener noreferrer"><strong className="enlaceAqui">AQUÍ</strong></a> para que nos lo indique.          
         </div>
     </div>
   </div>
