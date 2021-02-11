@@ -80,7 +80,7 @@ function App() {
             </div>        
           ) :
           (         
-            <div tabIndex="3">
+            <div tabIndex="2">
             <div className="row text-right">
             <div className="col-12">
               <a href="https://recursos.mep.go.cr/creditos_gespro/" target="_blank" rel="noopener noreferrer">
@@ -98,10 +98,10 @@ function App() {
 
 { /* Sección de búsqueda de recursos*/ }
 
-    <div tabIndex="3" className="row" >
+    <div  className="row" >
           
             
-            <div className="col-6 text-right"> 
+            <div tabIndex="3" className="col-6 text-right"> 
             <button onClick={handleActivarBusqueda} className="btn btn-outline-dark">
             {
               !isBusqueda ?
@@ -119,7 +119,7 @@ function App() {
 
         {
           isBusqueda && (
-                <div className="col-6 fondo-claro">              
+                <div tabIndex="3" className="col-6 fondo-claro">              
                   <input 
                   alt="Escriba la palabra para búsqueda" 
                   onChange={handleBuscar} 
@@ -140,7 +140,7 @@ function App() {
       
       {
         !isBusqueda &&
-        <div className="row">
+        <div tabIndex="4" className="row">
         <div className="col-12">
           {
             listaAvances &&  <Avances tabIndex="2"  array={listaAvances} />
@@ -162,7 +162,7 @@ function App() {
           
         }
 
-<div className="row mt-4">
+<div tabIndex="13" className="row mt-4">
     <div className="col-sm-12">
     <div className="alert nota">
           Nota: <strong>Algunos recursos </strong> están siendo actualizados debido a que fueron programados en Adobe Flash, una tecnología obsoleta en estos momentos. 
@@ -183,7 +183,7 @@ function App() {
   </div>
   */}
 
-  <div className="row mt-4">
+  <div  tabIndex="14" className="row mt-4">
     <div className="col-sm-12">
     <div className="alert alert-info infoen">
           Si <strong>no</strong> ha encontrado el recurso relacionado con la temática o contendio que buscaba, 
@@ -195,7 +195,7 @@ function App() {
     
 
   { /* Sección pie de página*/ }
-    <div tabIndex="4" className="col-12 text-center pie">
+    <div tabIndex="15" className="col-12 text-center pie">
         <span>DIRECCIÓN DE RECURSOS TECNOLÓGICOS EN EDUCACIÓN DEL MINISTERIO DE EDUCACIÓN PÚBLICA DE COSTA RICA</span> <br/>
         
         <span>Departamento de Gestión y Producción de Recursos</span> <br/>
