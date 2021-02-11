@@ -73,7 +73,7 @@ function App() {
             (           
               <div className="row text-right">
               <div className="col-12">
-                <a href="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/creditos/" target="_blank" rel="noopener noreferrer">
+                <a href="https://recursos.mep.go.cr/creditos_gespro/" target="_blank" rel="noopener noreferrer">
                   <img className="movil2" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png" alt="Acerca de"/>
                 </a>
               </div>
@@ -83,7 +83,7 @@ function App() {
             <div tabIndex="3">
             <div className="row text-right">
             <div className="col-12">
-              <a href="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/creditos/" target="_blank" rel="noopener noreferrer">
+              <a href="https://recursos.mep.go.cr/creditos_gespro/" target="_blank" rel="noopener noreferrer">
                 <img className="acerca img.fluid zoom" role="button" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png"  alt="Acerca de"/>
               </a>
             </div>
