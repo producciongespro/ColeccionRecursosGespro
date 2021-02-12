@@ -30,13 +30,25 @@
     {
         "nombre":"Sitio undécimo año",
         "etiqueta": ["english", "fifth grade", "inglés", "nuevos programas", "quinto", "recursos Inglés", "secundaria", "sitio"],
-        "urlImg":"./assets/img/2021/calendario.jpg",
+        "urlImg":"./assets/img/2021/ingle5.jpg",
         "url":"https://www.mep.go.cr/educatico/recursos-guia-undecimo-ano",
         "ciclo": ["Diversidad"],
         "materia":"Inglés",
         "comentarios":"",
         "seccion":"1-2020"
+    },
+
+    {
+        "nombre":"Cerebros en Crecimiento",
+        "etiqueta": ["cerebro", "cerebros", "bienestar", "autoconocimiento", "cerebros en crecimiento", "salud mental", "mental", "mente", "cuido"],
+        "urlImg":"./assets/img/2021/cerebros.jpg",
+        "url":"https://www.mep.go.cr/educatico/cerebros-crecimiento",
+        "ciclo": ["Diversidad","II","III"],
+        "materia":"Psicología",
+        "comentarios":"",
+        "seccion":"1-2020"
     }
+
 
 
 
