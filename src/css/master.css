@@ -34,7 +34,8 @@ body {
   
   
   .jumbotron { 
-    background-image: url("http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/banner.jpg");
+    background-image: url("./bg/banner.jpg");
+   /* background-image: image(./assets/img/interfaz/banner.jpg);*/
     background-repeat: no-repeat;
     background-size: 100% 75%;
     margin-right: 2%;

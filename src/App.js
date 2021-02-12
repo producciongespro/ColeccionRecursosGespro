@@ -58,7 +58,7 @@ function App() {
             (           
               // <div tabIndex="1"  role="heading" aria-level="1" title="Colección recursos"  className="jumbotron"> </div> 
               <div className="">
-              <img className="img-fluid pepito" src="http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/banner.jpg" alt=""/>
+              <img className="img-fluid pepito" src="./assets/img/interfaz/banner.jpg" alt=""/>
               </div>         
           ) :
           (         
@@ -74,7 +74,7 @@ function App() {
               <div className="row text-right">
               <div className="col-12">
                 <a href="https://recursos.mep.go.cr/creditos_gespro/" target="_blank" rel="noopener noreferrer">
-                  <img className="movil2" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png" alt="Acerca de"/>
+                  <img className="movil2" src="./assets/img/interfaz/acerca.png" alt="Acerca de"/>
                 </a>
               </div>
             </div>        
@@ -84,7 +84,7 @@ function App() {
             <div className="row text-right">
             <div className="col-12">
               <a href="https://recursos.mep.go.cr/creditos_gespro/" target="_blank" rel="noopener noreferrer">
-                <img className="acerca img.fluid zoom" role="button" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/acerca.png"  alt="Acerca de"/>
+                <img className="acerca img.fluid zoom" role="button" src="./assets/img/interfaz/acerca.png"  alt="Acerca de"/>
               </a>
             </div>
             </div>
