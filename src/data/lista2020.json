@@ -3,7 +3,7 @@
     {
         "nombre":"COVID-19",
         "etiqueta": ["aislamiento","aseo","coronavirus","covid","emergencia","contagio","protocolo","salud","virus"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/covid_19.jpg",
+        "urlImg":"./assets/img/2020/covid_19.jpg",
         "url":"https://www.mep.go.cr/educatico/covid-19",
         "ciclo": ["I","II","II"],
         "materia":"General",
@@ -16,7 +16,7 @@
     {
         "nombre":"Orientaciones para estudiantes y familia",
         "etiqueta": [],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/orientaciones.jpg",
+        "urlImg":"./assets/img/2020/orientaciones.jpg",
         "url":"https://www.mep.go.cr/educatico/orientaciones-estudiantes-familia",
         "ciclo": ["General"],
         "materia":"General",
@@ -28,7 +28,7 @@
     {
         "nombre":"Aprendo en casa",
         "etiqueta": ["aprendo en casa","aulavirtual","documentos de apoyo","contagio","documentoso ficiales","coronavirus","evaluacin","covid-19","herramientas","emergencia","plantillas de planeamiento","materiales","recursos","mediacin","transformación curricular","protocolos","guías","recursoscovid","plantillas de aprendizaje","salud","gta","sinart","autnomo","televisión","guíasdetrabajo","virus","plantillas de planeamiento","plantillas de aprendizaje"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/aprendo.jpg",
+        "urlImg":"./assets/img/2020/aprendo.jpg",
         "url":"https://www.mep.go.cr/educatico/aprendo-casa",
         "ciclo": ["General"],
         "materia":"General",
@@ -61,7 +61,7 @@
     {
         "nombre":"Caja de Herramientas",
         "etiqueta": ["caja de herramientas para docentes","documentos de apoyo","documentos","oficiales","plásticas","evaluación","compartir","herramientas","plantillas de planeamiento","recursos","transformación curricular","imaginar","guías","plantillas de aprendizaje","gta","secundaria"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/caja.jpg",
+        "urlImg":"./assets/img/2020/caja.jpg",
         "url":"https://www.mep.go.cr/educatico/caja-herramientas-docentes",
         "ciclo": ["General"],
         "materia":"General",
@@ -72,7 +72,7 @@
     {
         "nombre":"Objetos enigmáticos",
         "etiqueta": ["3° grado", "arte", "enigma", "enigmáticos", "interactivo", "multimedia" , "Objetos", "plásticas", "precolombino", "sello"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/objetos.jpg",
+        "urlImg":"./assets/img/2020/objetos.jpg",
         "url":"https://www.mep.go.cr/educatico/objetos-enigmaticos",
         "ciclo": ["I"],
         "materia":"Artes Plásticas ",
@@ -82,7 +82,7 @@
     {
         "nombre":"Natural Treasures",
         "etiqueta": ["english","inglés","natural treasures","parques nacionales","primaria","recursos Inglés","tesoros naturales"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/natural.jpg",
+        "urlImg":"./assets/img/2020/natural.jpg",
         "url":"https://www.mep.go.cr/educatico/natural-treasures",
         "ciclo": ["II"],
         "materia":"Inglés",
@@ -93,7 +93,7 @@
     {
         "nombre":"Matrícula de Preescolar 2021",
         "etiqueta": ["Departamento de Educación de la Primera Infancia","grupo interactivo","matrícula","matrcula 2020","Ofelia Montoya","Patricia Hernández","preescolar","proceso de matricula","reglamento de matricula","requisitos de matricula","uniforme"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/preesc21.jpg",
+        "urlImg":"./assets/img/2020/preesc21.jpg",
         "url":"https://www.mep.go.cr/educatico/matricula-preescolar-2021",
         "ciclo": ["Primera Infancia"],
         "materia":"Preescolar",
@@ -104,7 +104,7 @@
     {
         "nombre":"Recorrido Virtual de la Antorcha",
         "etiqueta": ["14 de setiembre","15 de setiembre","antorcha","Cvica","civismo","herramientas","recorrido de la antorcha","recorrido virtual"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/antorcha.jpg",
+        "urlImg":"./assets/img/2020/antorcha.jpg",
         "url":"https://www.mep.go.cr/educatico/recorrido-virtual-antorcha",
         "ciclo": ["General"],
         "materia":"General",
@@ -128,7 +128,7 @@
     {
         "nombre":"Family Celebrations in Costa Rica Minibook",
         "etiqueta": ["celebrations in Costa Rica","english","family celebrations","holidays","inglés","minibook","primaria","recursos Inglés"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/celebrations.jpg",
+        "urlImg":"./assets/img/2020/celebrations.jpg",
         "url":"https://www.mep.go.cr/educatico/family-celebrations-costa-rica-minibook",
         "ciclo": ["I"],
         "materia":"Inglés",
@@ -139,7 +139,7 @@
     {
         "nombre":"Arte Contemporáneo Universal",
         "etiqueta": ["artes","bodyart","contemporneo","fluxus","happening","instalación","recursos","landart","noveno","plásticas"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/contemporaneo.jpg",
+        "urlImg":"./assets/img/2020/contemporaneo.jpg",
         "url":"https://www.mep.go.cr/educatico/arte-contemporaneo-universal",
         "ciclo": ["III"],
         "materia":"Artes Plásticas ",
@@ -150,7 +150,7 @@
     {
         "nombre":"Waeather Wise",
         "etiqueta": ["english","primaria","evaluación","recursos Inglés","herramientas","weather","weatherwise"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/weather.jpg",
+        "urlImg":"./assets/img/2020/weather.jpg",
         "url":"https://www.mep.go.cr/educatico/weather-wise",
         "ciclo": ["II"],
         "materia":"Inglés",
@@ -164,7 +164,7 @@
     {
         "nombre":"MakeCode Arcade de Microsoft",
         "etiqueta": ["14 de setiembre","15 de setiembre","patrias","antorcha","Cvica","civismo","recursos","faroles"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/makecode.jpg",
+        "urlImg":"./assets/img/2020/makecode.jpg",
         "url":"https://www.mep.go.cr/educatico/makecode-arcade-microsoft",
         "ciclo": ["II","III","Diversificada"],
         "materia":"Tecnología",
@@ -175,7 +175,7 @@
     {
         "nombre":"Guía Décimo Año",
         "etiqueta": ["english","inglés","ninth grade","noveno","nuevos programas","recursos Inglés","secundaria","recursos","sitio"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/decingles.jpg",
+        "urlImg":"./assets/img/2020/decingles.jpg",
         "url":"https://www.mep.go.cr/educatico/recursos-guia-decimo-ano",
         "ciclo": ["Diversificada"],
         "materia":"Inglés",
@@ -197,7 +197,7 @@
     {
         "nombre":"Estilización y abstracción en el Arte Moderno",
         "etiqueta": ["arte moderno","abtración","abstracción","artes","estilización","plásticas","crear","jugar","artes"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/estilizacion.jpg",
+        "urlImg":"./assets/img/2020/estilizacion.jpg",
         "url":"https://www.mep.go.cr/educatico/estilizacion-abstraccion-arte-moderno",
         "ciclo": ["III"],
         "materia":"Artes Plásticas ",
@@ -208,7 +208,7 @@
     {
         "nombre":"Sitio de Artes Plásticas",
         "etiqueta": ["arte costarricense","artes","artes plásticas","claves del arte","creatividad","herramientas","plásticas","sitio"],
-        "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_2020/artes.jpg",
+        "urlImg":"./assets/img/2020/artes.jpg",
         "url":"https://www.mep.go.cr/educatico/sitio-artes-plasticas-iii-ciclo-educacion-diversificada",
         "ciclo": ["III","Diversificada"],
         "materia":"Artes Plásticas ",
