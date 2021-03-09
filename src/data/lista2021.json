@@ -10,7 +10,7 @@
         "ciclo": ["General"],
         "materia":"General",
         "comentarios":"",
-        "seccion":"1-2020"
+        "seccion":"1-2021"
     },
 
   
@@ -23,7 +23,7 @@
         "ciclo": ["General"],
         "materia":"General",
         "comentarios":"",
-        "seccion":"1-2020"
+        "seccion":"1-2021"
     },
     
 
@@ -35,7 +35,7 @@
         "ciclo": ["Diversidad"],
         "materia":"Inglés",
         "comentarios":"",
-        "seccion":"1-2020"
+        "seccion":"1-2021"
     },
 
     {
@@ -46,7 +46,18 @@
         "ciclo": ["Diversidad","II","III"],
         "materia":"Psicología",
         "comentarios":"",
-        "seccion":"1-2020"
+        "seccion":"1-2021"
+    },
+
+    {
+        "nombre":"Finanzas personales y familiares para la vida cotidiana",
+        "etiqueta": ["ahorro", "finanzas", "gasto", "inversión", "tarjetas", "creditos", "créditos", "educación financiera", "cuido"],
+        "urlImg":"./assets/img/2021/finanzas.jpg",
+        "url":"https://www.mep.go.cr/educatico/finanzas-personales-familiares",
+        "ciclo": ["Diversidad","III"],
+        "materia":"Educación para el hogar",
+        "comentarios":"",
+        "seccion":"1-20201"
     }
 
 
