@@ -335,17 +335,6 @@
       "materia":"Estudios Sociales",
       "comentarios":"",
       "seccion":"6-otros"
-   },
-
-   {
-      "nombre":"Parque de la Energía",
-      "etiqueta": ["factores climatológicos","fuentes de energía","historia","ICE","impacto ambiental","Instituto Costarricense de Electricidad","juegos","potencial de los recuros energéticos","producción y transporte de energía","suministro de energía","transformación"],
-      "urlImg":"./assets/img/otros/parque_energia.png",
-      "url":"https://www.mep.go.cr/educatico/parque-energia",
-      "ciclo": ["I","II"],
-      "materia":"Estudios Sociales",
-      "comentarios":"",
-      "seccion":"6-otros"
    }
 
 ]
