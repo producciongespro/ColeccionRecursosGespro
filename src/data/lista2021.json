@@ -57,7 +57,51 @@
         "ciclo": ["Diversidad","III"],
         "materia":"Educación para el hogar",
         "comentarios":"",
-        "seccion":"1-20201"
+        "seccion":"1-2021"
+    },
+
+    {
+        "nombre":"Educación financiera: Juego Asocie - tema tipo de inversión",
+        "etiqueta": ["ahorro", "finanzas", "gasto", "inversión", "tarjetas", "creditos", "créditos", "educación financiera", "cuido", "asocie", "educacion financiera", "juego de asocie","actividades"],
+        "urlImg":"./assets/img/2021/asocie.jpg",
+        "url":"https://www.mep.go.cr/educatico/educacion-financiera-tipo-inversion",
+        "ciclo": ["Diversidad","III"],
+        "materia":"Educación para el hogar",
+        "comentarios":"",
+        "seccion":"1-2021"
+    },
+
+    {
+        "nombre":"Educación financiera: Juego Memoria - tema el crédito",
+        "etiqueta": ["ahorro", "finanzas", "gasto", "inversión", "tarjetas", "creditos", "créditos", "educación financiera", "cuido", "juego memoria", "memoria", "tarjetas", "actividades finanzas"],
+        "urlImg":"./assets/img/2021/credito.jpg",
+        "url":"https://www.mep.go.cr/educatico/educacion-financiera-credito",
+        "ciclo": ["Diversidad","III"],
+        "materia":"Educación para el hogar",
+        "comentarios":"",
+        "seccion":"1-2021"
+    },
+
+    {
+        "nombre":"Guías didácticas para el área productiva - Liceos Rurales",
+        "etiqueta": ["áreas", "finanzas", "guias", "socioproductiva", "socio productiva", "rurales", "liceos", "educación financiera", "liceos rurales"],
+        "urlImg":"./assets/img/2021/liceos_rurales.jpg",
+        "url":"https://www.mep.go.cr/educatico/guias-didacticas-area-productiva-liceos-rurales",
+        "ciclo": ["Diversidad","III"],
+        "materia":"Educación para el hogar",
+        "comentarios":"",
+        "seccion":"1-2021"
+    },
+
+    {
+        "nombre":"Prevención al suicidio",
+        "etiqueta": ["ayuda", "depresión", "depresion", "suicidio", "desafíos", "conducta", "psicología", "riesgos", "sos", "suicida"],
+        "urlImg":"./assets/img/2021/prevencion.jpg",
+        "url":"https://www.mep.go.cr/educatico/prevencion-suicidio",
+        "ciclo": ["Diversidad","III"],
+        "materia":"Educación para el hogar",
+        "comentarios":"",
+        "seccion":"1-2021"
     }
 
 
