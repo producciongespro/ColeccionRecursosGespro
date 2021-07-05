@@ -102,6 +102,17 @@
         "materia":"Educación para el hogar",
         "comentarios":"",
         "seccion":"1-2021"
+    },
+
+    {
+        "nombre":"Video Ant Team Costa Rica",
+        "etiqueta": ["ant", "Team", "ejercicio", "problemas", "robotica", "robótica", "solución", "motivadores", "Ruinas de Cartago", "parque eje robot"],
+        "urlImg":"./assets/img/2021/ant_team.png",
+        "url":"https://www.youtube.com/embed/YKJgOIVTQIs",
+        "ciclo": ["I","II"],
+        "materia":"Robótica",
+        "comentarios":"",
+        "seccion":"1-2021"
     }
 
 
