@@ -119,7 +119,7 @@
         "nombre":"Videoteca Educación Financiera",
         "etiqueta": ["educación financiera", "finanzas", "ahorro", "presupuesto", "tarjetas", "crédito", "inversión", "negocios", "acciones", "tarjtea de crédito"],
         "urlImg":"./assets/img/2021/videoteca.png",
-        "url":"xxxx",
+        "url":"https://www.mep.go.cr/educatico/videoteca-educacion-financiera",
         "ciclo": ["I","II", "III", "Diversidad"],
         "materia":"Educación para el hogar",
         "comentarios":"",
