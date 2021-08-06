@@ -116,15 +116,15 @@
     },
 
     {
-        "nombre":"Videoteca Educación Financiera",
-        "etiqueta": ["educación financiera", "finanzas", "ahorro", "presupuesto", "tarjetas", "crédito", "inversión", "negocios", "acciones", "tarjtea de crédito"],
-        "urlImg":"./assets/img/2021/videoteca.png",
-        "url":"https://www.mep.go.cr/educatico/videoteca-educacion-financiera",
-        "ciclo": ["I","II", "III", "Diversidad"],
-        "materia":"Educación para el hogar",
+        "nombre":"Matricula Preescolar-2022",
+        "etiqueta":   ["Matricula Preescolar-2022","ciclo materno infantil","Departamento de Educación de la Primera Infancia","grupo interactivo","Luis Chacón","matrícula","Ofelia Montoya","Oscar Pérez","Patricia Hernández","preescolar","reglamento","requisitos","sitio","uniforme"],
+        "urlImg":"./assets/img/2019/matricula_preesc2020.png",
+        "url":"xxx",
+        "ciclo": ["Primera Infancia"],
+        "materia":"Preescolar",
         "comentarios":"",
-        "seccion":"1-2021"
-    }
+        "seccion":"2-2021"
+     }
 
 
 
