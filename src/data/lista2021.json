@@ -10,7 +10,7 @@
         "ciclo": ["General"],
         "materia":"General",
         "comentarios":"",
-        "seccion":"1-2021"
+        "seccion":"2021"
     },
 
   
@@ -23,7 +23,7 @@
         "ciclo": ["General"],
         "materia":"General",
         "comentarios":"",
-        "seccion":"1-2021"
+        "seccion":"2021"
     },
     
 
@@ -35,7 +35,7 @@
         "ciclo": ["Diversidad"],
         "materia":"Inglés",
         "comentarios":"",
-        "seccion":"1-2021"
+        "seccion":"2021"
     },
 
     {
@@ -46,7 +46,7 @@
         "ciclo": ["Diversidad","II","III"],
         "materia":"Psicología",
         "comentarios":"",
-        "seccion":"1-2021"
+        "seccion":"2021"
     },
 
     {
@@ -57,7 +57,7 @@
         "ciclo": ["Diversidad","III"],
         "materia":"Educación para el hogar",
         "comentarios":"",
-        "seccion":"1-2021"
+        "seccion":"2021"
     },
 
     {
@@ -68,7 +68,7 @@
         "ciclo": ["Diversidad","III"],
         "materia":"Educación para el hogar",
         "comentarios":"",
-        "seccion":"1-2021"
+        "seccion":"2021"
     },
 
     {
@@ -79,7 +79,7 @@
         "ciclo": ["Diversidad","III"],
         "materia":"Educación para el hogar",
         "comentarios":"",
-        "seccion":"1-2021"
+        "seccion":"2021"
     },
 
     {
@@ -90,7 +90,7 @@
         "ciclo": ["Diversidad","III"],
         "materia":"Educación para el hogar",
         "comentarios":"",
-        "seccion":"1-2021"
+        "seccion":"2021"
     },
 
     {
@@ -99,9 +99,9 @@
         "urlImg":"./assets/img/2021/prevencion.jpg",
         "url":"https://www.mep.go.cr/educatico/prevencion-suicidio",
         "ciclo": ["Diversidad","III"],
-        "materia":"Educación para el hogar",
+        "materia":"General",
         "comentarios":"",
-        "seccion":"1-2021"
+        "seccion":"2021"
     },
 
     {
@@ -112,8 +112,19 @@
         "ciclo": ["I","II"],
         "materia":"Robótica",
         "comentarios":"",
-        "seccion":"1-2021"
+        "seccion":"2021"
     },
+
+    {
+        "nombre":"Videoteca de Educación Financiera",
+        "etiqueta":   ["ahorro","educación financiera","finanzas","gastos","adultos","tarjetas","vida finanzas","Oscar Pérez","Patricia Hernández","Luis Chacón","Marco Brenes","financiero","créditos","videoteca","videos" ],
+        "urlImg":"./assets/img/2021/videoteca.png",
+        "url":"https://www.mep.go.cr/educatico/videoteca-educacion-financiera",
+        "ciclo": ["II", "III"],
+        "materia":"Educación para el Hogar",
+        "comentarios":"",
+        "seccion":"2021"
+     },
 
     {
         "nombre":"Matricula Preescolar-2022",
@@ -123,7 +134,18 @@
         "ciclo": ["Primera Infancia"],
         "materia":"Preescolar",
         "comentarios":"",
-        "seccion":"2-2021"
+        "seccion":"2021"
+     },
+
+     {
+        "nombre":"Educación financiera. Cuadernos metodológicos dirigidos a la educación adulta",
+        "etiqueta":   ["ahorro","educación financiera","finanzas","gastos","adultos","tarjetas","vida finanzas","Oscar Pérez","Patricia Hernández","Luis Chacón","Mariana Molina","financiero","créditos","cuadernos","cuadernillos" ],
+        "urlImg":"./assets/img/2021/xxxx.png",
+        "url":"xxx",
+        "ciclo": ["Diversidad","III"],
+        "materia":"Educación para el Hogar",
+        "comentarios":"",
+        "seccion":"2021"
      }
 
 
