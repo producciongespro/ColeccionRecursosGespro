@@ -7,7 +7,7 @@
        "ciclo": ["I","II"],
        "materia":"Estudios Sociales",
        "comentarios":"",
-       "seccion":"1-2018"
+       "seccion":"2018"
     },
     {
        "nombre":"Propuesta Abordaje Plan",
@@ -17,7 +17,7 @@
        "ciclo": ["I","II"],
        "materia":"Estudios Sociales",
        "comentarios":"",
-       "seccion":"1-2018"
+       "seccion":"2018"
     },
     {
        "nombre":"Aventura de Chantli",
@@ -27,7 +27,7 @@
        "ciclo": ["III","Diversificada"],
        "materia":"Estudios Sociales",
        "comentarios":"",
-       "seccion":"1-2018"
+       "seccion":"2018"
     },
     
     {
@@ -38,7 +38,7 @@
        "ciclo": ["II"],
        "materia":"Español",
        "comentarios":"",
-       "seccion":"1-2018"
+       "seccion":"2018"
     },
 
 
@@ -53,7 +53,7 @@
        "ciclo": ["III","Diversificada"],
        "materia":"Español",
        "comentarios":"",
-       "seccion":"2-2018"
+       "seccion":"2018"
     },
 
     {
@@ -64,7 +64,7 @@
        "ciclo": ["I","II"],
        "materia":"Español",
        "comentarios":"",
-       "seccion":"2-2018"
+       "seccion":"2018"
     },
 
     {
@@ -75,7 +75,7 @@
        "ciclo": ["II"],
        "materia":"Matemática",
        "comentarios":"",
-       "seccion":"2-2018"
+       "seccion":"2018"
     },
 
     {
@@ -86,7 +86,7 @@
        "ciclo": ["I","II"],
        "materia":"Matemática",
        "comentarios":"",
-       "seccion":"2-2018"
+       "seccion":"2018"
     },
     {
       "nombre":"Guía Octavo Inglés",
@@ -96,7 +96,7 @@
       "ciclo": ["III"],
       "materia":"Inglés",
       "comentarios":"",
-      "seccion":"3-2018"
+      "seccion":"2018"
    },
 
     {
@@ -107,7 +107,7 @@
        "ciclo": ["Educación Abierta"],
        "materia":"Matemática",
        "comentarios":"",
-       "seccion":"2-2018"
+       "seccion":"2018"
     },
 
 
@@ -122,7 +122,7 @@
        "ciclo": ["Educación Diversificada"],
        "materia":"Matemáticas",
        "comentarios":"",
-       "seccion":"3-2018"
+       "seccion":"2018"
     },
 
     {
@@ -133,7 +133,7 @@
        "ciclo": ["III"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"3-2018"
+       "seccion":"2018"
     },
 
   
@@ -146,7 +146,7 @@
        "ciclo": ["III","Diversificada"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"3-2018"
+       "seccion":"2018"
     },
 
         {
@@ -157,7 +157,7 @@
        "ciclo": ["I","II"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"3-2018"
+       "seccion":"2018"
     },
  
 
@@ -171,7 +171,7 @@
        "ciclo": ["I","II"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"4-2018"
+       "seccion":"2018"
     },  
 
     {
@@ -182,7 +182,7 @@
        "ciclo": ["III","Diversificada"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"4-2018"
+       "seccion":"2018"
     },
     {
        "nombre":"Costa Rica Pura Vida in Many Ways",
@@ -192,7 +192,7 @@
        "ciclo": ["I","Diversificada"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"4-2018"
+       "seccion":"2018"
     },
     {
        "nombre":"Verbs Fair",
@@ -202,7 +202,7 @@
        "ciclo": ["I","II","III","Diversificada"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"4-2018"
+       "seccion":"2018"
     },
     {
        "nombre":"Follow me!",
@@ -212,7 +212,7 @@
        "ciclo": ["I","II"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"4-2018"
+       "seccion":"2018"
     },
 
 
@@ -226,7 +226,7 @@
        "ciclo": ["General"],
        "materia":"General",
        "comentarios":"",
-       "seccion":"5-2018"
+       "seccion":"2018"
     },
     {
        "nombre":"Prácticas para bachillerato a tu medida #2",
@@ -236,7 +236,7 @@
        "ciclo": ["III","Diversificada"],
        "materia":"General",
        "comentarios":"",
-       "seccion":"5-2018"
+       "seccion":"2018"
     },
 
     {
@@ -247,7 +247,7 @@
        "ciclo": ["II","II"],
        "materia":"Español",
        "comentarios":"",
-       "seccion":"5-2018"
+       "seccion":"2018"
     }
 
 ]
