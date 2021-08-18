@@ -120,12 +120,25 @@
         "etiqueta":   ["ahorro","educación financiera","finanzas","gastos","adultos","tarjetas","vida finanzas","Oscar Pérez","Patricia Hernández","Luis Chacón","Marco Brenes","financiero","créditos","videoteca","videos" ],
         "urlImg":"./assets/img/2021/videoteca.png",
         "url":"https://www.mep.go.cr/educatico/videoteca-educacion-financiera",
-        "ciclo": ["II", "III"],
+        "ciclo": ["II", "III", "diversificada"],
         "materia":"Educación para el Hogar",
         "comentarios":"",
         "seccion":"2021"
      },
 
+     
+     {
+        "nombre":"Educación financiera. Cuadernos metodológicos dirigidos a la educación adulta",
+        "etiqueta":   ["ahorro","educación financiera","finanzas","gastos","adultos","tarjetas","vida finanzas","Oscar Pérez","Patricia Hernández","Luis Chacón","Mariana Molina","financiero","créditos","cuadernos","cuadernillos" ],
+        "urlImg":"./assets/img/2021/xxxx.png",
+        "url":"https://www.mep.go.cr/educatico/cuadernos-metodologicos-adultos-educacion-financiera",
+        "ciclo": ["Diversidad","III"],
+        "materia":"Educación para el Hogar",
+        "comentarios":"",
+        "seccion":"2021"
+     },
+
+     
     {
         "nombre":"Matricula Preescolar-2022",
         "etiqueta":   ["Matricula Preescolar-2022","ciclo materno infantil","Departamento de Educación de la Primera Infancia","grupo interactivo","Luis Chacón","matrícula","Ofelia Montoya","Oscar Pérez","Patricia Hernández","preescolar","reglamento","requisitos","sitio","uniforme"],
@@ -133,17 +146,6 @@
         "url":"xxx",
         "ciclo": ["Primera Infancia"],
         "materia":"Preescolar",
-        "comentarios":"",
-        "seccion":"2021"
-     },
-
-     {
-        "nombre":"Educación financiera. Cuadernos metodológicos dirigidos a la educación adulta",
-        "etiqueta":   ["ahorro","educación financiera","finanzas","gastos","adultos","tarjetas","vida finanzas","Oscar Pérez","Patricia Hernández","Luis Chacón","Mariana Molina","financiero","créditos","cuadernos","cuadernillos" ],
-        "urlImg":"./assets/img/2021/xxxx.png",
-        "url":"xxx",
-        "ciclo": ["Diversidad","III"],
-        "materia":"Educación para el Hogar",
         "comentarios":"",
         "seccion":"2021"
      }

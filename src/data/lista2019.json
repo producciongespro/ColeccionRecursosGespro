@@ -7,7 +7,7 @@
        "ciclo": ["I","II","III","Diversificada"],
        "materia":"Francés",
        "comentarios":"",
-       "seccion":"1-2019"
+       "seccion":"2019"
     },
     {
        "nombre":"Kugwe nemani bare meguera Costa Rica tigani ngäbere",
@@ -17,7 +17,7 @@
        "ciclo": ["II"],
        "materia":"Interculturalidad",
        "comentarios":"",
-       "seccion":"1-2019"
+       "seccion":"2019"
     },
     {
        "nombre":"Cuenticos",
@@ -27,7 +27,7 @@
        "ciclo": ["I","II","III"],
        "materia":"Español",
        "comentarios":"",
-       "seccion":"1-2019"
+       "seccion":"2019"
     },
     {
        "nombre":"Vida Clips",
@@ -37,7 +37,7 @@
        "ciclo": ["III","Diversificada"],
        "materia":"Religión",
        "comentarios":"",
-       "seccion":"1-2019"
+       "seccion":"2019"
     },
     {
        "nombre":"Sucesiones y patrones",
@@ -47,7 +47,7 @@
        "ciclo": ["II"],
        "materia":"Matemáticas",
        "comentarios":"",
-       "seccion":"1-2019"
+       "seccion":"2019"
     },
 
 
@@ -63,7 +63,7 @@
        "ciclo": ["I","II"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"2-2019"
+       "seccion":"2019"
     },
     {
        "nombre":"Sitio de Recursos Guía Noveno Año Inglés",
@@ -73,7 +73,7 @@
        "ciclo": ["III"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"2-2019"
+       "seccion":"2019"
     },
     {
        "nombre":"Plataforma Oferta Educativa",
@@ -83,7 +83,7 @@
        "ciclo": ["I","II","III","Diversificada"],
        "materia":"General",
        "comentarios":"",
-       "seccion":"2-2019"
+       "seccion":"2019"
     },
     {
        "nombre":"Orienta2",
@@ -93,7 +93,7 @@
        "ciclo": ["III","Diversificada"],
        "materia":"Orientación",
        "comentarios":"",
-       "seccion":"2-2019"
+       "seccion":"2019"
     },
     {
        "nombre":"Matricula Preescolar-2020",
@@ -103,7 +103,7 @@
        "ciclo": ["Primera Infancia"],
        "materia":"Preescolar",
        "comentarios":"",
-       "seccion":"2-2019"
+       "seccion":"2019"
     },
 
 
@@ -118,7 +118,7 @@
        "ciclo": ["I","II","III"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"3-2019"
+       "seccion":"2019"
     },
     {
        "nombre":"Cientec-Tendencias 2019",
@@ -128,7 +128,7 @@
        "ciclo": ["I","II","III","Diversificada"],
        "materia":"General",
        "comentarios":"",
-       "seccion":"3-2019"
+       "seccion":"2019"
     }
     
 
