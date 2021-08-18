@@ -7,7 +7,7 @@
         "ciclo": ["I","II","III","Diversificada"],
         "materia":"Francés",
         "comentarios":"",
-        "seccion":"1-2017"
+        "seccion":"2017"
     },
     {
         "nombre":"Match Verbal",
@@ -17,7 +17,7 @@
         "ciclo": ["I","II","III","Diversificada"],
         "materia":"Francés",
         "comentarios":"",
-        "seccion":"1-2017"
+        "seccion":"2017"
     },
     {
         "nombre":"Leyendas de Costa Rica",
@@ -27,7 +27,7 @@
         "ciclo": ["II"],
         "materia":"Español",
         "comentarios":"",
-        "seccion":"1-2017"
+        "seccion":"2017"
     },
     {
         "nombre":"Rocking Verbs",
@@ -37,7 +37,7 @@
         "ciclo": ["III"],
         "materia":"Inglés",
         "comentarios":"",
-        "seccion":"1-2017"
+        "seccion":"2017"
     },
     {
         "nombre":"Kahoot: Cuestionarios y encuestas en línea",
@@ -47,7 +47,7 @@
         "ciclo": ["General"],
         "materia":"Tecnología",
         "comentarios":"",
-        "seccion":"1-2017"
+        "seccion":"2017"
     },
 
 
@@ -59,7 +59,7 @@
         "ciclo": ["General"],
         "materia":"Tecnología",
         "comentarios":"",
-        "seccion":"2-2017"
+        "seccion":"2017"
     },
     {
         "nombre":"Galería Fotográfica",
@@ -69,7 +69,7 @@
         "ciclo": ["General"],
         "materia":"General",
         "comentarios":"",
-        "seccion":"2-2017"
+        "seccion":"2017"
     }
 
 
