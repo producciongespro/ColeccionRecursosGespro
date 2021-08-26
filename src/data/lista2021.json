@@ -130,7 +130,7 @@
      {
         "nombre":"Educación financiera. Cuadernos metodológicos dirigidos a la educación adulta",
         "etiqueta":   ["ahorro","educación financiera","finanzas","gastos","adultos","tarjetas","vida finanzas","Oscar Pérez","Patricia Hernández","Luis Chacón","Mariana Molina","financiero","créditos","cuadernos","cuadernillos" ],
-        "urlImg":"./assets/img/2021/xxxx.png",
+        "urlImg":"./assets/img/2021/cuadernosMet.png",
         "url":"https://www.mep.go.cr/educatico/cuadernos-metodologicos-adultos-educacion-financiera",
         "ciclo": ["Diversidad","III"],
         "materia":"Educación para el Hogar",
@@ -143,7 +143,7 @@
         "nombre":"Matricula Preescolar-2022",
         "etiqueta":   ["Matricula Preescolar-2022","ciclo materno infantil","Departamento de Educación de la Primera Infancia","grupo interactivo","Luis Chacón","matrícula","Ofelia Montoya","Oscar Pérez","Patricia Hernández","preescolar","reglamento","requisitos","sitio","uniforme"],
         "urlImg":"./assets/img/2021/matricula2022.png",
-        "url":"xxx",
+        "url":"https://recursos.mep.go.cr/2021/matricula_preescolar2022",
         "ciclo": ["Primera Infancia"],
         "materia":"Preescolar",
         "comentarios":"",
