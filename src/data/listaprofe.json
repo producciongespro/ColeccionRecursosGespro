@@ -5,8 +5,7 @@
        "urlImg":"./assets/img/profeencasa/profe(1).jpg",
        "url":"https://www.mep.go.cr/educatico/oracion-adjetivo-articulo",
        "ciclo": ["III"],
-       "materia":"Español",
-       "comentarios":"",
+       "materia":"Español",     
        "seccion":"profe"
     },
     {
@@ -15,8 +14,7 @@
       "urlImg":"./assets/img/profeencasa/profe(2).jpg",
       "url":"https://www.mep.go.cr/educatico/oracion-verbo",
       "ciclo": ["III"],
-      "materia":"Español",
-      "comentarios":"",
+      "materia":"Español",    
       "seccion":"profe"
    },
    {
@@ -25,8 +23,7 @@
       "urlImg":"./assets/img/profeencasa/profe(3).jpg",
       "url":"https://www.mep.go.cr/educatico/verbos-regulares-irregulares",
       "ciclo": ["Diversificada"],
-      "materia":"Español",
-      "comentarios":"",
+      "materia":"Español",    
       "seccion":"profe"
    },
    {
@@ -35,8 +32,7 @@
       "urlImg":"./assets/img/profeencasa/profe(4).jpg",
       "url":"https://www.mep.go.cr/educatico/pronombre-conjunciones-interjeccion-preposicion-adverbio",
       "ciclo": ["III"],
-      "materia":"Español",
-      "comentarios":"",
+      "materia":"Español",    
       "seccion":"profe"
    },
    {
@@ -45,8 +41,7 @@
       "urlImg":"./assets/img/profeencasa/profe(5).jpg",
       "url":"https://www.mep.go.cr/educatico/falacias",
       "ciclo": ["III"],
-      "materia":"Español",
-      "comentarios":"",
+      "materia":"Español",    
       "seccion":"profe"
    },
 
@@ -73,8 +68,7 @@
       "urlImg":"./assets/img/profeencasa/profe(6).jpg",
       "url":"https://www.mep.go.cr/educatico/inferencia",
       "ciclo": ["III"],
-      "materia":"Español",
-      "comentarios":"",
+      "materia":"Español",    
       "seccion":"profe"
    },
    {
@@ -83,8 +77,7 @@
       "urlImg":"./assets/img/profeencasa/profe(7).jpg",
       "url":"https://www.mep.go.cr/educatico/tablas-verdad",
       "ciclo": ["Diversificada"],
-      "materia":"Español",
-      "comentarios":"",
+      "materia":"Español",    
       "seccion":"profe"
    },
    {
@@ -93,8 +86,7 @@
       "urlImg":"./assets/img/profeencasa/profe(8).jpg",
       "url":"https://www.mep.go.cr/educatico/figuras-literarias",
       "ciclo": ["III"],
-      "materia":"Español",
-      "comentarios":"",
+      "materia":"Español",    
       "seccion":"profe"
    },
    {
@@ -103,8 +95,7 @@
       "urlImg":"./assets/img/profeencasa/profe(9).jpg",
       "url":"https://www.mep.go.cr/educatico/signos-puntuacion",
       "ciclo": ["III"],
-      "materia":"Español",
-      "comentarios":"",
+      "materia":"Español",    
       "seccion":"profe"
    },
    {
@@ -113,8 +104,7 @@
       "urlImg":"./assets/img/profeencasa/profe(10).jpg",
       "url":"https://www.mep.go.cr/educatico/razonamiento",
       "ciclo": ["Diversificada"],
-      "materia":"Español",
-      "comentarios":"",
+      "materia":"Español",    
       "seccion":"profe"
    },
 
@@ -146,8 +136,7 @@
        "urlImg":"./assets/img/profeencasa/profe(11).jpg",
        "url":"https://www.mep.go.cr/educatico/interes-simple-interes-compuesto",
        "ciclo": ["III"],
-       "materia":"Educación para el hogar",
-       "comentarios":"",
+       "materia":"Educación para el hogar",     
        "seccion":"profe"
     },
     {
@@ -156,8 +145,7 @@
       "urlImg":"./assets/img/profeencasa/profe(12).jpg",
       "url":"https://www.mep.go.cr/educatico/modelos-atomicos",
       "ciclo": ["Diversificada"],
-      "materia":"Química",
-      "comentarios":"",
+      "materia":"Química",    
       "seccion":"profe"
    },
    {
@@ -166,8 +154,7 @@
       "urlImg":"./assets/img/profeencasa/profe(13).jpg",
       "url":"https://www.mep.go.cr/educatico/estado-materia",
       "ciclo": ["Diversificada"],
-      "materia":"Química",
-      "comentarios":"",
+      "materia":"Química",    
       "seccion":"profe"
    },
    {
@@ -177,7 +164,6 @@
       "url":"https://www.mep.go.cr/educatico/tabla-periodica-generalidades",
       "ciclo": ["Diversificada"],
       "materia":"Química",
-      "comentarios":"",
       "seccion":"profe"
    },
    {
@@ -186,8 +172,7 @@
       "urlImg":"./assets/img/profeencasa/profe(15).jpg",
       "url":"https://www.mep.go.cr/educatico/tabla-periodica-nu%CC%81meros-cua%CC%81nticos",
       "ciclo": ["Diversificada"],
-      "materia":"Química",
-      "comentarios":"",
+      "materia":"Química",    
       "seccion":"profe"
    },
 
@@ -214,8 +199,7 @@
       "urlImg":"./assets/img/profeencasa/profe(16).jpg",
       "url":"https://www.mep.go.cr/educatico/tabla-periodica-configuraciones-electronicas",
       "ciclo": ["Diversificada"],
-      "materia":"Química",
-      "comentarios":"",
+      "materia":"Química",    
       "seccion":"profe"
    },
    {
@@ -224,8 +208,7 @@
       "urlImg":"./assets/img/profeencasa/profe(17).jpg",
       "url":"https://www.mep.go.cr/educatico/solubilidad",
       "ciclo": ["Diversificada"],
-      "materia":"Química",
-      "comentarios":"",
+      "materia":"Química",    
       "seccion":"profe"
    },
    {
@@ -234,8 +217,7 @@
       "urlImg":"./assets/img/profeencasa/profe(18).jpg",
       "url":"https://www.mep.go.cr/educatico/fuerzas-intermoleculares",
       "ciclo": ["Diversificada"],
-      "materia":"Química",
-      "comentarios":"",
+      "materia":"Química",    
       "seccion":"profe"
    },
    {
@@ -244,8 +226,7 @@
       "urlImg":"./assets/img/profeencasa/profe(19).jpg",
       "url":"https://www.mep.go.cr/educatico/polaridad",
       "ciclo": ["Diversificada"],
-      "materia":"Química",
-      "comentarios":"",
+      "materia":"Química",    
       "seccion":"profe"
    },
    {
@@ -254,8 +235,7 @@
       "urlImg":"./assets/img/profeencasa/profe(20).jpg",
       "url":"https://www.mep.go.cr/educatico/geometria-molecular",
       "ciclo": ["Diversificada"],
-      "materia":"Química",
-      "comentarios":"",
+      "materia":"Química",    
       "seccion":"profe"
    },
 
@@ -270,8 +250,7 @@
       "urlImg":"./assets/img/profeencasa/profe(21).jpg",
       "url":"https://www.mep.go.cr/educatico/estructura-lewis",
       "ciclo": ["Diversificada"],
-      "materia":"Química",
-      "comentarios":"",
+      "materia":"Química",    
       "seccion":"profe"
    },
    {
@@ -280,8 +259,7 @@
      "urlImg":"./assets/img/profeencasa/profe(22).jpg",
      "url":"https://www.mep.go.cr/educatico/enlace-ionico-metalico",
      "ciclo": ["Diversificada"],
-      "materia":"Química",
-     "comentarios":"",
+      "materia":"Química",   
      "seccion":"profe"
   },
   {
@@ -290,8 +268,7 @@
      "urlImg":"./assets/img/profeencasa/profe(23).jpg",
      "url":"https://www.mep.go.cr/educatico/enlaces-quimicos",
      "ciclo": ["Diversificada"],
-      "materia":"Química",
-     "comentarios":"",
+      "materia":"Química",   
      "seccion":"profe"
   },
   {
@@ -301,7 +278,6 @@
      "url":"https://www.mep.go.cr/educatico/enlaces-quimicos-covalentes",
      "ciclo": ["Diversificada"],
       "materia":"Química",
-     "comentarios":"",
      "seccion":"profe"
   },
   {
@@ -310,8 +286,7 @@
      "urlImg":"./assets/img/profeencasa/profe(25).jpg",
      "url":"https://www.mep.go.cr/educatico/estequiometria-resolucion",
      "ciclo": ["Diversificada"],
-      "materia":"Química",
-     "comentarios":"",
+      "materia":"Química",   
      "seccion":"profe"
   },
 
@@ -338,8 +313,7 @@
      "urlImg":"./assets/img/profeencasa/profe(26).jpg",
      "url":"https://www.mep.go.cr/educatico/conceptos-estequiometria",
      "ciclo": ["Diversificada"],
-     "materia":"Química",
-     "comentarios":"",
+     "materia":"Química",   
      "seccion":"profe"
   },
   {
@@ -348,8 +322,7 @@
      "urlImg":"./assets/img/profeencasa/profe(27).jpg",
      "url":"https://www.mep.go.cr/educatico/combinacion-operaciones-parentesis",
      "ciclo": ["III"],
-     "materia":"Matemática",
-     "comentarios":"",
+     "materia":"Matemática",   
      "seccion":"profe"
   },
   {
@@ -358,8 +331,7 @@
      "urlImg":"./assets/img/profeencasa/profe(28).jpg",
      "url":"https://www.mep.go.cr/educatico/patrones-sucesiones",
      "ciclo": ["III"],
-     "materia":"Matemática",
-     "comentarios":"",
+     "materia":"Matemática",   
      "seccion":"profe"
   },
   {
@@ -368,8 +340,7 @@
      "urlImg":"./assets/img/profeencasa/profe(29).jpg",
      "url":"https://www.mep.go.cr/educatico/funciones-inversas",
      "ciclo": ["Diversificada"],
-     "materia":"Matemática",
-     "comentarios":"",
+     "materia":"Matemática",   
      "seccion":"profe"
   },
   {
@@ -378,8 +349,7 @@
      "urlImg":"./assets/img/profeencasa/profe(30).jpg",
      "url":"https://www.mep.go.cr/educatico/ecuaciones-fraccionarias-literales",
      "ciclo": ["III"],
-     "materia":"Matemática",
-     "comentarios":"",
+     "materia":"Matemática",   
      "seccion":"profe"
   },
 
@@ -392,8 +362,7 @@
    "urlImg":"./assets/img/profeencasa/profe(31).jpg",
    "url":"https://www.mep.go.cr/educatico/angulos-elevacion-depresion",
    "ciclo": ["III"],
-   "materia":"Matemática",
-   "comentarios":"",
+   "materia":"Matemática", 
    "seccion":"profe"
 },
 {
@@ -403,7 +372,6 @@
   "url":"https://www.mep.go.cr/educatico/homotecias",
   "ciclo": ["III"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -413,7 +381,6 @@
   "url":"https://www.mep.go.cr/educatico/productos-notables",
   "ciclo": ["III"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -423,7 +390,6 @@
   "url":"https://www.mep.go.cr/educatico/minimo-multiplo-comun-maximo-divisor-comun",
   "ciclo": ["III"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -433,7 +399,6 @@
   "url":"https://www.mep.go.cr/educatico/variables-discretas-continuas",
   "ciclo": ["III"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -461,7 +426,6 @@
   "url":"https://www.mep.go.cr/educatico/semejanza-congruencia-triangulos",
   "ciclo": ["III"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -471,7 +435,6 @@
   "url":"https://www.mep.go.cr/educatico/figuras-planas-no-poligonales",
   "ciclo": ["Diversificada"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -481,7 +444,6 @@
   "url":"https://www.mep.go.cr/educatico/aplicando-probabilidades-para-toma-decisiones",
   "ciclo": ["III"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -491,7 +453,6 @@
   "url":"https://www.mep.go.cr/educatico/ecuaciones-logaritmicas-ii",
   "ciclo": ["Diversificada"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -501,7 +462,6 @@
   "url":"https://www.mep.go.cr/educatico/ecuaciones-segundo-grado",
   "ciclo": ["III"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -518,8 +478,7 @@
    "urlImg":"./assets/img/profeencasa/profe(41).jpg",
    "url":"https://www.mep.go.cr/educatico/plantear-resolver-problemas-utilizando-sistemas-dos-ecuaciones-dos-incognitas",
    "ciclo": ["Diversificada"],
-  "materia":"Matemática",
-   "comentarios":"",
+  "materia":"Matemática", 
    "seccion":"profe"
 },
 {
@@ -529,7 +488,6 @@
   "url":"https://www.mep.go.cr/educatico/proporcionalidad-directa-e-inversa",
   "ciclo": ["III"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -539,7 +497,6 @@
   "url":"https://www.mep.go.cr/educatico/conceptos-funcion-logaritmica",
   "ciclo": ["Diversificada"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -549,7 +506,6 @@
   "url":"https://www.mep.go.cr/educatico/conceptos-funcion-exponencial",
   "ciclo": ["Diversificada"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -559,7 +515,6 @@
   "url":"https://www.mep.go.cr/educatico/funciones-exponenciales-resolucion",
   "ciclo": ["Diversificada"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -587,7 +542,6 @@
   "url":"https://www.mep.go.cr/educatico/ecuaciones-logaritmicas-resolucion",
   "ciclo": ["Diversificada"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -597,7 +551,6 @@
   "url":"https://www.mep.go.cr/educatico/poligonos-regulares",
   "ciclo": ["Diversificada"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -607,7 +560,6 @@
   "url":"https://www.mep.go.cr/educatico/aplicaciones-logaritmos",
   "ciclo": ["Diversificada"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -617,7 +569,6 @@
   "url":"https://www.mep.go.cr/educatico/poligonos-inscritos-circunscritos-2",
   "ciclo": ["Diversificada"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -627,7 +578,6 @@
   "url":"https://www.mep.go.cr/educatico/poligonos-inscritos-circunscritos-1",
   "ciclo": ["Diversificada"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -642,8 +592,7 @@
    "urlImg":"./assets/img/profeencasa/profe(51).jpg",
    "url":"https://www.mep.go.cr/educatico/high-tech-high-touch",
    "ciclo": ["Diversificada"],
-  "materia":"Matemática",
-   "comentarios":"",
+  "materia":"Matemática", 
    "seccion":"profe"
 },
 {
@@ -653,7 +602,6 @@
   "url":"https://www.mep.go.cr/educatico/fragile-world-handle-care",
   "ciclo": ["Diversificada"],
   "materia":"Matemática",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -663,7 +611,6 @@
   "url":"https://www.mep.go.cr/educatico/family-members",
   "ciclo": ["Diversificada"],
   "materia":"Inglés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -673,7 +620,6 @@
   "url":"https://www.mep.go.cr/educatico/acceptance-and-refusal",
   "ciclo": ["III"],
   "materia":"Inglés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -683,7 +629,6 @@
   "url":"https://www.mep.go.cr/educatico/personal-travel-plans",
   "ciclo": ["III"],
   "materia":"Inglés",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -711,7 +656,6 @@
   "url":"https://www.mep.go.cr/educatico/our-democratic-tradition",
   "ciclo": ["Diversificada"],
   "materia":"Inglés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -721,7 +665,6 @@
   "url":"https://www.mep.go.cr/educatico/computers-and-technology",
   "ciclo": ["III"],
   "materia":"Inglés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -731,7 +674,6 @@
   "url":"https://www.mep.go.cr/educatico/operating-electrical-appliances",
   "ciclo": ["III"],
   "materia":"Inglés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -741,7 +683,6 @@
   "url":"https://www.mep.go.cr/educatico/job-interview",
   "ciclo": ["Diversificada"],
   "materia":"Inglés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -751,7 +692,6 @@
   "url":"https://www.mep.go.cr/educatico/jobs-careers-and-lifestyles",
   "ciclo": ["Diversificada"],
   "materia":"Inglés",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -766,8 +706,7 @@
    "urlImg":"./assets/img/profeencasa/profe(61).jpg",
    "url":"https://www.mep.go.cr/educatico/describing-objects",
    "ciclo": ["III"],
-   "materia":"Inglés",
-   "comentarios":"",
+   "materia":"Inglés", 
    "seccion":"profe"
 },
 {
@@ -777,7 +716,6 @@
   "url":"https://www.mep.go.cr/educatico/location-people-objects",
   "ciclo": ["III"],
   "materia":"Inglés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -787,7 +725,6 @@
   "url":"https://www.mep.go.cr/educatico/identification-personal-information",
   "ciclo": ["III"],
   "materia":"Inglés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -797,7 +734,6 @@
   "url":"https://www.mep.go.cr/educatico/identification-using-personal-information",
   "ciclo": ["III"],
   "materia":"Inglés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -807,7 +743,6 @@
   "url":"https://www.mep.go.cr/educatico/campana-nacional",
   "ciclo": ["II, III"],
   "materia":"Estudios Sociales",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -835,7 +770,6 @@
   "url":"https://www.mep.go.cr/educatico/generalidades-america",
   "ciclo": ["III"],
   "materia":"Estudios Sociales",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -845,7 +779,6 @@
   "url":"https://www.mep.go.cr/educatico/procesos-democratizacion",
   "ciclo": ["Diversificada"],
   "materia":"Estudios Sociales",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -855,7 +788,6 @@
   "url":"https://www.mep.go.cr/educatico/segunda-etapa-campana-nacional",
   "ciclo": ["III"],
   "materia":"Estudios Sociales",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -865,7 +797,6 @@
   "url":"https://www.mep.go.cr/educatico/climas-costa-rica",
   "ciclo": ["III"],
   "materia":"Estudios Sociales",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -875,7 +806,6 @@
   "url":"https://www.mep.go.cr/educatico/segunda-guerra-mundial",
   "ciclo": ["Diversificada"],
   "materia":"Estudios Sociales",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -890,8 +820,7 @@
    "urlImg":"./assets/img/profeencasa/profe(71).jpg",
    "url":"https://www.mep.go.cr/educatico/origen-estados-nacionales",
    "ciclo": ["III"],
-   "materia":"Estudios Sociales",
-   "comentarios":"",
+   "materia":"Estudios Sociales", 
    "seccion":"1-profe"
 },
 {
@@ -901,7 +830,6 @@
   "url":"https://www.mep.go.cr/educatico/generalidades-america",
   "ciclo": ["III"],
   "materia":"Estudios Sociales",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -911,7 +839,6 @@
   "url":"https://www.mep.go.cr/educatico/legado-cultural",
   "ciclo": ["III"],
   "materia":"Estudios Sociales",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -921,7 +848,6 @@
   "url":"https://www.mep.go.cr/educatico/problemas-ambientales-america",
   "ciclo": ["III"],
   "materia":"Estudios Sociales",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -931,7 +857,6 @@
   "url":"https://www.mep.go.cr/educatico/conversiones",
   "ciclo": ["Diversificada"],
   "materia":"Física",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -959,7 +884,6 @@
   "url":"https://www.mep.go.cr/educatico/conservacion-momento-lineal",
   "ciclo": ["Diversificada"],
   "materia":"Física",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -969,7 +893,6 @@
   "url":"https://www.mep.go.cr/educatico/impulso-momento",
   "ciclo": ["Diversificada"],
   "materia":"Física",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -979,7 +902,6 @@
   "url":"https://www.mep.go.cr/educatico/energia",
   "ciclo": ["Diversificada"],
   "materia":"Física",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -989,7 +911,6 @@
   "url":"https://www.mep.go.cr/educatico/parler-lenvironnement",
   "ciclo": ["Diversificada"],
   "materia":"Francés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -999,7 +920,6 @@
   "url":"https://www.mep.go.cr/educatico/demander-des-informations",
   "ciclo": ["III"],
   "materia":"Francés",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -1013,8 +933,7 @@
    "urlImg":"./assets/img/profeencasa/profe(81).jpg",
    "url":"https://www.mep.go.cr/educatico/exprimer-des-faits-futurs",
    "ciclo": ["III"],
-  "materia":"Francés",
-   "comentarios":"",
+  "materia":"Francés", 
    "seccion":"profe"
 },
 {
@@ -1024,7 +943,6 @@
   "url":"https://www.mep.go.cr/educatico/rendre-compte-des-activites-accomplies-par-quelquun",
   "ciclo": ["III"],
   "materia":"Francés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1034,7 +952,6 @@
   "url":"https://www.mep.go.cr/educatico/decrire-les-differentes-activites-vie-quotidienne",
   "ciclo": ["III"],
   "materia":"Francés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1044,7 +961,6 @@
   "url":"https://www.mep.go.cr/educatico/identifier-quelque-chose",
   "ciclo": ["III"],
   "materia":"Francés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1054,7 +970,6 @@
   "url":"https://www.mep.go.cr/educatico/nombres-zero-cinquante-neuf",
   "ciclo": ["III"],
   "materia":"Francés",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -1082,7 +997,6 @@
   "url":"https://www.mep.go.cr/educatico/nombres-60-100",
   "ciclo": ["III"],
   "materia":"Francés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1092,7 +1006,6 @@
   "url":"https://www.mep.go.cr/educatico/se-situer-dans-l%E2%80%99espace-2",
   "ciclo": ["III"],
   "materia":"Francés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1102,7 +1015,6 @@
   "url":"https://www.mep.go.cr/educatico/se-situer-dans-l%E2%80%99espace-1",
   "ciclo": ["III"],
   "materia":"Francés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1112,7 +1024,6 @@
   "url":"https://www.mep.go.cr/educatico/poser-des-questions",
   "ciclo": ["III"],
   "materia":"Francés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1122,7 +1033,6 @@
   "url":"https://www.mep.go.cr/educatico/caracteriser-des-objets-et-des-lieux",
   "ciclo": ["III"],
   "materia":"Francés",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -1137,8 +1047,7 @@
    "urlImg":"./assets/img/profeencasa/profe(91).jpg",
    "url":"https://www.mep.go.cr/educatico/caracteriser-des-personnes",
    "ciclo": ["III"],
-   "materia":"Francés",
-   "comentarios":"",
+   "materia":"Francés", 
    "seccion":"profe"
 },
 {
@@ -1148,7 +1057,6 @@
   "url":"https://www.mep.go.cr/educatico/hidrostatica",
   "ciclo": ["Diversificada"],
   "materia":"Artes Industrial",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1158,7 +1066,6 @@
   "url":"https://www.mep.go.cr/educatico/respiracio%CC%81n-celular-cadena-respiratoria",
   "ciclo": ["Diversificada"],
   "materia":"Biología",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1168,7 +1075,6 @@
   "url":"https://www.mep.go.cr/educatico/respiracion-celular-acetil",
   "ciclo": ["Diversificada"],
   "materia":"Biología",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1178,7 +1084,6 @@
   "url":"https://www.mep.go.cr/educatico/respiracion-celular-glucolisis",
   "ciclo": ["Diversificada"],
   "materia":"Biología",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -1206,7 +1111,6 @@
   "url":"https://www.mep.go.cr/educatico/biotecnologia-sus-tecnicas-aplicaciones",
   "ciclo": ["Diversificada"],
   "materia":"Biología",
-  "comentarios":"",
   "seccion":"20-profe"
 },
 {
@@ -1216,7 +1120,6 @@
   "url":"https://www.mep.go.cr/educatico/biotecnologia-cultivos-celulares-reproduccion-asistida",
   "ciclo": ["Diversificada"],
   "materia":"Biología",
-  "comentarios":"",
   "seccion":"20-profe"
 },
 {
@@ -1226,7 +1129,6 @@
   "url":"https://www.mep.go.cr/educatico/ciclo-celular-mitosis",
   "ciclo": ["Diversificada"],
   "materia":"Biología",
-  "comentarios":"",
   "seccion":"20-profe"
 },
 {
@@ -1236,7 +1138,6 @@
   "url":"https://www.mep.go.cr/educatico/biomoleculas",
   "ciclo": ["Diversificada"],
   "materia":"Biología",
-  "comentarios":"",
   "seccion":"20-profe"
 },
 {
@@ -1246,7 +1147,6 @@
   "url":"https://www.mep.go.cr/educatico/adn-arn",
   "ciclo": ["Diversificada"],
   "materia":"Biología",
-  "comentarios":"",
   "seccion":"20-profe"
 },
 
@@ -1261,8 +1161,7 @@
    "url":"https://www.mep.go.cr/educatico/cruces-herencia-no-mendeliana",
    "ciclo": ["Diversificada"],
    "materia":"Biología",
-   "comentarios":"",
-   "seccion":"20-profe"
+    "seccion":"20-profe"
 },
 {
   "nombre":"Ecología",
@@ -1271,7 +1170,6 @@
   "url":"https://www.mep.go.cr/educatico/ecologia",
   "ciclo": ["Diversificada"],
   "materia":"Biología",
-  "comentarios":"",
   "seccion":"20-profe"
 },
 {
@@ -1281,7 +1179,6 @@
   "url":"https://www.mep.go.cr/educatico/conceptos-fuerza-trabajo",
   "ciclo": ["III"],
   "materia":"Ciencias",
-  "comentarios":"",
   "seccion":"20-profe"
 },
 {
@@ -1291,7 +1188,6 @@
   "url":"https://www.mep.go.cr/educatico/mediciones",
   "ciclo": ["III"],
   "materia":"Ciencias",
-  "comentarios":"",
   "seccion":"20-profe"
 },
 {
@@ -1301,7 +1197,6 @@
   "url":"https://www.mep.go.cr/educatico/peso-masa",
   "ciclo": ["III"],
   "materia":"Ciencias",
-  "comentarios":"",
   "seccion":"20-profe"
 },
 
@@ -1329,7 +1224,6 @@
   "url":"https://www.mep.go.cr/educatico/evolucion",
   "ciclo": ["Diversificada"],
   "materia":"Biología",
-  "comentarios":"",
   "seccion":"21-profe"
 },
 {
@@ -1339,7 +1233,6 @@
   "url":"https://www.mep.go.cr/educatico/fotosintesis",
   "ciclo": ["Diversificada"],
   "materia":"Biología",
-  "comentarios":"",
   "seccion":"21-profe"
 },
 {
@@ -1349,7 +1242,6 @@
   "url":"https://www.mep.go.cr/educatico/cruces-monohibridos",
   "ciclo": ["Diversificada"],
   "materia":"Biología",
-  "comentarios":"",
   "seccion":"21-profe"
 },
 {
@@ -1359,7 +1251,6 @@
   "url":"https://www.mep.go.cr/educatico/conceptos-genetica-cruces",
   "ciclo": ["Diversificada"],
   "materia":"Biología",
-  "comentarios":"",
   "seccion":"21-profe"
 },
 {
@@ -1369,7 +1260,6 @@
   "url":"https://www.mep.go.cr/educatico/expansion-comercial",
   "ciclo": ["III"],
   "materia":"Estudios Sociales",
-  "comentarios":"",
   "seccion":"21-profe"
 },
 
@@ -1385,8 +1275,7 @@
    "urlImg":"./assets/img/profeencasa/profe(111).jpg",
    "url":"https://www.mep.go.cr/educatico/vectores",
    "ciclo": ["Diversificada"],
-   "materia":"Física",
-   "comentarios":"",
+   "materia":"Física", 
    "seccion":"profe"
 },
 {
@@ -1396,7 +1285,6 @@
   "url":"https://www.mep.go.cr/educatico/expansion-comercial",
   "ciclo": ["Diversificada"],
   "materia":"Física",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1406,7 +1294,6 @@
   "url":"https://www.mep.go.cr/educatico/leyes-newton",
   "ciclo": ["Diversificada"],
    "materia":"Física",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1416,7 +1303,6 @@
   "url":"https://www.mep.go.cr/educatico/le-futur-simple",
   "ciclo": ["III"],
   "materia":"Francés",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1426,7 +1312,6 @@
   "url":"https://www.mep.go.cr/educatico/visualizacion-espacial",
   "ciclo": ["Diversificada"],
   "materia":"Artes Industriales",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -1454,7 +1339,6 @@
   "url":"https://www.mep.go.cr/educatico/respiracion-celular-fermentacion",
   "ciclo": ["Diversificada"],
   "materia":"Biología",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1464,7 +1348,6 @@
   "url":"https://www.mep.go.cr/educatico/realidad-aumentada-aplicada-educacion",
   "ciclo": ["I, II, III"],
   "materia":"Ciencias",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1474,7 +1357,6 @@
   "url":"https://www.mep.go.cr/educatico/afectividad-sexualidad-integral",
   "ciclo": ["III"],
   "materia":"Ciencias",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1484,7 +1366,6 @@
   "url":"https://www.mep.go.cr/educatico/afectividad-sexualidad",
   "ciclo": ["III"],
   "materia":"Ciencias",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1494,7 +1375,6 @@
   "url":"https://www.mep.go.cr/educatico/recurso-hidrico",
   "ciclo": ["III"],
   "materia":"Ciencias",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -1512,8 +1392,7 @@
    "urlImg":"./assets/img/profeencasa/profe(121).jpg",
    "url":"https://www.mep.go.cr/educatico/sistemas-cuerpo-humano",
    "ciclo": ["III"],
-   "materia":"Ciencias",
-   "comentarios":"",
+   "materia":"Ciencias", 
    "seccion":"profe"
 },
 {
@@ -1523,7 +1402,6 @@
   "url":"https://www.mep.go.cr/educatico/clasificacion-compuestos-binarios",
   "ciclo": ["III"],
   "materia":"Ciencias",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1533,7 +1411,6 @@
   "url":"https://www.mep.go.cr/educatico/salud-sexual-reproductiva",
   "ciclo": ["III"],
   "materia":"Ciencias",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1543,7 +1420,6 @@
   "url":"https://www.mep.go.cr/educatico/celula-ciclo-celular",
   "ciclo": ["III"],
   "materia":"Ciencias",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1553,7 +1429,6 @@
   "url":"https://www.mep.go.cr/educatico/amenazas-naturales-inundaciones",
   "ciclo": ["III"],
   "materia":"Educación Cívica",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -1581,7 +1456,6 @@
   "url":"https://www.mep.go.cr/educatico/amenazas-naturales-sismos-terremotos",
   "ciclo": ["III"],
   "materia":"Educación Cívica",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1591,7 +1465,6 @@
   "url":"https://www.mep.go.cr/educatico/regimen-politico",
   "ciclo": ["Diversificada"],
   "materia":"Educación Cívica",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1601,7 +1474,6 @@
   "url":"https://www.mep.go.cr/educatico/derechos-humanos",
   "ciclo": ["III"],
   "materia":"Educación Cívica",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1611,7 +1483,6 @@
   "url":"https://www.mep.go.cr/educatico/organizacion-institucional-costa-rica",
   "ciclo": ["Diversificada"],
   "materia":"Educación Cívica",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1621,7 +1492,6 @@
   "url":"https://www.mep.go.cr/educatico/abolicion-ejercito",
   "ciclo": ["General"],
   "materia":"Educación Cívica",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -1636,8 +1506,7 @@
    "urlImg":"./assets/img/profeencasa/profe(131).jpg",
    "url":"https://www.mep.go.cr/educatico/voseo-costa-rica",
    "ciclo": ["III"],
-   "materia":"Español",
-   "comentarios":"",
+   "materia":"Español", 
    "seccion":"profe"
 },
 {
@@ -1647,7 +1516,6 @@
   "url":"https://www.mep.go.cr/educatico/oraciones-compuestas-yuxtaposicio%CC%81n-coordinacio%CC%81n",
   "ciclo": ["Diversificada"],
   "materia":"Español",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1657,7 +1525,6 @@
   "url":"https://www.mep.go.cr/educatico/oraciones-compuestas-subordinacio%CC%81n",
   "ciclo": ["Diversificada"],
   "materia":"Español",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1667,7 +1534,6 @@
   "url":"https://www.mep.go.cr/educatico/acentuacion-ley-hiato",
   "ciclo": ["III"],
   "materia":"Español",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1677,7 +1543,6 @@
   "url":"https://www.mep.go.cr/educatico/hablante-primera-persona",
   "ciclo": ["III"],
   "materia":"Español",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -1705,7 +1570,6 @@
   "url":"https://www.mep.go.cr/educatico/parrafo",
   "ciclo": ["III"],
   "materia":"Español",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1715,7 +1579,6 @@
   "url":"https://www.mep.go.cr/educatico/relacion-texto",
   "ciclo": ["Diversificada"],
   "materia":"Español",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1725,7 +1588,6 @@
   "url":"https://www.mep.go.cr/educatico/empleo-letras",
   "ciclo": ["III"],
   "materia":"Español",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1735,7 +1597,6 @@
   "url":"https://www.mep.go.cr/educatico/oracion-impersonal",
   "ciclo": ["Diversificada"],
   "materia":"Español",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1745,7 +1606,6 @@
   "url":"https://www.mep.go.cr/educatico/formas-tratamiento",
   "ciclo": ["III"],
   "materia":"Español",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -1760,8 +1620,7 @@
    "urlImg":"./assets/img/profeencasa/profe(141).jpg",
    "url":"https://www.mep.go.cr/educatico/oracion-pasiva",
    "ciclo": ["III"],
-   "materia":"Español",
-   "comentarios":"",
+   "materia":"Español", 
    "seccion":"profe"
 },
 {
@@ -1771,7 +1630,6 @@
   "url":"https://www.mep.go.cr/educatico/interpretacion-lenguaje-connotativo",
   "ciclo": ["III"],
   "materia":"Español",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1781,7 +1639,6 @@
   "url":"ttps://www.mep.go.cr/educatico/paradigma-verbal",
   "ciclo": ["Diversificada"],
   "materia":"Español",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1791,7 +1648,6 @@
   "url":"https://www.mep.go.cr/educatico/registros-habla",
   "ciclo": ["Diversificada"],
   "materia":"Español",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1801,7 +1657,6 @@
   "url":"https://www.mep.go.cr/educatico/oracion-sustantivo",
   "ciclo": ["III"],
   "materia":"Español",
-  "comentarios":"",
   "seccion":"profe"
 },
 
@@ -1829,7 +1684,6 @@
   "url":"https://www.mep.go.cr/educatico/relieve-orbe",
   "ciclo": ["III"],
   "materia":"Estudios Sociales",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1839,7 +1693,6 @@
   "url":"https://www.mep.go.cr/educatico/peso-masa",
   "ciclo": ["III"],
   "materia":"Español",
-  "comentarios":"",
   "seccion":"profe"
 },
 {
@@ -1849,7 +1702,6 @@
   "url":"https://www.mep.go.cr/educatico/usos-mayuscula",
   "ciclo": ["III"],
   "materia":"Ciencias",
-  "comentarios":"",
   "seccion":"profe"
 }
 

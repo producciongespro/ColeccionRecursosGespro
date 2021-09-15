@@ -5,8 +5,7 @@
       "urlImg":"./assets/img/otros/lista_mandados.png",
       "url":"https://www.mep.go.cr/educatico/lista-mandados",
       "ciclo": ["I"],
-      "materia":"Matemática",
-      "comentarios":"",
+      "materia":"Matemática",    
       "seccion":"otros"
    },
 
@@ -16,8 +15,7 @@
       "urlImg":"./assets/img/otros/trazando_cuerpo.png",
       "url":"https://www.mep.go.cr/educatico/trazando-cuerpo-humano",
       "ciclo": ["I"],
-      "materia":"Matemática",
-      "comentarios":"",
+      "materia":"Matemática",    
       "seccion":"otros"
    },
      
@@ -28,8 +26,7 @@
        "urlImg":"./assets/img/otros/sexo_sexualidad.png",
        "url":"https://www.mep.go.cr/educatico/sexo-sexualidad",
        "ciclo": ["II"],
-       "materia":"Ciencias",
-       "comentarios":"",
+       "materia":"Ciencias",     
        "seccion":"otros"
     },
     {
@@ -38,8 +35,7 @@
        "urlImg":"./assets/img/otros/disene-figura-humana.png",
        "url":"https://www.mep.go.cr/educatico/disene-figura-humana",
        "ciclo": ["II"],
-       "materia":"Ciencias",
-       "comentarios":"",
+       "materia":"Ciencias",     
        "seccion":"otros"
     },
     {
@@ -48,8 +44,7 @@
       "urlImg":"./assets/img/otros/vuelta_pasado.png",
       "url":"https://www.mep.go.cr/educatico/vuelta-nuestro-pasado",
       "ciclo": ["II"],
-      "materia":"Educación Cívica",
-      "comentarios":"",
+      "materia":"Educación Cívica",    
       "seccion":"otros"
    },
 
@@ -63,8 +58,7 @@
        "urlImg":"./assets/img/otros/disene-menu.png",
        "url":"https://www.mep.go.cr/educatico/disenemos-menu",
        "ciclo": ["I"],
-       "materia":"Ciencias",
-       "comentarios":"",
+       "materia":"Ciencias",     
        "seccion":"otros"
     },
 
@@ -74,8 +68,7 @@
        "urlImg":"./assets/img/otros/donde-vamos.png",
        "url":"https://www.mep.go.cr/educatico/donde-vamos-que-es-salud",
        "ciclo": ["I"],
-       "materia":"Ciencias",
-       "comentarios":"",
+       "materia":"Ciencias",     
        "seccion":"otros"
     },
 
@@ -85,8 +78,7 @@
        "urlImg":"./assets/img/otros/arme_figura.png",
        "url":"https://www.mep.go.cr/educatico/arme-figura-humana",
        "ciclo": ["I"],
-       "materia":"Ciencias",
-       "comentarios":"",
+       "materia":"Ciencias",     
        "seccion":"otros"
     },
 
@@ -96,8 +88,7 @@
        "urlImg":"./assets/img/otros/desafio_PJverde.png",
        "url":"https://www.mep.go.cr/educatico/desafio-pj-verde",
        "ciclo": ["II","II"],
-       "materia":"Ciencias",
-       "comentarios":"",
+       "materia":"Ciencias",     
        "seccion":"otros"
     },
 
@@ -107,8 +98,7 @@
        "urlImg":"./assets/img/otros/pares_perdidos.png",
        "url":"https://www.mep.go.cr/educatico/pares-perdidos",
        "ciclo": ["II"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
+       "materia":"Educación Cívica",     
        "seccion":"otros"
     },
 
@@ -122,8 +112,7 @@
        "urlImg":"./assets/img/otros/LoqueseProduceenCR.png",
        "url":"https://www.mep.go.cr/educatico/produce-costa-rica",
        "ciclo": ["I"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
+       "materia":"Educación Cívica",     
        "seccion":"otros"
     },
 
@@ -133,8 +122,7 @@
        "urlImg":"./assets/img/otros/rechazo-matonismo.png",
        "url":"https://www.mep.go.cr/educatico/rechazo-matonismo-bullying",
        "ciclo": ["I"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
+       "materia":"Educación Cívica",     
        "seccion":"otros"
     },
 
@@ -144,8 +132,7 @@
        "urlImg":"./assets/img/otros/viapublica.png",
        "url":"https://www.mep.go.cr/educatico/publica",
        "ciclo": ["II"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
+       "materia":"Educación Cívica",     
        "seccion":"otros"
     },
   
@@ -155,8 +142,7 @@
        "urlImg":"./assets/img/otros/donde-estoy.png",
        "url":"https://www.mep.go.cr/educatico/donde-estoy-adonde-voy",
        "ciclo": ["I"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
+       "materia":"Educación Cívica",     
        "seccion":"otros"
     },
 
@@ -167,8 +153,7 @@
       "urlImg":"./assets/img/otros/cuerpo_humano.png",
       "url":"https://www.mep.go.cr/educatico/cuerpo-humano",
       "ciclo": ["II"],
-      "materia":"Ciencias",
-      "comentarios":"",
+      "materia":"Ciencias",    
       "seccion":"otros"
    },
 
@@ -183,8 +168,7 @@
        "urlImg":"./assets/img/otros/justicia-accion.png",
        "url":"https://www.mep.go.cr/educatico/justicia-accion",
        "ciclo": ["Diversificada"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
+       "materia":"Educación Cívica",     
        "seccion":"otros"
     },  
 
@@ -194,8 +178,7 @@
        "urlImg":"./assets/img/otros/trabajemos-fortalecer.png",
        "url":"https://www.mep.go.cr/educatico/trabajemos-democracia",
        "ciclo": ["Diversificada"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
+       "materia":"Educación Cívica",     
        "seccion":"otros"
     },
     {
@@ -204,8 +187,7 @@
        "urlImg":"./assets/img/otros/elgeko.png",
        "url":"https://www.mep.go.cr/educatico/danny-geko-moreno",
        "ciclo": ["III, Diversificada"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
+       "materia":"Educación Cívica",     
        "seccion":"otros"
     },
     {
@@ -214,8 +196,7 @@
        "urlImg":"./assets/img/otros/mision35.png",
        "url":"https://www.mep.go.cr/educatico/mision-35c",
        "ciclo": ["II","III"],
-       "materia":"Español",
-       "comentarios":"",
+       "materia":"Español",     
        "seccion":"otros"
     },
     {
@@ -224,8 +205,7 @@
        "urlImg":"./assets/img/otros/logica_espanol.png",
        "url":"https://www.mep.go.cr/educatico/logica-espanol",
        "ciclo": ["III","Diversificada"],
-       "materia":"Español",
-       "comentarios":"",
+       "materia":"Español",     
        "seccion":"otros"
     },
 
@@ -241,8 +221,7 @@
        "urlImg":"./assets/img/otros/jovenes-banqueros.png",
        "url":"https://www.mep.go.cr/educatico/jovenes-banqueros",
        "ciclo": ["III"],
-       "materia":"Educación para el hogar",
-       "comentarios":"",
+       "materia":"Educación para el hogar",     
        "seccion":"otros"
     },
      {
@@ -251,8 +230,7 @@
        "urlImg":"./assets/img/otros/comunic-efectiva.png",
        "url":"https://www.mep.go.cr/educatico/comunicacion-efectiva",
        "ciclo": ["I","II","III","Diversificada"],
-       "materia":"Psicología",
-       "comentarios":"",
+       "materia":"Psicología",     
        "seccion":"otros"
     },
     {
@@ -261,8 +239,7 @@
        "urlImg":"./assets/img/otros/toma_decisiones.png",
        "url":"https://www.mep.go.cr/educatico/toma-decisiones",
        "ciclo": ["I","II","III","Diversificada"],
-       "materia":"Psicología",
-       "comentarios":"",
+       "materia":"Psicología",     
        "seccion":"otros"
     },
     {
@@ -271,8 +248,7 @@
        "urlImg":"./assets/img/otros/midiendo_ciudad.png",
        "url":"https://www.mep.go.cr/educatico/midiendo-mi-ciudad",
        "ciclo": ["II"],
-       "materia":"Matemática",
-       "comentarios":"",
+       "materia":"Matemática",     
        "seccion":"otros"
     },
     {
@@ -281,8 +257,7 @@
        "urlImg":"./assets/img/otros/rompecabezas.png",
        "url":"https://www.mep.go.cr/educatico/rompecabezas",
        "ciclo": ["II"],
-       "materia":"Matemática",
-       "comentarios":"",
+       "materia":"Matemática",     
        "seccion":"otros"
     },
 
@@ -298,8 +273,7 @@
        "urlImg":"./assets/img/otros/busqueda-simet.png",
        "url":"https://www.mep.go.cr/educatico/busqueda-simetria",
        "ciclo": ["II"],
-       "materia":"Matemática",
-       "comentarios":"",
+       "materia":"Matemática",     
        "seccion":"otros"
     },
     {
@@ -308,8 +282,7 @@
        "urlImg":"./assets/img/otros/interp_datos.png",
        "url":"https://www.mep.go.cr/educatico/interpretando-datos",
        "ciclo": ["I"],
-       "materia":"Matemática",
-       "comentarios":"",
+       "materia":"Matemática",     
        "seccion":"otros"
     },
     {
@@ -318,8 +291,7 @@
       "urlImg":"./assets/img/otros/carretica.jpg",
       "url":"https://www.mep.go.cr/educatico/carretica-cuentera",
       "ciclo": ["I","II"],
-      "materia":"Educación para el hogar",
-      "comentarios":"",
+      "materia":"Educación para el hogar",    
       "seccion":"otros"
    },
    
@@ -332,8 +304,7 @@
       "urlImg":"./assets/img/otros/emergencias_prev.png",
       "url":"https://www.mep.go.cr/educatico/emergencias-prevencion",
       "ciclo": ["III"],
-      "materia":"Estudios Sociales",
-      "comentarios":"",
+      "materia":"Estudios Sociales",    
       "seccion":"otros"
    }
 

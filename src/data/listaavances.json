@@ -5,8 +5,7 @@
        "urlImg":"./assets/img/avances/ap_zombi.png",
        "url":"./assets/img/avances/descriptivo/apocalipsis.png",
        "ciclo": ["nulo"],
-       "materia":"",
-       "comentarios":"",
+       "materia":"",     
        "seccion":"avances"
     },
     
@@ -16,8 +15,7 @@
        "urlImg":"./assets/img/avances/brigad.png",
        "url":"./assets/img/avances/descriptivo/brigada.png",
        "ciclo": ["nulo"],
-       "materia":"",
-       "comentarios":"",
+       "materia":"",     
        "seccion":"avances"
     },
     {
@@ -26,8 +24,7 @@
        "urlImg":"./assets/img/avances/ed_finan.png",
        "url":"./assets/img/avances/descriptivo/financiero.png",
        "ciclo": ["nulo"],
-       "materia":"",
-       "comentarios":"",
+       "materia":"",     
        "seccion":"avances"
     },
     {
@@ -36,8 +33,7 @@
        "urlImg":"./assets/img/avances/qr_code.png",
        "url":"./assets/img/avances/descriptivo/codigos.png",
        "ciclo": ["nulo"],
-       "materia":"",
-       "comentarios":"",
+       "materia":"",     
        "seccion":"avances"
     },
 
@@ -48,8 +44,7 @@
        "urlImg":"./assets/img/avances/dicc.png",
        "url":"./assets/img/avances/descriptivo/diccionario.png",
        "ciclo": ["nulo"],
-       "materia":"",
-       "comentarios":"",
+       "materia":"",     
        "seccion":"avances"
     },
 
@@ -60,8 +55,7 @@
       "urlImg":"./assets/img/avances/iovoto.png",
       "url":"./assets/img/avances/descriptivo/iovoto.png",
       "ciclo": ["nulo"],
-      "materia":"",
-      "comentarios":"",
+      "materia":"",    
       "seccion":"avances"
    },
 
@@ -71,8 +65,7 @@
       "urlImg":"./assets/img/avances/minienciclopedias.png",
       "url":"./assets/img/avances/descriptivo/minienciclopedias.png",
       "ciclo": ["nulo"],
-      "materia":"",
-      "comentarios":"",
+      "materia":"",    
       "seccion":"avances"
    },
 
@@ -84,8 +77,7 @@
       "urlImg":"./assets/img/avances/welearn.png",
       "url":"./assets/img/avances/descriptivo/welwarn.png",
       "ciclo": ["nulo"],
-      "materia":"",
-      "comentarios":"",
+      "materia":"",    
       "seccion":"avances"
    }
 
