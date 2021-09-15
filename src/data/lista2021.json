@@ -9,7 +9,6 @@
         "url":"https://www.mep.go.cr/educatico/videoteca-aprendo-casa",
         "ciclo": ["General"],
         "materia":"General",
-        "comentarios":"",
         "seccion":"2021"
     },
 
@@ -22,7 +21,6 @@
         "url":"https://www.mep.go.cr/educatico/calendario-escolar-2021",
         "ciclo": ["General"],
         "materia":"General",
-        "comentarios":"",
         "seccion":"2021"
     },
     
@@ -34,7 +32,6 @@
         "url":"https://www.mep.go.cr/educatico/recursos-guia-undecimo-ano",
         "ciclo": ["Diversidad"],
         "materia":"Inglés",
-        "comentarios":"",
         "seccion":"2021"
     },
 
@@ -45,7 +42,6 @@
         "url":"https://www.mep.go.cr/educatico/cerebros-crecimiento",
         "ciclo": ["Diversidad","II","III"],
         "materia":"Psicología",
-        "comentarios":"",
         "seccion":"2021"
     },
 
@@ -56,7 +52,6 @@
         "url":"https://www.mep.go.cr/educatico/finanzas-personales-familiares",
         "ciclo": ["Diversidad","III"],
         "materia":"Educación para el hogar",
-        "comentarios":"",
         "seccion":"2021"
     },
 
@@ -126,30 +121,50 @@
         "seccion":"2021"
      },
 
-     
      {
-        "nombre":"Educación financiera. Cuadernos metodológicos dirigidos a la educación adulta",
-        "etiqueta":   ["ahorro","educación financiera","finanzas","gastos","adultos","tarjetas","vida finanzas","Oscar Pérez","Patricia Hernández","Luis Chacón","Mariana Molina","financiero","créditos","cuadernos","cuadernillos" ],
+        "nombre":"Cuadernos metodológicos dirigidos a la educación adulta",
+        "etiqueta":   ["ahorro","educación financiera","finanzas","gastos","adultos","tarjetas","vida finanzas","Oscar Pérez","Patricia Hernández","Luis Chacón","Marco Brenes","financiero","créditos","videoteca","videos" ],
         "urlImg":"./assets/img/2021/cuadernosMet.png",
         "url":"https://www.mep.go.cr/educatico/cuadernos-metodologicos-adultos-educacion-financiera",
-        "ciclo": ["Diversidad","III"],
+        "ciclo": ["diversificada"],
         "materia":"Educación para el Hogar",
+        "comentarios":"",
+        "seccion":"2021"
+     },
+
+     {
+        "nombre":"Matricula Preescolar-2022",
+        "etiqueta":   ["Matricula Preescolar-2022","ciclo materno infantil","Departamento de Educación de la Primera Infancia","grupo interactivo","Luis Chacón","matrícula","Ofelia Montoya","Oscar Pérez","Patricia Hernández","preescolar","reglamento","requisitos","sitio","uniforme"],
+        "urlImg":"./assets/img/2021/matricula2022.png",
+        "url":"https://www.mep.go.cr/educatico/matricula-preescolar-2022",
+        "ciclo": ["Primera Infancia"],
+        "materia":"Preescolar",
+        "comentarios":"",
+        "seccion":"2021"
+     },
+     
+     {
+        "nombre":"Mis primeros pasos en el quehacer cientifico",
+        "etiqueta":   ["feria cientifica","pensamiento cientifico","mis primeros pasos","quehacer cientifico","ciecias","metodo","método","cientifico","habilidades","Indagación" ],
+        "urlImg":"./assets/img/2021/primeros_pasos.jpg",
+        "url":"https://www.mep.go.cr/educatico/mis-primeros-pasos-quehacer-cientificos",
+        "ciclo": ["I","II"],
+        "materia":"Ciencias",
         "comentarios":"",
         "seccion":"2021"
      },
 
      
     {
-        "nombre":"Matricula Preescolar-2022",
-        "etiqueta":   ["Matricula Preescolar-2022","ciclo materno infantil","Departamento de Educación de la Primera Infancia","grupo interactivo","Luis Chacón","matrícula","Ofelia Montoya","Oscar Pérez","Patricia Hernández","preescolar","reglamento","requisitos","sitio","uniforme"],
-        "urlImg":"./assets/img/2021/matricula2022.png",
-        "url":"https://recursos.mep.go.cr/2021/matricula_preescolar2022",
-        "ciclo": ["Primera Infancia"],
-        "materia":"Preescolar",
+        "nombre":"Recorrido virtual de la antorcha",
+        "etiqueta":   ["14 de setiembre","antorcha","15 de setiembre","patriotismo","civica","independencia","recorrido virtual","la historia que seguimos escribiendo"],
+        "urlImg":"./assets/img/2021/xxx.png",
+        "url":"https://www.mep.go.cr/educatico/recorrido-virtual-antorcha",
+        "ciclo": ["I","II","III","Diversificada"],
+        "materia":"Educación civica",
         "comentarios":"",
         "seccion":"2021"
      }
-
 
 
 

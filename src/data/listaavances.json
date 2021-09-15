@@ -7,7 +7,7 @@
        "ciclo": ["nulo"],
        "materia":"",
        "comentarios":"",
-       "seccion":"1-avances"
+       "seccion":"avances"
     },
     
     {
@@ -18,7 +18,7 @@
        "ciclo": ["nulo"],
        "materia":"",
        "comentarios":"",
-       "seccion":"1-avances"
+       "seccion":"avances"
     },
     {
        "nombre":"Educación Financiera",
@@ -28,7 +28,7 @@
        "ciclo": ["nulo"],
        "materia":"",
        "comentarios":"",
-       "seccion":"1-avances"
+       "seccion":"avances"
     },
     {
        "nombre":"Recursos Códigos QR",
@@ -38,7 +38,7 @@
        "ciclo": ["nulo"],
        "materia":"",
        "comentarios":"",
-       "seccion":"1-avances"
+       "seccion":"avances"
     },
 
 
@@ -50,33 +50,11 @@
        "ciclo": ["nulo"],
        "materia":"",
        "comentarios":"",
-       "seccion":"1-avances"
+       "seccion":"avances"
     },
 
-    {
-      "nombre":"Mis primeros pasos científicos",
-      "etiqueta": ["nulo"],
-      "urlImg":"./assets/img/avances/primeros.png",
-      "url":"./assets/img/avances/descriptivo/ciencias.jpg",
-      "ciclo": ["nulo"],
-      "materia":"",
-      "comentarios":"",
-      "seccion":"1-avances"
-   },
-
-
-   {
-      "nombre":"Claves del Arte Costarricense",
-      "etiqueta": ["nulo"],
-      "urlImg":"./assets/img/avances/claves.png",
-      "url":"./assets/img/avances/descriptivo/descriptivo/claves.png",
-      "ciclo": ["nulo"],
-      "materia":"",
-      "comentarios":"",
-      "seccion":"1-avances"
-   },
-
-   {
+   
+     {
       "nombre":"IoVoto",
       "etiqueta": ["nulo"],
       "urlImg":"./assets/img/avances/iovoto.png",
@@ -84,7 +62,7 @@
       "ciclo": ["nulo"],
       "materia":"",
       "comentarios":"",
-      "seccion":"1-avances"
+      "seccion":"avances"
    },
 
    {
@@ -95,7 +73,7 @@
       "ciclo": ["nulo"],
       "materia":"",
       "comentarios":"",
-      "seccion":"1-avances"
+      "seccion":"avances"
    },
 
 
@@ -108,7 +86,7 @@
       "ciclo": ["nulo"],
       "materia":"",
       "comentarios":"",
-      "seccion":"1-avances"
+      "seccion":"avances"
    }
 
 ]
