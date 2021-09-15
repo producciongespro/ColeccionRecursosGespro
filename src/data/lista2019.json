@@ -5,8 +5,7 @@
        "urlImg":"./assets/img/2019/outils.png",
        "url":"https://www.mep.go.cr/educatico/micro-dialogues-outils-pour-classe-fle",
        "ciclo": ["I","II","III","Diversificada"],
-       "materia":"Francés",
-       "comentarios":"",
+       "materia":"Francés",     
        "seccion":"2019"
     },
     {
@@ -15,8 +14,7 @@
        "urlImg":"./assets/img/2019/leyendas_CR.png",
        "url":"https://www.mep.go.cr/educatico/leyendas-ngabere",
        "ciclo": ["II"],
-       "materia":"Interculturalidad",
-       "comentarios":"",
+       "materia":"Interculturalidad",     
        "seccion":"2019"
     },
     {
@@ -25,8 +23,7 @@
        "urlImg":"./assets/img/2019/cuenticos.png",
        "url":"https://www.mep.go.cr/educatico/cuenticos",
        "ciclo": ["I","II","III"],
-       "materia":"Español",
-       "comentarios":"",
+       "materia":"Español",     
        "seccion":"2019"
     },
     {
@@ -35,8 +32,7 @@
        "urlImg":"./assets/img/2019/vida_clips.png",
        "url":"https://www.mep.go.cr/educatico/vida-clips",
        "ciclo": ["III","Diversificada"],
-       "materia":"Religión",
-       "comentarios":"",
+       "materia":"Religión",     
        "seccion":"2019"
     },
     {
@@ -45,8 +41,7 @@
        "urlImg":"./assets/img/2019/sucesiones_patrones-63.png",
        "url":"https://www.mep.go.cr/educatico/sucesiones-patrones",
        "ciclo": ["II"],
-       "materia":"Matemáticas",
-       "comentarios":"",
+       "materia":"Matemáticas",     
        "seccion":"2019"
     },
 
@@ -61,8 +56,7 @@
        "urlImg":"./assets/img/2019/english_minibooks-97.png",
        "url":"https://www.mep.go.cr/educatico/english-mini-books-first-cycle",
        "ciclo": ["I","II"],
-       "materia":"Inglés",
-       "comentarios":"",
+       "materia":"Inglés",     
        "seccion":"2019"
     },
     {
@@ -71,8 +65,7 @@
        "urlImg":"./assets/img/2019/sitio_9no.png",
        "url":"https://www.mep.go.cr/educatico/recursos-guia-noveno-ano",
        "ciclo": ["III"],
-       "materia":"Inglés",
-       "comentarios":"",
+       "materia":"Inglés",     
        "seccion":"2019"
     },
     {
@@ -81,8 +74,7 @@
        "urlImg":"./assets/img/2019/plataforma_ed.png",
        "url":"http://www.ofertaeducativanacional.mep.go.cr/",
        "ciclo": ["I","II","III","Diversificada"],
-       "materia":"General",
-       "comentarios":"",
+       "materia":"General",     
        "seccion":"2019"
     },
     {
@@ -91,8 +83,7 @@
        "urlImg":"./assets/img/2019/orienta2.png",
        "url":"https://www.mep.go.cr/educatico/orienta2",
        "ciclo": ["III","Diversificada"],
-       "materia":"Orientación",
-       "comentarios":"",
+       "materia":"Orientación",     
        "seccion":"2019"
     },
     {
@@ -101,8 +92,7 @@
        "urlImg":"./assets/img/2019/matricula_preesc2020.png",
        "url":"https://www.mep.go.cr/educatico/matricula-preescolar-2020",
        "ciclo": ["Primera Infancia"],
-       "materia":"Preescolar",
-       "comentarios":"",
+       "materia":"Preescolar",     
        "seccion":"2019"
     },
 
@@ -116,8 +106,7 @@
        "urlImg":"./assets/img/2019/digitalres_log-102.png",
        "url":"https://www.mep.go.cr/educatico/digital-resources",
        "ciclo": ["I","II","III"],
-       "materia":"Inglés",
-       "comentarios":"",
+       "materia":"Inglés",     
        "seccion":"2019"
     },
     {
@@ -126,8 +115,7 @@
        "urlImg":"./assets/img/2019/cientec_tend2019-103.png",
        "url":"https://recursos.mep.go.cr/2019/cientec-exploratorio/",
        "ciclo": ["I","II","III","Diversificada"],
-       "materia":"General",
-       "comentarios":"",
+       "materia":"General",     
        "seccion":"2019"
     }
     

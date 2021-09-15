@@ -61,8 +61,7 @@
         "urlImg":"./assets/img/2021/asocie.jpg",
         "url":"https://www.mep.go.cr/educatico/educacion-financiera-tipo-inversion",
         "ciclo": ["Diversidad","III"],
-        "materia":"Educación para el hogar",
-        "comentarios":"",
+        "materia":"Educación para el hogar",      
         "seccion":"2021"
     },
 
@@ -72,8 +71,7 @@
         "urlImg":"./assets/img/2021/credito.jpg",
         "url":"https://www.mep.go.cr/educatico/educacion-financiera-credito",
         "ciclo": ["Diversidad","III"],
-        "materia":"Educación para el hogar",
-        "comentarios":"",
+        "materia":"Educación para el hogar",      
         "seccion":"2021"
     },
 
@@ -83,8 +81,7 @@
         "urlImg":"./assets/img/2021/liceos_rurales.jpg",
         "url":"https://www.mep.go.cr/educatico/guias-didacticas-area-productiva-liceos-rurales",
         "ciclo": ["Diversidad","III"],
-        "materia":"Educación para el hogar",
-        "comentarios":"",
+        "materia":"Educación para el hogar",      
         "seccion":"2021"
     },
 
@@ -94,8 +91,7 @@
         "urlImg":"./assets/img/2021/prevencion.jpg",
         "url":"https://www.mep.go.cr/educatico/prevencion-suicidio",
         "ciclo": ["Diversidad","III"],
-        "materia":"General",
-        "comentarios":"",
+        "materia":"General",      
         "seccion":"2021"
     },
 
@@ -105,8 +101,7 @@
         "urlImg":"./assets/img/2021/ant_team.png",
         "url":"https://www.youtube.com/embed/YKJgOIVTQIs",
         "ciclo": ["I","II"],
-        "materia":"Robótica",
-        "comentarios":"",
+        "materia":"Robótica",      
         "seccion":"2021"
     },
 
@@ -116,8 +111,7 @@
         "urlImg":"./assets/img/2021/videoteca.png",
         "url":"https://www.mep.go.cr/educatico/videoteca-educacion-financiera",
         "ciclo": ["II", "III", "diversificada"],
-        "materia":"Educación para el Hogar",
-        "comentarios":"",
+        "materia":"Educación para el Hogar",      
         "seccion":"2021"
      },
 
@@ -127,8 +121,7 @@
         "urlImg":"./assets/img/2021/cuadernosMet.png",
         "url":"https://www.mep.go.cr/educatico/cuadernos-metodologicos-adultos-educacion-financiera",
         "ciclo": ["diversificada"],
-        "materia":"Educación para el Hogar",
-        "comentarios":"",
+        "materia":"Educación para el Hogar",      
         "seccion":"2021"
      },
 
@@ -138,19 +131,17 @@
         "urlImg":"./assets/img/2021/matricula2022.png",
         "url":"https://www.mep.go.cr/educatico/matricula-preescolar-2022",
         "ciclo": ["Primera Infancia"],
-        "materia":"Preescolar",
-        "comentarios":"",
+        "materia":"Preescolar",      
         "seccion":"2021"
      },
      
      {
         "nombre":"Mis primeros pasos en el quehacer cientifico",
         "etiqueta":   ["feria cientifica","pensamiento cientifico","mis primeros pasos","quehacer cientifico","ciecias","metodo","método","cientifico","habilidades","Indagación" ],
-        "urlImg":"./assets/img/2021/primeros_pasos.jpg",
+        "urlImg":"./assets/img/2021/primeros_pasos.png",
         "url":"https://www.mep.go.cr/educatico/mis-primeros-pasos-quehacer-cientificos",
         "ciclo": ["I","II"],
-        "materia":"Ciencias",
-        "comentarios":"",
+        "materia":"Ciencias",      
         "seccion":"2021"
      },
 
@@ -158,11 +149,10 @@
     {
         "nombre":"Recorrido virtual de la antorcha",
         "etiqueta":   ["14 de setiembre","antorcha","15 de setiembre","patriotismo","civica","independencia","recorrido virtual","la historia que seguimos escribiendo"],
-        "urlImg":"./assets/img/2021/xxx.png",
+        "urlImg":"./assets/img/2021/recorrido_antorcha2021.png",
         "url":"https://www.mep.go.cr/educatico/recorrido-virtual-antorcha",
         "ciclo": ["I","II","III","Diversificada"],
-        "materia":"Educación civica",
-        "comentarios":"",
+        "materia":"Educación civica",      
         "seccion":"2021"
      }
 

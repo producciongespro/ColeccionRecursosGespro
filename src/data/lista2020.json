@@ -6,8 +6,7 @@
         "urlImg":"./assets/img/2020/covid_19.jpg",
         "url":"https://www.mep.go.cr/educatico/covid-19",
         "ciclo": ["I","II","II"],
-        "materia":"General",
-        "comentarios":"",
+        "materia":"General",      
         "seccion":"2020"
     },
 
@@ -19,8 +18,7 @@
         "urlImg":"./assets/img/2020/orientaciones.jpg",
         "url":"https://www.mep.go.cr/educatico/orientaciones-estudiantes-familia",
         "ciclo": ["General"],
-        "materia":"General",
-        "comentarios":"",
+        "materia":"General",      
         "seccion":"2020"
     },
 
@@ -31,8 +29,7 @@
         "urlImg":"./assets/img/2020/aprendo.jpg",
         "url":"https://www.mep.go.cr/educatico/aprendo-casa",
         "ciclo": ["General"],
-        "materia":"General",
-        "comentarios":"",
+        "materia":"General",      
         "seccion":"2020"
     },
 
@@ -64,8 +61,7 @@
         "urlImg":"./assets/img/2020/caja.jpg",
         "url":"https://www.mep.go.cr/educatico/caja-herramientas-docentes",
         "ciclo": ["General"],
-        "materia":"General",
-        "comentarios":"",
+        "materia":"General",      
         "seccion":"2020"
     },
     
@@ -75,8 +71,7 @@
         "urlImg":"./assets/img/2020/objetos.jpg",
         "url":"https://www.mep.go.cr/educatico/objetos-enigmaticos",
         "ciclo": ["I"],
-        "materia":"Artes Plásticas ",
-        "comentarios":"",
+        "materia":"Artes Plásticas ",      
         "seccion":"2020"
     },
     {
@@ -85,8 +80,7 @@
         "urlImg":"./assets/img/2020/natural.jpg",
         "url":"https://www.mep.go.cr/educatico/natural-treasures",
         "ciclo": ["II"],
-        "materia":"Inglés",
-        "comentarios":"",
+        "materia":"Inglés",      
         "seccion":"2020"
     },
 
@@ -96,8 +90,7 @@
         "urlImg":"./assets/img/2020/preesc21.jpg",
         "url":"https://www.mep.go.cr/educatico/matricula-preescolar-2021",
         "ciclo": ["Primera Infancia"],
-        "materia":"Preescolar",
-        "comentarios":"",
+        "materia":"Preescolar",      
         "seccion":"2020"
     },
 
@@ -107,8 +100,7 @@
         "urlImg":"./assets/img/2020/antorcha.jpg",
         "url":"https://antorchavirtual.mep.go.cr/2020/",
         "ciclo": ["General"],
-        "materia":"General",
-        "comentarios":"",
+        "materia":"General",      
         "seccion":"2020"
     },
 
@@ -131,8 +123,7 @@
         "urlImg":"./assets/img/2020/celebrations.jpg",
         "url":"https://www.mep.go.cr/educatico/family-celebrations-costa-rica-minibook",
         "ciclo": ["I"],
-        "materia":"Inglés",
-        "comentarios":"",
+        "materia":"Inglés",      
         "seccion":"2020"
     },
 
@@ -143,7 +134,6 @@
         "url":"https://www.mep.go.cr/educatico/arte-contemporaneo-universal",
         "ciclo": ["III"],
         "materia":"Artes Plásticas ",
-        "comentarios":"",
         "seccion":"2020"
     },
 
@@ -153,8 +143,7 @@
         "urlImg":"./assets/img/2020/weather.jpg",
         "url":"https://www.mep.go.cr/educatico/weather-wise",
         "ciclo": ["II"],
-        "materia":"Inglés",
-        "comentarios":"",
+        "materia":"Inglés",      
         "seccion":"2020"
     },
 
@@ -167,8 +156,7 @@
         "urlImg":"./assets/img/2020/makecode.jpg",
         "url":"https://www.mep.go.cr/educatico/makecode-arcade-microsoft",
         "ciclo": ["II","III","Diversificada"],
-        "materia":"Tecnología",
-        "comentarios":"",
+        "materia":"Tecnología",      
         "seccion":"2020"
     },
 
@@ -178,8 +166,7 @@
         "urlImg":"./assets/img/2020/decingles.jpg",
         "url":"https://www.mep.go.cr/educatico/recursos-guia-decimo-ano",
         "ciclo": ["Diversificada"],
-        "materia":"Inglés",
-        "comentarios":"",
+        "materia":"Inglés",      
         "seccion":"2020"
     },
 
@@ -200,8 +187,7 @@
         "urlImg":"./assets/img/2020/estilizacion.jpg",
         "url":"https://www.mep.go.cr/educatico/estilizacion-abstraccion-arte-moderno",
         "ciclo": ["III"],
-        "materia":"Artes Plásticas ",
-        "comentarios":"",
+        "materia":"Artes Plásticas ",      
         "seccion":"2020"
     },
 
@@ -211,8 +197,7 @@
         "urlImg":"./assets/img/2020/artes.jpg",
         "url":"https://www.mep.go.cr/educatico/sitio-artes-plasticas-iii-ciclo-educacion-diversificada",
         "ciclo": ["III","Diversificada"],
-        "materia":"Artes Plásticas ",
-        "comentarios":"",
+        "materia":"Artes Plásticas ",      
         "seccion":"2020"
     }
 

@@ -5,8 +5,7 @@
        "urlImg":"./assets/img/2018/mihistoria_herencia-01.jpg",
        "url":"https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
        "ciclo": ["I","II"],
-       "materia":"Estudios Sociales",
-       "comentarios":"",
+       "materia":"Estudios Sociales",     
        "seccion":"2018"
     },
     {
@@ -15,8 +14,7 @@
        "urlImg":"./assets/img/2018/prop_abordaje-07.jpg",
        "url":"https://www.mep.go.cr/educatico/propuesta-abordaje-ejemplos-planeamiento",
        "ciclo": ["I","II"],
-       "materia":"Estudios Sociales",
-       "comentarios":"",
+       "materia":"Estudios Sociales",     
        "seccion":"2018"
     },
     {
@@ -25,8 +23,7 @@
        "urlImg":"./assets/img/2018/aventura_chantli-10.jpg",
        "url":"https://www.mep.go.cr/educatico/mi-historia-mi-herencia",
        "ciclo": ["III","Diversificada"],
-       "materia":"Estudios Sociales",
-       "comentarios":"",
+       "materia":"Estudios Sociales",     
        "seccion":"2018"
     },
     
@@ -36,8 +33,7 @@
        "urlImg":"./assets/img/2018/viaje_porcostarica-16.jpg",
        "url":"https://www.mep.go.cr/educatico/un-viaje-costa-rica",
        "ciclo": ["II"],
-       "materia":"Español",
-       "comentarios":"",
+       "materia":"Español",     
        "seccion":"2018"
     },
 
@@ -51,8 +47,7 @@
        "urlImg":"./assets/img/2018/krei-19.jpg",
        "url":"https://www.mep.go.cr/educatico/krei",
        "ciclo": ["III","Diversificada"],
-       "materia":"Español",
-       "comentarios":"",
+       "materia":"Español",     
        "seccion":"2018"
     },
 
@@ -62,8 +57,7 @@
        "urlImg":"./assets/img/2018/portalespano-95.png",
        "url":"https://www.mep.go.cr/educatico/portal-espanol",
        "ciclo": ["I","II"],
-       "materia":"Español",
-       "comentarios":"",
+       "materia":"Español",     
        "seccion":"2018"
     },
 
@@ -73,8 +67,7 @@
        "urlImg":"./assets/img/2018/templo_milpuertas-08.jpg",
        "url":"https://www.mep.go.cr/educatico/templo-mil-puertas",
        "ciclo": ["II"],
-       "materia":"Matemática",
-       "comentarios":"",
+       "materia":"Matemática",     
        "seccion":"2018"
     },
 
@@ -84,8 +77,7 @@
        "urlImg":"./assets/img/2018/olimp_mate-05.jpg",
        "url":"https://www.mep.go.cr/educatico/olimpiadas-matematicas-cuadernillos",
        "ciclo": ["I","II"],
-       "materia":"Matemática",
-       "comentarios":"",
+       "materia":"Matemática",     
        "seccion":"2018"
     },
     {
@@ -94,8 +86,7 @@
       "urlImg":"./assets/img/2018/guia_octavo-20.jpg",
       "url":"https://www.mep.go.cr/educatico/recursos-guia-octavo-ano",
       "ciclo": ["III"],
-      "materia":"Inglés",
-      "comentarios":"",
+      "materia":"Inglés",    
       "seccion":"2018"
    },
 
@@ -105,8 +96,7 @@
        "urlImg":"./assets/img/2018/catalogo_ed-96.png",
        "url":"https://www.mep.go.cr/educatico/catalogo-educacion-abierta-alfabetizacion-matematicas",
        "ciclo": ["Educación Abierta"],
-       "materia":"Matemática",
-       "comentarios":"",
+       "materia":"Matemática",     
        "seccion":"2018"
     },
 
@@ -120,8 +110,7 @@
        "urlImg":"./assets/img/2018/elmetiche-02.jpg",
        "url":"https://www.mep.go.cr/educatico/metiche",
        "ciclo": ["Educación Diversificada"],
-       "materia":"Matemáticas",
-       "comentarios":"",
+       "materia":"Matemáticas",     
        "seccion":"2018"
     },
 
@@ -131,8 +120,7 @@
        "urlImg":"./assets/img/2018/guia_setimo-17.jpg",
        "url":"https://www.mep.go.cr/educatico/recursos-guia-setimo-ano",
        "ciclo": ["III"],
-       "materia":"Inglés",
-       "comentarios":"",
+       "materia":"Inglés",     
        "seccion":"2018"
     },
 
@@ -144,8 +132,7 @@
        "urlImg":"./assets/img/2018/exp_bilingues-03.jpg",
        "url":"https://www.mep.go.cr/educatico/liceos-experimentales-bilingues",
        "ciclo": ["III","Diversificada"],
-       "materia":"Inglés",
-       "comentarios":"",
+       "materia":"Inglés",     
        "seccion":"2018"
     },
 
@@ -155,8 +142,7 @@
        "urlImg":"./assets/img/2018/guia_primaria-09.jpg",
        "url":"https://www.mep.go.cr/educatico/recursos-guia-primaria",
        "ciclo": ["I","II"],
-       "materia":"Inglés",
-       "comentarios":"",
+       "materia":"Inglés",     
        "seccion":"2018"
     },
  
@@ -169,8 +155,7 @@
        "urlImg":"./assets/img/2018/flora_fauna-06.jpg",
        "url":"https://www.mep.go.cr/educatico/flora-and-fauna-costa-rica",
        "ciclo": ["I","II"],
-       "materia":"Inglés",
-       "comentarios":"",
+       "materia":"Inglés",     
        "seccion":"2018"
     },  
 
@@ -180,8 +165,7 @@
        "urlImg":"./assets/img/2018/holidays_festivals-12.jpg",
        "url":"https://www.mep.go.cr/educatico/holidays-around-world",
        "ciclo": ["III","Diversificada"],
-       "materia":"Inglés",
-       "comentarios":"",
+       "materia":"Inglés",     
        "seccion":"2018"
     },
     {
@@ -190,8 +174,7 @@
        "urlImg":"./assets/img/2018/costarica_puravida-15.jpg",
        "url":"https://www.mep.go.cr/educatico/costa-rica-pura-vida-many-ways",
        "ciclo": ["I","Diversificada"],
-       "materia":"Inglés",
-       "comentarios":"",
+       "materia":"Inglés",     
        "seccion":"2018"
     },
     {
@@ -200,8 +183,7 @@
        "urlImg":"./assets/img/2018/verbs_fair-18.jpg",
        "url":"https://www.mep.go.cr/educatico/verbs-fair",
        "ciclo": ["I","II","III","Diversificada"],
-       "materia":"Inglés",
-       "comentarios":"",
+       "materia":"Inglés",     
        "seccion":"2018"
     },
     {
@@ -210,8 +192,7 @@
        "urlImg":"./assets/img/2018/follome-04.jpg",
        "url":"https://www.mep.go.cr/educatico/follow-me",
        "ciclo": ["I","II"],
-       "materia":"Inglés",
-       "comentarios":"",
+       "materia":"Inglés",     
        "seccion":"2018"
     },
 
@@ -224,8 +205,7 @@
        "urlImg":"./assets/img/2018/proc_evaluacion-11.jpg",
        "url":"https://www.mep.go.cr/educatico/orientaciones-procesos-evaluacion-aprendizajes",
        "ciclo": ["General"],
-       "materia":"General",
-       "comentarios":"",
+       "materia":"General",     
        "seccion":"2018"
     },
     {
@@ -234,8 +214,7 @@
        "urlImg":"./assets/img/2018/pract_bachi-14.jpg",
        "url":"https://www.mep.go.cr/educatico/practicas-bachillerato-tu-medida-2",
        "ciclo": ["III","Diversificada"],
-       "materia":"General",
-       "comentarios":"",
+       "materia":"General",     
        "seccion":"2018"
     },
 
@@ -245,8 +224,7 @@
        "urlImg":"./assets/img/2018/piensa_enarte-21.jpg",
        "url":"https://www.mep.go.cr/educatico/sitio-piensa-arte-espanol",
        "ciclo": ["II","II"],
-       "materia":"Español",
-       "comentarios":"",
+       "materia":"Español",     
        "seccion":"2018"
     }
 

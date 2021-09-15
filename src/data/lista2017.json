@@ -5,8 +5,7 @@
         "urlImg":"./assets/img/2017/leMarche-23.png",
         "url":"https://www.mep.go.cr/educatico/le-marche-aux-verbes",
         "ciclo": ["I","II","III","Diversificada"],
-        "materia":"Francés",
-        "comentarios":"",
+        "materia":"Francés",      
         "seccion":"2017"
     },
     {
@@ -15,8 +14,7 @@
         "urlImg":"./assets/img/2017/matchVerbal-24.png",
         "url":"https://www.mep.go.cr/educatico/match-verbal",
         "ciclo": ["I","II","III","Diversificada"],
-        "materia":"Francés",
-        "comentarios":"",
+        "materia":"Francés",      
         "seccion":"2017"
     },
     {
@@ -25,8 +23,7 @@
         "urlImg":"./assets/img/2017/leyendascr.png",
         "url":"https://www.mep.go.cr/educatico/leyendas-de-costa-rica",
         "ciclo": ["II"],
-        "materia":"Español",
-        "comentarios":"",
+        "materia":"Español",      
         "seccion":"2017"
     },
     {
@@ -35,8 +32,7 @@
         "urlImg":"./assets/img/2017/rocking_verbs.png",
         "url":"https://www.mep.go.cr/educatico/rocking-verbs",
         "ciclo": ["III"],
-        "materia":"Inglés",
-        "comentarios":"",
+        "materia":"Inglés",      
         "seccion":"2017"
     },
     {
@@ -45,8 +41,7 @@
         "urlImg":"./assets/img/2017/kahoot!.png",
         "url":"https://www.mep.go.cr/educatico/kahoot",
         "ciclo": ["General"],
-        "materia":"Tecnología",
-        "comentarios":"",
+        "materia":"Tecnología",      
         "seccion":"2017"
     },
 
@@ -57,8 +52,7 @@
         "urlImg":"./assets/img/2017/plickers.png",
         "url":"https://www.mep.go.cr/educatico/plickers",
         "ciclo": ["General"],
-        "materia":"Tecnología",
-        "comentarios":"",
+        "materia":"Tecnología",      
         "seccion":"2017"
     },
     {
@@ -67,8 +61,7 @@
         "urlImg":"./assets/img/2017/galeria_foto.png",
         "url":"https://www.mep.go.cr/educatico/galeria",
         "ciclo": ["General"],
-        "materia":"General",
-        "comentarios":"",
+        "materia":"General",      
         "seccion":"2017"
     }
 
