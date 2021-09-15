@@ -7,7 +7,7 @@
        "ciclo": ["III","Diversificada"],
        "materia":"Estudios Sociales",
        "comentarios":"",
-       "seccion":"1-anteriores"
+       "seccion":"anteriores"
     },
     {
        "nombre":"Regiones socieconómicas de Costa Rica",
@@ -17,7 +17,7 @@
        "ciclo": ["III"],
        "materia":"Estudios Sociales",
        "comentarios":"",
-       "seccion":"1-anteriores"
+       "seccion":"anteriores"
     },
     {
        "nombre":"Clima y tiempo atmosférico",
@@ -27,7 +27,7 @@
        "ciclo": ["Diversificada"],
        "materia":"Estudios Sociales",
        "comentarios":"",
-       "seccion":"1-anteriores"
+       "seccion":"anteriores"
     },
     {
        "nombre":"Tesoros del Museo Nacional",
@@ -37,7 +37,7 @@
        "ciclo": ["I","II","III","Diversificada"],
        "materia":"Artes Plásticas",
        "comentarios":"",
-       "seccion":"1-anteriores"
+       "seccion":"anteriores"
     },
     {
        "nombre":"Las Artes Plásticas",
@@ -47,7 +47,7 @@
        "ciclo": ["I","II"],
        "materia":"Artes Plásticas",
        "comentarios":"",
-       "seccion":"1-anteriores"
+       "seccion":"anteriores"
     },
 
 
@@ -70,7 +70,7 @@
        "ciclo": ["I","II"],
        "materia":"Artes Plásticas",
        "comentarios":"",
-       "seccion":"2-anteriores"
+       "seccion":"anteriores"
     },
 
     {
@@ -81,7 +81,7 @@
        "ciclo": ["II","Diversificada"],
        "materia":"",
        "comentarios":"Biologia",
-       "seccion":"2-anteriores"
+       "seccion":"anteriores"
     },
 
     {
@@ -92,7 +92,7 @@
        "ciclo": ["II"],
        "materia":"Ciencias",
        "comentarios":"",
-       "seccion":"2-anteriores"
+       "seccion":"anteriores"
     },
 
     {
@@ -103,7 +103,7 @@
        "ciclo": ["II","III"],
        "materia":"Ciencias",
        "comentarios":"",
-       "seccion":"2-anteriores"
+       "seccion":"anteriores"
     },
 
     {
@@ -114,7 +114,7 @@
        "ciclo": ["III"],
        "materia":"Ciencias",
        "comentarios":"",
-       "seccion":"2-anteriores"
+       "seccion":"anteriores"
     },
 
 
@@ -143,7 +143,7 @@
        "ciclo": ["Diversificada"],
        "materia":"Español",
        "comentarios":"",
-       "seccion":"3-anteriores"
+       "seccion":"anteriores"
     },
 
     {
@@ -154,7 +154,7 @@
        "ciclo": ["I"],
        "materia":"Español",
        "comentarios":"",
-       "seccion":"3-anteriores"
+       "seccion":"anteriores"
     },
 
     {
@@ -165,7 +165,7 @@
        "ciclo": ["III","Diversificada"],
        "materia":"Español",
        "comentarios":"",
-       "seccion":"3-anteriores"
+       "seccion":"anteriores"
     },
   
     {
@@ -176,7 +176,7 @@
        "ciclo": ["Educación Abierta"],
        "materia":"Matemática",
        "comentarios":"",
-       "seccion":"3-anteriores"
+       "seccion":"anteriores"
     },
 
         {
@@ -187,7 +187,7 @@
            "ciclo": ["Educación Abierta"],
            "materia":"Matemática",
            "comentarios":"",
-           "seccion":"3-anteriores"
+           "seccion":"anteriores"
     },
  
 
@@ -214,7 +214,7 @@
        "ciclo": ["Educación Abierta"],
        "materia":"Matemática",
        "comentarios":"",
-       "seccion":"4-anteriores"
+       "seccion":"anteriores"
     },  
 
     {
@@ -225,7 +225,7 @@
        "ciclo": ["I","II","III","Diversificada"],
        "materia":"Matemática",
        "comentarios":"",
-       "seccion":"4-anteriores"
+       "seccion":"anteriores"
     },
     {
        "nombre":"Mate´N´Roll",
@@ -235,7 +235,7 @@
        "ciclo": ["II"],
        "materia":"Matemática",
        "comentarios":"",
-       "seccion":"4-anteriores"
+       "seccion":"anteriores"
     },
     {
        "nombre":"Juego Enteros",
@@ -245,7 +245,7 @@
        "ciclo": ["II"],
        "materia":"Matemática",
        "comentarios":"",
-       "seccion":"4-anteriores"
+       "seccion":"anteriores"
     },
     {
        "nombre":"Web tools´gallery",
@@ -255,7 +255,7 @@
        "ciclo": ["III","Diversificada"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"4-anteriores"
+       "seccion":"anteriores"
     },
 
 
@@ -273,7 +273,7 @@
        "ciclo": ["General"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"5-anteriores"
+       "seccion":"anteriores"
     },
    
 
@@ -285,7 +285,7 @@
        "ciclo": ["III","Diversificada"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"5-anteriores"
+       "seccion":"anteriores"
     },
     {
        "nombre":"My Community",
@@ -295,7 +295,7 @@
        "ciclo": ["II"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"5-anteriores"
+       "seccion":"anteriores"
     },
     {
        "nombre":"Clothes",
@@ -305,7 +305,7 @@
        "ciclo": ["II"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"5-anteriores"
+       "seccion":"anteriores"
     },
    
 
@@ -323,7 +323,7 @@
        "ciclo": ["II"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"6-anteriores"
+       "seccion":"anteriores"
     },
     {
        "nombre":"Prepositions of place",
@@ -333,7 +333,7 @@
        "ciclo": ["II"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"6-anteriores"
+       "seccion":"anteriores"
     },
 
     {
@@ -344,7 +344,7 @@
        "ciclo": ["II"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"6-anteriores"
+       "seccion":"anteriores"
     },
     {
        "nombre":"Numbers 1 to 20",
@@ -354,7 +354,7 @@
        "ciclo": ["II"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"6-anteriores"
+       "seccion":"anteriores"
     },
     {
        "nombre":"Feelings",
@@ -364,7 +364,7 @@
        "ciclo": ["II"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"6-anteriores"
+       "seccion":"anteriores"
     },
 
 
@@ -381,7 +381,7 @@
        "ciclo": ["II"],
        "materia":"Inglés",
        "comentarios":"",
-       "seccion":"7-anteriores"
+       "seccion":"anteriores"
     },
     {
        "nombre":"Himnos Patrios de Costa Rica",
@@ -391,7 +391,7 @@
        "ciclo": ["I","II","III","Diversificada"],
        "materia":"Música",
        "comentarios":"",
-       "seccion":"7-anteriores"
+       "seccion":"anteriores"
     },
 
     {
@@ -402,7 +402,7 @@
        "ciclo": ["III"],
        "materia":"General",
        "comentarios":"",
-       "seccion":"7-anteriores"
+       "seccion":"anteriores"
     }
    
 

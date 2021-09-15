@@ -7,7 +7,7 @@
       "ciclo": ["I"],
       "materia":"Matemática",
       "comentarios":"",
-      "seccion":"1-otros"
+      "seccion":"otros"
    },
 
     {
@@ -18,7 +18,7 @@
       "ciclo": ["I"],
       "materia":"Matemática",
       "comentarios":"",
-      "seccion":"1-otros"
+      "seccion":"otros"
    },
      
     
@@ -30,7 +30,7 @@
        "ciclo": ["II"],
        "materia":"Ciencias",
        "comentarios":"",
-       "seccion":"1-otros"
+       "seccion":"otros"
     },
     {
        "nombre":"Diseñe una figura humana",
@@ -40,7 +40,7 @@
        "ciclo": ["II"],
        "materia":"Ciencias",
        "comentarios":"",
-       "seccion":"1-otros"
+       "seccion":"otros"
     },
     {
       "nombre":"De vuelta a nuestro pasado",
@@ -50,7 +50,7 @@
       "ciclo": ["II"],
       "materia":"Educación Cívica",
       "comentarios":"",
-      "seccion":"1-otros"
+      "seccion":"otros"
    },
 
 
@@ -65,7 +65,7 @@
        "ciclo": ["I"],
        "materia":"Ciencias",
        "comentarios":"",
-       "seccion":"2-otros"
+       "seccion":"otros"
     },
 
     {
@@ -76,7 +76,7 @@
        "ciclo": ["I"],
        "materia":"Ciencias",
        "comentarios":"",
-       "seccion":"2-otros"
+       "seccion":"otros"
     },
 
     {
@@ -87,7 +87,7 @@
        "ciclo": ["I"],
        "materia":"Ciencias",
        "comentarios":"",
-       "seccion":"2-otros"
+       "seccion":"otros"
     },
 
     {
@@ -98,7 +98,7 @@
        "ciclo": ["II","II"],
        "materia":"Ciencias",
        "comentarios":"",
-       "seccion":"2-otros"
+       "seccion":"otros"
     },
 
     {
@@ -109,7 +109,7 @@
        "ciclo": ["II"],
        "materia":"Educación Cívica",
        "comentarios":"",
-       "seccion":"2-otros"
+       "seccion":"otros"
     },
 
 
@@ -124,7 +124,7 @@
        "ciclo": ["I"],
        "materia":"Educación Cívica",
        "comentarios":"",
-       "seccion":"3-otros"
+       "seccion":"otros"
     },
 
     {
@@ -135,7 +135,7 @@
        "ciclo": ["I"],
        "materia":"Educación Cívica",
        "comentarios":"",
-       "seccion":"3-otros"
+       "seccion":"otros"
     },
 
     {
@@ -146,7 +146,7 @@
        "ciclo": ["II"],
        "materia":"Educación Cívica",
        "comentarios":"",
-       "seccion":"3-otros"
+       "seccion":"otros"
     },
   
     {
@@ -157,7 +157,7 @@
        "ciclo": ["I"],
        "materia":"Educación Cívica",
        "comentarios":"",
-       "seccion":"3-otros"
+       "seccion":"otros"
     },
 
 
@@ -169,7 +169,7 @@
       "ciclo": ["II"],
       "materia":"Ciencias",
       "comentarios":"",
-      "seccion":"3-otros"
+      "seccion":"otros"
    },
 
      
@@ -185,7 +185,7 @@
        "ciclo": ["Diversificada"],
        "materia":"Educación Cívica",
        "comentarios":"",
-       "seccion":"4-otros"
+       "seccion":"otros"
     },  
 
     {
@@ -196,7 +196,7 @@
        "ciclo": ["Diversificada"],
        "materia":"Educación Cívica",
        "comentarios":"",
-       "seccion":"4-otros"
+       "seccion":"otros"
     },
     {
        "nombre":"Danny El Geko Moreno",
@@ -206,7 +206,7 @@
        "ciclo": ["III, Diversificada"],
        "materia":"Educación Cívica",
        "comentarios":"",
-       "seccion":"4-otros"
+       "seccion":"otros"
     },
     {
        "nombre":"Misión 35C",
@@ -216,7 +216,7 @@
        "ciclo": ["II","III"],
        "materia":"Español",
        "comentarios":"",
-       "seccion":"4-otros"
+       "seccion":"otros"
     },
     {
        "nombre":"Lógica en Español",
@@ -226,7 +226,7 @@
        "ciclo": ["III","Diversificada"],
        "materia":"Español",
        "comentarios":"",
-       "seccion":"4-otros"
+       "seccion":"otros"
     },
 
 
@@ -243,7 +243,7 @@
        "ciclo": ["III"],
        "materia":"Educación para el hogar",
        "comentarios":"",
-       "seccion":"5-otros"
+       "seccion":"otros"
     },
      {
        "nombre":"Comunicación efectiva",
@@ -253,7 +253,7 @@
        "ciclo": ["I","II","III","Diversificada"],
        "materia":"Psicología",
        "comentarios":"",
-       "seccion":"5-otros"
+       "seccion":"otros"
     },
     {
        "nombre":"Toma de decisiones",
@@ -263,7 +263,7 @@
        "ciclo": ["I","II","III","Diversificada"],
        "materia":"Psicología",
        "comentarios":"",
-       "seccion":"5-otros"
+       "seccion":"otros"
     },
     {
        "nombre":"Midiendo mi ciudad",
@@ -273,7 +273,7 @@
        "ciclo": ["II"],
        "materia":"Matemática",
        "comentarios":"",
-       "seccion":"5-otros"
+       "seccion":"otros"
     },
     {
        "nombre":"Rompecabezas",
@@ -283,7 +283,7 @@
        "ciclo": ["II"],
        "materia":"Matemática",
        "comentarios":"",
-       "seccion":"5-otros"
+       "seccion":"otros"
     },
 
 
@@ -300,7 +300,7 @@
        "ciclo": ["II"],
        "materia":"Matemática",
        "comentarios":"",
-       "seccion":"6-otros"
+       "seccion":"otros"
     },
     {
        "nombre":"Interpretando datos",
@@ -310,7 +310,7 @@
        "ciclo": ["I"],
        "materia":"Matemática",
        "comentarios":"",
-       "seccion":"6-otros"
+       "seccion":"otros"
     },
     {
       "nombre":"Carretica Cuentera",
@@ -320,7 +320,7 @@
       "ciclo": ["I","II"],
       "materia":"Educación para el hogar",
       "comentarios":"",
-      "seccion":"6-otros"
+      "seccion":"otros"
    },
    
     
@@ -334,7 +334,7 @@
       "ciclo": ["III"],
       "materia":"Estudios Sociales",
       "comentarios":"",
-      "seccion":"6-otros"
+      "seccion":"otros"
    }
 
 ]
