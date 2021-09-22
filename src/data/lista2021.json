@@ -154,6 +154,16 @@
         "ciclo": ["I","II","III","Diversificada"],
         "materia":"Educación civica",      
         "seccion":"2021"
+     },
+
+     {
+        "nombre":"Sitio Web Comisión de Educación financiera",
+        "etiqueta":   ["ahorro","educación financiera","finanzas","gastos","adultos","tarjetas","vida finanzas","Oscar Pérez","Patricia Hernández","Luis Chacón","Marco Brenes","financiero","créditos","videoteca","videos" ],
+        "urlImg":"./assets/img/2021/edfinanciera.jpg",
+        "url":"https://recursos.mep.go.cr/2021/educacion_financiera_sitiow/",
+        "ciclo": ["I","II","III","Diversificada"],
+        "materia":"Educación para el Hogar",      
+        "seccion":"2021"
      }
 
 
