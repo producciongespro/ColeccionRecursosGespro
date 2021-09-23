@@ -3,7 +3,7 @@
       "nombre":"Aprendo Pura Vida",
       "etiqueta": ["nulo"],
       "urlImg":"./assets/img/avances/puravida.png",
-      "url":"./assets/img/avances/descriptivo/xx.png",
+      "url":"./assets/img/avances/descriptivo/puravida.jpg",
       "ciclo": ["nulo"],
       "materia":"",     
       "seccion":"avances"
@@ -12,7 +12,7 @@
       "nombre":"Mi cuento Fantástico",
       "etiqueta": ["nulo"],
       "urlImg":"./assets/img/avances/cuentosF.png",
-      "url":"./assets/img/avances/descriptivo/xx.png",
+      "url":"./assets/img/avances/descriptivo/fantastico.jpg",
       "ciclo": ["nulo"],
       "materia":"",     
       "seccion":"avances"
@@ -22,7 +22,7 @@
       "nombre":"Cuentos de mi tía Panchita",
       "etiqueta": ["nulo"],
       "urlImg":"./assets/img/avances/cuentos.png",
-      "url":"./assets/img/avances/descriptivo/xx.png",
+      "url":"./assets/img/avances/descriptivo/panchita.jpg",
       "ciclo": ["nulo"],
       "materia":"",     
       "seccion":"avances"
@@ -32,7 +32,7 @@
       "nombre":"Infografia de Pueblos Indigenas",
       "etiqueta": ["nulo"],
       "urlImg":"./assets/img/avances/regiones.png",
-      "url":"./assets/img/avances/descriptivo/xx.png",
+      "url":"./assets/img/avances/descriptivo/infografias.jpg",
       "ciclo": ["nulo"],
       "materia":"",     
       "seccion":"avances"
@@ -42,7 +42,7 @@
       "nombre":"Catálogo de diseño gráfico GESPRO",
       "etiqueta": ["nulo"],
       "urlImg":"./assets/img/avances/catalogo.png",
-      "url":"./assets/img/avances/descriptivo/xx.png",
+      "url":"./assets/img/avances/descriptivo/diseno.jpg",
       "ciclo": ["nulo"],
       "materia":"",     
       "seccion":"avances"
@@ -51,7 +51,7 @@
       "nombre":"Flautaoke",
       "etiqueta": ["nulo"],
       "urlImg":"./assets/img/avances/flautaoke.png",
-      "url":"./assets/img/avances/descriptivo/xx.png",
+      "url":"./assets/img/avances/descriptivo/flautaoke.jpg",
       "ciclo": ["nulo"],
       "materia":"",     
       "seccion":"avances"
