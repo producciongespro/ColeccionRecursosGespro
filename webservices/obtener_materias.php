@@ -1,10 +1,9 @@
 <?php
 header('Access-Control-Allow-Origin: *');
 header("Access-Control-Allow-Headers: X-API-KEY, Origin, X-Requested-With, Content-Type, Accept, Access-Control-Request-Method");
-// header("Content-Type: text/html; charset=utf-8");
-header("Content-type: application/json; charset=utf-8");
+header("Content-Type: text/html; charset=utf-8");
 $method = $_SERVER['REQUEST_METHOD'];
-$sql= "SELECT recursos.id, recursos.nombre, recursos.etiqueta, recursos.urlImg, recursos.url, recursos.ciclo, asignaturas.nombre AS materia, asignaturas.id AS id_materia, recursos.seccion, secciones.nombre AS seccion, secciones.id AS id_seccion FROM recursos LEFT JOIN secciones ON recursos.seccion = secciones.id LEFT JOIN asignaturas ON recursos.materia = asignaturas.id WHERE recursos.borrado = 0 ORDER BY recursos.id DESC";
+$sql= "SELECT * FROM asignaturas ORDER BY id ASC";
 include "conectar.php";
 sleep(1);
 function desconectar($conexion){
@@ -14,7 +13,7 @@ function desconectar($conexion){
         if($close){
             echo '';
         }else{
-            echo 'Ha sucedido un error inexperado en la conexi¨®n de la base de datos
+            echo 'Ha sucedido un error inexperado en la conexiè´¸n de la base de datos
 ';
         }
 
@@ -29,7 +28,7 @@ function obtenerArreglo($sql){
 
         mysqli_set_charset($conexion, "utf8"); //formato de datos utf8
 
-    if(!$resultado = mysqli_query($conexion, $sql)) die(); //si la conexiÃ³n cancelar programa
+    if(!$resultado = mysqli_query($conexion, $sql)) die(); //si la conexiè´¸n cancelar programa
 
     $arreglo = array(); //creamos un array
 
@@ -48,6 +47,6 @@ function obtenerArreglo($sql){
 }
 
         $r = obtenerArreglo($sql);
-        echo json_encode($r, JSON_UNESCAPED_SLASHES);
+        echo json_encode($r);
 
 ?>
