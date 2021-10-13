@@ -1,54 +1,52 @@
 [
+   {
+      "nombre":"La lista de los mandados",
+      "etiqueta":   ["La lista de los mandados","cuerpos sólidos","esfera","geometría","prismas","triángulo"],
+      "urlImg":"./assets/img/otros/lista_mandados.png",
+      "url":"https://www.mep.go.cr/educatico/lista-mandados",
+      "ciclo": ["I"],
+      "materia":"Matemática",    
+      "seccion":"otros"
+   },
+
     {
-       "nombre":"Parque de la Energía",
-       "etiqueta": ["factores climatológicos","fuentes de energía","historia","ICE","impacto ambiental","Instituto Costarricense de Electricidad","juegos","potencial de los recuros energéticos","producción y transporte de energía","suministro de energía","transformación"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/parque_energia.png",
-       "url":"https://www.mep.go.cr/educatico/parque-energia",
-       "ciclo": ["I","II"],
-       "materia":"Estudios Sociales",
-       "comentarios":"",
-       "seccion":"1-otros"
-    },
-    {
-       "nombre":"Emergencias y Prevención de Riesgos",
-       "etiqueta":   ["Emergencias y Prevención de Riesgos","antes","brunca","central","chorotega","Costa Rica","deforestación","después","durante","huetar atlántica","huetar norte","incendios forestales","inundaciones","pacífico central","prevención","regiones socieconómicas","sequía","sismos","terremotos","tormentas"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/emergencias_prev.png",
-       "url":"https://www.mep.go.cr/educatico/emergencias-prevencion",
-       "ciclo": ["III"],
-       "materia":"Estudios Sociales",
-       "comentarios":"",
-       "seccion":"1-otros"
-    },
-    {
-       "nombre":"El cuerpo humano",
-       "etiqueta": ["El cuerpo humano","circulatorio","cuerpo","cuidado","digestivo","endocrino","esquelético","muscular","nervioso y reproductor","renal","respiratorio","sistemas"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/cuerpo_humano.png",
-       "url":"https://www.mep.go.cr/educatico/cuerpo-humano",
-       "ciclo": ["II"],
-       "materia":"Ciencias",
-       "comentarios":"",
-       "seccion":"1-otros"
-    },
+      "nombre":"Trazando el cuerpo humano",
+      "etiqueta":   ["Trazando el cuerpo humano","borde","exterior","figuras","geometría","interior","líneas curvas","líneas mixtas","líneas quebradas","líneas rectas"],
+      "urlImg":"./assets/img/otros/trazando_cuerpo.png",
+      "url":"https://www.mep.go.cr/educatico/trazando-cuerpo-humano",
+      "ciclo": ["I"],
+      "materia":"Matemática",    
+      "seccion":"otros"
+   },
+     
+    
     {
        "nombre":"¿Sexo? ¿Sexualidad?",
        "etiqueta":   ["Sexo Sexualidad","cuerpo","factores","pubertad","sexo","sexualidad"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/sexo_sexualidad.png",
+       "urlImg":"./assets/img/otros/sexo_sexualidad.png",
        "url":"https://www.mep.go.cr/educatico/sexo-sexualidad",
        "ciclo": ["II"],
-       "materia":"Ciencias",
-       "comentarios":"",
-       "seccion":"1-otros"
+       "materia":"Ciencias",     
+       "seccion":"otros"
     },
     {
        "nombre":"Diseñe una figura humana",
        "etiqueta": ["Diseñe una figura humana","cuerpo","figura humana","integridad humana"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/disene-figura-humana.png",
+       "urlImg":"./assets/img/otros/disene-figura-humana.png",
        "url":"https://www.mep.go.cr/educatico/disene-figura-humana",
        "ciclo": ["II"],
-       "materia":"Ciencias",
-       "comentarios":"",
-       "seccion":"1-otros"
+       "materia":"Ciencias",     
+       "seccion":"otros"
     },
+    {
+      "nombre":"De vuelta a nuestro pasado",
+      "etiqueta": ["De vuelta a nuestro pasado","colonia","Costa Rica","deberes","derechos","españoles","hombres","igualdad","indígenas","mujeres"],
+      "urlImg":"./assets/img/otros/vuelta_pasado.png",
+      "url":"https://www.mep.go.cr/educatico/vuelta-nuestro-pasado",
+      "ciclo": ["II"],
+      "materia":"Educación Cívica",    
+      "seccion":"otros"
+   },
 
 
 
@@ -57,56 +55,51 @@
     {
        "nombre":"Diseñemos un menú",
        "etiqueta": ["Diseñemos un menú","alimentos","consumo","cuerpo","dieta balanceada","menú","salud","valor nutritivo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/disene-menu.png",
+       "urlImg":"./assets/img/otros/disene-menu.png",
        "url":"https://www.mep.go.cr/educatico/disenemos-menu",
        "ciclo": ["I"],
-       "materia":"Ciencias",
-       "comentarios":"",
-       "seccion":"2-otros"
+       "materia":"Ciencias",     
+       "seccion":"otros"
     },
 
     {
        "nombre":"¿Dónde vamos? ¿Qué es salud?",
        "etiqueta": ["¿Dónde vamos? ¿Qué es salud?","comunidad","escuela","familia","importancia salud","relaciones humanas"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/donde-vamos.png",
+       "urlImg":"./assets/img/otros/donde-vamos.png",
        "url":"https://www.mep.go.cr/educatico/donde-vamos-que-es-salud",
        "ciclo": ["I"],
-       "materia":"Ciencias",
-       "comentarios":"",
-       "seccion":"2-otros"
+       "materia":"Ciencias",     
+       "seccion":"otros"
     },
 
     {
        "nombre":"Arme la figura humana",
        "etiqueta": ["Arme la figura humana","características","cuerpo humano","forma","identidad","locomoción","posición"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/arme_figura.png",
+       "urlImg":"./assets/img/otros/arme_figura.png",
        "url":"https://www.mep.go.cr/educatico/arme-figura-humana",
        "ciclo": ["I"],
-       "materia":"Ciencias",
-       "comentarios":"",
-       "seccion":"2-otros"
+       "materia":"Ciencias",     
+       "seccion":"otros"
     },
 
     {
        "nombre":"Desafío PJ verde",
        "etiqueta": ["Desafío PJ verde","agua limpia","ahorro","desechos","energía","gestión ambiental","poder judicial","reciclaje","regeneración ambiental"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/desafio_PJverde.png",
+       "urlImg":"./assets/img/otros/desafio_PJverde.png",
        "url":"https://www.mep.go.cr/educatico/desafio-pj-verde",
        "ciclo": ["II","II"],
-       "materia":"Ciencias",
-       "comentarios":"",
-       "seccion":"2-otros"
+       "materia":"Ciencias",     
+       "seccion":"otros"
     },
 
     {
        "nombre":"Los pares perdidos",
        "etiqueta": ["Los pares perdidos","Defensoría de los Habitantes","derechos","EBAIS","IMAS","juegos","memoria","MEP","PANI","protección"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/pares_perdidos.png",
+       "urlImg":"./assets/img/otros/pares_perdidos.png",
        "url":"https://www.mep.go.cr/educatico/pares-perdidos",
        "ciclo": ["II"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
-       "seccion":"2-otros"
+       "materia":"Educación Cívica",     
+       "seccion":"otros"
     },
 
 
@@ -116,57 +109,55 @@
     {
        "nombre":"Lo que se produce en Costa Rica",
        "etiqueta": ["Lo que se produce en Costa Rica","Alajuela","Cartago","comidas","Costa Rica","cultivos","Guanacaste","Heredia","Limón","platos típicos","Puntarenas","San José"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/LoqueseProduceenCR.png",
+       "urlImg":"./assets/img/otros/LoqueseProduceenCR.png",
        "url":"https://www.mep.go.cr/educatico/produce-costa-rica",
        "ciclo": ["I"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
-       "seccion":"3-otros"
+       "materia":"Educación Cívica",     
+       "seccion":"otros"
     },
 
     {
        "nombre":"Rechazo al matonismo o bullying",
        "etiqueta": ["Rechazo al matonismo o bullying","acoso","bullying","cómic","escuela segura","matón","matonismo","prevención"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/rechazo-matonismo.png",
+       "urlImg":"./assets/img/otros/rechazo-matonismo.png",
        "url":"https://www.mep.go.cr/educatico/rechazo-matonismo-bullying",
        "ciclo": ["I"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
-       "seccion":"3-otros"
+       "materia":"Educación Cívica",     
+       "seccion":"otros"
     },
 
     {
        "nombre":"En la vía pública",
        "etiqueta": ["En la vía pública","comportamiento","conductor","desempeño","pasajero","peatón","reglas","riesgos potenciales","seguridad vial","simulación","vía pública"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/viapublica.png",
+       "urlImg":"./assets/img/otros/viapublica.png",
        "url":"https://www.mep.go.cr/educatico/publica",
        "ciclo": ["II"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
-       "seccion":"3-otros"
+       "materia":"Educación Cívica",     
+       "seccion":"otros"
     },
   
     {
        "nombre":"¿Dónde estoy, hacia adónde voy?",
        "etiqueta": ["¿Dónde estoy"," hacia adónde voy?","comunidad","croquis","puntos cardinales","seguridad vial","simbología"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/donde-estoy.png",
+       "urlImg":"./assets/img/otros/donde-estoy.png",
        "url":"https://www.mep.go.cr/educatico/donde-estoy-adonde-voy",
        "ciclo": ["I"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
-       "seccion":"3-otros"
+       "materia":"Educación Cívica",     
+       "seccion":"otros"
     },
 
-        {
-       "nombre":"De vuelta a nuestro pasado",
-       "etiqueta": ["De vuelta a nuestro pasado","colonia","Costa Rica","deberes","derechos","españoles","hombres","igualdad","indígenas","mujeres"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/vuelta_pasado.png",
-       "url":"https://www.mep.go.cr/educatico/vuelta-nuestro-pasado",
-       "ciclo": ["II"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
-       "seccion":"3-otros"
-    },
+
+   {
+      "nombre":"El cuerpo humano",
+      "etiqueta": ["El cuerpo humano","circulatorio","cuerpo","cuidado","digestivo","endocrino","esquelético","muscular","nervioso y reproductor","renal","respiratorio","sistemas"],
+      "urlImg":"./assets/img/otros/cuerpo_humano.png",
+      "url":"https://www.mep.go.cr/educatico/cuerpo-humano",
+      "ciclo": ["II"],
+      "materia":"Ciencias",    
+      "seccion":"otros"
+   },
+
+     
  
 
 
@@ -174,53 +165,48 @@
     {
        "nombre":"Justicia en acción",
        "etiqueta": ["justicia","AECID","amparo","CONAMAJ","Corte Suprema de Justicia","Costa Rica","delito","poderes","Hábeas Corpus","incostitucionalidad","leyes","magistrado","MIDEPLAN","poder ejecutivo","poder judicial","poder legislativo","requisitos"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/justicia-accion.png",
+       "urlImg":"./assets/img/otros/justicia-accion.png",
        "url":"https://www.mep.go.cr/educatico/justicia-accion",
        "ciclo": ["Diversificada"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
-       "seccion":"4-otros"
+       "materia":"Educación Cívica",     
+       "seccion":"otros"
     },  
 
     {
        "nombre":"Trabajemos por fortalecer nuestra democracia representativa y participativa",
        "etiqueta":   ["Trabajemos por fortalecer nuestra democracia representativa y participativa","autoridad","ciudadana","ciudadanía","ciudadanos","CONAMAJ","control político","deberes","derecho","organización social","participación","poder judicial","rendición de cuentas","representación ciudadana","transparencia","Tribunal Supremo de Elecciones"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/trabajemos-fortalecer.png",
+       "urlImg":"./assets/img/otros/trabajemos-fortalecer.png",
        "url":"https://www.mep.go.cr/educatico/trabajemos-democracia",
        "ciclo": ["Diversificada"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
-       "seccion":"4-otros"
+       "materia":"Educación Cívica",     
+       "seccion":"otros"
     },
     {
        "nombre":"Danny El Geko Moreno",
        "etiqueta":   ["Danny El Geko Moreno","accidentes","conducción","conductor","COSEVI","educación vial","joven","jovenes","juegos","prevención"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/elgeko.png",
+       "urlImg":"./assets/img/otros/elgeko.png",
        "url":"https://www.mep.go.cr/educatico/danny-geko-moreno",
        "ciclo": ["III, Diversificada"],
-       "materia":"Educación Cívica",
-       "comentarios":"",
-       "seccion":"4-otros"
+       "materia":"Educación Cívica",     
+       "seccion":"otros"
     },
     {
        "nombre":"Misión 35C",
        "etiqueta": ["Misión 35C","juegos","ortografía","reglas ortográficas"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/mision35.png",
+       "urlImg":"./assets/img/otros/mision35.png",
        "url":"https://www.mep.go.cr/educatico/mision-35c",
        "ciclo": ["II","III"],
-       "materia":"Español",
-       "comentarios":"",
-       "seccion":"4-otros"
+       "materia":"Español",     
+       "seccion":"otros"
     },
     {
        "nombre":"Lógica en Español",
        "etiqueta": ["Lógica en Español","argumentación","argumento","conclusión","conectores lógicos","enunciado","extensión","falacias","ficheros","infográficos","intensión","lenguaje artificial","lenguaje natural","mención","premisas","razonamiento","tablas de verdad","uso"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/logica_espanol.png",
+       "urlImg":"./assets/img/otros/logica_espanol.png",
        "url":"https://www.mep.go.cr/educatico/logica-espanol",
        "ciclo": ["III","Diversificada"],
-       "materia":"Español",
-       "comentarios":"",
-       "seccion":"4-otros"
+       "materia":"Español",     
+       "seccion":"otros"
     },
 
 
@@ -232,52 +218,47 @@
     {
        "nombre":"Jóvenes Banqueros",
        "etiqueta": ["Jovenes", "banqueros", "bancos", "educación financiera","ahorro","beneficios","Instituciones Financieras de Costa Rica","finanazas","riesgos","financiero"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/jovenes-banqueros.png",
+       "urlImg":"./assets/img/otros/jovenes-banqueros.png",
        "url":"https://www.mep.go.cr/educatico/jovenes-banqueros",
        "ciclo": ["III"],
-       "materia":"Educación para el hogar",
-       "comentarios":"",
-       "seccion":"5-otros"
+       "materia":"Educación para el hogar",     
+       "seccion":"otros"
     },
      {
        "nombre":"Comunicación efectiva",
        "etiqueta": ["comunicación asertiva","efectiva","mejorar"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/comunic-efectiva.png",
+       "urlImg":"./assets/img/otros/comunic-efectiva.png",
        "url":"https://www.mep.go.cr/educatico/comunicacion-efectiva",
        "ciclo": ["I","II","III","Diversificada"],
-       "materia":"Psicología",
-       "comentarios":"",
-       "seccion":"5-otros"
+       "materia":"Psicología",     
+       "seccion":"otros"
     },
     {
        "nombre":"Toma de decisiones",
        "etiqueta": ["apropiadas","emociones","evaluar"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/toma_decisiones.png",
+       "urlImg":"./assets/img/otros/toma_decisiones.png",
        "url":"https://www.mep.go.cr/educatico/toma-decisiones",
        "ciclo": ["I","II","III","Diversificada"],
-       "materia":"Psicología",
-       "comentarios":"",
-       "seccion":"5-otros"
+       "materia":"Psicología",     
+       "seccion":"otros"
     },
     {
        "nombre":"Midiendo mi ciudad",
        "etiqueta":   ["Midiendo mi ciudad","rea","círculo","figuras geometricas","geometría","juego","perímetro","polígono","problemas","radio","sólidos"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/midiendo_ciudad.png",
+       "urlImg":"./assets/img/otros/midiendo_ciudad.png",
        "url":"https://www.mep.go.cr/educatico/midiendo-mi-ciudad",
        "ciclo": ["II"],
-       "materia":"Matemática",
-       "comentarios":"",
-       "seccion":"5-otros"
+       "materia":"Matemática",     
+       "seccion":"otros"
     },
     {
        "nombre":"Rompecabezas",
        "etiqueta":   ["Rompecabezas","rea","figuras geométricas","geometría","perímetro","polígonos"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/rompecabezas.png",
+       "urlImg":"./assets/img/otros/rompecabezas.png",
        "url":"https://www.mep.go.cr/educatico/rompecabezas",
        "ciclo": ["II"],
-       "materia":"Matemática",
-       "comentarios":"",
-       "seccion":"5-otros"
+       "materia":"Matemática",     
+       "seccion":"otros"
     },
 
 
@@ -289,53 +270,42 @@
     {
        "nombre":"La búsqueda de la simetría",
        "etiqueta":   ["La búsqueda de la simetría","eje de simetría","geometría","homólogos","simetría"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/busqueda-simet.png",
+       "urlImg":"./assets/img/otros/busqueda-simet.png",
        "url":"https://www.mep.go.cr/educatico/busqueda-simetria",
        "ciclo": ["II"],
-       "materia":"Matemática",
-       "comentarios":"",
-       "seccion":"6-otros"
+       "materia":"Matemática",     
+       "seccion":"otros"
     },
     {
        "nombre":"Interpretando datos",
        "etiqueta": ["encuesta","estadística","gráfica de barras","pictograma"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/interp_datos.png",
+       "urlImg":"./assets/img/otros/interp_datos.png",
        "url":"https://www.mep.go.cr/educatico/interpretando-datos",
        "ciclo": ["I"],
-       "materia":"Matemática",
-       "comentarios":"",
-       "seccion":"6-otros"
+       "materia":"Matemática",     
+       "seccion":"otros"
     },
     {
       "nombre":"Carretica Cuentera",
       "etiqueta": ["carretica","cuentera","apps","pictograma","ahorro","finanzas","educación financiera","financiero","cuentos","redacción","cuento","educación"],
-      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/carretica.jpg",
+      "urlImg":"./assets/img/otros/carretica.jpg",
       "url":"https://www.mep.go.cr/educatico/carretica-cuentera",
       "ciclo": ["I","II"],
-      "materia":"Educación para el hogar",
-      "comentarios":"",
-      "seccion":"6-otros"
+      "materia":"Educación para el hogar",    
+      "seccion":"otros"
    },
-    {
-       "nombre":"La lista de los mandados",
-       "etiqueta":   ["La lista de los mandados","cuerpos sólidos","esfera","geometría","prismas","triángulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/lista_mandados.png",
-       "url":"https://www.mep.go.cr/educatico/lista-mandados",
-       "ciclo": ["I"],
-       "materia":"Matemática",
-       "comentarios":"",
-       "seccion":"6-otros"
-    },
+   
     
+ 
+
     {
-       "nombre":"Trazando el cuerpo humano",
-       "etiqueta":   ["Trazando el cuerpo humano","borde","exterior","figuras","geometría","interior","líneas curvas","líneas mixtas","líneas quebradas","líneas rectas"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img_otros/trazando_cuerpo.png",
-       "url":"https://www.mep.go.cr/educatico/trazando-cuerpo-humano",
-       "ciclo": ["I"],
-       "materia":"Matemática",
-       "comentarios":"",
-       "seccion":"6-otros"
-    }
+      "nombre":"Emergencias y Prevención de Riesgos",
+      "etiqueta":   ["Emergencias y Prevención de Riesgos","antes","brunca","central","chorotega","Costa Rica","deforestación","después","durante","huetar atlántica","huetar norte","incendios forestales","inundaciones","pacífico central","prevención","regiones socieconómicas","sequía","sismos","terremotos","tormentas"],
+      "urlImg":"./assets/img/otros/emergencias_prev.png",
+      "url":"https://www.mep.go.cr/educatico/emergencias-prevencion",
+      "ciclo": ["III"],
+      "materia":"Estudios Sociales",    
+      "seccion":"otros"
+   }
 
 ]

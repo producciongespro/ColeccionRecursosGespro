@@ -11,7 +11,14 @@ body {
   }
 
   
+  .movil { 
+    width: 90%;
+  }
 
+  .movil2 { 
+    /* height: 50%; */
+    width: 25%;
+  }
   
   
   .subTitulo {
@@ -27,7 +34,8 @@ body {
   
   
   .jumbotron { 
-    background-image: url("http://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/banner.jpg");
+    background-image: url("./bg/banner.jpg");
+   /* background-image: image(./assets/img/interfaz/banner.jpg);*/
     background-repeat: no-repeat;
     background-size: 100% 75%;
     margin-right: 2%;
@@ -73,3 +81,21 @@ body {
         height: 70px;
         width: 70px;
         }
+
+      .infoen
+      {
+        color: #EDEDED;
+        font-weight: bold;
+        background-color: #484C4C;
+        font-size: 0.7em;
+      }
+
+
+  .nota {
+    color: rgb(232, 240, 160);
+  }
+
+  .enlaceAqui
+  {
+    color: rgb(232, 240, 160);
+  }

@@ -34,7 +34,7 @@ function Coleccion (props) {
         tabIndex={props.tabIndex}  
         className="titulo-1"> {props.titulo}       
         </h1>       
-        <span className="text-light">  {props.array.length } títulos encontrados </span>
+        <span className="text-light">  {props.array.length } recursos encontrados </span>
         <br/>
       
     <Carousel responsive={responsive}>

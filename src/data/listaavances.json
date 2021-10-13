@@ -1,69 +1,145 @@
 [
-    {
-       "nombre":"nulo",
+   {
+      "nombre":"Aprendo Pura Vida",
+      "etiqueta": ["nulo"],
+      "urlImg":"./assets/img/avances/puravida.png",
+      "url":"./assets/img/avances/descriptivo/puravida.jpg",
+      "ciclo": ["nulo"],
+      "materia":"",     
+      "seccion":"avances"
+   },
+   {
+      "nombre":"Mi cuento Fantástico",
+      "etiqueta": ["nulo"],
+      "urlImg":"./assets/img/avances/cuentosF.png",
+      "url":"./assets/img/avances/descriptivo/fantastico.jpg",
+      "ciclo": ["nulo"],
+      "materia":"",     
+      "seccion":"avances"
+   },
+
+   {
+      "nombre":"Cuentos de mi tía Panchita",
+      "etiqueta": ["nulo"],
+      "urlImg":"./assets/img/avances/cuentos.png",
+      "url":"./assets/img/avances/descriptivo/panchita.jpg",
+      "ciclo": ["nulo"],
+      "materia":"",     
+      "seccion":"avances"
+   },
+
+   {
+      "nombre":"Infografia de Pueblos Indigenas",
+      "etiqueta": ["nulo"],
+      "urlImg":"./assets/img/avances/regiones.png",
+      "url":"./assets/img/avances/descriptivo/infografias.jpg",
+      "ciclo": ["nulo"],
+      "materia":"",     
+      "seccion":"avances"
+   },
+
+   {
+      "nombre":"Catálogo de diseño gráfico GESPRO",
+      "etiqueta": ["nulo"],
+      "urlImg":"./assets/img/avances/catalogo.png",
+      "url":"./assets/img/avances/descriptivo/diseno.jpg",
+      "ciclo": ["nulo"],
+      "materia":"",     
+      "seccion":"avances"
+   },
+   {
+      "nombre":"Flautaoke",
+      "etiqueta": ["nulo"],
+      "urlImg":"./assets/img/avances/flautaoke.png",
+      "url":"./assets/img/avances/descriptivo/flautaoke.jpg",
+      "ciclo": ["nulo"],
+      "materia":"",     
+      "seccion":"avances"
+   },
+   
+
+   {
+       "nombre":"Apocalipsis Zombie",
        "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/ap_zombi.png",
-       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/apocalipsis.png",
+       "urlImg":"./assets/img/avances/ap_zombi.png",
+       "url":"./assets/img/avances/descriptivo/apocalipsis.png",
        "ciclo": ["nulo"],
-       "materia":"",
-       "comentarios":"",
-       "seccion":"1-avances"
+       "materia":"",     
+       "seccion":"avances"
     },
     
     {
-       "nombre":"nulo",
+       "nombre":"Brigada Ecosónica",
        "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/brigad.png",
-       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/brigada.png",
+       "urlImg":"./assets/img/avances/brigad.png",
+       "url":"./assets/img/avances/descriptivo/brigada.png",
        "ciclo": ["nulo"],
-       "materia":"",
-       "comentarios":"",
-       "seccion":"1-avances"
+       "materia":"",     
+       "seccion":"avances"
     },
     {
-       "nombre":"nulo",
+       "nombre":"Educación Financiera",
        "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/ed_finan.png",
-       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/financiero.png",
+       "urlImg":"./assets/img/avances/ed_finan.png",
+       "url":"./assets/img/avances/descriptivo/financiero.png",
        "ciclo": ["nulo"],
-       "materia":"",
-       "comentarios":"",
-       "seccion":"1-avances"
+       "materia":"",     
+       "seccion":"avances"
     },
     {
-       "nombre":"nulo",
+       "nombre":"Recursos Códigos QR",
        "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/qr_code.png",
-       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/codigos.png",
+       "urlImg":"./assets/img/avances/qr_code.png",
+       "url":"./assets/img/avances/descriptivo/codigos.png",
        "ciclo": ["nulo"],
-       "materia":"",
-       "comentarios":"",
-       "seccion":"1-avances"
+       "materia":"",     
+       "seccion":"avances"
     },
 
 
     {
-       "nombre":"nulo",
+       "nombre":"Diccionario Ngabere",
        "etiqueta": ["nulo"],
-       "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/traducto.png",
-       "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/diccionario.png",
+       "urlImg":"./assets/img/avances/dicc.png",
+       "url":"./assets/img/avances/descriptivo/diccionario.png",
        "ciclo": ["nulo"],
-       "materia":"",
-       "comentarios":"",
-       "seccion":"1-avances"
+       "materia":"",     
+       "seccion":"avances"
     },
 
-    {
-      "nombre":"nulo",
+   
+     {
+      "nombre":"IoVoto",
       "etiqueta": ["nulo"],
-      "urlImg":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/primeros.png",
-      "url":"https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-avances/descriptivo/ciencias.jpg",
+      "urlImg":"./assets/img/avances/iovoto.png",
+      "url":"./assets/img/avances/descriptivo/iovoto.png",
       "ciclo": ["nulo"],
-      "materia":"",
-      "comentarios":"",
-      "seccion":"1-avances"
+      "materia":"",    
+      "seccion":"avances"
+   },
+
+   {
+      "nombre":"Minienciclopedias de los territorios indígenas",
+      "etiqueta": ["nulo"],
+      "urlImg":"./assets/img/avances/minienciclopedias.png",
+      "url":"./assets/img/avances/descriptivo/minienciclopedias.png",
+      "ciclo": ["nulo"],
+      "materia":"",    
+      "seccion":"avances"
+   },
+
+
+
+   {
+      "nombre":"Welearn Autoaprendizaje",
+      "etiqueta": ["nulo"],
+      "urlImg":"./assets/img/avances/welearn.png",
+      "url":"./assets/img/avances/descriptivo/welwarn.png",
+      "ciclo": ["nulo"],
+      "materia":"",    
+      "seccion":"avances"
    }
 
-    
+   
 
 ]
