@@ -58,6 +58,10 @@ function App() {
   const setup = async ()=> {
       recursos = await utils.getData(endpoints.obtenerRecursos);
       console.log(recursos);
+      let etiqueta = recursos[17].etiqueta;
+      
+      etiqueta =   JSON.parse(etiqueta);
+      console.log(etiqueta);
   }
 
   const handleActivarBusqueda=()=>{
