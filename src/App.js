@@ -7,6 +7,7 @@ import busqueda from './modulos/busquedaAvanzada';
 import detectarPlataforma from './modulos/plataforma';
 
 import endpoints from "./endpoints";
+import * as utils from "./utils/utils";
 
 
 import listaAvances from './data/listaavances.json';
@@ -22,7 +23,9 @@ import listaprofe from './data/listaprofe.json';
 
 const plataforma = detectarPlataforma();
 const arrayGeneral= listaOtros.concat(lista2017, lista2018, lista2019, lista2020, lista2021, listaAnteriores, listaprofe, );
-//console.log(arrayGeneral);
+//Variable que alamcena los recursos obtendios desde el srvidor
+//En setup se le asigna a filtrados o en caso de que el usuario oculte lo búsqueda.
+let recursos=null;
 
 
 console.log(endpoints.obtenerRecursos);
@@ -32,22 +35,37 @@ console.log("URI", process.env.REACT_APP_URI_API);
 
 
 function App() {
-  const [arrayResultaado, setArrayResultado]=useState(null);
+  // Array principal que alimenta el componente para renderizar los recuros
+  //Este estado varia dependiendo de la b´suqueda del usuario   
+  const [filtrados, setFiltrados]=useState(null);
+
   const [palabraBusqueda, setPalabraBusuqeda ]=useState("");
   const [isBusqueda, setIsBusqueda]=useState(false);
 
+
+  useEffect(() => {
+    setup();
+  }, []);
+  
+  
   useEffect(()=>{
     //console.log(arrayResultaado);
     //console.log("palabraBusqueda",palabraBusqueda);
     console.log("isBusqueda",isBusqueda);        
   });
 
+
+  const setup = async ()=> {
+      recursos = await utils.getData(endpoints.obtenerRecursos);
+      console.log(recursos);
+  }
+
   const handleActivarBusqueda=()=>{
     setIsBusqueda(!isBusqueda);
   }
   
   const handleBuscar=(e)=>{    
-      setArrayResultado(busqueda(arrayGeneral, e.target.value));
+      setFiltrados(busqueda(arrayGeneral, e.target.value));
       //Se almacena la palabra en estado para oder contorlar el momento
       //en que se carga el grupo de colección (Que sería cuando la palabra está vacía)
       setPalabraBusuqeda(e.target.value);
@@ -74,7 +92,7 @@ function App() {
     {
         plataforma==="movil" ?
             (           
-              <div className="row text-right">
+              <div className="row text-end">
               <div className="col-12">
                 <a href="https://recursos.mep.go.cr/creditos_gespro/" target="_blank" rel="noopener noreferrer">
                   <img className="movil2" src="./assets/img/interfaz/acerca.png" alt="Acerca de"/>
@@ -84,10 +102,10 @@ function App() {
           ) :
           (         
             <div tabIndex="2">
-            <div className="row text-right">
+            <div className="row text-end">
             <div className="col-12">
               <a href="https://recursos.mep.go.cr/creditos_gespro/" target="_blank" rel="noopener noreferrer">
-                <img className="acerca img.fluid zoom" role="button" src="./assets/img/interfaz/acerca.png"  alt="Acerca de"/>
+                <img className="acerca img-fluid zoom" role="button" src="./assets/img/interfaz/acerca.png"  alt="Acerca de"/>
               </a>
             </div>
             </div>
@@ -101,10 +119,10 @@ function App() {
 
 { /* Sección de búsqueda de recursos*/ }
 
-    <div  className="row" >
+    <div  className="row mt-2" >
           
             
-            <div tabIndex="3" className="col-6 text-right"> 
+            <div tabIndex="3" className="col-6 text-end"> 
             <button onClick={handleActivarBusqueda} className="btn btn-outline-dark">
             {
               !isBusqueda ?
@@ -158,8 +176,8 @@ function App() {
 
 { /* Sección de búsqueda de cada categoría*/ }
         {
-          (arrayResultaado && palabraBusqueda !== "" && isBusqueda ) ?          
-            <Coleccion tabIndex={4} titulo="Búsqueda" array={arrayResultaado} />
+          (filtrados && palabraBusqueda !== "" && isBusqueda ) ?          
+            <Coleccion tabIndex={4} titulo="Búsqueda" array={filtrados} />
           :
             <GrupoColeccion lista2017={lista2017} lista2018={lista2018} lista2019={lista2019} lista2020={lista2020}  lista2021={lista2021} listaAnteriores={listaAnteriores}  listaOtros={listaOtros} listaprofe={listaprofe}/>
           
