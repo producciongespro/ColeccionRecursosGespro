@@ -6,6 +6,8 @@ import Avances from './Componentes/Avances';
 import busqueda from './modulos/busquedaAvanzada';
 import detectarPlataforma from './modulos/plataforma';
 
+import endpoints from "./endpoints";
+
 
 import listaAvances from './data/listaavances.json';
 import lista2017 from './data/lista2017.json';
@@ -23,7 +25,8 @@ const arrayGeneral= listaOtros.concat(lista2017, lista2018, lista2019, lista2020
 //console.log(arrayGeneral);
 
 
-
+console.log(endpoints.obtenerRecursos);
+console.log("URI", process.env.REACT_APP_URI_API);
 
 
 
