@@ -1,9 +1,10 @@
 import React from 'react';
 import Coleccion from './Coleccion';
-import detectarPlataforma from '../modulos/plataforma';
-const plataforma = detectarPlataforma();
+import {plataforma} from "../utils/utils";
+
+
 function GrupoColeccion(props) {
-    if (plataforma==="movil") {
+    if (plataforma ()  ==="movil") {
         console.log("plataforma2:",plataforma)
     }
     else{console.log("plataforma:",plataforma)}  

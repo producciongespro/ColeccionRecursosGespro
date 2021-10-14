@@ -1,7 +1,8 @@
 import React from 'react';
 import './previas.css';
-import detectarPlataforma from '../modulos/plataforma';
-const plataforma = detectarPlataforma();
+import {plataforma} from "../utils/utils";
+
+
 function Previas(props) {
     console.log("props.tabIndex", props.tabIndex);
     let item = props.item;
@@ -9,7 +10,7 @@ function Previas(props) {
     return (
        
         <div tabIndex={props.tabIndex}  className="zoom">
-           { plataforma==="movil" ?
+           { plataforma () ==="movil" ?
            (
 
             props.modo === "coleccion" &&
