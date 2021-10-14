@@ -16,8 +16,8 @@ export function jsonParser (array) {
         //console.log(item);
         let tmpObj = {
           ciclo: JSON.parse(item.ciclo),
-          //etiqueta: JSON.parse(item.etiqueta),
-          etiqueta: item.etiqueta,
+          etiqueta: JSON.parse(item.etiqueta),
+          //etiqueta: item.etiqueta,
           id: item.id,
           id_materia: item.id_materia,
           id_seccion: item.id_seccion,
@@ -33,7 +33,6 @@ export function jsonParser (array) {
     return tmpArray;
   };
 
-
   function eliminarTildes(cadena) {
     let tmpCadena = cadena.replace(/á/g, "a");
     tmpCadena = tmpCadena.replace(/é/g, "e");    
@@ -44,45 +43,59 @@ export function jsonParser (array) {
     return tmpCadena;
 }
 
-
-
-
 export function busquedaAvanzada  (array, cadena ) {
 let tmpArray=[];
+let resMateria=false;
+let resEtiqueta=false;
+let resNombre=false;
+let resCiclo=false;
+
 cadena = eliminarTildes(cadena);
+cadena.toLowerCase();
 
+        array.forEach(item => {
+            if (item.materia) {
+                let strMateria = eliminarTildes( item.materia.toLowerCase() );        
+                let pattMateria = new RegExp(  cadena );        
+                resMateria = pattMateria.test(strMateria);   
+            } else {
+                console.log("item sin materia", item);
+            }
+             
+        if (item.etiqueta) {
+            let strEtiqueta = eliminarTildes( item.etiqueta.toString().toLowerCase() );
+            let pattEtiqueta = new RegExp( cadena  );
+            resEtiqueta = pattEtiqueta.test(strEtiqueta);            
+        }
 
-    for (let index = 0; index < array.length; index++) {      
+        if (item.nombre) {
+            let strNombre = eliminarTildes( item.nombre.toLowerCase() );
+            let pattNombre = new RegExp( cadena  );
+            resNombre = pattNombre.test(strNombre);
+        }
+
+        if (item.ciclo) {
+            let strCiclo = eliminarTildes( item.ciclo.toString().toLowerCase() );
+            let pattCiclo = new RegExp( cadena  );
+            resCiclo = pattCiclo.test(strCiclo);
+        }
+           
+          /*
+            console.log(array[index].etiqueta , "---", array[index].seccion, "*****", array[index].nombre );
+            console.log(array[index].etiqueta.toString() );
+            */
         
-        let strMateria = eliminarTildes( array[index].materia.toLowerCase() );
-        let pattMateria = new RegExp( cadena.toLowerCase()  );
-        let resMateria = pattMateria.test(strMateria);
+                if (resMateria || resEtiqueta || resNombre || resCiclo ) {
+                    tmpArray.push(item);
+                } 
+            
+            
+        });    
 
-        let strEtiqueta = eliminarTildes( array[index].etiqueta.toString().toLowerCase() );
-        let pattEtiqueta = new RegExp( cadena.toLowerCase()  );
-        let resEtiqueta = pattEtiqueta.test(strEtiqueta);
-
-        let strNombre = eliminarTildes( array[index].nombre.toLowerCase() );
-        let pattNombre = new RegExp( cadena.toLowerCase()  );
-        let resNombre = pattNombre.test(strNombre);
-
-        let strCiclo = eliminarTildes( array[index].ciclo.toString().toLowerCase() );
-        let pattCiclo = new RegExp( cadena.toLowerCase()  );
-        let resCiclo = pattCiclo.test(strCiclo);
-  /*
-    console.log(array[index].etiqueta , "---", array[index].seccion, "*****", array[index].nombre );
-    console.log(array[index].etiqueta.toString() );
-    */
-
-        if (resMateria || resEtiqueta || resNombre || resCiclo ) {
-            tmpArray.push(array[index]);
-        }        
-    }    
+  
 
     return tmpArray;
 }
-
-
 
 export function plataforma() {
     let plataforma = navigator.platform;
