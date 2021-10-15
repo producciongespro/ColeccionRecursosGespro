@@ -1,0 +1,124 @@
+[
+    {
+       "nombre":"Micro Dialogues Outils pour classe FLE",
+       "etiqueta": ["audios","francés","lien","micro dialogues","prácticas","vídeos"],
+       "urlImg":"./assets/img/2019/outils.png",
+       "url":"https://www.mep.go.cr/educatico/micro-dialogues-outils-pour-classe-fle",
+       "ciclo": ["I","II","III","Diversificada"],
+       "materia":"Francés",     
+       "seccion":"2019"
+    },
+    {
+       "nombre":"Kugwe nemani bare meguera Costa Rica tigani ngäbere",
+       "etiqueta": ["Kugwe nemani bare meguera Costa Rica tigani ngäbere","Anancy","costumbres","ejercicios de comprensión lectora","iztarú","lengua ngäbere","leyendas","leyendas de Costa Rica","San Isidro de San Ramon","tradiciones de Costa Rica","Turrialba","Turrialba btä"],
+       "urlImg":"./assets/img/2019/leyendas_CR.png",
+       "url":"https://www.mep.go.cr/educatico/leyendas-ngabere",
+       "ciclo": ["II"],
+       "materia":"Interculturalidad",     
+       "seccion":"2019"
+    },
+    {
+       "nombre":"Cuenticos",
+       "etiqueta": ["Cuenticos","ciencia ficción","cuento","escritura creativa","español","fantástico","maravilloso","producción","producción textual","realista","suspenso"],
+       "urlImg":"./assets/img/2019/cuenticos.png",
+       "url":"https://www.mep.go.cr/educatico/cuenticos",
+       "ciclo": ["I","II","III"],
+       "materia":"Español",     
+       "seccion":"2019"
+    },
+    {
+       "nombre":"Vida Clips",
+       "etiqueta": ["Vida Clips","bullying","deserción","desorden alimenticio","drogadicción","farándula","hedonismo","nadie me entiende","ninis","pandillas","peligros de internet","rebeldía","religión","sexualidad","suicidio","toma de decisiones","trascendencia","tribus urbanas","vida","vídeos", "consejo", "adolescencia", "edgar silva", "viviana calderon" ],
+       "urlImg":"./assets/img/2019/vida_clips.png",
+       "url":"https://www.mep.go.cr/educatico/vida-clips",
+       "ciclo": ["III","Diversificada"],
+       "materia":"Religión",     
+       "seccion":"2019"
+    },
+    {
+       "nombre":"Sucesiones y patrones",
+       "etiqueta":   ["Sucesiones y patrone","android","app","apps","IOS","matemáticas","números","patrones","relaciones y álgebra","sucesiones"],
+       "urlImg":"./assets/img/2019/sucesiones_patrones-63.png",
+       "url":"https://www.mep.go.cr/educatico/sucesiones-patrones",
+       "ciclo": ["II"],
+       "materia":"Matemáticas",     
+       "seccion":"2019"
+    },
+
+
+
+
+
+
+    {
+       "nombre":"English mini books: First Cicle",
+       "etiqueta": ["first Cicle","english","first cycle","first grade","inglés","inglés primaria","libritos de inglés","mini books","new english curriculum","primer ciclo","second grade","third grade", "listen", "amanda" ],
+       "urlImg":"./assets/img/2019/english_minibooks-97.png",
+       "url":"https://www.mep.go.cr/educatico/english-mini-books-first-cycle",
+       "ciclo": ["I","II"],
+       "materia":"Inglés",     
+       "seccion":"2019"
+    },
+    {
+       "nombre":"Sitio de Recursos Guía Noveno Año Inglés",
+       "etiqueta":   ["Sitio de Recursos Guía Noveno Año","guia 9","9","english","inglés","ninth grade","noveno","nuevos programas","recursos Inglés","secundaria","sitio"],
+       "urlImg":"./assets/img/2019/sitio_9no.png",
+       "url":"https://www.mep.go.cr/educatico/recursos-guia-noveno-ano",
+       "ciclo": ["III"],
+       "materia":"Inglés",     
+       "seccion":"2019"
+    },
+    {
+       "nombre":"Plataforma Oferta Educativa",
+       "etiqueta": ["Plataforma Nacional de la Oferta Educativa de Costa Rica","mep","ina","universidades públicas","universidades","conesup"],
+       "urlImg":"./assets/img/2019/plataforma_ed.png",
+       "url":"http://www.ofertaeducativanacional.mep.go.cr/",
+       "ciclo": ["I","II","III","Diversificada"],
+       "materia":"General",     
+       "seccion":"2019"
+    },
+    {
+       "nombre":"Orienta2",
+       "etiqueta": ["Orienta2","orientacion","orientación","vocacional","carreras","habilidades","educación tecnica","educacion tecnica","que puedo estudiar","emprendimiento"],
+       "urlImg":"./assets/img/2019/orienta2.png",
+       "url":"https://www.mep.go.cr/educatico/orienta2",
+       "ciclo": ["III","Diversificada"],
+       "materia":"Orientación",     
+       "seccion":"2019"
+    },
+    {
+       "nombre":"Matricula Preescolar-2020",
+       "etiqueta":   ["Matricula Preescolar-2020","ciclo materno infantil","Departamento de Educación de la Primera Infancia","grupo interactivo","Luis Chacón","matrícula","Ofelia Montoya","Oscar Pérez","Patricia Hernández","preescolar","reglamento","requisitos","sitio","uniforme"],
+       "urlImg":"./assets/img/2019/matricula_preesc2020.png",
+       "url":"https://www.mep.go.cr/educatico/matricula-preescolar-2020",
+       "ciclo": ["Primera Infancia"],
+       "materia":"Preescolar",     
+       "seccion":"2019"
+    },
+
+
+
+
+
+    {
+       "nombre":"Digital Resources Blog For Teachers and Students",
+       "etiqueta":   ["Digital Resources Blog For Teachers and Students","digital resources","english","enseñanza del inglés","enseñaza del inglés","inglés","Katherine Williams Jiménez","MEP","new english curriculum","oral and written comprehension","oral and written production","recursos digitale"],
+       "urlImg":"./assets/img/2019/digitalres_log-102.png",
+       "url":"https://www.mep.go.cr/educatico/digital-resources",
+       "ciclo": ["I","II","III"],
+       "materia":"Inglés",     
+       "seccion":"2019"
+    },
+    {
+       "nombre":"Cientec-Tendencias 2019",
+       "etiqueta": ["cientec-2019","cientec-tecnología","recursos","realidad aumentada","realidad","virtual","tendencias tencnológica"],
+       "urlImg":"./assets/img/2019/cientec_tend2019-103.png",
+       "url":"https://recursos.mep.go.cr/2019/cientec-exploratorio/",
+       "ciclo": ["I","II","III","Diversificada"],
+       "materia":"General",     
+       "seccion":"2019"
+    }
+    
+
+
+]
