@@ -8,14 +8,7 @@ import endpoints from "./endpoints";
 import * as utils from "./utils/utils";
 
 import listaAvances from "./data/listaavances.json";
-import lista2017 from "./data/lista2017.json";
-import lista2018 from "./data/lista2018.json";
-import lista2019 from "./data/lista2019.json";
-import lista2020 from "./data/lista2020.json";
-import lista2021 from "./data/lista2021.json";
-import listaAnteriores from "./data/listaanteriores.json";
-import listaOtros from "./data/listaotros.json";
-import listaprofe from "./data/listaprofe.json";
+
 
 //Variable que alamcena los recursos obtendios desde el srvidor
 //En setup se le asigna a filtrados o en caso de que el usuario oculte lo búsqueda.
@@ -168,20 +161,19 @@ function App() {
       )}
       {
         /** Cuerpo principal de la interfaz con todos los recursos por colecciones */
-      (filtrados &&  secciones &&  !isBusqueda)  && (
+      (filtrados &&  secciones &&  !isBusqueda)  ? (
         <GrupoColeccion
-          lista2017={lista2017}
-          lista2018={lista2018}
-          lista2019={lista2019}
-          lista2020={lista2020}
-          lista2021={lista2021}
-          listaAnteriores={listaAnteriores}
-          listaOtros={listaOtros}
-          listaprofe={listaprofe}
           recursos={filtrados}
           secciones={secciones}
         />
-      )}
+      )   : (
+        <div className="row">
+          <div className="col-12 alert alert-info">
+            Cargnado información, por favor espere...
+          </div>
+        </div>
+      )
+      }
       <div tabIndex="13" className="row mt-4">
         <div className="col-sm-12">
           <div className="alert nota">
@@ -191,17 +183,7 @@ function App() {
           </div>
         </div>
       </div>
-      {/* Sección de encuesta*/}
-      {/*
-  <div tabIndex="4" className="row text-center">
-    <div className="col-12">
-        <a href="http://www.encuesta.mep.go.cr/index.php/681422?lang=es" target="_blank" rel="noopener noreferrer"> 
-        <img className="img-fluid img-responsive  encuesta zoom" role="button" src="https://recursos.mep.go.cr/2019/ws/colecion_recursos_mep/img-interfaz/encuesta.png" alt="Encuesta para nuevo recurso"></img>
-        </a>
-      </div>
-        <br/><br/><br/>
-  </div>
-  */}
+
       <div tabIndex="14" className="row mt-4">
         <div className="col-sm-12">
           <div className="alert alert-info infoen">
