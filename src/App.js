@@ -7,7 +7,6 @@ import Avances from "./Componentes/Avances";
 import endpoints from "./endpoints";
 import * as utils from "./utils/utils";
 
-
 import listaAvances from "./data/listaavances.json";
 import lista2017 from "./data/lista2017.json";
 import lista2018 from "./data/lista2018.json";
@@ -17,8 +16,6 @@ import lista2021 from "./data/lista2021.json";
 import listaAnteriores from "./data/listaanteriores.json";
 import listaOtros from "./data/listaotros.json";
 import listaprofe from "./data/listaprofe.json";
-
-
 
 //Variable que alamcena los recursos obtendios desde el srvidor
 //En setup se le asigna a filtrados o en caso de que el usuario oculte lo búsqueda.
@@ -36,24 +33,20 @@ function App() {
   useEffect(() => {
     setup();
   }, []);
-
-
-
+  
+  
   const setup = async () => {
-    const res = await utils.getData(endpoints.obtenerRecursos);    
-    recursos =  utils.jsonParser (res);
-    console.log(recursos);
-    setFiltrados(filtrados);
+    const res = await utils.getData(endpoints.obtenerRecursos);
+    recursos = utils.jsonParser(res);    
+    setFiltrados(recursos);
   };
-
- 
 
   const handleActivarBusqueda = () => {
     setIsBusqueda(!isBusqueda);
   };
 
   const handleBuscar = (e) => {
-    setFiltrados( utils.busquedaAvanzada  ( recursos, e.target.value));
+    setFiltrados(utils.busquedaAvanzada(recursos, e.target.value));
     //Se almacena la palabra en estado para oder contorlar el momento
     //en que se carga el grupo de colección (Que sería cuando la palabra está vacía)
     setPalabraBusuqeda(e.target.value);
@@ -61,7 +54,7 @@ function App() {
 
   return (
     <div className="App container">
-      {utils.plataforma()  === "movil" ? (
+      {utils.plataforma() === "movil" ? (
         // <div tabIndex="1"  role="heading" aria-level="1" title="Colección recursos"  className="jumbotron"> </div>
         <div className="">
           <img
@@ -82,7 +75,7 @@ function App() {
         </div>
       )}
       {/* Sección de acerca de*/}
-      {utils.plataforma () === "movil" ? (
+      {utils.plataforma() === "movil" ? (
         <div className="row text-end">
           <div className="col-12">
             <a
@@ -167,9 +160,10 @@ function App() {
       <br />
       <br /> <br />
       {/* Sección de búsqueda de cada categoría*/}
-      {filtrados && palabraBusqueda !== "" && isBusqueda ? (
+      {filtrados && palabraBusqueda !== "" && isBusqueda && (
         <Coleccion tabIndex={4} titulo="Búsqueda" array={filtrados} />
-      ) : (
+      )}
+      {(filtrados && !isBusqueda)  && (
         <GrupoColeccion
           lista2017={lista2017}
           lista2018={lista2018}
@@ -179,6 +173,7 @@ function App() {
           listaAnteriores={listaAnteriores}
           listaOtros={listaOtros}
           listaprofe={listaprofe}
+          filtrados={filtrados}
         />
       )}
       <div tabIndex="13" className="row mt-4">

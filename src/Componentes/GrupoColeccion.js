@@ -1,13 +1,16 @@
 import React from 'react';
 import Coleccion from './Coleccion';
-import {plataforma} from "../utils/utils";
-
 
 function GrupoColeccion(props) {
-    if (plataforma ()  ==="movil") {
-        console.log("plataforma2:",plataforma)
-    }
-    else{console.log("plataforma:",plataforma)}  
+    const filtrados = props.filtrados;
+
+    filtrados.forEach (item=> {
+        if (item.coleccion === "2020") {
+            console.log(item);
+        }
+    })
+
+
 
     return (
         <React.Fragment>
