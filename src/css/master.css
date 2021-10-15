@@ -41,7 +41,10 @@ body {
     margin-right: 2%;
     margin-left: 2%;
     background-color: #000;
-    border-radius: 5%;  
+    border-radius: 5%; 
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;   
+    
   }
   .fondo-claro {
     background-color: rgba( 0,0,0,0.8 );

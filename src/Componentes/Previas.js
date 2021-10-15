@@ -4,7 +4,7 @@ import {plataforma} from "../utils/utils";
 
 
 function Previas(props) {
-    console.log("props.tabIndex", props.tabIndex);
+    //console.log("props.tabIndex", props.tabIndex);
     let item = props.item;
 
     return (

@@ -29,6 +29,8 @@ function App() {
   const [palabraBusqueda, setPalabraBusuqeda] = useState("");
   //Bandera que indica si está en modo búsqueda. Esto para desplegar una interfaz gráfica diferente:
   const [isBusqueda, setIsBusqueda] = useState(false);
+  //categorías de las colecciones para el renderizado de recursos según colección
+  const [secciones, setSecciones] = useState(null);
 
   useEffect(() => {
     setup();
@@ -36,7 +38,9 @@ function App() {
   
   
   const setup = async () => {
+    setSecciones(await utils.getData(endpoints.obtenerSecciones));
     const res = await utils.getData(endpoints.obtenerRecursos);
+    //TODO verficar si esto se puede omitir:
     recursos = utils.jsonParser(res);    
     setFiltrados(recursos);
   };
@@ -60,7 +64,7 @@ function App() {
           <img
             className="img-fluid pepito"
             src="./assets/img/interfaz/banner.jpg"
-            alt=""
+            alt="baner colección"
           />
         </div>
       ) : (
@@ -70,8 +74,7 @@ function App() {
           aria-level="1"
           title="Colección recursos"
           className="jumbotron"
-        >
-          {" "}
+        >          
         </div>
       )}
       {/* Sección de acerca de*/}
@@ -163,7 +166,9 @@ function App() {
       {filtrados && palabraBusqueda !== "" && isBusqueda && (
         <Coleccion tabIndex={4} titulo="Búsqueda" array={filtrados} />
       )}
-      {(filtrados && !isBusqueda)  && (
+      {
+        /** Cuerpo principal de la interfaz con todos los recursos por colecciones */
+      (filtrados &&  secciones &&  !isBusqueda)  && (
         <GrupoColeccion
           lista2017={lista2017}
           lista2018={lista2018}
@@ -173,7 +178,8 @@ function App() {
           listaAnteriores={listaAnteriores}
           listaOtros={listaOtros}
           listaprofe={listaprofe}
-          filtrados={filtrados}
+          recursos={filtrados}
+          secciones={secciones}
         />
       )}
       <div tabIndex="13" className="row mt-4">
