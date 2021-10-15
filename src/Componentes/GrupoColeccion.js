@@ -7,7 +7,7 @@ function GrupoColeccion(props) {
   const secciones = props.secciones;
   //Arreglo de arreglos con recursos por colección. Se carga en setup pAra luego ser renderizado en componente (return)
   //let vistasColecciones = [];
-  const [vistasColecciones, setVistasColecciones] = useState([]);
+  const [vistasColecciones, setVistasColecciones] = useState(null);
 
   useEffect(() => {
     //console.log(secciones);
@@ -15,8 +15,14 @@ function GrupoColeccion(props) {
     setup();
   }, []);
 
+
+  useEffect(() => {
+      console.log("vistasColecciones", vistasColecciones);
+  }, [vistasColecciones]);
+
   const setup = () => {
     let tmpArray = [];
+    let tmpVistasColecciones=[];
     secciones.forEach((seccion) => {
       //console.log(seccion.nombre);
       recursos.forEach((item) => {
@@ -25,24 +31,23 @@ function GrupoColeccion(props) {
         }
       });
       //console.log(tmpArray);
-      //vistasColecciones.push(tmpArray);
-      setVistasColecciones(vistasColecciones.concat(tmpArray));
+      tmpVistasColecciones.push(tmpArray);      
       tmpArray = [];
     });
     console.log("setup terminado");
+    setVistasColecciones(tmpVistasColecciones);
     //console.log("vistasColecciones", vistasColecciones);
   };
 
-  return (
+  return (      
     vistasColecciones &&
-    vistasColecciones.map((item, i) => (
+    vistasColecciones.map((item, i) => (    
       <Coleccion
         tabIndex={i + 1}
         key={i}
-        //titulo={`Colección ${secciones[i].nombre}`}
-        titulo="prb"
+        titulo={`Colección ${secciones[i].nombre}`}        
         array={item}
-      />
+      />      
     ))
   );
 }

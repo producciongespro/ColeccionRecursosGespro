@@ -4,7 +4,8 @@ import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 
 
-function Coleccion (props) {
+function Coleccion (props) { 
+
     const responsive = {
         superLargeDesktop: {
           // the naming can be any, depends on you.
@@ -44,6 +45,7 @@ function Coleccion (props) {
                 ))
             }
     </Carousel>
+    <br/>
     </React.Fragment>
     );
 
