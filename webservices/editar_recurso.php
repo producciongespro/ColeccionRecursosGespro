@@ -9,18 +9,18 @@ $JSONData = file_get_contents("php://input");
 $dataObject = json_decode($JSONData);  
 require 'conectar.php';
 $conexion = conectarDB();
-$idRecurso = $dataObject-> idRecurso;
-$nombre = utf8_decode($dataObject-> nombre);
-$etiqueta = utf8_decode($dataObject-> etiqueta);
-// $urlImg = utf8_decode($dataObject-> urlImg);
-$url= utf8_decode($dataObject-> url);
-$ciclo = utf8_decode($dataObject-> ciclo);
-$materia = utf8_decode($dataObject-> materia);
-// $comentarios = utf8_decode($dataObject-> comentarios);
-$seccion = utf8_decode($dataObject-> seccion);
+$idRecurso = ($_POST['idRecurso']);
+$nombre = utf8_decode($_POST['nombre']);
+$etiqueta = utf8_decode($_POST['etiqueta']);
+// $urlImg = utf8_decode($_POST[' urlImg']);
+$url= utf8_decode($_POST['url']);
+$ciclo = utf8_decode($_POST['ciclo']);
+$materia = utf8_decode($_POST['materia']);
+// $comentarios = utf8_decode($_POST['comentarios']);
+$seccion = utf8_decode($_POST['seccion']);
 $nombre_seccion = utf8_decode($_POST['nombre_seccion']);
-$imagen_nueva = utf8_decode($dataObject-> imagen_nueva);
-if ($imagen_nueva == 1 ){
+$imagen_nueva = utf8_decode($_POST['imagen_nueva']);
+if ($imagen_nueva == "1" ){
     $nombre_seccion = strtolower($nombre_seccion);
     $nombre_seccion = str_replace(' ', '', $nombre_seccion);
     $dir_bd = 'assets/img/'.$nombre_seccion."/";
@@ -39,7 +39,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')  {
 
    if($consulta)
    {
-    echo json_encode(array('error'=>false,'msj'=>'Registro '.$idRecurso.' actualizado de forma exitosa.'));
+    echo json_encode(array('error'=>false,'msj'=>'Registro '.$idRecurso.' con el nombre '.$nombre.' actualizado de forma exitosa.'));
    }
    else
    {
