@@ -1,0 +1,2 @@
+# Get avances
+POST http://localhost/ColeccionRecursosGespro/webservices/obtener_avances.php

@@ -24,6 +24,8 @@ function App() {
   const [isBusqueda, setIsBusqueda] = useState(false);
   //categorías de las colecciones para el renderizado de recursos según colección
   const [secciones, setSecciones] = useState(null);
+  //Registro de avances
+  const [avances, setAvances] = useState(null);
 
   useEffect(() => {
     setup();
@@ -32,10 +34,13 @@ function App() {
   
   const setup = async () => {
     setSecciones(await utils.getData(endpoints.obtenerSecciones));
-    const res = await utils.getData(endpoints.obtenerRecursos);
+    let res = await utils.getData(endpoints.obtenerRecursos);
     //TODO verficar si esto se puede omitir:
     recursos = utils.jsonParser(res);    
     setFiltrados(recursos);
+    setAvances( await utils.getData(endpoints.obtenerAvances) );
+
+
   };
 
   const handleActivarBusqueda = () => {
