@@ -7,8 +7,6 @@ import Avances from "./Componentes/Avances";
 import endpoints from "./endpoints";
 import * as utils from "./utils/utils";
 
-import listaAvances from "./data/listaavances.json";
-
 
 //Variable que alamcena los recursos obtendios desde el srvidor
 //En setup se le asigna a filtrados o en caso de que el usuario oculte lo búsqueda.
@@ -151,10 +149,10 @@ function App() {
       <br />
       <br />
       {/* Sección de avacnces*/}
-      {!isBusqueda && (
+      {(!isBusqueda && avances  ) &&  (
         <div tabIndex="4" className="row">
           <div className="col-12">
-            {listaAvances && <Avances tabIndex="2" array={listaAvances} />}
+            <Avances tabIndex="2" array={avances} />
           </div>
         </div>
       )}
