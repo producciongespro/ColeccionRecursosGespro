@@ -64,6 +64,10 @@ body {
     box-align: left;
   }
 
+  .font-white {
+    color: #fff;
+  }
+
 
   .modal-content {
     background-color: #000000;

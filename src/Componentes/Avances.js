@@ -52,11 +52,17 @@ function Avances(props) {
         show={show}
         onHide={handleClose}
       >
-        <Modal.Header closeButton></Modal.Header>
+        <Modal.Header closeButton>   </Modal.Header>
         <Modal.Body>
           <div className="row">
-            <div className="col-6 text-center">
+            <div className="col-8 font-white">
                 {avance && avance.descripcion }
+            </div>
+            <div className="col-4">
+                <img 
+                className="img-fluid"
+                src="./assets/img/compu.png" 
+                alt="iamgen de coputadora"  />
             </div>
           </div>
         </Modal.Body>
