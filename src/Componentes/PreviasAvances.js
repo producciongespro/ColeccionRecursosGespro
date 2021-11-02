@@ -15,7 +15,7 @@ export default function PreviasAvances(props) {
           className="img-fluid movil"
           alt={item.nombre}
           data-indice={indice}
-          handleShow={props.handleShow}
+          onClick={props.mostrarModal}
         />
       ) : (
         <img
@@ -23,7 +23,7 @@ export default function PreviasAvances(props) {
           className="img-fluid"
           alt={item.nombre}
           data-indice={indice}
-          handleShow={props.handleShow}
+          onClick={props.mostrarModal}
         />
       )}
     </div>

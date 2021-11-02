@@ -1,11 +1,12 @@
-import React, { useState } from "react";
-import Previas from "./Previas";
+import React, { useState, useEffect } from "react";
+
 import PreviasAvances from "./PreviasAvances";
 import Carousel from "react-multi-carousel";
 import Modal from "react-bootstrap/Modal";
 import "react-multi-carousel/lib/styles.css";
 
 function Avances(props) {
+  const avances = props.avances;
   const responsive = {
     superLargeDesktop: {
       // the naming can be any, depends on you.
@@ -27,33 +28,37 @@ function Avances(props) {
   };
 
   const [show, setShow] = useState(false);
-  const [urlImg, setUrlImg] = useState(null);
+  //Alamacena el avance seleccionado por el usuario para desplegar la
+  //información en el modal
+  const [avance, setAvance] = useState(null);
+
+  useEffect(() => {
+    console.log("Avance seleccionado por el usuario", avance);    
+  }, [avance]);
 
   const handleClose = () => setShow(false);
-  const handleShow = (e) => {
-    console.log("e.target.dataset.url", e.target.dataset.url);
-    //setUrlImg(e.target.dataset.url);
-    //setShow(true);
+  const mostrarModal = (e) => {
+    const indice = parseInt(e.target.dataset.indice);
+    setAvance(avances[indice]);
+    setShow(true);    
   };
 
   const ModalBs = () => {
     return (
       <Modal
-        {...props}
         size="lg"
         aria-labelledby="contained-modal-title-vcenter"
         centered
         show={show}
         onHide={handleClose}
       >
-        <Modal.Header closeButton>
-          {
-            //<Modal.Title>
-            //</Modal.Title>
-          }
-        </Modal.Header>
+        <Modal.Header closeButton></Modal.Header>
         <Modal.Body>
-          <div className="col-12 text-center"></div>
+          <div className="row">
+            <div className="col-6 text-center">
+                {avance && avance.descripcion }
+            </div>
+          </div>
         </Modal.Body>
         {
           //<Modal.Footer>
@@ -74,10 +79,10 @@ function Avances(props) {
         </div>
       </div>
       <Carousel responsive={responsive}>
-        {props.array.map((item, i) => (
+        {avances.map((item, i) => (
           <PreviasAvances
             tabIndex={props.tabIndex}
-            handleShow={handleShow}
+            mostrarModal={mostrarModal}
             modo="avances"
             item={item}
             key={item.id}

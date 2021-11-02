@@ -152,7 +152,7 @@ function App() {
       {(!isBusqueda && avances  ) &&  (
         <div tabIndex="4" className="row">
           <div className="col-12">
-            <Avances tabIndex="2" array={avances} />
+            <Avances tabIndex="2" avances={avances} />
           </div>
         </div>
       )}
