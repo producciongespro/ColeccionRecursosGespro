@@ -33,14 +33,14 @@ function Avances(props) {
   const [avance, setAvance] = useState(null);
 
   useEffect(() => {
-    console.log("Avance seleccionado por el usuario", avance);    
+    console.log("Avance seleccionado por el usuario", avance);
   }, [avance]);
 
   const handleClose = () => setShow(false);
   const mostrarModal = (e) => {
     const indice = parseInt(e.target.dataset.indice);
     setAvance(avances[indice]);
-    setShow(true);    
+    setShow(true);
   };
 
   const ModalBs = () => {
@@ -52,17 +52,21 @@ function Avances(props) {
         show={show}
         onHide={handleClose}
       >
-        <Modal.Header closeButton>   </Modal.Header>
+        <Modal.Header 
+            closeButton={true} 
+            closeVariant="white"> 
+        </Modal.Header>
         <Modal.Body>
           <div className="row">
             <div className="col-8 font-white">
-                {avance && avance.descripcion }
+              {avance && avance.descripcion}
             </div>
             <div className="col-4">
-                <img 
+              <img
                 className="img-fluid"
-                src="./assets/img/compu.png" 
-                alt="iamgen de coputadora"  />
+                src="./assets/img/compu.png"
+                alt="iamgen de coputadora"
+              />
             </div>
           </div>
         </Modal.Body>
