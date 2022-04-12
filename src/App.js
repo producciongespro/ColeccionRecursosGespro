@@ -56,9 +56,9 @@ function App() {
     <div className="App container">
       {utils.plataforma() === "movil" ? (
         // <div tabIndex="1"  role="heading" aria-level="1" title="Colección recursos"  className="jumbotron"> </div>
-        <div className="">
+        <div className="img-fluid">
           <img
-            className="img-fluid pepito"
+            className="imgbanner"
             src="./assets/img/interfaz/banner.jpg"
             alt="baner colección"
           />
@@ -172,7 +172,7 @@ function App() {
       )   : (
         <div className="row">
           <div className="col-12 alert alert-info">
-            Cargnado información, por favor espere...
+            Cargando información, por favor espere...
           </div>
         </div>
       )
