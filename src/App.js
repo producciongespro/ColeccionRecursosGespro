@@ -31,8 +31,10 @@ function App() {
   
   
   const setup = async () => {
+    console.log("apuntando en servidor", process.env.REACT_APP_URI_API);
     setSecciones(await utils.getData(endpoints.obtenerSecciones));
     let res = await utils.getData(endpoints.obtenerRecursos);
+    console.log("res", res);
     //TODO verficar si esto se puede omitir:
     recursos = utils.jsonParser(res);    
     setFiltrados(recursos);

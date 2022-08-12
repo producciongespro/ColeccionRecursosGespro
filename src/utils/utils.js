@@ -15,7 +15,7 @@ export function jsonParser (array) {
       array.forEach((item) => {
         //console.log(item);
         let tmpObj = {
-          ciclo: JSON.parse(item.ciclo),
+          ciclo: `${item.ciclo ? JSON.parse(item.ciclo) : "no definido"  }`,
           etiqueta: JSON.parse(item.etiqueta),
           //etiqueta: item.etiqueta,
           id: item.id,
