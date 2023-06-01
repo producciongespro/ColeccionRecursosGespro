@@ -7,7 +7,6 @@ import Avances from "./Componentes/Avances";
 import endpoints from "./endpoints";
 import * as utils from "./utils/utils";
 
-
 //Variable que alamcena los recursos obtendios desde el srvidor
 //En setup se le asigna a filtrados o en caso de que el usuario oculte lo búsqueda.
 let recursos = null;
@@ -28,19 +27,16 @@ function App() {
   useEffect(() => {
     setup();
   }, []);
-  
-  
+
   const setup = async () => {
     console.log("apuntando en servidor", process.env.REACT_APP_URI_API);
     setSecciones(await utils.getData(endpoints.obtenerSecciones));
     let res = await utils.getData(endpoints.obtenerRecursos);
     console.log("res", res);
     //TODO verficar si esto se puede omitir:
-    recursos = utils.jsonParser(res);    
+    recursos = utils.jsonParser(res);
     setFiltrados(recursos);
-    setAvances( await utils.getData(endpoints.obtenerAvances) );
-
-
+    setAvances(await utils.getData(endpoints.obtenerAvances));
   };
 
   const handleActivarBusqueda = () => {
@@ -72,8 +68,7 @@ function App() {
           aria-level="1"
           title="Colección recursos"
           className="jumbotron"
-        >          
-        </div>
+        ></div>
       )}
       {/* Sección de acerca de*/}
       {utils.plataforma() === "movil" ? (
@@ -95,7 +90,7 @@ function App() {
       ) : (
         <div tabIndex="2">
           <div className="row text-end">
-            <div className="col-12">
+            <div className="col-10">
               <a
                 href="https://recursos.mep.go.cr/creditos_gespro/"
                 target="_blank"
@@ -106,6 +101,22 @@ function App() {
                   role="button"
                   src="./assets/img/interfaz/acerca.png"
                   alt="Acerca de"
+                />
+              </a>
+            </div>
+
+            <div className="col-2">
+              <a
+                title="Calificame"
+                target="_blank"
+                href="https://recursos.mep.go.cr/0_calificame/app/index.html?id_app=400"
+                rel="noopener noreferrer"
+              >
+                <img
+                  className="movil2"
+                  style={{marginLeft: "18px"}}
+                  src="./assets/img/interfaz/calificame_byn.png"
+                  alt="Califícame"
                 />
               </a>
             </div>
@@ -151,12 +162,10 @@ function App() {
       <br />
       <br />
       {/* Sección de avacnces*/}
-      {(!isBusqueda && avances  ) &&  (
-        <div tabIndex="4" className="row"
-        role="button">
+      {!isBusqueda && avances && (
+        <div tabIndex="4" className="row" role="button">
           <div className="col-12">
-            <Avances tabIndex="2" avances={avances} 
-           />
+            <Avances tabIndex="2" avances={avances} />
           </div>
         </div>
       )}
@@ -168,18 +177,15 @@ function App() {
       )}
       {
         /** Cuerpo principal de la interfaz con todos los recursos por colecciones */
-      (filtrados &&  secciones &&  !isBusqueda)  ? (
-        <GrupoColeccion
-          recursos={filtrados}
-          secciones={secciones}
-        />
-      )   : (
-        <div className="row">
-          <div className="col-12 alert alert-info">
-            Cargando información, por favor espere...
+        filtrados && secciones && !isBusqueda ? (
+          <GrupoColeccion recursos={filtrados} secciones={secciones} />
+        ) : (
+          <div className="row">
+            <div className="col-12 alert alert-info">
+              Cargando información, por favor espere...
+            </div>
           </div>
-        </div>
-      )
+        )
       }
       <div tabIndex="13" className="row mt-4">
         <div className="col-sm-12">
@@ -190,7 +196,6 @@ function App() {
           </div>
         </div>
       </div>
-
       <div tabIndex="14" className="row mt-4">
         <div className="col-sm-12">
           <div className="alert alert-info infoen">
