@@ -113,9 +113,9 @@ function App() {
                 rel="noopener noreferrer"
               >
                 <img
-                  className="movil2"
-                  style={{marginLeft: "18px"}}
-                  src="./assets/img/interfaz/calificame_byn.png"
+                  className="img-fluid"
+                  //style={{marginLeft: "18px"}}
+                  src="./assets/img/calificame_byn.png"
                   alt="Califícame"
                 />
               </a>
