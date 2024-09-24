@@ -4,6 +4,13 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-one-page-wonder/blob/master/LICENSE)
  */
 
+
+
+ .titulo-otros{
+  text-align: center;
+  color: #E5E64E;
+ }
+
 body {
   font-family: 'Lato';
   background-color: #000;
